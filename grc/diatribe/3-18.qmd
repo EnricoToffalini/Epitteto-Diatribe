@@ -1,0 +1,40 @@
+---
+title: "Διατριβὴ Γʹ.ιηʹ — ὅτι οὐ δεῖ πρὸς τὰς ἀγγελίας ταράσσεσθαι"
+lang: grc
+pagetitle: "Διατριβὴ Γʹ.ιηʹ — ὅτι οὐ δεῖ πρὸς τὰς ἀγγελίας ταράσσεσθαι — Ἐπικτήτου Διατριβαί"
+title-prefix: ""
+description-meta: "Διατριβὴ Γʹ.ιηʹ· «ὅτι οὐ δεῖ πρὸς τὰς ἀγγελίας ταράσσεσθαι». Ἀρριανοῦ τῶν Ἐπικτήτου Διατριβῶν, τὸ ἑλληνικὸν κείμενον."
+sidebar: grc
+---
+
+<!--
+FILE GENERATO. NON MODIFICARE A MANO.
+
+Modificare invece:
+- translation/it/**.md      per il testo e i titoli italiani
+- data/intro.json           per le note introduttive delle home page
+- tools/site_config.py      per lingue, testi dell'interfaccia, URL
+- styles.css                per l'aspetto grafico
+
+Poi eseguire:
+    run.bat
+-->
+
+
+<div class="diatribe-meta">Βιβλίον Γʹ · 9 τμήματα · <span class="canonical" title="Παραπομπή">III 18</span></div>
+
+<nav class="chapter-nav"><a href="3-17.html">ἡ προτέρα διατριβή</a><a class="chapter-home" href="../index.html">Ἀρχή</a><a href="3-19.html">ἡ ἑπομένη διατριβή</a></nav>
+
+<div class="section-list">
+<article class="section" id="s-1"><a class="ref" href="#s-1">1</a><div class="section-text" lang="grc">ὅταν σοί τι προσαγγελθῇ ταρακτικόν, ἐκεῖνο ἔχε πρόχειρον, ὅτι ἀγγελία περὶ οὐδενὸς προαιρετικοῦ γίνεται.</div></article>
+<article class="section" id="s-2"><a class="ref" href="#s-2">2</a><div class="section-text" lang="grc">μή τι γὰρ δύναταί σοί τις ἀγγεῖλαι, ὅτι κακῶς ὑπέλαβες ἢ κακῶς ὠρέχθης; — οὐδαμῶς. — ἀλλʼ ὅτι ἀπέθανέν τις· τί οὖν πρὸς σέ; ὅτι σε κακῶς τις λέγει· τί οὖν πρὸς σέ;</div></article>
+<article class="section" id="s-3"><a class="ref" href="#s-3">3</a><div class="section-text" lang="grc">ὅτι ὁ πατὴρ τάδε τινὰ ἑτοιμάζεται· ἐπὶ τίνα; μή τι ἐπὶ τὴν προαίρεσιν; πόθεν δύναται; ἀλλʼ ἐπὶ τὸ σωμάτιον, ἐπὶ τὸ κτησείδιον· ἐσώθης, οὐκ ἐπὶ σέ.</div></article>
+<article class="section" id="s-4"><a class="ref" href="#s-4">4</a><div class="section-text" lang="grc"><span class="ed-del">[οὐκοῦν]</span> ἀλλʼ ὁ κριτὴς ἀποφαίνεται ὅτι ἠσέβησας. περὶ Σωκράτους δʼ οὐκ ἀπεφήναντο οἱ δικασταί; μή τι σὸν ἔργον ἐστὶ τὸ ἐκεῖνον ἀποφήνασθαι; — οὔ. — τί οὖν ἔτι σοι μέλει;</div></article>
+<article class="section" id="s-5"><a class="ref" href="#s-5">5</a><div class="section-text" lang="grc">ἔστι τι τοῦ πατρός σου ἔργον, ὃ ἂν μὴ ἐκπληρώσῃ, ἀπώλεσεν τὸν πατέρα, τὸν φιλόστοργον, τὸν ἥμερον. ἄλλο δὲ μηδὲν ζήτει τούτου ἕνεκα αὐτὸν ἀπολές<span class="ed-del">[θ]</span>αι. οὐδέποτε γὰρ ἐν ἄλλῳ μέν τις ἁμαρτάνει, εἰς ἄλλο δὲ βλάπτεται.</div></article>
+<article class="section" id="s-6"><a class="ref" href="#s-6">6</a><div class="section-text" lang="grc">πάλιν σὸν ἔργον τὸ ἀπολογηθῆναι εὐσταθῶς, αἰδημόνως, ἀοργήτως. εἰ δὲ μή, ἀπώλεσας καὶ σὺ τὸν υἱόν, τὸν αἰδήμονα, τὸν γενναῖον.</div></article>
+<article class="section" id="s-7"><a class="ref" href="#s-7">7</a><div class="section-text" lang="grc">τί οὖν; ὁ κριτὴς ἀκίνδυνός ἐστιν; οὔ· ἀλλὰ κἀκείνῳ τὰ ἴσα κινδυνεύεται. τί οὖν ἔτι φοβῇ, τί ἐκεῖνος κρινεῖ; τί σοὶ καὶ τῷ ἀλλοτρίῳ κακῷ;</div></article>
+<article class="section" id="s-8"><a class="ref" href="#s-8">8</a><div class="section-text" lang="grc">σὸν κακόν ἐστι τὸ κακῶς ἀπολογηθῆναι· τοῦτο φυλάσσου μόνον· κριθῆναι δʼ ἢ μὴ κριθῆναι ὥσπερ ἄλλου ἐστὶν ἔργον, οὕτως κακὸν ἄλλου ἐστίν.</div></article>
+<article class="section" id="s-9"><a class="ref" href="#s-9">9</a><div class="section-text" lang="grc"><q>ἀπειλεῖ σοι ὁ δεῖνα.</q> ἐμοί; οὔ. <q>ψέγει σε.</q> αὐτὸς ὄψεται, πῶς ποιεῖ τὸ ἴδιον ἔργον. <q>μέλλει σε κατακρινεῖν ἀδίκως.</q> ἄθλιος.</div></article>
+</div>
+
+<nav class="chapter-nav chapter-nav-bottom"><a href="3-17.html">ἡ προτέρα διατριβή</a><a class="chapter-home" href="../index.html">Ἀρχή</a><a href="3-19.html">ἡ ἑπομένη διατριβή</a></nav>

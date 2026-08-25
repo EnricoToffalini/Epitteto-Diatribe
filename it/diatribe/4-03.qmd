@@ -1,0 +1,43 @@
+---
+title: "Diatriba IV.3 — Quali cose bisogna scambiare con quali altre"
+lang: it
+pagetitle: "Diatriba IV.3 — Quali cose bisogna scambiare con quali altre — Epitteto, Diatribe"
+title-prefix: ""
+description-meta: "Diatriba IV.3: «Quali cose bisogna scambiare con quali altre». Le Diatribe di Epitteto raccolte da Arriano, in traduzione italiana."
+sidebar: it
+---
+
+<!--
+FILE GENERATO. NON MODIFICARE A MANO.
+
+Modificare invece:
+- translation/it/**.md      per il testo e i titoli italiani
+- data/intro.json           per le note introduttive delle home page
+- tools/site_config.py      per lingue, testi dell'interfaccia, URL
+- styles.css                per l'aspetto grafico
+
+Poi eseguire:
+    run.bat
+-->
+
+
+<div class="diatribe-meta">Libro IV · 12 sezioni · <span class="canonical" title="Riferimento canonico">IV 3</span></div>
+
+<nav class="chapter-nav"><a href="4-02.html">Diatriba precedente</a><a class="chapter-home" href="../index.html">Home</a><a href="4-04.html">Diatriba successiva</a></nav>
+
+<div class="section-list">
+<article class="section" id="s-1"><a class="ref" href="#s-1">1</a><div class="section-text">Tieni a portata di mano questo principio: quando rinunci a qualcosa delle cose esterne, considera che cosa ottieni in cambio; e, se ciò che ottieni vale di più, non dire mai: «Ci ho rimesso».</div></article>
+<article class="section" id="s-2"><a class="ref" href="#s-2">2</a><div class="section-text">Non lo diresti se in cambio di un asino ottenessi un cavallo, né se in cambio di una pecora ottenessi un bue, né se in cambio di una moneta ottenessi una bella azione, né se in cambio di chiacchiere vuote ottenessi la quiete che si deve avere, né se in cambio di discorsi osceni ottenessi il rispetto di te stesso.</div></article>
+<article class="section" id="s-3"><a class="ref" href="#s-3">3</a><div class="section-text">Ricordando queste cose, conserverai ovunque il tuo carattere quale deve essere. Altrimenti bada: il tempo va perduto invano e tutta l’attenzione che ora dedichi a te stesso finirai per rovesciarla via e distruggerla.</div></article>
+<article class="section" id="s-4"><a class="ref" href="#s-4">4</a><div class="section-text">E basta poco per perdere e mandare in rovina tutto: una piccola deviazione dalla ragione.</div></article>
+<article class="section" id="s-5"><a class="ref" href="#s-5">5</a><div class="section-text">Per rovesciare la nave, il timoniere non ha bisogno della stessa preparazione che occorre per salvarla: basta che la volga un poco contro il vento, ed è perduta; e anche se non lo fa volontariamente, ma si distrae per un momento, è perduta.</div></article>
+<article class="section" id="s-6"><a class="ref" href="#s-6">6</a><div class="section-text">Qualcosa del genere accade anche qui: se sonnecchi appena un poco, se ne va tutto ciò che avevi raccolto fino a ora. Presta dunque attenzione alle rappresentazioni, veglia.</div></article>
+<article class="section" id="s-7"><a class="ref" href="#s-7">7</a><div class="section-text">Non è infatti poca cosa ciò che custodisci, ma rispetto di te, lealtà, fermezza, libertà dalle passioni, libertà dal dolore, libertà dalla paura, imperturbabilità: in una parola, libertà.</div></article>
+<article class="section" id="s-8"><a class="ref" href="#s-8">8</a><div class="section-text">In cambio di che cosa stai per vendere tutto questo? Guarda quanto valgono le cose per cui lo venderesti. — «Ma non otterrò nulla di simile in cambio.» — Guarda però anche, se ottieni quella cosa, che cosa ricevi in cambio di essa.</div></article>
+<article class="section" id="s-9"><a class="ref" href="#s-9">9</a><div class="section-text">Io ottengo compostezza, lui il tribunato; lui il comando militare, io il rispetto di me stesso. Ma io non grido dove è sconveniente; non mi alzerò dove non si deve. Sono infatti libero e amico di Dio, così da obbedirgli volontariamente.</div></article>
+<article class="section" id="s-10"><a class="ref" href="#s-10">10</a><div class="section-text">Di nessun’altra cosa devo rivendicare il possesso: né del corpo, né dei beni, né di una carica, né della reputazione; in una parola, di nulla. Neppure Dio infatti vuole che io le rivendichi come mie. Se avesse voluto, le avrebbe fatte beni per me; ma non lo ha fatto. Perciò non posso trasgredire nessuno dei suoi comandi.</div></article>
+<article class="section" id="s-11"><a class="ref" href="#s-11">11</a><div class="section-text">Custodisci in ogni cosa il bene che è tuo; quanto alle altre cose, servitene secondo ciò che ti è concesso, fino al punto di comportarti ragionevolmente rispetto a esse, e accontentati di questo soltanto. Altrimenti sarai infelice, sventurato, impedito e ostacolato.</div></article>
+<article class="section" id="s-12"><a class="ref" href="#s-12">12</a><div class="section-text">Queste sono le leggi mandate da lassù, questi i decreti. Di questi devi diventare interprete, a questi devi essere sottomesso, non a quelli di Masurio e Cassio.</div></article>
+</div>
+
+<nav class="chapter-nav chapter-nav-bottom"><a href="4-02.html">Diatriba precedente</a><a class="chapter-home" href="../index.html">Home</a><a href="4-04.html">Diatriba successiva</a></nav>

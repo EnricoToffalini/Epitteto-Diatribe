@@ -1,0 +1,57 @@
+---
+title: "Diatriba II.2 — Sulla tranquillità"
+lang: it
+pagetitle: "Diatriba II.2 — Sulla tranquillità — Epitteto, Diatribe"
+title-prefix: ""
+description-meta: "Diatriba II.2: «Sulla tranquillità». Le Diatribe di Epitteto raccolte da Arriano, in traduzione italiana."
+sidebar: it
+---
+
+<!--
+FILE GENERATO. NON MODIFICARE A MANO.
+
+Modificare invece:
+- translation/it/**.md      per il testo e i titoli italiani
+- data/intro.json           per le note introduttive delle home page
+- tools/site_config.py      per lingue, testi dell'interfaccia, URL
+- styles.css                per l'aspetto grafico
+
+Poi eseguire:
+    run.bat
+-->
+
+
+<div class="diatribe-meta">Libro II · 26 sezioni · <span class="canonical" title="Riferimento canonico">II 2</span></div>
+
+<nav class="chapter-nav"><a href="2-01.html">Diatriba precedente</a><a class="chapter-home" href="../index.html">Home</a><a href="2-03.html">Diatriba successiva</a></nav>
+
+<div class="section-list">
+<article class="section" id="s-1"><a class="ref" href="#s-1">1</a><div class="section-text">Guarda, tu che vai al processo, che cosa vuoi salvaguardare e quale risultato vuoi ottenere.</div></article>
+<article class="section" id="s-2"><a class="ref" href="#s-2">2</a><div class="section-text">Se infatti vuoi salvaguardare una scelta morale conforme alla natura, hai ogni sicurezza, ogni facilità: non hai alcun problema.</div></article>
+<article class="section" id="s-3"><a class="ref" href="#s-3">3</a><div class="section-text">Se vuoi salvaguardare ciò che dipende da te, è in tuo potere ed è libero per natura, e ti basta questo, di che cosa ti preoccupi ancora? Chi ne è padrone? Chi può portartelo via?</div></article>
+<article class="section" id="s-4"><a class="ref" href="#s-4">4</a><div class="section-text">Se vuoi avere senso del pudore ed essere fedele, chi te lo impedirà? Se vuoi non essere ostacolato né costretto, chi ti costringerà a desiderare ciò che non ti sembra giusto desiderare, chi ad avere avversione per ciò che non ti sembra da evitare?</div></article>
+<article class="section" id="s-5"><a class="ref" href="#s-5">5</a><div class="section-text">Ma che cosa farà? Farà contro di te alcune cose che ti sembrano terribili; ma come può fare che tu, pur cercando di evitarle, vi incappi?</div></article>
+<article class="section" id="s-6"><a class="ref" href="#s-6">6</a><div class="section-text">Quando dunque dipende da te desiderare e avere avversione, di che cosa ti preoccupi ancora?</div></article>
+<article class="section" id="s-7"><a class="ref" href="#s-7">7</a><div class="section-text">Questo sia per te l’esordio, questo la narrazione, questo la prova, questo la vittoria, questo l’epilogo, questo il successo.</div></article>
+<article class="section" id="s-8"><a class="ref" href="#s-8">8</a><div class="section-text">Per questo Socrate, a chi gli ricordava di prepararsi al processo, disse: «Non ti sembra dunque che io mi sia preparato a questo per tutta la vita?»</div></article>
+<article class="section" id="s-9"><a class="ref" href="#s-9">9</a><div class="section-text">— Quale preparazione? — «Ho custodito», disse, «ciò che dipende da me.» — E come? — «Non ho mai compiuto nulla di ingiusto, né in privato né in pubblico.»</div></article>
+<article class="section" id="s-10"><a class="ref" href="#s-10">10</a><div class="section-text">Se invece vuoi salvaguardare anche le cose esterne, il corpicino, il piccolo patrimonio e la piccola posizione, ti dico: comincia fin d’ora a preparare ogni preparativo possibile, e poi considera anche la natura del giudice e quella dell’avversario.</div></article>
+<article class="section" id="s-11"><a class="ref" href="#s-11">11</a><div class="section-text">Se bisogna abbracciare le ginocchia, abbracciale; se bisogna piangere, piangi; se bisogna gemere, gemi.</div></article>
+<article class="section" id="s-12"><a class="ref" href="#s-12">12</a><div class="section-text">Quando infatti sottoponi ciò che è tuo alle cose esterne, da allora sii schiavo e non fare resistenza; non voler essere schiavo ora sì e ora no,</div></article>
+<article class="section" id="s-13"><a class="ref" href="#s-13">13</a><div class="section-text">ma scegli semplicemente e con tutta la mente o questo o quello: o libero o schiavo, o educato o ineducato, o gallo di razza o gallo scadente; o sopporta i colpi fino a morire, oppure arrenditi subito. Non ti accada di prendere molte botte e poi arrenderti.</div></article>
+<article class="section" id="s-14"><a class="ref" href="#s-14">14</a><div class="section-text">Se invece queste cose sono vergognose, distingui fin da ora dove risiede la natura del bene e del male: là dove risiede anche la verità. Dove sono la verità e la natura delle cose, lì va posta la cautela; dove è la verità, lì la fiducia, dove è la natura.</div></article>
+<article class="section" id="s-15"><a class="ref" href="#s-15">15</a><div class="section-text">Credi forse che Socrate, se avesse voluto salvaguardare le cose esterne, si sarebbe presentato dicendo: «Anito e Meleto possono uccidermi, ma non possono danneggiarmi»?</div></article>
+<article class="section" id="s-16"><a class="ref" href="#s-16">16</a><div class="section-text">Era tanto sciocco da non vedere che questa strada non porta lì, ma altrove? Perché dunque non tiene conto di loro e per giunta li provoca?</div></article>
+<article class="section" id="s-17"><a class="ref" href="#s-17">17</a><div class="section-text">Come il mio Eraclito, che a Rodi aveva una piccola causa per un pezzetto di terra e, dopo aver dimostrato ai giudici di avere ragione, arrivato all’epilogo disse: «Non vi supplicherò e non mi importa che cosa deciderete; siete voi a essere giudicati, più di me.»</div></article>
+<article class="section" id="s-18"><a class="ref" href="#s-18">18</a><div class="section-text">E così rovinò la sua piccola causa. Che bisogno c’era? Limitati a non supplicare; non aggiungere anche: «Non vi supplico», a meno che non sia proprio il momento di provocare deliberatamente i giudici, come per Socrate.</div></article>
+<article class="section" id="s-19"><a class="ref" href="#s-19">19</a><div class="section-text">E tu, se prepari un epilogo del genere, perché sali in tribunale, perché obbedisci alla convocazione?</div></article>
+<article class="section" id="s-20"><a class="ref" href="#s-20">20</a><div class="section-text">Se infatti vuoi essere crocifisso, aspetta e arriverà la croce; se invece la ragione sceglie di obbedire alla convocazione e di persuadere per quanto dipende da te, bisogna fare ciò che ne consegue, salvaguardando però ciò che ti è proprio.</div></article>
+<article class="section" id="s-21"><a class="ref" href="#s-21">21</a><div class="section-text">Per questo è ridicolo anche dire: «Dammi un consiglio.» Che cosa dovrei consigliarti? Piuttosto: «Rendi la mia mente capace di adattarsi a qualunque cosa accada.»</div></article>
+<article class="section" id="s-22"><a class="ref" href="#s-22">22</a><div class="section-text">Altrimenti è come se un analfabeta dicesse: «Dimmi che cosa devo scrivere quando mi viene proposto un nome.»</div></article>
+<article class="section" id="s-23"><a class="ref" href="#s-23">23</a><div class="section-text">Se infatti gli dico: «Dione», e poi viene un altro e gli propone non il nome Dione, ma Teone, che cosa succederà?</div></article>
+<article class="section" id="s-24"><a class="ref" href="#s-24">24</a><div class="section-text">Che cosa scriverà? Se invece ti sei esercitato a scrivere, sei anche preparato a tutto ciò che ti viene dettato; se no, che cosa dovrei consigliarti adesso? Se infatti le circostanze dettano qualcos’altro, che cosa dirai o che cosa farai?</div></article>
+<article class="section" id="s-25"><a class="ref" href="#s-25">25</a><div class="section-text">Ricorda dunque questo principio generale e non ti mancheranno consigli. Ma se resti a bocca aperta davanti alle cose esterne, sarai necessariamente sballottato su e giù secondo la volontà del padrone.</div></article>
+<article class="section" id="s-26"><a class="ref" href="#s-26">26</a><div class="section-text">E chi è il padrone? Chi ha potere su qualcuna delle cose a cui dai importanza o che cerchi di evitare.</div></article>
+</div>
+
+<nav class="chapter-nav chapter-nav-bottom"><a href="2-01.html">Diatriba precedente</a><a class="chapter-home" href="../index.html">Home</a><a href="2-03.html">Diatriba successiva</a></nav>

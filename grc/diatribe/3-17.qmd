@@ -1,0 +1,40 @@
+---
+title: "Διατριβὴ Γʹ.ιζʹ — περὶ προνοίας"
+lang: grc
+pagetitle: "Διατριβὴ Γʹ.ιζʹ — περὶ προνοίας — Ἐπικτήτου Διατριβαί"
+title-prefix: ""
+description-meta: "Διατριβὴ Γʹ.ιζʹ· «περὶ προνοίας». Ἀρριανοῦ τῶν Ἐπικτήτου Διατριβῶν, τὸ ἑλληνικὸν κείμενον."
+sidebar: grc
+---
+
+<!--
+FILE GENERATO. NON MODIFICARE A MANO.
+
+Modificare invece:
+- translation/it/**.md      per il testo e i titoli italiani
+- data/intro.json           per le note introduttive delle home page
+- tools/site_config.py      per lingue, testi dell'interfaccia, URL
+- styles.css                per l'aspetto grafico
+
+Poi eseguire:
+    run.bat
+-->
+
+
+<div class="diatribe-meta">Βιβλίον Γʹ · 9 τμήματα · <span class="canonical" title="Παραπομπή">III 17</span></div>
+
+<nav class="chapter-nav"><a href="3-16.html">ἡ προτέρα διατριβή</a><a class="chapter-home" href="../index.html">Ἀρχή</a><a href="3-18.html">ἡ ἑπομένη διατριβή</a></nav>
+
+<div class="section-list">
+<article class="section" id="s-1"><a class="ref" href="#s-1">1</a><div class="section-text" lang="grc">ὅταν τῇ προνοίᾳ ἐγκαλῇς, ἐπιστράφηθι καὶ γνώσῃ, ὅτι κατὰ λόγον γέγονεν.</div></article>
+<article class="section" id="s-2"><a class="ref" href="#s-2">2</a><div class="section-text" lang="grc"><q>ναί, ἀλλʼ ὁ ἄδικος πλέον ἔχει.</q> ἐν τίνι; ἐν ἀργυρίῳ· πρὸς γὰρ τοῦτό σου κρείττων ἐστίν, ὅτι κολακεύει, ἀναισχυντεῖ, ἀγρυπνεῖ. τί θαυμαστόν;</div></article>
+<article class="section" id="s-3"><a class="ref" href="#s-3">3</a><div class="section-text" lang="grc">ἀλλʼ ἐκεῖνο βλέπε, εἰ ἐν τῷ πιστὸς εἶναι πλέον σου ἔχει, εἰ ἐν τῷ αἰδήμων. οὐ γὰρ εὑρήσεις· ἀλλʼ ὅπου κρείττων, ἐκεῖ σαυτὸν εὑρήσεις πλέον ἔχοντα.</div></article>
+<article class="section" id="s-4"><a class="ref" href="#s-4">4</a><div class="section-text" lang="grc">κἀγώ ποτʼ εἶπόν τινι ἀγανακτοῦντι, ὅτι Φιλόστοργος εὐτυχεῖ, Ἤθελες ἂν σὺ μετὰ Σούρα κοιμᾶσθαι; — <q>μὴ γένοιτο,</q> φησίν, <q>ἐκείνη ἡ ἡμέρα.</q> —</div></article>
+<article class="section" id="s-5"><a class="ref" href="#s-5">5</a><div class="section-text" lang="grc">τί οὖν ἀγανακτεῖς, εἰ λαμβάνει τι ἀνθʼ οὗ πωλεῖ; ἢ πῶς μακαρίζεις τὸν διὰ τούτων, ἃ σὺ ἀπεύχῃ, κτώμενον ἐκεῖνα; ἢ τί κακὸν ποιεῖ ἡ πρόνοια, εἰ τοῖς κρείττοσι τὰ κρείττω δίδωσιν; ἢ οὐκ ἔστι κρεῖττον αἰδήμονα εἶναι ἢ πλούσιον; ὡμολόγει. τί οὖν ἀγανακτεῖς, ἄνθρωπε, ἔχων τὸ κρεῖττον;</div></article>
+<article class="section" id="s-6"><a class="ref" href="#s-6">6</a><div class="section-text" lang="grc">μέμνησθε οὖν ἀεὶ καὶ πρόχειρον ἔχετε, ὅτι νόμος οὗτος φυσικὸς τὸν κρείττονα τοῦ χείρονος πλέον ἔχειν, ἐν ᾧ κρείττων ἐστίν, καὶ οὐδέποτʼ ἀγανακτήσετε.</div></article>
+<article class="section" id="s-7"><a class="ref" href="#s-7">7</a><div class="section-text" lang="grc"><q>ἀλλʼ ἡ γυνή μοι κακῶς χρῆται.</q> καλῶς. ἄν τίς σου πυνθάνηται, τί ἐστι τοῦτο, λέγε <q>ἡ γυνή μοι κακῶς χρῆται.</q> <q>ἄλλο οὖν οὐδέν;</q></div></article>
+<article class="section" id="s-8"><a class="ref" href="#s-8">8</a><div class="section-text" lang="grc">οὐδέν. <q>ὁ πατήρ μοι οὐδὲν δίδωσιν.</q> <span class="ed-gap" title="lacuna">&hellip;</span> ὅτι δὲ κακόν ἐστιν, τοῦτο ἔσωθεν αὐτῷ δεῖ προσθεῖναι καὶ προσκαταψεύσασθαι;</div></article>
+<article class="section" id="s-9"><a class="ref" href="#s-9">9</a><div class="section-text" lang="grc">διὰ τοῦτο οὐ δεῖ τὴν πενίαν ἐκβάλλειν, ἀλλὰ τὸ δόγμα τὸ περὶ αὐτῆς, καὶ οὕτως εὐροήσομεν.</div></article>
+</div>
+
+<nav class="chapter-nav chapter-nav-bottom"><a href="3-16.html">ἡ προτέρα διατριβή</a><a class="chapter-home" href="../index.html">Ἀρχή</a><a href="3-18.html">ἡ ἑπομένη διατριβή</a></nav>

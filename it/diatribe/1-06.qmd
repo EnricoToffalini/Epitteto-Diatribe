@@ -1,0 +1,74 @@
+---
+title: "Diatriba I.6 — Sulla Provvidenza"
+lang: it
+pagetitle: "Diatriba I.6 — Sulla Provvidenza — Epitteto, Diatribe"
+title-prefix: ""
+description-meta: "Diatriba I.6: «Sulla Provvidenza». Le Diatribe di Epitteto raccolte da Arriano, in traduzione italiana."
+sidebar: it
+---
+
+<!--
+FILE GENERATO. NON MODIFICARE A MANO.
+
+Modificare invece:
+- translation/it/**.md      per il testo e i titoli italiani
+- data/intro.json           per le note introduttive delle home page
+- tools/site_config.py      per lingue, testi dell'interfaccia, URL
+- styles.css                per l'aspetto grafico
+
+Poi eseguire:
+    run.bat
+-->
+
+
+<div class="diatribe-meta">Libro I · 43 sezioni · <span class="canonical" title="Riferimento canonico">I 6</span></div>
+
+<nav class="chapter-nav"><a href="1-05.html">Diatriba precedente</a><a class="chapter-home" href="../index.html">Home</a><a href="1-07.html">Diatriba successiva</a></nav>
+
+<div class="section-list">
+<article class="section" id="s-1"><a class="ref" href="#s-1">1</a><div class="section-text">Da ciascuna delle cose che accadono nel mondo è facile lodare la Provvidenza, se uno possiede in sé queste due qualità: la capacità di comprendere ciò che accade a ciascuno e la gratitudine.</div></article>
+<article class="section" id="s-2"><a class="ref" href="#s-2">2</a><div class="section-text">Altrimenti, uno non vedrà l’utilità di ciò che accade, e l’altro non ne sarà grato neppure se la vede.</div></article>
+<article class="section" id="s-3"><a class="ref" href="#s-3">3</a><div class="section-text">Se Dio avesse creato i colori, ma non avesse creato la facoltà di vederli, quale utilità avrebbero avuto?</div></article>
+<article class="section" id="s-4"><a class="ref" href="#s-4">4</a><div class="section-text">— Nessuna. — E, viceversa, se avesse creato la facoltà, ma non avesse fatto le cose esistenti tali da poter cadere sotto la facoltà visiva, anche in questo caso quale utilità ci sarebbe stata?</div></article>
+<article class="section" id="s-5"><a class="ref" href="#s-5">5</a><div class="section-text">— Nessuna.</div></article>
+<article class="section" id="s-6"><a class="ref" href="#s-6">6</a><div class="section-text">— E se avesse creato entrambe queste cose, ma non avesse creato la luce? — Neppure così vi sarebbe stata alcuna utilità. — Chi dunque ha accordato questo a quello e quello a questo? Chi ha accordato la spada al fodero e il fodero alla spada?</div></article>
+<article class="section" id="s-7"><a class="ref" href="#s-7">7</a><div class="section-text">Nessuno? Eppure dalla struttura stessa delle cose compiute siamo soliti concludere che sono certamente opera di un artefice e non costruite a caso.</div></article>
+<article class="section" id="s-8"><a class="ref" href="#s-8">8</a><div class="section-text">Dunque ciascuna di queste cose rivela l’artefice, mentre le cose visibili, la vista e la luce non lo rivelano?</div></article>
+<article class="section" id="s-9"><a class="ref" href="#s-9">9</a><div class="section-text">E il maschio e la femmina, il desiderio reciproco dell’unione e la facoltà di usare gli organi predisposti a questo scopo, neppure queste cose rivelano l’artefice?</div></article>
+<article class="section" id="s-10"><a class="ref" href="#s-10">10</a><div class="section-text">Ma ammettiamo pure queste cose. E una struttura della mente tale per cui, davanti agli oggetti sensibili, non ci limitiamo a riceverne l’impronta, ma ne ricaviamo qualcosa, togliamo e aggiungiamo, componiamo certe cose a partire da essi e, per Zeus, passiamo da alcune cose ad altre in qualche modo affini: neppure tutto questo basta a scuotere alcuni e a indurli a non trascurare l’artefice?</div></article>
+<article class="section" id="s-11"><a class="ref" href="#s-11">11</a><div class="section-text">Altrimenti ci spieghino che cosa produca ciascuna di queste cose, o come sia possibile che cose così meravigliose e così ben congegnate nascano a caso e spontaneamente.</div></article>
+<article class="section" id="s-12"><a class="ref" href="#s-12">12</a><div class="section-text">Che dunque? Queste cose avvengono soltanto in noi? Molte soltanto in noi, quelle di cui l’essere razionale aveva particolare bisogno; ma molte le troverai comuni a noi e agli animali irrazionali.</div></article>
+<article class="section" id="s-13"><a class="ref" href="#s-13">13</a><div class="section-text">Ma allora anche quelli comprendono ciò che avviene? Nient’affatto. Una cosa è l’uso, un’altra la comprensione. Dio aveva bisogno che quelli usassero le rappresentazioni, e che noi comprendessimo l’uso che ne facciamo.</div></article>
+<article class="section" id="s-14"><a class="ref" href="#s-14">14</a><div class="section-text">Perciò a loro basta mangiare, bere, riposare, accoppiarsi e compiere tutte le altre attività proprie di ciascuno; a noi invece, ai quali ha dato anche la facoltà di comprendere,</div></article>
+<article class="section" id="s-15"><a class="ref" href="#s-15">15</a><div class="section-text">queste cose non bastano più: se non agiamo nel modo giusto, ordinatamente e in accordo con la natura e la costituzione di ciascuna cosa, non raggiungeremo il nostro fine.</div></article>
+<article class="section" id="s-16"><a class="ref" href="#s-16">16</a><div class="section-text">Infatti, là dove le costituzioni sono diverse, diversi sono anche i compiti e i fini.</div></article>
+<article class="section" id="s-17"><a class="ref" href="#s-17">17</a><div class="section-text">Perciò, a ciò la cui costituzione è soltanto fatta per l’uso, basta servirsi delle cose in qualunque modo; ma ciò che possiede anche la comprensione dell’uso, se non vi si aggiunge il modo giusto di usarle, non raggiungerà mai il proprio fine.</div></article>
+<article class="section" id="s-18"><a class="ref" href="#s-18">18</a><div class="section-text">Che dunque? Dio ha fatto ciascuno degli altri esseri, uno perché fosse mangiato, un altro perché servisse nell’agricoltura, un altro perché producesse formaggio, un altro ancora per qualche uso simile: a che servirebbe loro comprendere le rappresentazioni e saperle distinguere?</div></article>
+<article class="section" id="s-19"><a class="ref" href="#s-19">19</a><div class="section-text">L’uomo invece lo ha introdotto come spettatore di lui e delle sue opere, e non solo come spettatore, ma anche come interprete di esse.</div></article>
+<article class="section" id="s-20"><a class="ref" href="#s-20">20</a><div class="section-text">Per questo è vergognoso per l’uomo cominciare e finire dove cominciano e finiscono gli animali irrazionali; deve piuttosto cominciare da dove cominciano loro, ma finire là dove in noi finisce anche la natura.</div></article>
+<article class="section" id="s-21"><a class="ref" href="#s-21">21</a><div class="section-text">E la natura finisce nella contemplazione, nella comprensione e in una condotta di vita conforme alla natura.</div></article>
+<article class="section" id="s-22"><a class="ref" href="#s-22">22</a><div class="section-text">Badate dunque a non morire senza aver contemplato queste cose.</div></article>
+<article class="section" id="s-23"><a class="ref" href="#s-23">23</a><div class="section-text">Eppure andate fino a Olimpia per vedere l’opera di Fidia, e ciascuno di voi ritiene una disgrazia morire senza aver visto cose simili;</div></article>
+<article class="section" id="s-24"><a class="ref" href="#s-24">24</a><div class="section-text">ma là dove non c’è nemmeno bisogno di viaggiare, perché siete già qui e vi trovate davanti alle opere, non desidererete contemplarle e comprenderle?</div></article>
+<article class="section" id="s-25"><a class="ref" href="#s-25">25</a><div class="section-text">Non vi accorgerete dunque né di chi siete, né per che cosa siete nati, né a che cosa serva questa facoltà di contemplazione che avete ricevuto?</div></article>
+<article class="section" id="s-26"><a class="ref" href="#s-26">26</a><div class="section-text">— Ma nella vita accadono cose spiacevoli e difficili. — E a Olimpia non accadono? Non soffrite il caldo? Non siete stretti nella folla? Non vi lavate male? Non vi inzuppate quando piove? Non avete rumore, clamore e tutte le altre seccature?</div></article>
+<article class="section" id="s-27"><a class="ref" href="#s-27">27</a><div class="section-text">Ma credo che, mettendo tutto questo a confronto con il valore dello spettacolo, lo sopportiate e lo tolleriate.</div></article>
+<article class="section" id="s-28"><a class="ref" href="#s-28">28</a><div class="section-text">E allora, non avete ricevuto facoltà grazie alle quali sopportare tutto ciò che accade? Non avete ricevuto grandezza d’animo? Non avete ricevuto coraggio?</div></article>
+<article class="section" id="s-29"><a class="ref" href="#s-29">29</a><div class="section-text">Non avete ricevuto capacità di sopportazione? E che cosa mi importa ancora, se ho grandezza d’animo, di ciò che può accadere? Che cosa mi farà uscire da me o mi turberà, o mi apparirà doloroso? Non userò la facoltà per ciò per cui l’ho ricevuta, ma mi lamenterò e gemerò per ciò che accade?</div></article>
+<article class="section" id="s-30"><a class="ref" href="#s-30">30</a><div class="section-text">«Sì, ma mi cola il naso.» Per che cosa hai dunque le mani, schiavo? Non anche per soffiarti il naso?</div></article>
+<article class="section" id="s-31"><a class="ref" href="#s-31">31</a><div class="section-text">— È dunque ragionevole che nel mondo ci siano nasi che colano?</div></article>
+<article class="section" id="s-32"><a class="ref" href="#s-32">32</a><div class="section-text">— E quanto è meglio soffiarti il naso che accusare! O che cosa credi sarebbe diventato Eracle, se non ci fossero stati un leone come quello, l’Idra, il cervo, il cinghiale e uomini ingiusti e feroci, che egli scacciava e ripuliva?</div></article>
+<article class="section" id="s-33"><a class="ref" href="#s-33">33</a><div class="section-text">E che cosa avrebbe fatto, se non fosse esistito nulla del genere? È chiaro che se ne sarebbe rimasto avvolto nelle coperte a dormire. Per prima cosa, dunque, non sarebbe mai diventato Eracle, sonnecchiando per tutta la vita in un simile lusso e tranquillità; e anche se lo fosse diventato, a che cosa sarebbe servito?</div></article>
+<article class="section" id="s-34"><a class="ref" href="#s-34">34</a><div class="section-text">Quale uso avrebbe avuto delle sue braccia, della sua forza, della sua capacità di sopportazione e del suo coraggio, se circostanze e occasioni come quelle non lo avessero scosso e allenato?</div></article>
+<article class="section" id="s-35"><a class="ref" href="#s-35">35</a><div class="section-text">Che dunque? Doveva procurarsele da sé e cercare da qualche parte un leone, un cinghiale e un’Idra da introdurre nella propria terra?</div></article>
+<article class="section" id="s-36"><a class="ref" href="#s-36">36</a><div class="section-text">Sarebbe stata follia e pazzia. Ma, una volta che quelle cose esistevano e gli si presentavano, erano utili per mostrare chi fosse Eracle e per allenarlo.</div></article>
+<article class="section" id="s-37"><a class="ref" href="#s-37">37</a><div class="section-text">Su dunque, anche tu, compreso questo, guarda alle facoltà che possiedi e, dopo averle considerate, di’: «Porta pure, Zeus, la circostanza che vuoi: ho infatti da te la preparazione e i mezzi per nobilitare me stesso attraverso ciò che accade.»</div></article>
+<article class="section" id="s-38"><a class="ref" href="#s-38">38</a><div class="section-text">No: ve ne state seduti, tremando per ciò che potrebbe accadere e lamentandovi, piangendo e gemendo per ciò che accade; e poi accusate gli dèi.</div></article>
+<article class="section" id="s-39"><a class="ref" href="#s-39">39</a><div class="section-text">Che altro infatti consegue a una simile bassezza d’animo, se non anche l’empietà?</div></article>
+<article class="section" id="s-40"><a class="ref" href="#s-40">40</a><div class="section-text">Eppure Dio non ci ha soltanto dato queste facoltà, grazie alle quali possiamo sopportare tutto ciò che accade senza esserne abbattuti né spezzati; ma, come si addice a un buon re e a un vero padre, ce le ha date libere da impedimenti, non soggette a costrizione né ostacolo, e le ha poste interamente in nostro potere, senza riservarsi neppure lui alcuna forza con cui impedirle o ostacolarle.</div></article>
+<article class="section" id="s-41"><a class="ref" href="#s-41">41</a><div class="section-text">Pur avendo queste facoltà libere e vostre, non le usate e non vi rendete nemmeno conto di ciò che avete ricevuto e da chi,</div></article>
+<article class="section" id="s-42"><a class="ref" href="#s-42">42</a><div class="section-text">ma ve ne state seduti a piangere e gemere: alcuni accecati proprio verso colui che ha donato e incapaci di riconoscere il benefattore, altri, per bassezza d’animo, sviati verso rimproveri e accuse contro Dio.</div></article>
+<article class="section" id="s-43"><a class="ref" href="#s-43">43</a><div class="section-text">Eppure io ti mostrerò che possiedi mezzi e preparazione per la grandezza d’animo e il coraggio; ma quali mezzi tu abbia per lamentarti e accusare, questo mostramelo tu.</div></article>
+</div>
+
+<nav class="chapter-nav chapter-nav-bottom"><a href="1-05.html">Diatriba precedente</a><a class="chapter-home" href="../index.html">Home</a><a href="1-07.html">Diatriba successiva</a></nav>

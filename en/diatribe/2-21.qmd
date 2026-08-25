@@ -1,0 +1,50 @@
+---
+title: "Discourse II.21 — Of inconsistency"
+lang: en
+pagetitle: "Discourse II.21 — Of inconsistency — Epictetus, Discourses"
+title-prefix: ""
+description-meta: "Discourse II.21: “Of inconsistency”. The Discourses of Epictetus, in George Long’s English translation, with his notes."
+sidebar: en
+---
+
+<!--
+FILE GENERATO. NON MODIFICARE A MANO.
+
+Modificare invece:
+- translation/it/**.md      per il testo e i titoli italiani
+- data/intro.json           per le note introduttive delle home page
+- tools/site_config.py      per lingue, testi dell'interfaccia, URL
+- styles.css                per l'aspetto grafico
+
+Poi eseguire:
+    run.bat
+-->
+
+
+<div class="diatribe-meta">Book II · 3 paragraphs · <span class="canonical" title="Canonical reference">II 21</span></div>
+
+<div class="title-note">Note on the title<a class="note-ref" id="noteref-1" href="#note-1" role="doc-noteref" aria-label="note 1"><sup>1</sup></a></div>
+
+<nav class="chapter-nav"><a href="2-20.html">Previous discourse</a><a class="chapter-home" href="../index.html">Home</a><a href="2-22.html">Next discourse</a></nav>
+
+<div class="paragraph-list">
+<p>SOME things men readily confess, and other things they do not. No one then will confess that he is a fool or without understanding; but quite the contrary you will hear all men saying, I wish that I had fortune equal to my understanding. But men readily confess that they are timid, and they say: I am rather timid, I confess; but as to other respects you will not find me to be foolish. A man will not readily confess that he is intemperate; and that he is unjust, he will not confess at all. He will by no means confess that he is envious or a busy body. Most men will confess that they are compassionate. What then is the reason?—The chief thing (the ruling thing) is inconsistency and confusion in the things which relate to good and evil. But different men have different reasons; and generally what they imagine to be base, they do not confess at all. But they suppose timidity to be a characteristic of a good disposition, and compassion also; but silliness to be the absolute characteristic of a slave. And they do not at all admit (confess) the things which are. offences against society. But in the case of most errors for this reason chiefly they are induced to confess them, because they imagine that there is something involuntary in them as in timidity and compassion; and if a man confess that he is in any respect intemperate, he alleges love (or passion) as an excuse for what is involuntary. But men do not imagine injustice to be at all involuntary. There is also in jealousy, as they suppose, something involuntary; and for this reason they confess to jealousy also.</p>
+<p>Living then among such men, who are so confused, so ignorant of what they say, and of the evils which they have or have not, and why they have them, or how they shall be relieved of them, I think it is worth the trouble for a man to watch constantly (and to ask) whether I also am one of them, what imagination I have about myself, how I conduct myself, whether I conduct myself as a prudent man, whether I conduct myself as a temperate man, whether I ever say this, that I have been taught to be prepared for every thing that may happen. Have I the consciousness, which a man who knows nothing ought to have, that I know nothing? Do I go to my teacher as men go to oracles, prepared to obey? or do I like a snivelling boy go to my school to learn history and understand the books which I did not understand before, and, if it should happen so, to explain them also to others?—Man, you have had a fight in the house with a poor slave, you have turned the family upside down, you have frightened the neighbours, and you come to me<a class="note-ref" id="noteref-2" href="#note-2" role="doc-noteref" aria-label="note 2"><sup>2</sup></a> as if you were a wise man, and you take your seat and judge how I have explained some word, and low I have babbled whatever came into my head. You come full of envy, and humbled, because you bring nothing from home;<a class="note-ref" id="noteref-3" href="#note-3" role="doc-noteref" aria-label="note 3"><sup>3</sup></a> and you sit during the discussion thinking of nothing else than how your father is disposed towards you and your brother. <q>What are they saying about me there? now they think that I am improving, and are saying, He will return with all knowledge. I wish I could learn every thing before I return: but much labour is necessary, and no one sends me any thing, and the baths at Nicopolis are dirty; every thing is bad at home, and bad here.</q></p>
+<p>Then they say, no one gains any profit from the school. —Why, who comes to the school? who comes for the purpose of being improved? who comes to present his opinions to be purified? who comes to learn what he is in want of? Why do you wonder then if you carry back from the school the very things which you bring into it? For you come not to lay aside (your principles) or to correct them or to receive other principles in place of them. By no means, nor any thing like it. You rather look to this, whether you possess already that for which you come. You wish to prattle about theorems? What then? Do you not become greater triflers? Do not your little theorems give you some opportunity of display? You solve sophistical syllogisms.<a class="note-ref" id="noteref-4" href="#note-4" role="doc-noteref" aria-label="note 4"><sup>4</sup></a> Do you not examine the assumptions of the syllogism named the Liar?<a class="note-ref" id="noteref-5" href="#note-5" role="doc-noteref" aria-label="note 5"><sup>5</sup></a> Do you not examine hypothetical syllogisms? Why then are you still vexed if you receive the things for which you come to the school? Yes; but if my child die or my brother, or if I must die or be racked, what good will these things do me<a class="note-ref" id="noteref-6" href="#note-6" role="doc-noteref" aria-label="note 6"><sup>6</sup></a>?— Well, did you come for this? for this do you sit by my side? did you ever for this light your lamp or keep awake? or, when you went out to the walking place, did you ever propose any appearance that had been presented to you instead of a syllogism, and did you and your friends discuss it together? Where and when? Then you say, Theorems are useless. To whom? To such as make a bad use of them. For eye—salves are not useless to those who use them as they ought and when they ought. Fomentations are not useless. Dum-bells<a class="note-ref" id="noteref-7" href="#note-7" role="doc-noteref" aria-label="note 7"><sup>7</sup></a> are not useless; but they are useless to some, useful to others. If you ask me now if syllogisms are useful, I will tell you that they are useful, and if you choose, I will prove it.<a class="note-ref" id="noteref-8" href="#note-8" role="doc-noteref" aria-label="note 8"><sup>8</sup></a>—How then will they in any way be useful to me? Man, did you ask if they are useful to you, or did you ask generally? Let him who is suffering from dysentery, ask me if vinegar is useful; I will say that it is useful.—Will it then be useful to me?—I will say, no. Seek first for the discharge to be stopped and the ulcers to be closed. And do you, O men, first cure the ulcers and stop the discharge; be tranquil in your mind, bring it free from distraction into the school, and you will know what power reason has.</p>
+</div>
+
+<section class="notes">
+<h2>Notes</h2>
+<ol class="note-list">
+<li class="note" id="note-1" role="doc-endnote"><p>Schweig. has some remarks on the title of this chapter. He says <q>that this discourse does not keep to the same subject, but proceeds from that with which it began to other things.</q></p><a class="note-back" href="#noteref-1" aria-label="back to the text">&#8617;</a></li>
+<li class="note" id="note-2" role="doc-endnote"><p><span class="foreign" lang="grc">καταστολὰς ποιήσας</span>. I have omitted these words because I don’t understand them; nor do the commentators. The word <span class="foreign" lang="grc">καταστολή</span> occurs in ii. 10. 15, where it is intelligible.</p><a class="note-back" href="#noteref-2" aria-label="back to the text">&#8617;</a></li>
+<li class="note" id="note-3" role="doc-endnote"><p>Literally, <q>because to you or for you nothing is brought from home.</q> Perhaps the meaning is explained by what follows. The man has no comfort at home; he brings nothing by the thought of which he is comforted.</p><a class="note-back" href="#noteref-3" aria-label="back to the text">&#8617;</a></li>
+<li class="note" id="note-4" role="doc-endnote"><p>See i. 7.</p><a class="note-back" href="#noteref-4" aria-label="back to the text">&#8617;</a></li>
+<li class="note" id="note-5" role="doc-endnote"><p>See ii. 17. 34.</p><a class="note-back" href="#noteref-5" aria-label="back to the text">&#8617;</a></li>
+<li class="note" id="note-6" role="doc-endnote"><p><span class="foreign" lang="grc">τί με ταῦτα ὠφελήσει</span>; Schweig. in his note says that he has written the text thus; but he has not. He has written <span class="foreign" lang="grc">τί μετὰ ταῦτα ὠφελήσει</span>; The <span class="foreign" lang="grc">με</span> appears to be necessary, and he has rendered the passage accordingly; and rightly, I think.</p><a class="note-back" href="#noteref-6" aria-label="back to the text">&#8617;</a></li>
+<li class="note" id="note-7" role="doc-endnote"><p>See i. 4, note 5 on Halteres.</p><a class="note-back" href="#noteref-7" aria-label="back to the text">&#8617;</a></li>
+<li class="note" id="note-8" role="doc-endnote"><p>See ii. 25.</p><a class="note-back" href="#noteref-8" aria-label="back to the text">&#8617;</a></li>
+</ol>
+</section>
+
+<nav class="chapter-nav chapter-nav-bottom"><a href="2-20.html">Previous discourse</a><a class="chapter-home" href="../index.html">Home</a><a href="2-22.html">Next discourse</a></nav>

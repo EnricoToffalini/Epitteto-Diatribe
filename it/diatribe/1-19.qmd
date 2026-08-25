@@ -1,0 +1,60 @@
+---
+title: "Diatriba I.19 — Come bisogna comportarsi verso i tiranni"
+lang: it
+pagetitle: "Diatriba I.19 — Come bisogna comportarsi verso i tiranni — Epitteto, Diatribe"
+title-prefix: ""
+description-meta: "Diatriba I.19: «Come bisogna comportarsi verso i tiranni». Le Diatribe di Epitteto raccolte da Arriano, in traduzione italiana."
+sidebar: it
+---
+
+<!--
+FILE GENERATO. NON MODIFICARE A MANO.
+
+Modificare invece:
+- translation/it/**.md      per il testo e i titoli italiani
+- data/intro.json           per le note introduttive delle home page
+- tools/site_config.py      per lingue, testi dell'interfaccia, URL
+- styles.css                per l'aspetto grafico
+
+Poi eseguire:
+    run.bat
+-->
+
+
+<div class="diatribe-meta">Libro I · 29 sezioni · <span class="canonical" title="Riferimento canonico">I 19</span></div>
+
+<nav class="chapter-nav"><a href="1-18.html">Diatriba precedente</a><a class="chapter-home" href="../index.html">Home</a><a href="1-20.html">Diatriba successiva</a></nav>
+
+<div class="section-list">
+<article class="section" id="s-1"><a class="ref" href="#s-1">1</a><div class="section-text">Se qualcuno possiede un qualche vantaggio, o almeno sembra possederne uno che in realtà non possiede, è del tutto inevitabile che, se è privo di educazione, se ne gonfi.</div></article>
+<article class="section" id="s-2"><a class="ref" href="#s-2">2</a><div class="section-text">Subito il tiranno dice: «Sono io il più potente di tutti.» E che cosa puoi procurarmi? Puoi rendere il mio desiderio libero da impedimenti? Da dove ti verrebbe? Tu forse ce l’hai? Puoi rendere la mia avversione incapace di incappare in ciò che evita? Tu forse ce l’hai? E il mio impulso immune da errore?</div></article>
+<article class="section" id="s-3"><a class="ref" href="#s-3">3</a><div class="section-text">E in che modo ne saresti capace? Su una nave ti affidi forse a te stesso o a chi se ne intende? E su un carro, a chi, se non a chi se ne intende?</div></article>
+<article class="section" id="s-4"><a class="ref" href="#s-4">4</a><div class="section-text">E nelle altre arti? Allo stesso modo. Che cosa puoi dunque fare? «Tutti mi servono.» Anch’io mi prendo cura del mio piatto: lo lavo e lo asciugo, e per la fiaschetta pianto un piolo. E allora? Queste cose sono forse superiori a me? No; ma mi sono utili in qualche modo. Per questo me ne prendo cura. E che? Non mi prendo cura anche dell’asino?</div></article>
+<article class="section" id="s-5"><a class="ref" href="#s-5">5</a><div class="section-text">Non gli lavo i piedi? Non lo striglio? Non sai che ogni uomo si prende cura di se stesso, e di te come dell’asino? Chi infatti si prende cura di te come di un uomo? Mostramelo.</div></article>
+<article class="section" id="s-6"><a class="ref" href="#s-6">6</a><div class="section-text">Chi vuole diventare simile a te? Chi prende te a modello, come Socrate? «Ma posso farti tagliare la testa.» Giusto. Me n’ero dimenticato: bisogna aver cura di te come della febbre e del colera, e innalzarti un altare, come a Roma c’è un altare alla Febbre.</div></article>
+<article class="section" id="s-7"><a class="ref" href="#s-7">7</a><div class="section-text">Che cos’è dunque a turbare e atterrire la gente? Il tiranno e le guardie? Come potrebbe? Non sia mai. Non è possibile che ciò che per natura è libero sia turbato o impedito da altro che da se stesso.</div></article>
+<article class="section" id="s-8"><a class="ref" href="#s-8">8</a><div class="section-text">Sono invece i suoi giudizi a turbarlo. Quando infatti il tiranno dice a qualcuno: «Ti incatenerò la gamba», chi dà valore alla gamba dice: «No, abbi pietà»; chi invece dà valore alla propria scelta morale dice: «Se ti sembra più conveniente, incatenala pure.» «Non ti importa?»</div></article>
+<article class="section" id="s-9"><a class="ref" href="#s-9">9</a><div class="section-text">«Non m’importa.» «Ti mostrerò che sono il tuo padrone.» «Da dove ti viene? Zeus mi ha lasciato libero. O credi forse che avrebbe permesso che suo figlio fosse ridotto in schiavitù? Del mio cadavere, però, sei padrone: prendilo.»</div></article>
+<article class="section" id="s-10"><a class="ref" href="#s-10">10</a><div class="section-text">«Dunque, quando ti vengo incontro, non hai riguardo per me?» «No: ho riguardo per me stesso. E se vuoi che dica che ne ho anche per te, ti dico: come per la pentola.»</div></article>
+<article class="section" id="s-11"><a class="ref" href="#s-11">11</a><div class="section-text">Questo non è egoismo: l’essere vivente è fatto così, fa tutto per se stesso. Anche il sole fa tutto per se stesso e, in definitiva, lo stesso Zeus.</div></article>
+<article class="section" id="s-12"><a class="ref" href="#s-12">12</a><div class="section-text">Ma quando vuole essere dispensatore di pioggia e di frutti e padre degli uomini e degli dèi, vedi che non può conseguire queste opere e questi appellativi se non è utile al bene comune.</div></article>
+<article class="section" id="s-13"><a class="ref" href="#s-13">13</a><div class="section-text">E in generale ha costituito la natura dell’essere razionale in modo tale che esso non possa ottenere nessuno dei beni che gli sono propri se non offre qualcosa di utile al bene comune.</div></article>
+<article class="section" id="s-14"><a class="ref" href="#s-14">14</a><div class="section-text">Così, fare tutto per se stessi non è più un comportamento antisociale.</div></article>
+<article class="section" id="s-15"><a class="ref" href="#s-15">15</a><div class="section-text">Che cosa ti aspetti, infatti? Che uno rinunci a se stesso e al proprio interesse? E come potrebbe allora restare unico e identico per tutti il principio del legame naturale con se stessi?</div></article>
+<article class="section" id="s-16"><a class="ref" href="#s-16">16</a><div class="section-text">E allora? Quando stanno alla base giudizi assurdi sulle cose estranee alla scelta morale, come se fossero beni e mali, è assolutamente inevitabile servire i tiranni.</div></article>
+<article class="section" id="s-17"><a class="ref" href="#s-17">17</a><div class="section-text">Magari soltanto i tiranni, e non anche i loro ciambellani! E come fa un uomo a diventare improvvisamente assennato quando Cesare lo mette a sovrintendere al vaso da notte? Come mai subito diciamo: «Felicione mi ha parlato con assennatezza»?</div></article>
+<article class="section" id="s-18"><a class="ref" href="#s-18">18</a><div class="section-text">Vorrei che venisse cacciato dalla latrina, così tornerebbe a sembrarti uno sciocco.</div></article>
+<article class="section" id="s-19"><a class="ref" href="#s-19">19</a><div class="section-text">Epafrodito aveva un calzolaio che vendette perché non valeva nulla. Poi quello, per un qualche colpo di fortuna, fu comprato da uno della casa di Cesare e divenne il calzolaio di Cesare. Avresti dovuto vedere come Epafrodito lo onorava:</div></article>
+<article class="section" id="s-20"><a class="ref" href="#s-20">20</a><div class="section-text">«Come sta il buon Felicione?»</div></article>
+<article class="section" id="s-21"><a class="ref" href="#s-21">21</a><div class="section-text">«Ti bacio!» E se poi qualcuno di noi domandava che cosa facesse il padrone, gli si rispondeva: «Sta consultandosi con Felicione su una certa questione.»</div></article>
+<article class="section" id="s-22"><a class="ref" href="#s-22">22</a><div class="section-text">Non lo aveva forse venduto perché non valeva nulla? Chi dunque lo aveva reso assennato all’improvviso?</div></article>
+<article class="section" id="s-23"><a class="ref" href="#s-23">23</a><div class="section-text">Ecco che cosa significa attribuire valore a qualcosa di diverso da ciò che dipende dalla scelta morale.</div></article>
+<article class="section" id="s-24"><a class="ref" href="#s-24">24</a><div class="section-text">Uno ha ottenuto il tribunato. Tutti quelli che incontra si congratulano con lui: uno gli bacia gli occhi, un altro il collo, gli schiavi le mani. Torna a casa e trova le lampade accese. Sale al Campidoglio e offre un sacrificio.</div></article>
+<article class="section" id="s-25"><a class="ref" href="#s-25">25</a><div class="section-text">E chi mai ha sacrificato per aver desiderato come si deve? Per essersi mosso ad agire secondo natura? È infatti là che ringraziamo gli dèi, dove collochiamo il bene.</div></article>
+<article class="section" id="s-26"><a class="ref" href="#s-26">26</a><div class="section-text">Oggi uno mi parlava del sacerdozio di Augusto. Gli dico: «Uomo, lascia perdere: spenderai molto per nulla.»</div></article>
+<article class="section" id="s-27"><a class="ref" href="#s-27">27</a><div class="section-text">«Ma quelli che redigono i contratti», dice, «scriveranno il mio nome.» «E tu forse, stando lì accanto a chi li legge, dirai: “Hanno scritto il mio nome”?»</div></article>
+<article class="section" id="s-28"><a class="ref" href="#s-28">28</a><div class="section-text">«E anche se ora puoi essere presente a tutti, quando morirai che farai?» «Resterà il mio nome.» «Scrivilo su una pietra e resterà. Ma su, fuori da Nicopoli chi si ricorderà di te?»</div></article>
+<article class="section" id="s-29"><a class="ref" href="#s-29">29</a><div class="section-text">«Ma porterò una corona d’oro.» «Se proprio desideri una corona, prendine una di rose e mettitela: apparirai più elegante.»</div></article>
+</div>
+
+<nav class="chapter-nav chapter-nav-bottom"><a href="1-18.html">Diatriba precedente</a><a class="chapter-home" href="../index.html">Home</a><a href="1-20.html">Diatriba successiva</a></nav>

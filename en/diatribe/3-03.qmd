@@ -1,0 +1,46 @@
+---
+title: "Discourse III.3 — What is the matter on which a good man should be employed, and in what we ought chiefly to practise ourselves"
+lang: en
+pagetitle: "Discourse III.3 — What is the matter on which a good man should be employed, and in what we ought chiefly to practise ourselves — Epictetus, Discourses"
+title-prefix: ""
+description-meta: "Discourse III.3: “What is the matter on which a good man should be employed, and in what we ought chiefly to practise ourselves”. The Discourses of Epictetus, in George Long’s English translation, with his notes."
+sidebar: en
+---
+
+<!--
+FILE GENERATO. NON MODIFICARE A MANO.
+
+Modificare invece:
+- translation/it/**.md      per il testo e i titoli italiani
+- data/intro.json           per le note introduttive delle home page
+- tools/site_config.py      per lingue, testi dell'interfaccia, URL
+- styles.css                per l'aspetto grafico
+
+Poi eseguire:
+    run.bat
+-->
+
+
+<div class="diatribe-meta">Book III · 5 paragraphs · <span class="canonical" title="Canonical reference">III 3</span></div>
+
+<nav class="chapter-nav"><a href="3-02.html">Previous discourse</a><a class="chapter-home" href="../index.html">Home</a><a href="3-04.html">Next discourse</a></nav>
+
+<div class="paragraph-list">
+<p>THE material for the wise and good man is his own ruling faculty: and the body is the material for the physician and the aliptes (the man who oils persons); the land is the matter for the husbandman. The business of the wise and good man is to use appearances conformably to nature: and as it is the nature of every soul to assent to the truth, to dissent from the false, and to remain in suspense as to that which is uncertain; so it is its nature to be moved towards the desire of the good, and to aversion from the evil; and with respect to that which is neither good nor bad it feels indifferent. For as the money-changer (banker) is not allowed to reject Caesar’s coin, nor the seller of herbs, but if you show the coin, whether he chooses or not, he must give up what is sold for the coin; so it is also in the matter of the soul. When the good appears, it immediately attracts to itself; the evil repels from itself. But the soul will never reject the manifest appearance of the good, any more than persons will reject Caesar’s coin. On this principle depends every movement both of man and God.<a class="note-ref" id="noteref-1" href="#note-1" role="doc-noteref" aria-label="note 1"><sup>1</sup></a></p>
+<p>For this reason the good is preferred to every intimate relationship (obligation). There is no intimate relationship between me and my father, but there is between me and the good. Are you so hard-hearted? Yes, for such is my nature; and this is the coin which God has given me. For this reason if the good is something different from the beautiful and the just, both father is gone (neglected), and brother and country, and every thing. But shall I overlook my own good, in order that you may have it, and shall I give it up to you? Why? I am your father. But you are not my good. I am your brother. But you are not my good. But if we place the good in a right determination of the will, the very observance of the relations of life is good, and accordingly he who gives up any external things, obtains that which is good. Your father takes away your property. But he does not injure you. Your brother will have the greater part of the estate in land. Let him have as much as he chooses. Will he then have a greater share of modesty, of fidelity, of brotherly affection? For who will eject you from this possession? Not even Zeus, for neither has he chosen to do so; but he has made this in my own power, and he has given it to me just as he possessed it himself, free from hindrance, compulsion, and impediment. When then the coin which another uses is a different coin, if a man presents this coin, be receives that which is sold for it. Suppose that there comes into the province a thievish proconsul, what coin does he use? Silver coin. Show it to him, and carry off what you please. Suppose one comes who is an adulterer: what coin does he use? Little girls. Take, a man says, the coin, and sell me the small thing. Give, says the seller, and buy [what you want]. Another is eager to possess boys. Give him the coin, and receive what you wish. Another is fond of hunting: give him a fine nag or a dog. Though he groans and laments, be will sell for it that which you want. For another compels him from within, he who has fixed determined) this coin.<a class="note-ref" id="noteref-2" href="#note-2" role="doc-noteref" aria-label="note 2"><sup>2</sup></a></p>
+<p>Against (or with respect to) this kind of thing chiefly a man should exercise himself. As soon as you go out in the morning, examine every man whom you see, every man whom you hear; answer as to a question, What have you seen? A handsome man or woman? Apply the rule. Is this independent of the will, or dependent? Independent. Take it away. What have you seen? A man lamenting over the death of a child. Apply the rule. Death is a thing independent of the will. Take it away. Has the proconsul met you? Apply the rule. What kind of thing is a proconsul’s office? Independent of the will, or dependent on it? Independent. Take this away also: it does not stand examination: cast it away: it is nothing to you.</p>
+<p>If we practised this and exercised ourselves in it daily from morning to night, something indeed would be done. But now we are forthwith caught half asleep by every appearance, and it is only, if ever, that in the school we are roused a little. Then when we go out, if we see a man lamenting, we say, He is undone. If we see a consul, we say, He is happy. If we see an exiled man, we say, He is miserable. If we see a poor man, we say, He is wretched: he has nothing to eat.</p>
+<p>We ought then to eradicate these bad opinions, and to this end we should direct all our efforts. For what is weeping and lamenting? Opinion. What is bad fortune? Opinion. What is civil sedition, what is divided opinion, what is blame, what is accusation, what is impiety, what is trifling?. All these things are opinions, and nothing more, and opinions about things independent of the will, as if they were good and bad. Let a man transfer these opinions to things dependent on the will, and I engage for him that he will be firm and constant, whatever may be the state of things around him. Such as is a dish of water, such is the soul. Such as is the ray of light which falls on the water, such are the appearances. When the water is moved, the ray also seems to be moved, yet it is not moved. And when then a man is seized with giddiness, it is not the arts and the virtues which are confounded, but the spirit (the nervous power) on which they are impressed; but if the spirit be restored to its settled state, those things also are restored.<a class="note-ref" id="noteref-3" href="#note-3" role="doc-noteref" aria-label="note 3"><sup>3</sup></a></p>
+</div>
+
+<section class="notes">
+<h2>Notes</h2>
+<ol class="note-list">
+<li class="note" id="note-1" role="doc-endnote"><p>Comp. i. 19, 11.</p><a class="note-back" href="#noteref-1" aria-label="back to the text">&#8617;</a></li>
+<li class="note" id="note-2" role="doc-endnote"><p>Mrs. Carter compares the Epistle to the Romans, vii. 21–23. Schweighaeuser says, the man either sees that the thing which he is doing is bad or unjust, or for any other reason he does not do the thing willingly; but he is compelled, and allows himself to be carried away by the passion which rules him. The <q>another</q> who compels is God, Schweig. says, who has made the nature of man such, that he must postpone every thing else to that thing in which he places his Good: and he adds, that it is man’s fault if he places his good in that thing, in which God has not placed it.</p> 
+<p>Some persons will not consider this to be satisfactory. The man is <q>compelled and allows himself to be carried away,</q> etc. The notion of <q>compulsion</q> is inconsistent with the exercise of the will. The man is unlucky. He is like him <q>who sees,</q> as the Latin poet says, <q>the better things and approves of them, but follows the worse.</q></p><a class="note-back" href="#noteref-2" aria-label="back to the text">&#8617;</a></li>
+<li class="note" id="note-3" role="doc-endnote"><p>See Schweig.’s note on this obscure passage.</p><a class="note-back" href="#noteref-3" aria-label="back to the text">&#8617;</a></li>
+</ol>
+</section>
+
+<nav class="chapter-nav chapter-nav-bottom"><a href="3-02.html">Previous discourse</a><a class="chapter-home" href="../index.html">Home</a><a href="3-04.html">Next discourse</a></nav>

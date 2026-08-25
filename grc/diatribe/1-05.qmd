@@ -1,0 +1,41 @@
+---
+title: "Διατριβὴ Αʹ.εʹ — πρὸς τοὺς Ἀκαδημαικούς"
+lang: grc
+pagetitle: "Διατριβὴ Αʹ.εʹ — πρὸς τοὺς Ἀκαδημαικούς — Ἐπικτήτου Διατριβαί"
+title-prefix: ""
+description-meta: "Διατριβὴ Αʹ.εʹ· «πρὸς τοὺς Ἀκαδημαικούς». Ἀρριανοῦ τῶν Ἐπικτήτου Διατριβῶν, τὸ ἑλληνικὸν κείμενον."
+sidebar: grc
+---
+
+<!--
+FILE GENERATO. NON MODIFICARE A MANO.
+
+Modificare invece:
+- translation/it/**.md      per il testo e i titoli italiani
+- data/intro.json           per le note introduttive delle home page
+- tools/site_config.py      per lingue, testi dell'interfaccia, URL
+- styles.css                per l'aspetto grafico
+
+Poi eseguire:
+    run.bat
+-->
+
+
+<div class="diatribe-meta">Βιβλίον Αʹ · 10 τμήματα · <span class="canonical" title="Παραπομπή">I 5</span></div>
+
+<nav class="chapter-nav"><a href="1-04.html">ἡ προτέρα διατριβή</a><a class="chapter-home" href="../index.html">Ἀρχή</a><a href="1-06.html">ἡ ἑπομένη διατριβή</a></nav>
+
+<div class="section-list">
+<article class="section" id="s-1"><a class="ref" href="#s-1">1</a><div class="section-text" lang="grc">ἄν τις, φησίν, ἐνίστηται πρὸς τὰ ἄγαν ἐκφανῆ, πρὸς τοῦτον οὐ ῥᾴδιόν ἐστιν εὑ<span class="ed-add">&lang;ρεῖν λόγ&rang;</span>ον, διʼ οὗ μεταπείσει τις αὐτόν.</div></article>
+<article class="section" id="s-2"><a class="ref" href="#s-2">2</a><div class="section-text" lang="grc">τοῦτο δʼ οὔτε παρὰ <span class="ed-add">&lang;τὴν ἐκεί&rang;</span>νου γίνεται δύναμιν οὔτε παρὰ τὴν τοῦ διδάσκοντος ἀσθένειαν, ἀλλʼ ὅταν ἀπαχθεὶς ἀπολιθωθῇ, πῶς ἔτι χρήσηταί τις αὐτῷ διὰ λόγου;</div></article>
+<article class="section" id="s-3"><a class="ref" href="#s-3">3</a><div class="section-text" lang="grc">Ἀπολιθώσεις δʼ εἰσὶ διτταί· ἡ μὲν τοῦ νοητικοῦ ἀπολίθωσις, ἡ δὲ τοῦ ἐντρεπτικοῦ, ὅταν τις παρατεταγμένος ᾖ μὴ ἐπινεύειν τοῖς ἐναργέσι μηδʼ ἀπὸ τῶν μαχομένων ἀφίστασθαι.</div></article>
+<article class="section" id="s-4"><a class="ref" href="#s-4">4</a><div class="section-text" lang="grc">οἱ δὲ πολλοὶ τὴν μὲν σωματικὴν ἀπονέκρωσιν φοβούμεθα καὶ πάντʼ ἂν μηχανησαίμεθα ὑπὲρ τοῦ μὴ περιπεσεῖν τοιούτῳ τινί, τῆς ψυχῆς δʼ ἀπονεκρουμένης οὐδὲν ἡμῖν μέλει.</div></article>
+<article class="section" id="s-5"><a class="ref" href="#s-5">5</a><div class="section-text" lang="grc">καὶ νὴ Δία ἐπὶ αὐτῆς τῆς ψυχῆς ἂν μὲν ᾖ οὕτως διακείμενος, ὥστε μηδενὶ παρακολουθεῖν μηδὲ συνιέναι μηδέν, καὶ τοῦτον κακῶς ἔχειν οἰόμεθα· ἂν δέ τινος τὸ ἐντρεπτικὸν καὶ αἰδῆμον ἀπονεκρωθῇ, τοῦτο ἔτι καὶ δύναμιν καλοῦμεν.<br><br>Καταλαμβάνεις ὅτι ἐγρήγορας;</div></article>
+<article class="section" id="s-6"><a class="ref" href="#s-6">6</a><div class="section-text" lang="grc"><q>οὔ,</q> φησίν· <q>οὐδὲ γάρ, ὅταν ἐν τοῖς ὕπνοις φαντάζωμαι, ὅτι ἐγρήγορα.</q> οὐδὲν οὖν διαφέρει αὕτη ἡ φαντασία ἐκείνης; <q>οὐδέν.</q> ἔτι τούτῳ διαλέγομαι;</div></article>
+<article class="section" id="s-7"><a class="ref" href="#s-7">7</a><div class="section-text" lang="grc">καὶ ποῖον αὐτῷ πῦρ ἢ ποῖον σίδηρον προσαγάγω, ἵνʼ αἴσθηται ὅτι νενέκρωται; αἰσθανόμενος οὐ προσποιεῖται· ἔτι χείρων ἐστὶ τοῦ νεκροῦ. μάχην οὗτος οὐ συνορᾷ· κακῶς ἔχει.</div></article>
+<article class="section" id="s-8"><a class="ref" href="#s-8">8</a><div class="section-text" lang="grc">συνορῶν οὗτος οὐ κινεῖται οὐδὲ προκόπτει· ἔτι ἀθλιώτερον ἔχει.</div></article>
+<article class="section" id="s-9"><a class="ref" href="#s-9">9</a><div class="section-text" lang="grc">ἐκτέτμηται τὸ αἰδῆμον αὐτοῦ καὶ ἐντρεπτικὸν καὶ τὸ λογικὸν οὐκ ἀποτέτμηται, ἀλλʼ ἀποτεθηρίωται.</div></article>
+<article class="section" id="s-10"><a class="ref" href="#s-10">10</a><div class="section-text" lang="grc">ταύτην ἐγὼ δύναμιν εἴπω; μὴ γένοιτο, εἰ μὴ καὶ τὴν τῶν κιναίδων, καθʼ ἣν πᾶν τὸ ἐπελθὸν ἐν μέσῳ καὶ ποιοῦσι καὶ λέγουσι.</div></article>
+</div>
+
+<nav class="chapter-nav chapter-nav-bottom"><a href="1-04.html">ἡ προτέρα διατριβή</a><a class="chapter-home" href="../index.html">Ἀρχή</a><a href="1-06.html">ἡ ἑπομένη διατριβή</a></nav>

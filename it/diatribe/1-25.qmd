@@ -1,0 +1,64 @@
+---
+title: "Diatriba I.25 — Sullo stesso argomento"
+lang: it
+pagetitle: "Diatriba I.25 — Sullo stesso argomento — Epitteto, Diatribe"
+title-prefix: ""
+description-meta: "Diatriba I.25: «Sullo stesso argomento». Le Diatribe di Epitteto raccolte da Arriano, in traduzione italiana."
+sidebar: it
+---
+
+<!--
+FILE GENERATO. NON MODIFICARE A MANO.
+
+Modificare invece:
+- translation/it/**.md      per il testo e i titoli italiani
+- data/intro.json           per le note introduttive delle home page
+- tools/site_config.py      per lingue, testi dell'interfaccia, URL
+- styles.css                per l'aspetto grafico
+
+Poi eseguire:
+    run.bat
+-->
+
+
+<div class="diatribe-meta">Libro I · 33 sezioni · <span class="canonical" title="Riferimento canonico">I 25</span></div>
+
+<nav class="chapter-nav"><a href="1-24.html">Diatriba precedente</a><a class="chapter-home" href="../index.html">Home</a><a href="1-26.html">Diatriba successiva</a></nav>
+
+<div class="section-list">
+<article class="section" id="s-1"><a class="ref" href="#s-1">1</a><div class="section-text">Se queste cose sono vere, e se non stiamo dicendo sciocchezze né fingendo quando affermiamo che il bene dell’uomo e il male sono nella scelta morale, mentre tutto il resto non ci riguarda, perché siamo ancora turbati, perché abbiamo ancora paura? Su ciò di cui ci siamo presi cura nessuno ha potere;</div></article>
+<article class="section" id="s-2"><a class="ref" href="#s-2">2</a><div class="section-text">e di ciò su cui gli altri hanno potere noi non ci curiamo. Quale problema ci resta ancora?</div></article>
+<article class="section" id="s-3"><a class="ref" href="#s-3">3</a><div class="section-text">«Ma dammi delle istruzioni.» Che istruzioni dovrei darti? Zeus non te ne ha già date? Non ti ha dato ciò che è tuo libero da impedimenti e ostacoli, e ciò che non è tuo soggetto a impedimenti e ostacoli?</div></article>
+<article class="section" id="s-4"><a class="ref" href="#s-4">4</a><div class="section-text">Quali istruzioni, dunque, quali ordini hai ricevuto da lui quando sei venuto qui? Custodisci in ogni modo ciò che è tuo; non desiderare ciò che appartiene agli altri. La fedeltà è tua... Chi dunque può toglierti queste cose? Chi, se non tu stesso, potrà impedirti di servartene? E tu come fai? Quando ti affanni per ciò che non è tuo, perdi ciò che è tuo.</div></article>
+<article class="section" id="s-5"><a class="ref" href="#s-5">5</a><div class="section-text">Avendo ricevuto da Zeus consigli e ordini come questi, quali altri ne vuoi da me? Sono forse più potente di lui, più degno di fiducia?</div></article>
+<article class="section" id="s-6"><a class="ref" href="#s-6">6</a><div class="section-text">Se osservi questi precetti, hai forse bisogno di qualcos’altro? «Ma non è stato lui a impartire questi ordini?» Porta le prenozioni, porta le dimostrazioni dei filosofi, porta ciò che hai ascoltato tante volte, porta ciò che tu stesso hai detto, porta ciò che hai letto, porta ciò su cui ti sei esercitato.</div></article>
+<article class="section" id="s-7"><a class="ref" href="#s-7">7</a><div class="section-text">Fino a quando, dunque, è bene osservare queste regole e non interrompere il gioco?</div></article>
+<article class="section" id="s-8"><a class="ref" href="#s-8">8</a><div class="section-text">Finché il gioco procede decorosamente. Ai Saturnali viene sorteggiato un re: si è deciso infatti di fare questo gioco. Ordina: «Tu bevi, tu mescola il vino, tu canta, tu vattene, tu vieni.» Obbedisco, perché il gioco non venga interrotto per causa mia.</div></article>
+<article class="section" id="s-9"><a class="ref" href="#s-9">9</a><div class="section-text">«Ma tu pensa di trovarti nel male.» Non lo penso. E chi mi costringerà a pensarlo?</div></article>
+<article class="section" id="s-10"><a class="ref" href="#s-10">10</a><div class="section-text">Di nuovo, abbiamo convenuto di recitare la storia di Agamennone e Achille. Quello designato come Agamennone mi dice: «Va’ da Achille e portagli via Briseide.» Vado.</div></article>
+<article class="section" id="s-11"><a class="ref" href="#s-11">11</a><div class="section-text">«Vieni.» Vengo. Come ci comportiamo negli argomenti ipotetici, così dobbiamo comportarci anche nella vita. «Ammettiamo che sia notte.» Ammettiamolo. «E allora? È giorno?» No: ho infatti accettato l’ipotesi che sia notte.</div></article>
+<article class="section" id="s-12"><a class="ref" href="#s-12">12</a><div class="section-text">«Ammettiamo che tu ritenga che sia notte.» Ammettiamolo. «Ma allora credi anche che sia notte.» Questo non segue dall’ipotesi.</div></article>
+<article class="section" id="s-13"><a class="ref" href="#s-13">13</a><div class="section-text">Così anche qui. «Ammettiamo che tu sia sfortunato.» Ammettiamolo. «Hai dunque cattiva sorte?» Sì. «E allora? Sei infelice?» Sì. «Ma allora pensa anche di trovarti nel male.» Questo non segue dall’ipotesi; e un altro me lo impedisce.</div></article>
+<article class="section" id="s-14"><a class="ref" href="#s-14">14</a><div class="section-text">Fino a che punto, dunque, bisogna obbedire a cose del genere? Finché conviene; e cioè finché conservo ciò che è decoroso e appropriato.</div></article>
+<article class="section" id="s-15"><a class="ref" href="#s-15">15</a><div class="section-text">Alcuni poi sono intrattabili e di cattivo umore e dicono: «Io non posso cenare da costui, se devo sopportare ogni giorno che racconti come ha combattuto in Misia: “Ti ho raccontato, fratello, come sono salito sulla collina? Poi ricominciarono ad assediarmi...”»</div></article>
+<article class="section" id="s-16"><a class="ref" href="#s-16">16</a><div class="section-text">Un altro dice: «Io preferisco cenare e ascoltarlo chiacchierare quanto vuole.»</div></article>
+<article class="section" id="s-17"><a class="ref" href="#s-17">17</a><div class="section-text">E tu confronta il valore delle due cose; soltanto, qualunque cosa tu faccia, falla senza sentirti oppresso, senza angustiarti e senza pensare di trovarti nel male: a questo infatti nessuno ti costringe.</div></article>
+<article class="section" id="s-18"><a class="ref" href="#s-18">18</a><div class="section-text">C’è fumo nella stanza? Se è moderato, rimango; se è troppo, esco. Bisogna infatti ricordare e tenere fermo questo: la porta è aperta.</div></article>
+<article class="section" id="s-19"><a class="ref" href="#s-19">19</a><div class="section-text">«Ma non abitare a Nicopoli.» Non ci abito. «Neppure ad Atene.» Neppure ad Atene. «Neppure a Roma.» Neppure a Roma. «Abita a Giaro.» Ci abito. Ma abitare a Giaro mi sembra troppo fumo.</div></article>
+<article class="section" id="s-20"><a class="ref" href="#s-20">20</a><div class="section-text">Me ne vado dove nessuno potrà impedirmi di abitare: quella dimora infatti è aperta a tutti.</div></article>
+<article class="section" id="s-21"><a class="ref" href="#s-21">21</a><div class="section-text">E quanto all’ultima tunichetta, cioè il corpo, oltre questo nessuno ha alcun potere su di me.</div></article>
+<article class="section" id="s-22"><a class="ref" href="#s-22">22</a><div class="section-text">Per questo Demetrio disse a Nerone: «Tu minacci me di morte, ma la natura minaccia te.»</div></article>
+<article class="section" id="s-23"><a class="ref" href="#s-23">23</a><div class="section-text">Se invece ammiro il mio piccolo corpo, mi sono consegnato schiavo; se ammiro i miei piccoli beni, schiavo anche in questo caso.</div></article>
+<article class="section" id="s-24"><a class="ref" href="#s-24">24</a><div class="section-text">Infatti sono io stesso a rivelare subito, contro di me, da dove posso essere preso. Come quando il serpente ritrae la testa, dico: «Colpiscilo proprio lì, dove cerca di proteggersi.» E anche tu sappi che, qualunque cosa tu voglia proteggere, è proprio lì che il padrone ti assalirà.</div></article>
+<article class="section" id="s-25"><a class="ref" href="#s-25">25</a><div class="section-text">Ricordandoti di queste cose, chi adulerai ancora, chi temerai?</div></article>
+<article class="section" id="s-26"><a class="ref" href="#s-26">26</a><div class="section-text">«Ma voglio sedermi dove siedono i senatori.» Vedi che sei tu a metterti alle strette, sei tu ad angustiarti?</div></article>
+<article class="section" id="s-27"><a class="ref" href="#s-27">27</a><div class="section-text">«E come farò altrimenti a vedere bene lo spettacolo nell’anfiteatro?» Uomo, non guardarlo affatto, e non ti angustierai. Perché ti procuri questi fastidi? Oppure aspetta un poco e, quando lo spettacolo è finito, siediti nei posti dei senatori e prendi il sole.</div></article>
+<article class="section" id="s-28"><a class="ref" href="#s-28">28</a><div class="section-text">In generale, ricordati questo: siamo noi a opprimerci, siamo noi a metterci alle strette; vale a dire, sono i nostri giudizi a opprimerci e a metterci alle strette.</div></article>
+<article class="section" id="s-29"><a class="ref" href="#s-29">29</a><div class="section-text">Che cos’è infatti, di per sé, essere insultati? Mettiti accanto a una pietra e insultala: che cosa otterrai? Se dunque uno ascolta come una pietra, che vantaggio ne ricava chi lo insulta? Se invece chi insulta trova nella debolezza dell’insultato un punto d’appoggio, allora ottiene qualcosa.</div></article>
+<article class="section" id="s-30"><a class="ref" href="#s-30">30</a><div class="section-text">«Spoglialo.» Chi, lui? Prendi il mantello e strappalo.</div></article>
+<article class="section" id="s-31"><a class="ref" href="#s-31">31</a><div class="section-text">«Ti ho oltraggiato.» Buon per te. Questo esercitava Socrate, e per questo mantenne sempre un solo volto. Noi invece vogliamo esercitare e praticare qualsiasi cosa, tranne come diventare liberi da impedimenti e liberi.</div></article>
+<article class="section" id="s-32"><a class="ref" href="#s-32">32</a><div class="section-text">«I filosofi dicono cose paradossali.» E nelle altre arti non ci sono cose paradossali? Che cosa c’è di più paradossale che pungere l’occhio a qualcuno perché possa vedere? Se lo dicessi a uno che non sa nulla di medicina, non riderebbe di chi lo dice?</div></article>
+<article class="section" id="s-33"><a class="ref" href="#s-33">33</a><div class="section-text">Che c’è dunque di strano se anche in filosofia molte cose vere sembrano paradossali a chi non ne ha esperienza?</div></article>
+</div>
+
+<nav class="chapter-nav chapter-nav-bottom"><a href="1-24.html">Diatriba precedente</a><a class="chapter-home" href="../index.html">Home</a><a href="1-26.html">Diatriba successiva</a></nav>

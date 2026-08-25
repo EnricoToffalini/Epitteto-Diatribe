@@ -1,0 +1,42 @@
+---
+title: "Diatriba II.4 — Contro uno che una volta era stato sorpreso in adulterio"
+lang: it
+pagetitle: "Diatriba II.4 — Contro uno che una volta era stato sorpreso in adulterio — Epitteto, Diatribe"
+title-prefix: ""
+description-meta: "Diatriba II.4: «Contro uno che una volta era stato sorpreso in adulterio». Le Diatribe di Epitteto raccolte da Arriano, in traduzione italiana."
+sidebar: it
+---
+
+<!--
+FILE GENERATO. NON MODIFICARE A MANO.
+
+Modificare invece:
+- translation/it/**.md      per il testo e i titoli italiani
+- data/intro.json           per le note introduttive delle home page
+- tools/site_config.py      per lingue, testi dell'interfaccia, URL
+- styles.css                per l'aspetto grafico
+
+Poi eseguire:
+    run.bat
+-->
+
+
+<div class="diatribe-meta">Libro II · 11 sezioni · <span class="canonical" title="Riferimento canonico">II 4</span></div>
+
+<nav class="chapter-nav"><a href="2-03.html">Diatriba precedente</a><a class="chapter-home" href="../index.html">Home</a><a href="2-05.html">Diatriba successiva</a></nav>
+
+<div class="section-list">
+<article class="section" id="s-1"><a class="ref" href="#s-1">1</a><div class="section-text">Mentre Epitteto diceva che l’uomo è nato per la fedeltà e che chi distrugge questa distrugge ciò che è proprio dell’uomo, entrò uno di quelli che passano per uomini di lettere, che una volta era stato sorpreso in adulterio in città.</div></article>
+<article class="section" id="s-2"><a class="ref" href="#s-2">2</a><div class="section-text">Ed egli continuò: «Ma se, abbandonando questa fedeltà per la quale siamo nati, insidiamo la moglie del vicino, che cosa facciamo? Che altro, se non distruggere e annientare? Chi? L’uomo fedele, l’uomo che ha senso del pudore, l’uomo rispettoso del sacro.»</div></article>
+<article class="section" id="s-3"><a class="ref" href="#s-3">3</a><div class="section-text">Solo questo? Non distruggiamo anche il rapporto di vicinato, l’amicizia, la comunità? In quale posizione ci mettiamo? Come devo trattarti, uomo? Come un vicino? Come un amico? Ma che genere di amico? Come un concittadino? Che cosa potrò affidarti?</div></article>
+<article class="section" id="s-4"><a class="ref" href="#s-4">4</a><div class="section-text">E se tu fossi un utensile tanto marcio da non poter servire a nulla, verresti gettato fuori sul letamaio e neppure da lì qualcuno ti raccoglierebbe;</div></article>
+<article class="section" id="s-5"><a class="ref" href="#s-5">5</a><div class="section-text">ma se, pur essendo un uomo, non sei capace di occupare nessun posto proprio di un uomo, che cosa faremo di te? Ammettiamo pure che tu non possa occupare il posto di un amico: puoi occupare quello di uno schiavo? E chi si fiderà di te? Non vuoi dunque essere gettato anche tu da qualche parte sul letamaio, come un oggetto inutile, come sterco?</div></article>
+<article class="section" id="s-6"><a class="ref" href="#s-6">6</a><div class="section-text">E poi dirai: «Nessuno si cura di me, un uomo di lettere!» Perché sei cattivo e inutile. È come se le vespe si indignassero perché nessuno si cura di loro, ma tutti le fuggono e, se uno può, con un colpo le abbatte.</div></article>
+<article class="section" id="s-7"><a class="ref" href="#s-7">7</a><div class="section-text">Tu hai un pungiglione tale che chiunque colpisci lo getti nei guai e nel dolore. Che cosa vuoi che facciamo di te? Non c’è posto dove metterti.</div></article>
+<article class="section" id="s-8"><a class="ref" href="#s-8">8</a><div class="section-text">— Ma le donne non sono forse comuni per natura? — Lo dico anch’io. Anche il maialino è comune a tutti gli invitati; ma quando le porzioni sono state fatte, se ti pare, va’ a strappare la porzione di quello che ti è sdraiato accanto, rubala di nascosto oppure, mettendogli vicino la mano, lecca con ingordigia; e se non riesci a staccare un pezzo di carne, ungiti almeno le dita e poi leccale. Un bel compagno di simposio e un bel commensale socratico!</div></article>
+<article class="section" id="s-9"><a class="ref" href="#s-9">9</a><div class="section-text">Su, anche il teatro non è comune ai cittadini? E allora, quando si sono seduti, va’ e, se ti pare, cacciane via uno.</div></article>
+<article class="section" id="s-10"><a class="ref" href="#s-10">10</a><div class="section-text">Così anche le donne sono comuni per natura. Ma quando il legislatore, come chi dà un banchetto, le ha distribuite, non vuoi cercare anche tu la tua parte, invece di sottrarre e bramare quella altrui?</div></article>
+<article class="section" id="s-11"><a class="ref" href="#s-11">11</a><div class="section-text">«Ma sono un uomo di lettere e capisco Archedemo.» E allora capisci pure Archedemo, ma sii adultero e infedele e, invece di uomo, lupo o scimmia. Che cosa te lo impedisce?</div></article>
+</div>
+
+<nav class="chapter-nav chapter-nav-bottom"><a href="2-03.html">Diatriba precedente</a><a class="chapter-home" href="../index.html">Home</a><a href="2-05.html">Diatriba successiva</a></nav>

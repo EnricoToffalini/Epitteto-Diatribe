@@ -1,0 +1,38 @@
+---
+title: "Διατριβὴ Βʹ.κϛʹ — τί τὸ ἴδιον τοῦ ἁμαρτήματος"
+lang: grc
+pagetitle: "Διατριβὴ Βʹ.κϛʹ — τί τὸ ἴδιον τοῦ ἁμαρτήματος — Ἐπικτήτου Διατριβαί"
+title-prefix: ""
+description-meta: "Διατριβὴ Βʹ.κϛʹ· «τί τὸ ἴδιον τοῦ ἁμαρτήματος». Ἀρριανοῦ τῶν Ἐπικτήτου Διατριβῶν, τὸ ἑλληνικὸν κείμενον."
+sidebar: grc
+---
+
+<!--
+FILE GENERATO. NON MODIFICARE A MANO.
+
+Modificare invece:
+- translation/it/**.md      per il testo e i titoli italiani
+- data/intro.json           per le note introduttive delle home page
+- tools/site_config.py      per lingue, testi dell'interfaccia, URL
+- styles.css                per l'aspetto grafico
+
+Poi eseguire:
+    run.bat
+-->
+
+
+<div class="diatribe-meta">Βιβλίον Βʹ · 7 τμήματα · <span class="canonical" title="Παραπομπή">II 26</span></div>
+
+<nav class="chapter-nav"><a href="2-25.html">ἡ προτέρα διατριβή</a><a class="chapter-home" href="../index.html">Ἀρχή</a><a href="3-01.html">ἡ ἑπομένη διατριβή</a></nav>
+
+<div class="section-list">
+<article class="section" id="s-1"><a class="ref" href="#s-1">1</a><div class="section-text" lang="grc">πᾶν ἁμάρτημα μάχην περιέχει. ἐπεὶ γὰρ ὁ ἁμαρτάνων οὐ θέλει ἁμαρτάνειν, ἀλλὰ κατορθῶσαι, δῆλον ὅτι ὃ μὲν θέλει οὐ ποιεῖ.</div></article>
+<article class="section" id="s-2"><a class="ref" href="#s-2">2</a><div class="section-text" lang="grc">τί γὰρ ὁ κλέπτης θέλει πρᾶξαι; τὸ αὑτῷ συμφέρον. οὐκ οὖν, εἰ ἀσύμφορόν ἐστιν αὐτῷ τὸ κλέπτειν, ὃ μὲν θέλει ποιεῖ.</div></article>
+<article class="section" id="s-3"><a class="ref" href="#s-3">3</a><div class="section-text" lang="grc">πᾶσα δὲ ψυχὴ λογικὴ φύσει διαβέβληται πρὸς μάχην· καὶ μέχρι μὲν ἂν μὴ παρακολουθῇ τούτῳ, ὅτι ἐν μάχῃ ἐστίν, οὐδὲν κωλύεται τὰ μαχόμενα ποιεῖν· παρακολουθήσαντα δὲ πολλὴ ἀνάγκη ἀποστῆναι τῆς μάχης καὶ φυγεῖν οὕτως ὡς καὶ ἀπὸ τοῦ ψεύδους ἀνανεῦσαι πικρὰ ἀνάγκη τῷ αἰσθανομένῳ, ὅτι ψεῦδός ἐστιν· μέχρι δὲ τοῦτο μὴ φαντάζηται, ὡς ἀληθεῖ ἐπινεύει αὐτῷ.</div></article>
+<article class="section" id="s-4"><a class="ref" href="#s-4">4</a><div class="section-text" lang="grc">δεινὸς οὖν ἐν λόγῳ, ὁ δʼ αὐτὸς καὶ προτρεπτικὸς καὶ ἐλεγκτικὸς οὗτος ὁ δυνάμενος ἑκάστῳ παραδεῖξαι τὴν μάχην, καθʼ ἣν ἁμαρτάνει, καὶ σαφῶς παραστῆσαι, πῶς ὃ θέλει οὐ ποιεῖ καὶ ὃ μὴ θέλει ποιεῖ.</div></article>
+<article class="section" id="s-5"><a class="ref" href="#s-5">5</a><div class="section-text" lang="grc">ἂν γὰρ τοῦτο δείξῃ τις, αὐτὸς ἀφʼ αὑτοῦ ἀναποχωρήσει. μέχρι δὲ μὴ δεικνύῃς, μὴ θαύμαζε, εἰ ἐπιμένει· κατορθώματος γὰρ φαντασίαν λαμβάνων ποιεῖ αὐτό.</div></article>
+<article class="section" id="s-6"><a class="ref" href="#s-6">6</a><div class="section-text" lang="grc">διὰ τοῦτο καὶ Σωκράτης ταύτῃ τῇ δυνάμει πεποιθὼς ἔλεγεν ὅτι <q>ἐγὼ ἄλλον μὲν οὐδένα εἴωθα παρέχειν μάρτυρα ὧν λέγω, ἀρκοῦμαι δʼ ἀεὶ τῷ προσδιαλεγομένῳ καὶ ἐκεῖνον ἐπιψηφίζω καὶ καλῶ μάρτυρα καὶ εἷς ὢν οὗτος ἀρκεῖ μοι ἀντὶ πάντων.</q></div></article>
+<article class="section" id="s-7"><a class="ref" href="#s-7">7</a><div class="section-text" lang="grc">ᾔδει γάρ, ὑπὸ τίνος λογικὴ ψυχὴ κινεῖται, <span class="ed-sic">ζυγῷ ἐπιρρέψει</span>, ἄν τε θέλῃς ἄν τε μή. λογικῷ ἡγεμονικῷ δεῖξον μάχην καὶ ἀποστήσεται· ἂν δὲ μὴ δεικνύῃς, αὐτὸς σαυτῷ μᾶλλον ἐγκάλει ἢ τῷ μὴ πειθομένῳ.</div></article>
+</div>
+
+<nav class="chapter-nav chapter-nav-bottom"><a href="2-25.html">ἡ προτέρα διατριβή</a><a class="chapter-home" href="../index.html">Ἀρχή</a><a href="3-01.html">ἡ ἑπομένη διατριβή</a></nav>

@@ -1,0 +1,40 @@
+---
+title: "Diatriba I.3 — Come procedere dal principio che Dio è padre degli uomini alle conseguenze"
+lang: it
+pagetitle: "Diatriba I.3 — Come procedere dal principio che Dio è padre degli uomini alle conseguenze — Epitteto, Diatribe"
+title-prefix: ""
+description-meta: "Diatriba I.3: «Come procedere dal principio che Dio è padre degli uomini alle conseguenze». Le Diatribe di Epitteto raccolte da Arriano, in traduzione italiana."
+sidebar: it
+---
+
+<!--
+FILE GENERATO. NON MODIFICARE A MANO.
+
+Modificare invece:
+- translation/it/**.md      per il testo e i titoli italiani
+- data/intro.json           per le note introduttive delle home page
+- tools/site_config.py      per lingue, testi dell'interfaccia, URL
+- styles.css                per l'aspetto grafico
+
+Poi eseguire:
+    run.bat
+-->
+
+
+<div class="diatribe-meta">Libro I · 9 sezioni · <span class="canonical" title="Riferimento canonico">I 3</span></div>
+
+<nav class="chapter-nav"><a href="1-02.html">Diatriba precedente</a><a class="chapter-home" href="../index.html">Home</a><a href="1-04.html">Diatriba successiva</a></nav>
+
+<div class="section-list">
+<article class="section" id="s-1"><a class="ref" href="#s-1">1</a><div class="section-text">Se qualcuno riuscisse ad accogliere come si deve questo giudizio, che tutti noi siamo nati anzitutto da Dio e che Dio è padre degli uomini e degli dèi, credo che non penserebbe nulla di ignobile o meschino riguardo a se stesso.</div></article>
+<article class="section" id="s-2"><a class="ref" href="#s-2">2</a><div class="section-text">Se Cesare ti adottasse, nessuno sopporterebbe la tua superbia; e se sapessi di essere figlio di Zeus, non ne saresti innalzato?</div></article>
+<article class="section" id="s-3"><a class="ref" href="#s-3">3</a><div class="section-text">Ma ora non facciamo così. Poiché infatti nella nostra nascita sono mescolate queste due cose, il corpo che abbiamo in comune con gli animali e la ragione e il pensiero che abbiamo in comune con gli dèi, alcuni inclinano verso questa parentela infelice e mortale, pochi invece verso quella divina e beata.</div></article>
+<article class="section" id="s-4"><a class="ref" href="#s-4">4</a><div class="section-text">Poiché dunque è necessario che ciascuno si serva di ogni cosa secondo l’opinione che ne ha, quei pochi che ritengono di essere nati per la fedeltà, il pudore e la sicurezza nell’uso delle rappresentazioni non pensano nulla di meschino o ignobile riguardo a se stessi; i più, invece, fanno il contrario.</div></article>
+<article class="section" id="s-5"><a class="ref" href="#s-5">5</a><div class="section-text">«Che cosa sono infatti? Un povero ometto, e questa mia misera carne.»</div></article>
+<article class="section" id="s-6"><a class="ref" href="#s-6">6</a><div class="section-text">Misera davvero; ma possiedi anche qualcosa di migliore della carne. Perché dunque, lasciando da parte quello, ti sei attaccato a questa?</div></article>
+<article class="section" id="s-7"><a class="ref" href="#s-7">7</a><div class="section-text">Per questa parentela, alcuni di noi, inclinandovi, diventano simili ai lupi: infidi, insidiosi e nocivi; altri simili ai leoni: selvaggi, feroci e indomiti; ma la maggior parte di noi diventa volpe e, tra gli animali, qualcosa di miserabile.</div></article>
+<article class="section" id="s-8"><a class="ref" href="#s-8">8</a><div class="section-text">Che cos’altro è infatti un uomo ingiurioso e maligno, se non una volpe o qualche altro animale ancora più misero e meschino?</div></article>
+<article class="section" id="s-9"><a class="ref" href="#s-9">9</a><div class="section-text">Guardate dunque e fate attenzione a non diventare una di queste misere creature.</div></article>
+</div>
+
+<nav class="chapter-nav chapter-nav-bottom"><a href="1-02.html">Diatriba precedente</a><a class="chapter-home" href="../index.html">Home</a><a href="1-04.html">Diatriba successiva</a></nav>

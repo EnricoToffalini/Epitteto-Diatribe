@@ -1,0 +1,49 @@
+---
+title: "Discourse III.12 — About exercise"
+lang: en
+pagetitle: "Discourse III.12 — About exercise — Epictetus, Discourses"
+title-prefix: ""
+description-meta: "Discourse III.12: “About exercise”. The Discourses of Epictetus, in George Long’s English translation, with his notes."
+sidebar: en
+---
+
+<!--
+FILE GENERATO. NON MODIFICARE A MANO.
+
+Modificare invece:
+- translation/it/**.md      per il testo e i titoli italiani
+- data/intro.json           per le note introduttive delle home page
+- tools/site_config.py      per lingue, testi dell'interfaccia, URL
+- styles.css                per l'aspetto grafico
+
+Poi eseguire:
+    run.bat
+-->
+
+
+<div class="diatribe-meta">Book III · 3 paragraphs · <span class="canonical" title="Canonical reference">III 12</span></div>
+
+<nav class="chapter-nav"><a href="3-11.html">Previous discourse</a><a class="chapter-home" href="../index.html">Home</a><a href="3-13.html">Next discourse</a></nav>
+
+<div class="paragraph-list">
+<p>WE ought not to make our exercises consist in means contrary to nature and adapted to cause admiration, for if we do so, we who call ourselves philosophers, shall not differ at all from jugglers. For it is difficult even to walk on a rope; and not only difficult, but it is also dangerous. Ought we for this reason to practise walking on a rope, or setting up a palm tree,<a class="note-ref" id="noteref-1" href="#note-1" role="doc-noteref" aria-label="note 1"><sup>1</sup></a> or embracing statues? By no means. Every thing which is difficult and dangerous is not suitable for practice; but that is suitable which conduces to the working out of that which is proposed to us. And what is that which is proposed to us as a thing to be worked out? To live with desire and aversion (avoidance of certain things) free from restraint. And what is this? Neither to be disappointed in that which you desire, nor to fall into any thing which you would avoid. Towards this object then exercise (practice) ought to tend. For since it is not possible to have your desire not disappointed and your aversion free from falling into that which you would avoid, without great and constant practice, you must know that if you allow your desire and aversion to turn to things which are not within the power of the will, you will neither have your desire capable of attaining your object, nor your aversion free from the power of avoiding that which you would avoid. And since strong habit leads (prevails), and we are accustomed to employ desire and aversion only to things which are not within the power of our will, we ought to oppose to this habit a contrary habit, and where there is great slipperiness in the appearances, there to oppose the habit of exercise.</p>
+<p>I am rather inclined to pleasure: I will incline to the contrary side<a class="note-ref" id="noteref-2" href="#note-2" role="doc-noteref" aria-label="note 2"><sup>2</sup></a> above measure for the sake of exercise. I am averse to pain: I will rub and exercise against this the appearances which are presented to me for the purpose of withdrawing my aversion from every such thing. For who is a practitioner in exercise? He who practises not using his desire, and applies his aversion only to things which are within the power of his will, and practises most in the things which are difficult to conquer. For this reason one man must practise himself more against one thing and another against another thing. What then is it to the purpose to set up a palm tree, or to carry about a tent of skins, or a mortar and pestle?<a class="note-ref" id="noteref-3" href="#note-3" role="doc-noteref" aria-label="note 3"><sup>3</sup></a> Practise, man, if you are irritable, to endure if you are abused, not to be vexed if you are treated with dishonour. Then you will make so much progress that, even if a man strikes you you will say to yourself, Imagine that you have embraced a statue: then also exercise yourself to use wine properly so as not to drink much, for in this also there are men who foolishly practise themselves; but first of all you should abstain from it, and abstain from a young girl and dainty cakes. Then at last, if occasion presents itself, for the purpose of trying yourself at a proper time you will descend into the arena to know if appearances overpower you as they did formerly. But at first fly far from that which is stronger than yourself: the contest is unequal between a charming young girl and a beginner in philosophy. The earthen pitcher, as the saying is, and the rock do not agree.<a class="note-ref" id="noteref-4" href="#note-4" role="doc-noteref" aria-label="note 4"><sup>4</sup></a></p>
+<p>After the desire and the aversion comes the second topic (matter) of the movements towards action and the withdrawals from it; that you may be obedient to reason, that you do nothing out of season or place, or contrary to any propriety of the kind.<a class="note-ref" id="noteref-5" href="#note-5" role="doc-noteref" aria-label="note 5"><sup>5</sup></a> The third topic concerns the assents, which is related to the things which are persuasive and attractive. For as Socrates said, we ought not to live a life without examination,<a class="note-ref" id="noteref-6" href="#note-6" role="doc-noteref" aria-label="note 6"><sup>6</sup></a> so we ought not to accept an appearance without examination, but we should say, Wait, let me see what you are and whence you come; like the watch at night (who says) Show me the pass (the Roman tessera).<a class="note-ref" id="noteref-7" href="#note-7" role="doc-noteref" aria-label="note 7"><sup>7</sup></a> Have you the signal from nature which the appearance that may be accepted ought to have? And finally whatever means are applied to the body by those who exercise it, if they tend in any way towards desire and aversion, they also may be fit means of exercise; but if they are for display, they are the indications of one who has turned himself towards something external and who is hunting for something else and who looks for spectators who will say, Oh the great man. For this reason Apollonius said well, When you intend to exercise yourself for your own advantage, and you are thirsty from heat, take in a mouthful of cold water, and spit it out and tell nobody.<a class="note-ref" id="noteref-8" href="#note-8" role="doc-noteref" aria-label="note 8"><sup>8</sup></a></p>
+</div>
+
+<section class="notes">
+<h2>Notes</h2>
+<ol class="note-list">
+<li class="note" id="note-1" role="doc-endnote"><p><q>To set up a palm tree.</q> He does not mean a real palm tree, but something high and upright. The climbers of palm trees are mentioned by Lucian, de Dea Syria (c. 29). Schweigh. has given the true interpretation when he says that on certain feast days in the country a high piece of wood is fixed in the earth and climbed by the most active youths by using only their hands and feet. In England we know what this is.</p> 
+<p>It is said that Diogenes used to embrace statues when they were covered with snow for the purpose of exercising himself. I suppose bronze statues, not marble which might be easily broken. The man would not remain long in the embrace of a metal statue in winter. But perhaps the story is not true. I have heard of a general, not an English general, setting a soldier on a cold cannon; but it was as a punishment.</p><a class="note-back" href="#noteref-1" aria-label="back to the text">&#8617;</a></li>
+<li class="note" id="note-2" role="doc-endnote"><p><span class="foreign" lang="grc">ἀνατοιχήσω</span>. See the note of Schweighaeuser.</p><a class="note-back" href="#noteref-2" aria-label="back to the text">&#8617;</a></li>
+<li class="note" id="note-3" role="doc-endnote"><p>This was done for the sake of exercise says Upton; but I don’t understand the passage.</p><a class="note-back" href="#noteref-3" aria-label="back to the text">&#8617;</a></li>
+<li class="note" id="note-4" role="doc-endnote"><p>There is a like fable in Aesop of the earthen pitcher and the brazen. Upton.</p><a class="note-back" href="#noteref-4" aria-label="back to the text">&#8617;</a></li>
+<li class="note" id="note-5" role="doc-endnote"><p>The text has <span class="foreign" lang="grc">ἀσυμμετρίαν</span>. It would be easier to understand the passage, if we read <span class="foreign" lang="grc">συμμετριάν</span>, as in iv. 1, 84 we have <span class="foreign" lang="grc">παρὰ τὰ μέτρα</span>. See Schweig.’s note.</p><a class="note-back" href="#noteref-5" aria-label="back to the text">&#8617;</a></li>
+<li class="note" id="note-6" role="doc-endnote"><p>See i. 26, 18, and iii. 2, 5.</p><a class="note-back" href="#noteref-6" aria-label="back to the text">&#8617;</a></li>
+<li class="note" id="note-7" role="doc-endnote"><p>Polybius vi. 36.</p><a class="note-back" href="#noteref-7" aria-label="back to the text">&#8617;</a></li>
+<li class="note" id="note-8" role="doc-endnote"><p>Schweighaeuser refers to Arrian’s Expedition of Alexander (vi. 26) for such an instance of Alexander’s abstinence. There was an Apollonius of Tyana, whose life was written by Philostratus: but it may be that this is not the man who is mentioned here.</p><a class="note-back" href="#noteref-8" aria-label="back to the text">&#8617;</a></li>
+</ol>
+</section>
+
+<nav class="chapter-nav chapter-nav-bottom"><a href="3-11.html">Previous discourse</a><a class="chapter-home" href="../index.html">Home</a><a href="3-13.html">Next discourse</a></nav>

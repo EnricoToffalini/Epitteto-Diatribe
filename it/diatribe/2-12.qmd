@@ -1,0 +1,56 @@
+---
+title: "Diatriba II.12 — Sul discutere"
+lang: it
+pagetitle: "Diatriba II.12 — Sul discutere — Epitteto, Diatribe"
+title-prefix: ""
+description-meta: "Diatriba II.12: «Sul discutere». Le Diatribe di Epitteto raccolte da Arriano, in traduzione italiana."
+sidebar: it
+---
+
+<!--
+FILE GENERATO. NON MODIFICARE A MANO.
+
+Modificare invece:
+- translation/it/**.md      per il testo e i titoli italiani
+- data/intro.json           per le note introduttive delle home page
+- tools/site_config.py      per lingue, testi dell'interfaccia, URL
+- styles.css                per l'aspetto grafico
+
+Poi eseguire:
+    run.bat
+-->
+
+
+<div class="diatribe-meta">Libro II · 25 sezioni · <span class="canonical" title="Riferimento canonico">II 12</span></div>
+
+<nav class="chapter-nav"><a href="2-11.html">Diatriba precedente</a><a class="chapter-home" href="../index.html">Home</a><a href="2-13.html">Diatriba successiva</a></nav>
+
+<div class="section-list">
+<article class="section" id="s-1"><a class="ref" href="#s-1">1</a><div class="section-text">Ciò che bisogna imparare per saper usare il ragionamento è stato definito con precisione dai nostri. Ma quanto all’uso appropriato di queste cose, siamo completamente privi di esercizio.</div></article>
+<article class="section" id="s-2"><a class="ref" href="#s-2">2</a><div class="section-text">Prendi uno qualunque di noi e dagli come interlocutore un profano: non sa come trattarlo; dopo averlo smosso appena un po’, se quello risponde fuori strada, non sa più come proseguire con lui. Allora lo insulta o lo deride e dice: «È un profano; non c’è modo di trattare con lui».</div></article>
+<article class="section" id="s-3"><a class="ref" href="#s-3">3</a><div class="section-text">Una guida, invece, quando trova uno che si è smarrito, lo conduce sulla strada giusta; non se ne va dopo averlo deriso o insultato.</div></article>
+<article class="section" id="s-4"><a class="ref" href="#s-4">4</a><div class="section-text">Anche tu mostragli la verità e vedrai che ti seguirà. Ma finché non gliela mostri, non deriderlo: renditi piuttosto conto della tua incapacità.</div></article>
+<article class="section" id="s-5"><a class="ref" href="#s-5">5</a><div class="section-text">Come faceva dunque Socrate? Costringeva il suo stesso interlocutore a testimoniare per lui e non aveva bisogno di nessun altro testimone. Perciò poteva dire: «Lascio perdere tutti gli altri; mi basta sempre come testimone chi mi contraddice. Non chiedo il giudizio degli altri, ma soltanto quello del mio interlocutore».</div></article>
+<article class="section" id="s-6"><a class="ref" href="#s-6">6</a><div class="section-text">Rendeva infatti così evidente ciò che derivava dalle nozioni, che chiunque, accorgendosi della contraddizione, se ne ritraeva.</div></article>
+<article class="section" id="s-7"><a class="ref" href="#s-7">7</a><div class="section-text">Chi prova invidia, forse gioisce? — Niente affatto: piuttosto soffre. Così, partendo dal contrario, conduceva avanti l’interlocutore. E allora? Ti sembra che l’invidia sia dolore per i mali? E quale invidia c’è dei mali?</div></article>
+<article class="section" id="s-8"><a class="ref" href="#s-8">8</a><div class="section-text">Non gli faceva dunque dire che l’invidia è dolore per i beni? E ancora: si potrebbe invidiare qualcuno che non ha nulla a che fare con noi?</div></article>
+<article class="section" id="s-9"><a class="ref" href="#s-9">9</a><div class="section-text">— Niente affatto. E così, dopo aver completato e articolato la nozione, se ne andava; non diceva: «Definiscimi l’invidia», per poi, quando l’altro l’avesse definita, dire: «Hai definito male: il termine definitorio non è convertibile con quello principale»;</div></article>
+<article class="section" id="s-10"><a class="ref" href="#s-10">10</a><div class="section-text">sono termini tecnici e perciò pesanti e difficili da seguire per i profani, dai quali noi non riusciamo a staccarci.</div></article>
+<article class="section" id="s-11"><a class="ref" href="#s-11">11</a><div class="section-text">Ma non siamo affatto capaci di smuoverlo servendoci di argomenti nei quali il profano stesso, seguendo le proprie rappresentazioni, possa concedere qualcosa o respingerla.</div></article>
+<article class="section" id="s-12"><a class="ref" href="#s-12">12</a><div class="section-text">E così, giustamente consapevoli di questa nostra incapacità, ci asteniamo dal farlo, almeno quanti di noi hanno un po’ di cautela.</div></article>
+<article class="section" id="s-13"><a class="ref" href="#s-13">13</a><div class="section-text">I più, invece, avventati, una volta lanciatisi in una cosa del genere, si confondono e confondono gli altri e alla fine, dopo aver insultato ed essere stati insultati, se ne vanno.</div></article>
+<article class="section" id="s-14"><a class="ref" href="#s-14">14</a><div class="section-text">La prima e principale peculiarità di Socrate era questa: non irritarsi mai in una discussione, non proferire mai nulla di offensivo o insultante, ma sopportare chi lo insultava e porre fine alla contesa.</div></article>
+<article class="section" id="s-15"><a class="ref" href="#s-15">15</a><div class="section-text">Se volete sapere quanto fosse capace in questo, leggete il <i>Simposio</i> di Senofonte e vedrete quante contese seppe sciogliere.</div></article>
+<article class="section" id="s-16"><a class="ref" href="#s-16">16</a><div class="section-text">Per questo, a ragione, anche presso i poeti è citato come grandissimo elogio il verso: «Presto e con sapienza pose fine a una grande contesa».</div></article>
+<article class="section" id="s-17"><a class="ref" href="#s-17">17</a><div class="section-text">E allora? Oggi la cosa non è troppo sicura, soprattutto a Roma. Chi vuole farlo infatti non dovrà certo agire in un angolo, ma avvicinarsi, poniamo, a un ricco di rango consolare e chiedergli:</div></article>
+<article class="section" id="s-18"><a class="ref" href="#s-18">18</a><div class="section-text">«Sapresti dirmi a chi hai affidato i tuoi cavalli?» «Certo.» «Forse al primo che capita, inesperto di cavalli?» «Niente affatto.» «E a chi hai affidato l’oro, l’argento o le vesti?» «Neppure queste cose al primo che capita.»</div></article>
+<article class="section" id="s-19"><a class="ref" href="#s-19">19</a><div class="section-text">«E il tuo corpo, hai già pensato di affidarlo a qualcuno perché se ne prenda cura?» «Come no?» «Naturalmente a uno esperto anche in questo, nella ginnastica o nella medicina?» «Certamente.»</div></article>
+<article class="section" id="s-20"><a class="ref" href="#s-20">20</a><div class="section-text">«Sono dunque queste le cose migliori che possiedi, o hai anche qualcos’altro migliore di tutte?» «Che cosa intendi?» «Per Zeus, ciò che si serve proprio di queste cose, valuta ciascuna di esse e delibera.»</div></article>
+<article class="section" id="s-21"><a class="ref" href="#s-21">21</a><div class="section-text">«Intendi forse l’anima?» «Hai capito bene: proprio di questa parlo.» «Per Zeus, mi pare che questa sia di gran lunga la cosa migliore che possiedo.»</div></article>
+<article class="section" id="s-22"><a class="ref" href="#s-22">22</a><div class="section-text">«Sai dunque dirmi in che modo ti sei preso cura dell’anima? Non è infatti verosimile che tu, così sapiente e stimato in città, lasci così, a caso, che la cosa migliore che possiedi resti trascurata e vada in rovina.»</div></article>
+<article class="section" id="s-23"><a class="ref" href="#s-23">23</a><div class="section-text">«Niente affatto.» «Ma te ne sei preso cura da solo? Hai imparato da qualcuno o hai trovato tu stesso il modo?» A questo punto c’è il pericolo che per prima cosa dica:</div></article>
+<article class="section" id="s-24"><a class="ref" href="#s-24">24</a><div class="section-text">«Che t’importa, brav’uomo? Sei forse il mio padrone?» E poi, se insisti a dargli fastidio, che alzi le mani e ti dia dei pugni.</div></article>
+<article class="section" id="s-25"><a class="ref" href="#s-25">25</a><div class="section-text">Un tempo anch’io ero un ammiratore di questo modo di fare, prima di incappare in questi rischi.</div></article>
+</div>
+
+<nav class="chapter-nav chapter-nav-bottom"><a href="2-11.html">Diatriba precedente</a><a class="chapter-home" href="../index.html">Home</a><a href="2-13.html">Diatriba successiva</a></nav>

@@ -1,0 +1,53 @@
+---
+title: "Diatriba III.3 — Qual è la materia dell'uomo buono e in che cosa bisogna soprattutto esercitarsi"
+lang: it
+pagetitle: "Diatriba III.3 — Qual è la materia dell'uomo buono e in che cosa bisogna soprattutto esercitarsi — Epitteto, Diatribe"
+title-prefix: ""
+description-meta: "Diatriba III.3: «Qual è la materia dell'uomo buono e in che cosa bisogna soprattutto esercitarsi». Le Diatribe di Epitteto raccolte da Arriano, in traduzione italiana."
+sidebar: it
+---
+
+<!--
+FILE GENERATO. NON MODIFICARE A MANO.
+
+Modificare invece:
+- translation/it/**.md      per il testo e i titoli italiani
+- data/intro.json           per le note introduttive delle home page
+- tools/site_config.py      per lingue, testi dell'interfaccia, URL
+- styles.css                per l'aspetto grafico
+
+Poi eseguire:
+    run.bat
+-->
+
+
+<div class="diatribe-meta">Libro III · 22 sezioni · <span class="canonical" title="Riferimento canonico">III 3</span></div>
+
+<nav class="chapter-nav"><a href="3-02.html">Diatriba precedente</a><a class="chapter-home" href="../index.html">Home</a><a href="3-04.html">Diatriba successiva</a></nav>
+
+<div class="section-list">
+<article class="section" id="s-1"><a class="ref" href="#s-1">1</a><div class="section-text">La materia dell’uomo buono e virtuoso è il proprio principio direttivo; il corpo è materia del medico e dell’allenatore, il campo del contadino. Compito dell’uomo buono e virtuoso è usare le rappresentazioni secondo natura.</div></article>
+<article class="section" id="s-2"><a class="ref" href="#s-2">2</a><div class="section-text">Ogni anima è per natura portata, come a dare assenso al vero, a respingere il falso e a sospendere il giudizio sull’incerto, così a muoversi con desiderio verso il bene, con avversione verso il male e in nessuno dei due modi verso ciò che non è né male né bene.</div></article>
+<article class="section" id="s-3"><a class="ref" href="#s-3">3</a><div class="section-text">Come infatti né il banchiere né il venditore di ortaggi possono rifiutare la moneta di Cesare, ma, se gliela mostri, volenti o nolenti devono consegnare ciò che vendono in cambio di essa, così accade anche per l’anima.</div></article>
+<article class="section" id="s-4"><a class="ref" href="#s-4">4</a><div class="section-text">Quando il bene appare, subito l’anima si muove verso di esso; quando appare il male, se ne allontana. E un’anima non respingerà mai una rappresentazione evidente del bene, non più di quanto si rifiuti la moneta di Cesare. Da questo dipende ogni movimento, dell’uomo come di Dio.</div></article>
+<article class="section" id="s-5"><a class="ref" href="#s-5">5</a><div class="section-text">Per questo il bene viene anteposto a ogni legame di parentela. «Non ho nulla a che fare con mio padre, ma con il bene.» «Sei dunque così duro?» Così sono fatto per natura: questa è la moneta che Dio mi ha dato.</div></article>
+<article class="section" id="s-6"><a class="ref" href="#s-6">6</a><div class="section-text">Perciò, se il bene è qualcosa di diverso dal nobile e dal giusto, vengono meno padre, fratello, patria e ogni cosa.</div></article>
+<article class="section" id="s-7"><a class="ref" href="#s-7">7</a><div class="section-text">Dovrei dunque disprezzare il mio bene perché tu abbia il tuo e cedertelo? In cambio di che? «Sono tuo padre.» Ma non sei il bene. «Sono tuo fratello.»</div></article>
+<article class="section" id="s-8"><a class="ref" href="#s-8">8</a><div class="section-text">Ma non sei il bene. Se invece poniamo il bene nella retta scelta morale, lo stesso mantenere le proprie relazioni diventa un bene; e allora chi cede qualcosa delle cose esterne ottiene il bene.</div></article>
+<article class="section" id="s-9"><a class="ref" href="#s-9">9</a><div class="section-text">Il padre si prende il denaro. Ma non mi danneggia. Il fratello avrà una parte maggiore del campo. Quanta ne vuole. Ma avrà forse una parte maggiore anche della dignità, della lealtà, dell’amore fraterno?</div></article>
+<article class="section" id="s-10"><a class="ref" href="#s-10">10</a><div class="section-text">Da questo possesso chi può estromettermi? Neppure Zeus. E infatti non ha voluto farlo, ma lo ha posto in mio potere e me lo ha dato quale lo possedeva lui stesso: non impedito, non costretto, non ostacolato.</div></article>
+<article class="section" id="s-11"><a class="ref" href="#s-11">11</a><div class="section-text">Quando dunque ciascuno ha una moneta diversa, basta mostrargli quella e si ottiene ciò che viene venduto in cambio.</div></article>
+<article class="section" id="s-12"><a class="ref" href="#s-12">12</a><div class="section-text">È arrivato nella provincia un proconsole ladro. Di quale moneta si serve? Del denaro. Mostragliela e portati via ciò che vuoi. È arrivato un adultero. Di quale moneta si serve? Di ragazzine. «Prendi la moneta», dice, «e vendimi l’affare.» Dagliela e compra.</div></article>
+<article class="section" id="s-13"><a class="ref" href="#s-13">13</a><div class="section-text">Un altro è preso dai ragazzetti. Dagli la moneta e prendi ciò che vuoi. Un altro è appassionato di caccia. Dagli un bel cavallino o un cagnolino: piangendo e gemendo ti venderà in cambio ciò che vuoi. Qualcun altro infatti lo costringe dall’interno: colui che ha stabilito per lui questa moneta.</div></article>
+<article class="section" id="s-14"><a class="ref" href="#s-14">14</a><div class="section-text">Su questo genere di cose soprattutto bisogna esercitarsi. Appena uscito al mattino, chiunque tu veda, chiunque tu senta, esaminalo e rispondi come a una domanda. Che cosa hai visto? Un bell’uomo o una bella donna? Applica il criterio. È qualcosa che non dipende dalla scelta morale o che dipende da essa? Non dipende dalla scelta morale: toglila di mezzo.</div></article>
+<article class="section" id="s-15"><a class="ref" href="#s-15">15</a><div class="section-text">Che cosa hai visto? Uno che piange per la morte di un figlio? Applica il criterio. La morte non dipende dalla scelta morale: toglila di mezzo. Ti è venuto incontro un console? Applica il criterio. Che genere di cosa è il consolato? Dipende dalla scelta morale oppure no? Non dipende dalla scelta morale: togli anche questo; non è moneta buona. Gettalo via: non ti riguarda.</div></article>
+<article class="section" id="s-16"><a class="ref" href="#s-16">16</a><div class="section-text">E se facessimo questo e ci esercitassimo in questo ogni giorno, dal mattino alla sera, per gli dèi, qualche risultato ci sarebbe.</div></article>
+<article class="section" id="s-17"><a class="ref" href="#s-17">17</a><div class="section-text">Ora invece restiamo subito a bocca aperta davanti a ogni rappresentazione e ne siamo catturati; soltanto a scuola, se mai, ci risvegliamo un poco. Poi, usciti, se vediamo uno che piange, diciamo: «È rovinato»; se vediamo un console: «Beato lui»; un esiliato: «Poveretto»; un povero: «Disgraziato, non ha di che mangiare.»</div></article>
+<article class="section" id="s-18"><a class="ref" href="#s-18">18</a><div class="section-text">Bisogna dunque estirpare questi cattivi giudizi e concentrare qui ogni sforzo. Che cos’è infatti il piangere e il lamentarsi? Un giudizio. Che cos’è l’infelicità? Un giudizio. Che cosa sono la sedizione, la discordia, il biasimo, l’accusa, l’empietà, le chiacchiere vuote?</div></article>
+<article class="section" id="s-19"><a class="ref" href="#s-19">19</a><div class="section-text">Tutte queste cose sono giudizi e nient’altro: giudizi su ciò che non dipende dalla scelta morale, come se fosse bene o male. Trasferisca uno questi giudizi alle cose che dipendono dalla scelta morale, e io gli garantisco che resterà saldo, qualunque cosa accada intorno a lui.</div></article>
+<article class="section" id="s-20"><a class="ref" href="#s-20">20</a><div class="section-text">Come è la bacinella d’acqua, così è l’anima; come è il raggio che cade sull’acqua, così sono le rappresentazioni.</div></article>
+<article class="section" id="s-21"><a class="ref" href="#s-21">21</a><div class="section-text">Quando dunque l’acqua si muove, sembra che si muova anche il raggio, ma non si muove.</div></article>
+<article class="section" id="s-22"><a class="ref" href="#s-22">22</a><div class="section-text">Così, quando uno è colto da vertigini, non sono le arti e le virtù a confondersi, ma il soffio vitale su cui esse risiedono; quando questo si ristabilisce, si ristabiliscono anche quelle.</div></article>
+</div>
+
+<nav class="chapter-nav chapter-nav-bottom"><a href="3-02.html">Diatriba precedente</a><a class="chapter-home" href="../index.html">Home</a><a href="3-04.html">Diatriba successiva</a></nav>

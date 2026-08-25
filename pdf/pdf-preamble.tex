@@ -1,0 +1,84 @@
+% Impaginazione del PDF italiano delle Diatribe.
+% Il libro contiene solo la traduzione italiana: il greco e l'inglese stanno sul
+% sito. Fonti e crediti sono in fondo.
+
+\usepackage{microtype}
+\usepackage{enumitem}
+\usepackage{setspace}
+\usepackage{graphicx}
+\usepackage{xcolor}
+\usepackage{eso-pic}
+\usepackage{fontspec}
+
+% Palatino Linotype ha il greco politonico ed è la stessa faccia usata dal sito.
+% Se manca, xelatex ripiega sul font di default.
+\IfFontExistsTF{Palatino Linotype}{\setmainfont{Palatino Linotype}}{}
+
+% Titoli nello stesso carattere del testo: in un libro il contrasto con un
+% carattere bastone stona.
+\addtokomafont{disposition}{\rmfamily}
+
+\definecolor{eptealdark}{HTML}{1F5F5C}
+\definecolor{epink}{HTML}{2A2A26}
+\definecolor{epcream}{HTML}{F3EBD8}
+
+% I colori dei collegamenti sono impostati da Quarto (linkcolor/urlcolor nel
+% front matter di pdf_book_it.qmd) e si riferiscono ai nomi definiti qui sopra.
+
+% Copertina a piena pagina, prima dell'indice: l'illustrazione fa da sfondo e il
+% titolo è composto sopra, nella parte alta che l'immagine lascia libera.
+% Gli hook con l'asterisco valgono solo per questa pagina.
+\newcommand{\epcover}[1]{%
+  \thispagestyle{empty}%
+  \AddToShipoutPictureBG*{%
+    \AtPageLowerLeft{\color{epcream}\rule{\paperwidth}{\paperheight}}%
+  }%
+  \AddToShipoutPictureFG*{%
+    \AtPageCenter{%
+      \makebox(0,0){%
+        \includegraphics[width=\paperwidth,height=\paperheight,keepaspectratio]{#1}%
+      }%
+    }%
+    \AtPageUpperLeft{%
+      \raisebox{-0.15\paperheight}{%
+        \makebox[\paperwidth][c]{%
+          \begin{minipage}{0.88\paperwidth}
+            \centering
+            {\color{eptealdark}\fontsize{17}{20}\selectfont\bfseries
+             \addfontfeature{LetterSpace=18}EPITTETO\par}
+            \vspace{0.55em}
+            {\color{epink}\fontsize{48}{51}\selectfont\bfseries Diatribe\par}
+            \vspace{0.7em}
+            {\color{black!62}\fontsize{16}{19}\selectfont\itshape
+             raccolte da Arriano\par}
+          \end{minipage}%
+        }%
+      }%
+    }%
+  }%
+  \null\clearpage%
+}
+
+\setstretch{1.04}
+\setlength{\parindent}{0pt}
+\setlength{\parskip}{0.34em}
+
+% L'indice sta subito dopo la copertina; la pagina successiva è riservata alla
+% nota introduttiva.
+\let\epstandardtableofcontents\tableofcontents
+\renewcommand{\tableofcontents}{%
+  \begingroup
+  \setstretch{0.96}%
+  \epstandardtableofcontents
+  \endgroup%
+  \clearpage%
+}
+
+\setlist[description]{
+  style=nextline,
+  leftmargin=0pt,
+  labelsep=0pt,
+  itemsep=0.35em,
+  parsep=0pt,
+  topsep=0.2em
+}

@@ -1,0 +1,53 @@
+---
+title: "Diatriba II.9 — Che, non riuscendo ad adempiere ciò che comporta essere uomo, assumiamo il ruolo del filosofo"
+lang: it
+pagetitle: "Diatriba II.9 — Che, non riuscendo ad adempiere ciò che comporta essere uomo, assumiamo il ruolo del filosofo — Epitteto, Diatribe"
+title-prefix: ""
+description-meta: "Diatriba II.9: «Che, non riuscendo ad adempiere ciò che comporta essere uomo, assumiamo il ruolo del filosofo». Le Diatribe di Epitteto raccolte da Arriano, in traduzione italiana."
+sidebar: it
+---
+
+<!--
+FILE GENERATO. NON MODIFICARE A MANO.
+
+Modificare invece:
+- translation/it/**.md      per il testo e i titoli italiani
+- data/intro.json           per le note introduttive delle home page
+- tools/site_config.py      per lingue, testi dell'interfaccia, URL
+- styles.css                per l'aspetto grafico
+
+Poi eseguire:
+    run.bat
+-->
+
+
+<div class="diatribe-meta">Libro II · 22 sezioni · <span class="canonical" title="Riferimento canonico">II 9</span></div>
+
+<nav class="chapter-nav"><a href="2-08.html">Diatriba precedente</a><a class="chapter-home" href="../index.html">Home</a><a href="2-10.html">Diatriba successiva</a></nav>
+
+<div class="section-list">
+<article class="section" id="s-1"><a class="ref" href="#s-1">1</a><div class="section-text">Non è cosa da poco anche soltanto adempiere ciò che comporta essere uomo.</div></article>
+<article class="section" id="s-2"><a class="ref" href="#s-2">2</a><div class="section-text">Che cos’è infatti l’uomo? «Un essere vivente razionale e mortale.» Subito, per la razionalità, da chi ci distinguiamo? «Dalle belve.» E da chi altro?</div></article>
+<article class="section" id="s-3"><a class="ref" href="#s-3">3</a><div class="section-text">«Dalle pecore e dagli animali simili.» Bada dunque di non fare qualcosa come una belva; altrimenti hai distrutto l’uomo, non hai adempiuto ciò che comporta essere uomo. Bada di non fare qualcosa come una pecora; altrimenti, anche così, l’uomo è perduto.</div></article>
+<article class="section" id="s-4"><a class="ref" href="#s-4">4</a><div class="section-text">Che cosa facciamo dunque come pecore? Quando agiamo per il ventre, per i genitali, a caso, sordidamente, senza curarci di nulla: verso che cosa siamo scivolati? Verso le pecore.</div></article>
+<article class="section" id="s-5"><a class="ref" href="#s-5">5</a><div class="section-text">Che cosa abbiamo perduto? La razionalità. Quando agiamo in modo litigioso, dannoso, iracondo e aggressivo, verso che cosa siamo scivolati?</div></article>
+<article class="section" id="s-6"><a class="ref" href="#s-6">6</a><div class="section-text">Verso le belve. Così alcuni di noi sono grandi belve, altri bestioline maligne e meschine, di quelle per cui si può dire: «Che mi mangi piuttosto un leone.»</div></article>
+<article class="section" id="s-7"><a class="ref" href="#s-7">7</a><div class="section-text">In tutti questi modi si perde ciò che comporta essere uomo.</div></article>
+<article class="section" id="s-8"><a class="ref" href="#s-8">8</a><div class="section-text">Quando infatti si conserva una proposizione congiuntiva? Quando adempie ciò che promette, cosicché la conservazione di una congiuntiva consiste nell’essere composta di proposizioni vere. E una disgiuntiva quando si conserva? Quando adempie ciò che promette. E quando si conservano i flauti, quando la lira, quando il cavallo, quando il cane?</div></article>
+<article class="section" id="s-9"><a class="ref" href="#s-9">9</a><div class="section-text">Che cosa c’è dunque di strano se anche l’uomo allo stesso modo si conserva e allo stesso modo si perde?</div></article>
+<article class="section" id="s-10"><a class="ref" href="#s-10">10</a><div class="section-text">Ogni cosa poi cresce e si conserva attraverso le attività che le sono proprie: il falegname mediante attività da falegname, il grammatico mediante attività da grammatico. Se invece prende l’abitudine di scrivere in modo sgrammaticato, è inevitabile che la sua arte si corrompa e vada perduta.</div></article>
+<article class="section" id="s-11"><a class="ref" href="#s-11">11</a><div class="section-text">Così le azioni rispettose conservano l’uomo rispettoso, mentre quelle spudorate lo distruggono; le azioni fedeli conservano l’uomo fedele, e quelle contrarie lo distruggono.</div></article>
+<article class="section" id="s-12"><a class="ref" href="#s-12">12</a><div class="section-text">E i contrari, a loro volta, vengono rafforzati dai contrari: lo spudorato dalla spudoratezza, l’infedele dall’infedeltà, l’insultatore dagli insulti, l’iracondo dall’ira, l’avaro da guadagni e spese indebiti.</div></article>
+<article class="section" id="s-13"><a class="ref" href="#s-13">13</a><div class="section-text">Per questo i filosofi prescrivono di non accontentarsi soltanto di apprendere, ma di aggiungervi l’esercizio e poi l’allenamento.</div></article>
+<article class="section" id="s-14"><a class="ref" href="#s-14">14</a><div class="section-text">Da molto tempo infatti siamo abituati a fare il contrario e abbiamo reso operative opinioni contrarie a quelle rette. Se dunque non renderemo operative anche quelle rette, non saremo altro che interpreti di giudizi altrui.</div></article>
+<article class="section" id="s-15"><a class="ref" href="#s-15">15</a><div class="section-text">Chi di noi, oggi, non sa fare una trattazione tecnica sui beni e sui mali? Che tra le cose esistenti alcune sono buone, altre cattive, altre indifferenti; buone sono le virtù e ciò che partecipa delle virtù, cattive i loro contrari, indifferenti la ricchezza, la salute, la fama.</div></article>
+<article class="section" id="s-16"><a class="ref" href="#s-16">16</a><div class="section-text">E poi, mentre parliamo, se si produce un rumore più forte o qualcuno dei presenti ride di noi, restiamo sconvolti.</div></article>
+<article class="section" id="s-17"><a class="ref" href="#s-17">17</a><div class="section-text">Dove sono, filosofo, quelle cose che dicevi? Da dove le tiravi fuori quando le dicevi? Direttamente dalle labbra. Perché dunque profani rimedi che appartengono ad altri? Perché ti giochi ai dadi le cose più importanti?</div></article>
+<article class="section" id="s-18"><a class="ref" href="#s-18">18</a><div class="section-text">Una cosa infatti è riporre pane e vino in una dispensa, un’altra è mangiarli. Ciò che è stato mangiato viene digerito, distribuito, diventa nervi, carne, ossa, sangue, buon colorito, buon respiro. Ciò che hai riposto, quando vuoi puoi prenderlo e mostrarlo facilmente, ma non ne ricavi alcun vantaggio se non quello di sembrare che lo possiedi. Che differenza c’è infatti tra spiegare queste dottrine e quelle di chi professa opinioni diverse?</div></article>
+<article class="section" id="s-19"><a class="ref" href="#s-19">19</a><div class="section-text">Siediti ora e fai una trattazione tecnica delle dottrine di Epicuro, e forse saprai esporle meglio di lui. Perché dunque ti chiami stoico? Perché inganni i più? Perché, essendo greco, reciti la parte del Giudeo?</div></article>
+<article class="section" id="s-20"><a class="ref" href="#s-20">20</a><div class="section-text">Non vedi come ciascuno viene detto Giudeo, Siro, Egiziano? E quando vediamo qualcuno oscillare fra due parti, siamo soliti dire: «Non è Giudeo, fa soltanto finta». Ma quando assume lo stato d’animo di chi è stato battezzato e ha fatto la sua scelta, allora è realmente ed è chiamato Giudeo.</div></article>
+<article class="section" id="s-21"><a class="ref" href="#s-21">21</a><div class="section-text">Così anche noi siamo falsi battezzati: Giudei a parole, ma nei fatti tutt’altro, non in accordo con la dottrina, lontanissimi dal mettere in pratica ciò che diciamo e di cui ci vantiamo come se lo conoscessimo.</div></article>
+<article class="section" id="s-22"><a class="ref" href="#s-22">22</a><div class="section-text">Così, non riuscendo neppure ad adempiere ciò che comporta essere uomo, ci assumiamo anche quello del filosofo: un peso enorme, come se uno incapace di sollevare dieci libbre volesse portare il masso di Aiace.</div></article>
+</div>
+
+<nav class="chapter-nav chapter-nav-bottom"><a href="2-08.html">Diatriba precedente</a><a class="chapter-home" href="../index.html">Home</a><a href="2-10.html">Diatriba successiva</a></nav>

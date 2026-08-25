@@ -1,0 +1,30 @@
+---
+title: "Περὶ τῆς ἐκδόσεως"
+lang: grc
+pagetitle: "Περὶ τῆς ἐκδόσεως — Ἐπικτήτου Διατριβαί"
+title-prefix: ""
+description-meta: "Αἱ ἐκδόσεις καὶ αἱ ἄδειαι τῶν κειμένων τοῦδε τοῦ τόπου: Schenkl, George Long, Perseus Digital Library."
+sidebar: grc
+---
+
+<!--
+FILE GENERATO. NON MODIFICARE A MANO.
+
+Modificare invece:
+- translation/it/**.md      per il testo e i titoli italiani
+- data/intro.json           per le note introduttive delle home page
+- tools/site_config.py      per lingue, testi dell'interfaccia, URL
+- styles.css                per l'aspetto grafico
+
+Poi eseguire:
+    run.bat
+-->
+
+
+<div class="site-note credits-note">
+<p><strong>Τὸ ἑλληνικὸν κείμενον.</strong> <i>Epicteti dissertationes ab Arriano digestae</i>, ἔκδοσις μείζων, ἐπιμελείᾳ Heinrich Schenkl, Leipzig, Teubner, 1916· ἐκ τῆς <a href="https://www.perseus.tufts.edu/">Perseus Digital Library</a> (Tufts University), URN <code>urn:cts:greekLit:tlg0557.tlg001.perseus-grc2</code>.</p>
+<p><strong>Ἡ ἀγγλικὴ μετάφρασις.</strong> George Long, <i>The Discourses of Epictetus, with the Encheiridion and Fragments</i>, London, George Bell and Sons, 1890· ἐκ τῆς <a href="https://www.perseus.tufts.edu/">Perseus Digital Library</a>, URN <code>urn:cts:greekLit:tlg0557.tlg001.perseus-eng3</code>. αἱ δὲ σημειώσεις αὐτοῦ τοῦ Long εἰσὶ καὶ ἐν τῷ τέλει ἑκάστης διατριβῆς κεῖνται.</p>
+<p><strong>Ἡ ἄδεια.</strong> ἄμφω τὰ κείμενα κατὰ τὴν ἄδειαν <a href="https://creativecommons.org/licenses/by-sa/4.0/">Creative Commons Attribution-ShareAlike 4.0 International</a> δίδοται, καὶ ὅδε ὁ τόπος ἐπὶ τοῖς αὐτοῖς αὐτὰ ἐκδίδωσιν.</p>
+<p><strong>Ἡ ἰταλικὴ μετάφρασις.</strong> ὑπὸ GPT-5.6 Sol, μετὰ τῆς Claude Opus 5.0 ἐπικουρίας, ἐκ τοῦ ἑλληνικοῦ κειμένου πεποιημένη, ἔτει 2026 τετελεσμένη.</p>
+<p><strong>Ἡ εἰκὼν τοῦ ἐξωφύλλου.</strong> διὰ τεχνητῆς νοήσεως πεποίηται.</p>
+</div>

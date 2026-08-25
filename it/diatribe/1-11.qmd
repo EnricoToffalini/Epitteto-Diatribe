@@ -1,0 +1,71 @@
+---
+title: "Diatriba I.11 — Sull'affetto familiare"
+lang: it
+pagetitle: "Diatriba I.11 — Sull'affetto familiare — Epitteto, Diatribe"
+title-prefix: ""
+description-meta: "Diatriba I.11: «Sull'affetto familiare». Le Diatribe di Epitteto raccolte da Arriano, in traduzione italiana."
+sidebar: it
+---
+
+<!--
+FILE GENERATO. NON MODIFICARE A MANO.
+
+Modificare invece:
+- translation/it/**.md      per il testo e i titoli italiani
+- data/intro.json           per le note introduttive delle home page
+- tools/site_config.py      per lingue, testi dell'interfaccia, URL
+- styles.css                per l'aspetto grafico
+
+Poi eseguire:
+    run.bat
+-->
+
+
+<div class="diatribe-meta">Libro I · 40 sezioni · <span class="canonical" title="Riferimento canonico">I 11</span></div>
+
+<nav class="chapter-nav"><a href="1-10.html">Diatriba precedente</a><a class="chapter-home" href="../index.html">Home</a><a href="1-12.html">Diatriba successiva</a></nav>
+
+<div class="section-list">
+<article class="section" id="s-1"><a class="ref" href="#s-1">1</a><div class="section-text">Giunto da lui un uomo che ricopriva una carica, dopo avergli chiesto alcune cose personali, gli domandò se avesse anche figli e moglie.</div></article>
+<article class="section" id="s-2"><a class="ref" href="#s-2">2</a><div class="section-text">Avendo quello risposto di sì, gli domandò ancora: «E come ti trovi, dunque, in questa situazione?» «Miseramente», disse.</div></article>
+<article class="section" id="s-3"><a class="ref" href="#s-3">3</a><div class="section-text">Ed egli: «In che senso? Gli uomini non si sposano e fanno figli per essere infelici, ma piuttosto per essere felici».</div></article>
+<article class="section" id="s-4"><a class="ref" href="#s-4">4</a><div class="section-text">«Ma io», disse, «sto così male per i miei bambini che l’altro giorno, quando la mia figlioletta era malata e sembrava in pericolo, non sopportai neppure di starle accanto mentre era malata: me ne andai via, finché qualcuno non venne ad annunciarmi che stava bene».</div></article>
+<article class="section" id="s-5"><a class="ref" href="#s-5">5</a><div class="section-text">«E dunque? Ti sembra di aver agito bene?» «Ho agito secondo natura», disse. «Allora convincimi tu che hai agito secondo natura, e io ti convincerò che tutto ciò che avviene secondo natura avviene rettamente».</div></article>
+<article class="section" id="s-6"><a class="ref" href="#s-6">6</a><div class="section-text">«Questo», disse, «accade a tutti noi padri, o almeno alla maggior parte». «Non ti contesto che accada», disse, «ma ciò su cui discutiamo è se sia giusto».</div></article>
+<article class="section" id="s-7"><a class="ref" href="#s-7">7</a><div class="section-text">«Altrimenti, per la stessa ragione, bisognerebbe dire che anche i tumori vengono per il bene del corpo, perché vengono, e in generale che sbagliare è secondo natura, perché quasi tutti, o almeno la maggior parte di noi, sbagliamo».</div></article>
+<article class="section" id="s-8"><a class="ref" href="#s-8">8</a><div class="section-text">«Mostrami dunque tu in che modo questo è secondo natura». «Non posso», disse; «mostrami piuttosto tu in che modo non è secondo natura e non è giusto».</div></article>
+<article class="section" id="s-9"><a class="ref" href="#s-9">9</a><div class="section-text">Ed egli disse: «Se discutessimo del bianco e del nero, quale criterio chiameremmo in causa per distinguerli?» «La vista», disse. «E se discutessimo del caldo e del freddo, del duro e del molle, quale criterio?» «Il tatto».</div></article>
+<article class="section" id="s-10"><a class="ref" href="#s-10">10</a><div class="section-text">«Dunque, poiché discutiamo di ciò che è secondo natura e di ciò che si fa rettamente o non rettamente, quale criterio vuoi che adottiamo?»</div></article>
+<article class="section" id="s-11"><a class="ref" href="#s-11">11</a><div class="section-text">«Non lo so», disse. «Eppure non conoscere il criterio dei colori, degli odori e anche dei sapori forse non è un gran danno; ma non conoscere il criterio dei beni e dei mali, e di ciò che per l’uomo è secondo natura o contro natura, ti sembra un piccolo danno?»</div></article>
+<article class="section" id="s-12"><a class="ref" href="#s-12">12</a><div class="section-text">«È il danno più grande». «Su, dimmi: tutto ciò che ad alcuni sembra bello e conveniente sembra loro giustamente? E oggi è possibile che siano tutte giuste le opinioni degli Ebrei, dei Siri, degli Egizi e dei Romani riguardo al cibo?»</div></article>
+<article class="section" id="s-13"><a class="ref" href="#s-13">13</a><div class="section-text">«E come sarebbe possibile?» «Ma allora, credo, è inevitabile che, se sono giuste le opinioni degli Egizi, non siano giuste quelle degli altri; e se sono corrette quelle degli Ebrei, non siano corrette quelle degli altri».</div></article>
+<article class="section" id="s-14"><a class="ref" href="#s-14">14</a><div class="section-text">«Come potrebbe essere altrimenti?» «E dove c’è ignoranza, là ci sono anche mancanza di sapere e mancanza di educazione nelle cose necessarie».</div></article>
+<article class="section" id="s-15"><a class="ref" href="#s-15">15</a><div class="section-text">Egli acconsentì. «Tu dunque», disse, «ora che ti sei reso conto di questo, d’ora in poi non ti applicherai seriamente a nient’altro e non rivolgerai la mente ad altro se non a imparare bene il criterio delle cose secondo natura e, servendotene, a giudicare ciascun caso particolare».</div></article>
+<article class="section" id="s-16"><a class="ref" href="#s-16">16</a><div class="section-text">«Per il momento, però, posso aiutarti almeno fino a questo punto in ciò che cerchi».</div></article>
+<article class="section" id="s-17"><a class="ref" href="#s-17">17</a><div class="section-text">«L’affetto familiare ti sembra essere secondo natura e bello?» «Come potrebbe non esserlo?» «E allora? L’affetto familiare è secondo natura e bello, mentre ciò che è ragionevole non è bello?»</div></article>
+<article class="section" id="s-18"><a class="ref" href="#s-18">18</a><div class="section-text">«Niente affatto». «Dunque ciò che è ragionevole non è in contrasto con l’affetto familiare?» «Non mi sembra». «Se lo fosse, di due cose in contrasto sarebbe necessario che, essendo l’una secondo natura, l’altra fosse contro natura. Non è così?» «È così», disse.</div></article>
+<article class="section" id="s-19"><a class="ref" href="#s-19">19</a><div class="section-text">«Dunque, qualunque cosa troviamo che sia insieme affettuosa e ragionevole, possiamo dichiararla con sicurezza giusta e bella?»</div></article>
+<article class="section" id="s-20"><a class="ref" href="#s-20">20</a><div class="section-text">«Sia pure», disse. «E allora? Lasciare la bambina malata e, dopo averla lasciata, andarsene, non credo che negherai che sia irragionevole. Ci resta da vedere se sia un atto d’affetto». «Vediamolo».</div></article>
+<article class="section" id="s-21"><a class="ref" href="#s-21">21</a><div class="section-text">«Dunque tu, proprio perché eri affezionato alla bambina, agivi bene fuggendo e lasciandola? E la madre non è affezionata alla bambina?» «Certo che lo è».</div></article>
+<article class="section" id="s-22"><a class="ref" href="#s-22">22</a><div class="section-text">«Non avrebbe dovuto dunque lasciarla anche la madre, oppure no?» «No». «E la nutrice? Le vuole bene?» «Le vuole bene», disse. «Avrebbe dovuto dunque lasciarla anche lei?» «Niente affatto». «E il precettore? Non le vuole bene?»</div></article>
+<article class="section" id="s-23"><a class="ref" href="#s-23">23</a><div class="section-text">«Le vuole bene». «Avrebbe dovuto dunque andarsene anche lui dopo averla lasciata, e così la bambina avrebbe dovuto essere abbandonata sola e senza aiuto per il grande affetto di voi genitori e di quanti le stavano intorno, oppure morire tra le mani di persone che non le volevano bene né si curavano di lei?» «Mai».</div></article>
+<article class="section" id="s-24"><a class="ref" href="#s-24">24</a><div class="section-text">«Eppure sarebbe ingiusto e irragionevole non concedere a chi prova lo stesso affetto ciò che uno ritiene appropriato per sé proprio perché è affettuoso».</div></article>
+<article class="section" id="s-25"><a class="ref" href="#s-25">25</a><div class="section-text">«Sarebbe assurdo». «Su, se fossi malato, vorresti che i tuoi familiari, gli altri come i tuoi stessi figli e tua moglie, fossero così affettuosi da lasciarti solo e abbandonato?»</div></article>
+<article class="section" id="s-26"><a class="ref" href="#s-26">26</a><div class="section-text">«Niente affatto». «E pregheresti di essere amato dai tuoi al punto che, per il loro eccessivo affetto, nelle malattie fossi sempre lasciato solo? Oppure, proprio per questo, pregheresti piuttosto che fossero i tuoi nemici ad amarti, se fosse possibile, così da essere abbandonato da loro? Se è così, non resta più alcun modo di dire che ciò che hai fatto sia stato un atto d’affetto».</div></article>
+<article class="section" id="s-27"><a class="ref" href="#s-27">27</a><div class="section-text">«E allora? Non c’era nulla che ti avesse mosso e spinto a lasciare la bambina? Come sarebbe possibile? Ma doveva essere qualcosa di simile a ciò che, a Roma, spingeva un tale a coprirsi il volto mentre correva il cavallo per cui parteggiava; e quando una volta quello vinse contro ogni aspettativa, ebbe bisogno di spugne per riprendersi dallo svenimento».</div></article>
+<article class="section" id="s-28"><a class="ref" href="#s-28">28</a><div class="section-text">«Che cos’è dunque questa cosa? Una spiegazione precisa forse non è opportuna in questo momento. Ma basta convincersi di questo, se è vero ciò che dicono i filosofi: che non bisogna cercarla da qualche parte fuori di noi, ma che in tutti i casi una e identica è la causa per cui facciamo o non facciamo qualcosa, diciamo o non diciamo qualcosa, ci esaltiamo o ci abbattiamo, fuggiamo qualcosa o la inseguiamo:</div></article>
+<article class="section" id="s-29"><a class="ref" href="#s-29">29</a><div class="section-text">la stessa cosa che anche ora è stata causa, per te, del venire da me e dello stare qui seduto ad ascoltare, e per me, del dire queste cose».</div></article>
+<article class="section" id="s-30"><a class="ref" href="#s-30">30</a><div class="section-text">«E che cos’è? Forse altro dal fatto che così ci è parso?» «Nient’altro». «E se ci fosse parso diversamente, che altro avremmo fatto se non ciò che ci fosse parso da fare?»</div></article>
+<article class="section" id="s-31"><a class="ref" href="#s-31">31</a><div class="section-text">«Dunque anche per Achille la causa del suo dolore fu questa, non la morte di Patroclo — un altro, infatti, non reagisce così quando muore il suo compagno —</div></article>
+<article class="section" id="s-32"><a class="ref" href="#s-32">32</a><div class="section-text">ma il fatto che così gli parve. E anche per te, allora, la causa della fuga fu proprio questa: che ti parve di dover fuggire; e di nuovo, se resterai, sarà perché ti parrà di dover restare. E ora vai a Roma perché ti sembra giusto andarci; se cambiassi opinione, non ci andresti».</div></article>
+<article class="section" id="s-33"><a class="ref" href="#s-33">33</a><div class="section-text">«E in generale né la morte né l’esilio né il dolore né altro del genere sono causa del nostro fare o non fare qualcosa, ma le nostre opinioni e i nostri giudizi».</div></article>
+<article class="section" id="s-34"><a class="ref" href="#s-34">34</a><div class="section-text">«Ti convinco di questo o no?» «Mi convinci», disse. «Quali sono dunque le cause in ciascun caso, tali sono anche gli effetti che ne risultano».</div></article>
+<article class="section" id="s-35"><a class="ref" href="#s-35">35</a><div class="section-text">«Dunque, ogni volta che agiremo in modo scorretto, da oggi non accuseremo altro che il giudizio dal quale siamo stati indotti ad agire, e cercheremo di estirpare e recidere quello più ancora dei tumori e degli ascessi dal corpo».</div></article>
+<article class="section" id="s-36"><a class="ref" href="#s-36">36</a><div class="section-text">«Allo stesso modo, anche delle azioni compiute rettamente indicheremo come causa questa stessa cosa».</div></article>
+<article class="section" id="s-37"><a class="ref" href="#s-37">37</a><div class="section-text">«E non accuseremo più né un servo né un vicino né la moglie né i figli come cause di qualche male per noi, persuasi che, se le cose non ci sembrano essere in un certo modo, non compiamo le azioni che ne conseguono; e del fatto che ci sembrino o non ci sembrino così siamo padroni noi, non le cose esterne».</div></article>
+<article class="section" id="s-38"><a class="ref" href="#s-38">38</a><div class="section-text">«È così», disse. «Da oggi, dunque, non osserveremo né esamineremo più nient’altro per vedere che cosa sia o in quale stato si trovi: né il campo, né gli schiavi, né i cavalli o i cani, ma i nostri giudizi». «Lo spero», disse.</div></article>
+<article class="section" id="s-39"><a class="ref" href="#s-39">39</a><div class="section-text">«Vedi dunque che devi diventare un uomo di studio, quella creatura di cui tutti ridono, se davvero vuoi esaminare i tuoi giudizi».</div></article>
+<article class="section" id="s-40"><a class="ref" href="#s-40">40</a><div class="section-text">«E che questo non è lavoro di un’ora o di un giorno, lo capisci anche tu».</div></article>
+</div>
+
+<nav class="chapter-nav chapter-nav-bottom"><a href="1-10.html">Diatriba precedente</a><a class="chapter-home" href="../index.html">Home</a><a href="1-12.html">Diatriba successiva</a></nav>

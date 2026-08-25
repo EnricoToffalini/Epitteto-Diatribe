@@ -1,0 +1,52 @@
+---
+title: "Διατριβὴ Δʹ.ιβʹ — περὶ προσοχῆς"
+lang: grc
+pagetitle: "Διατριβὴ Δʹ.ιβʹ — περὶ προσοχῆς — Ἐπικτήτου Διατριβαί"
+title-prefix: ""
+description-meta: "Διατριβὴ Δʹ.ιβʹ· «περὶ προσοχῆς». Ἀρριανοῦ τῶν Ἐπικτήτου Διατριβῶν, τὸ ἑλληνικὸν κείμενον."
+sidebar: grc
+---
+
+<!--
+FILE GENERATO. NON MODIFICARE A MANO.
+
+Modificare invece:
+- translation/it/**.md      per il testo e i titoli italiani
+- data/intro.json           per le note introduttive delle home page
+- tools/site_config.py      per lingue, testi dell'interfaccia, URL
+- styles.css                per l'aspetto grafico
+
+Poi eseguire:
+    run.bat
+-->
+
+
+<div class="diatribe-meta">Βιβλίον Δʹ · 21 τμήματα · <span class="canonical" title="Παραπομπή">IV 12</span></div>
+
+<nav class="chapter-nav"><a href="4-11.html">ἡ προτέρα διατριβή</a><a class="chapter-home" href="../index.html">Ἀρχή</a><a href="4-13.html">ἡ ἑπομένη διατριβή</a></nav>
+
+<div class="section-list">
+<article class="section" id="s-1"><a class="ref" href="#s-1">1</a><div class="section-text" lang="grc">ὅταν ἀφῇς πρὸς ὀλίγον τὴν προσοχήν, μὴ τοῦτο φαντάζου, ὅτι, ὁπόταν θέλῃς, ἀναλήψῃ αὐτήν, ἀλλʼ ἐκεῖνο πρόχειρον ἔστω σοι, ὅτι παρὰ τὸ σήμερον ἁμαρτηθὲν εἰς τἆλλα χεῖρον ἀνάγκη σοι τὰ πράγματα ἔχειν.</div></article>
+<article class="section" id="s-2"><a class="ref" href="#s-2">2</a><div class="section-text" lang="grc">πρῶτον μὲν γὰρ τὸ πάντων χαλεπώτατον ἔθος τοῦ μὴ προσέχειν ἐγγίνεται, εἶτα ἔθος τοῦ ἀναβάλλεσθαι τὴν προσοχήν· ἀ<span class="ed-del">[ι]</span>εὶ δʼ εἰς ἄλλον καὶ ἄλλον χρόνον εἴωθας ὑπερτίθεσθαι τὸ εὐροεῖν, τὸ εὐσχημονεῖν, τὸ κατὰ φύσιν ἔχειν καὶ διεξάγειν.</div></article>
+<article class="section" id="s-3"><a class="ref" href="#s-3">3</a><div class="section-text" lang="grc">εἰ μὲν οὖν λυσιτελὴς ἡ ὑπέρθεσίς ἐστιν, ἡ παντελὴς ἀπόστασις αὐτῆς ἐστι λυσιτελεστέρα· εἰ δʼ οὐ λυσιτελεῖ, τί οὐχὶ διηνεκῆ τὴν προσοχὴν φυλάσσεις;</div></article>
+<article class="section" id="s-4"><a class="ref" href="#s-4">4</a><div class="section-text" lang="grc"><q>σήμερον παῖξαι θέλω.</q> τί οὖν κωλύει προσέχοντα; <q>ᾆσαι.</q> τί οὖν κωλύει προσέχοντα; μὴ γὰρ ἐξαιρεῖταί τι μέρος τοῦ βίου, ἐφʼ ὃ οὐ διατείνει τὸ προσέχειν; χεῖρον γὰρ αὐτὸ προσέχων ποιήσεις, βέλτιον δὲ μὴ προσέχων;</div></article>
+<article class="section" id="s-5"><a class="ref" href="#s-5">5</a><div class="section-text" lang="grc">καὶ τί ἄλλο τῶν ἐν τῷ βίῳ κρεῖσσον ὑπὸ τῶν μὴ προσεχόντων γίνεται; ὁ τέκτων μὴ προσέχων <span class="ed-gap" title="lacuna">&hellip;</span>; <span class="ed-add">&lang;ὁ κυβερνήτης μὴ προσέχων&rang;</span> κυβερνᾷ ἀσφαλέστερον; ἄλλο δέ τι τῶν μικροτέρων ἔργων ὑπὸ ἀπροσεξίας ἐπιτελεῖται κρεῖσσον;</div></article>
+<article class="section" id="s-6"><a class="ref" href="#s-6">6</a><div class="section-text" lang="grc">οὐκ αἰσθάνῃ, ὅτι, ἐπειδὰν ἀφῇς τὴν γνώμην, οὐκ ἔτι ἐπὶ σοί ἐστιν ἀνακαλέσασθαι αὐτήν, οὐκ ἐπὶ τὸ εὔσχημον, οὐκ ἐπὶ τὸ αἰδῆμον, οὐκ ἐπὶ τὸ κατεσταλμένον; ἀλλὰ πᾶν τὸ ἐπελθὸν ποιεῖς, ταῖς προθυμίαις ἐπακολουθεῖς.</div></article>
+<article class="section" id="s-7"><a class="ref" href="#s-7">7</a><div class="section-text" lang="grc">τίσιν οὖν δεῖ με προσέχειν;— πρῶτον μὲν ἐκείνοις τοῖς καθολικοῖς καὶ ἐκεῖνα πρόχειρα ἔχειν καὶ χωρὶς ἐκείνων μὴ καθεύδειν, μὴ ἀνίστασθαι, μὴ πίνειν, μὴ ἐσθίειν, μὴ συμβάλλειν ἀνθρώποις· ὅτι προαιρέσεως ἀλλοτρίας κύριος οὐδείς, ἐν ταύτῃ δὲ μόνῃ τἀγαθὸν καὶ κακόν.</div></article>
+<article class="section" id="s-8"><a class="ref" href="#s-8">8</a><div class="section-text" lang="grc">οὐδεὶς οὖν κύριος οὔτʼ ἀγαθόν μοι περιποιῆσαι οὔτε κακῷ με περιβαλεῖν, ἀλλʼ ἐγὼ αὐτὸς ἐμαυτοῦ κατὰ ταῦτα ἐξουσίαν ἔχω μόνος.</div></article>
+<article class="section" id="s-9"><a class="ref" href="#s-9">9</a><div class="section-text" lang="grc">ὅταν οὖν ταῦτα ἀσφαλῆ μοι ᾖ, τί ἔχω περὶ τὰ ἐκτὸς ταράσσεσθαι; ποῖος τύραννος φοβερός, ποία νόσος, ποία πενία, ποῖον πρόσκρουσμα;</div></article>
+<article class="section" id="s-10"><a class="ref" href="#s-10">10</a><div class="section-text" lang="grc">— ἀλλʼ οὐκ ἤρεσα τῷ δεῖνι. — μὴ οὖν ἐκεῖνος ἐμόν ἐστιν ἔργον, μή τι ἐμὸν κρίμα; — οὔ. — τί οὖν ἔτι μοι μέλει; — ἀλλὰ δοκεῖ τις εἶναι. —</div></article>
+<article class="section" id="s-11"><a class="ref" href="#s-11">11</a><div class="section-text" lang="grc">ὄψεται αὐτὸς καὶ οἷς δοκεῖ, ἐγὼ δʼ ἔχω, τίνι με δεῖ ἀρέσκειν, τίνι ὑποτετάχθαι, τίνι πείθεσθαι· τῷ θεῷ καὶ μετʼ ἐκεῖνον</div></article>
+<article class="section" id="s-12"><a class="ref" href="#s-12">12</a><div class="section-text" lang="grc"><span class="ed-gap" title="lacuna">&hellip;</span> ἐμὲ ἐκεῖνος συνέστησεν ἐμαυτῷ καὶ τὴν ἐμὴν προαίρεσιν ὑπέταξεν ἐμοὶ μόνῳ δοὺς κανόνας εἰς χρῆσιν αὐτῆς τὴν ὀρθήν, οἷς ὅταν κατακολουθήσω, ἐν συλλογισμοῖς οὐκ ἐπιστρέφομαι οὐδενὸς τῶν ἄλλο τι λεγόντων, ἐν μεταπίπτουσιν οὐ φροντίζω οὐδενός. διὰ τί οὖν ἐν τοῖς μείζοσιν ἀνιῶσί με οἱ ψέγοντες;</div></article>
+<article class="section" id="s-13"><a class="ref" href="#s-13">13</a><div class="section-text" lang="grc">τί τὸ αἴτιον ταύτης τῆς ταραχῆς; οὐδὲν ἄλλο ἢ ὅτι ἐν τούτῳ τῷ τόπῳ ἀγύμναστός εἰμι.</div></article>
+<article class="section" id="s-14"><a class="ref" href="#s-14">14</a><div class="section-text" lang="grc">ἐπεί τοι πᾶσα ἐπιστήμη καταφρονητική ἐστι τῆς ἀγνοίας καὶ τῶν ἀγνοούντων καὶ οὐ μόνον αἱ ἐπιστῆμαι, ἀλλὰ καὶ αἱ τέχναι. φέρε ὃν θέλεις σκυτέα καὶ τῶν πολλῶν καταγελᾷ περὶ τὸ αὑτοῦ ἔργον· φέρε ὃν θέλεις τέκτονα.</div></article>
+<article class="section" id="s-15"><a class="ref" href="#s-15">15</a><div class="section-text" lang="grc">πρῶτον μὲν οὖν ταῦτα ἔχειν πρόχειρα καὶ μηδὲν δίχα τούτων ποιεῖν, ἀλλὰ τετάσθαι τὴν ψυχὴν ἐπὶ τοῦτον τὸν σκοπόν, μηδὲν τῶν ἔξω διώκειν, μηδὲν τῶν ἀλλοτρίων, ἀλλʼ ὡς διέταξεν ὁ δυνάμενος, τὰ προαιρετικὰ ἐξ ἅπαντος, τὰ δʼ ἄλλα ὡς ἂν διδῶται.</div></article>
+<article class="section" id="s-16"><a class="ref" href="#s-16">16</a><div class="section-text" lang="grc">ἐπὶ τούτοις δὲ μεμνῆσθαι, τίνες ἐσμὲν καὶ τί ἡμῖν ὄνομα, καὶ πρὸς τὰς δυνάμεις τῶν σχέσεων πειρᾶσθαι τὰ καθήκοντα ἀπευθύνειν·</div></article>
+<article class="section" id="s-17"><a class="ref" href="#s-17">17</a><div class="section-text" lang="grc">τίς καιρὸς ᾠδῆς, τίς καιρὸς παιδ<span class="ed-del">[ε]</span>ιᾶς, τίνων παρόντων· τί ἔσται ἀπὸ τοῦ πράγματος· μή τι καταφρονήσωσιν ἡμῶν οἱ συνόντες, μή τι ἡμεῖς αὐτῶν· πότε σκῶψαι καὶ τίνας ποτὲ καταγελάσαι καὶ ἐπὶ τίνι ποτὲ συμπεριενεχθῆναι καὶ τίνι, καὶ λοιπὸν ἐν τῇ συμπεριφορᾷ πῶς τηρῆσαι τὸ αὑτοῦ. ὅπου δʼ ἂν ἀπονεύσῃς ἀπό τινος τούτων, εὐθὺς ζημία,</div></article>
+<article class="section" id="s-18"><a class="ref" href="#s-18">18</a><div class="section-text" lang="grc">οὐκ ἔξωθέν ποθεν, ἀλλʼ ἐξ αὐτῆς τῆς ἐνεργείας.</div></article>
+<article class="section" id="s-19"><a class="ref" href="#s-19">19</a><div class="section-text" lang="grc">τί οὖν; δυνατὸν ἀναμάρτητον ἤδη εἶναι; ἀμήχανον, ἀλλʼ ἐκεῖνο δυνατὸν πρὸς τὸ μὴ ἁμαρτάνειν τετάσθαι διηνεκῶς. ἀγαπητὸν γάρ, εἰ μηδέποτʼ ἀνιέντες ταύτην τὴν προσοχὴν ὀλίγων γε ἁμαρτημάτων ἐκτὸς ἐσόμεθα. νῦν δʼ ὅταν εἴπῃς</div></article>
+<article class="section" id="s-20"><a class="ref" href="#s-20">20</a><div class="section-text" lang="grc"><q>ἀπαύριον προσέξω,</q> ἴσθι ὅτι τοῦτο λέγεις <q>σήμερον ἔσομαι ἀναίσχυντος, ἄκαιρος, ταπεινός· ἐπʼ ἄλλοις ἔσται τὸ λυπεῖν με· ὀργισθήσομαι σήμερον, φθονήσω.</q></div></article>
+<article class="section" id="s-21"><a class="ref" href="#s-21">21</a><div class="section-text" lang="grc">βλέπε, ὅσα κακὰ σεαυτῷ ἐπιτρέπεις. ἀλλʼ εἴ σοι αὔριον καλῶς ἔχει, πόσῳ κρεῖττον σήμερον· εἰ αὔριον συμφέρει, πολὺ μᾶλλον σήμερον, ἵνα καὶ αὔριον δυνηθῇς καὶ μὴ πάλιν ἀναβάλῃ εἰς τρίτην.</div></article>
+</div>
+
+<nav class="chapter-nav chapter-nav-bottom"><a href="4-11.html">ἡ προτέρα διατριβή</a><a class="chapter-home" href="../index.html">Ἀρχή</a><a href="4-13.html">ἡ ἑπομένη διατριβή</a></nav>

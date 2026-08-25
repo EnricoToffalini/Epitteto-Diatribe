@@ -1,0 +1,41 @@
+---
+title: "Diatriba IV.2 — Sulla frequentazione"
+lang: it
+pagetitle: "Diatriba IV.2 — Sulla frequentazione — Epitteto, Diatribe"
+title-prefix: ""
+description-meta: "Diatriba IV.2: «Sulla frequentazione». Le Diatribe di Epitteto raccolte da Arriano, in traduzione italiana."
+sidebar: it
+---
+
+<!--
+FILE GENERATO. NON MODIFICARE A MANO.
+
+Modificare invece:
+- translation/it/**.md      per il testo e i titoli italiani
+- data/intro.json           per le note introduttive delle home page
+- tools/site_config.py      per lingue, testi dell'interfaccia, URL
+- styles.css                per l'aspetto grafico
+
+Poi eseguire:
+    run.bat
+-->
+
+
+<div class="diatribe-meta">Libro IV · 10 sezioni · <span class="canonical" title="Riferimento canonico">IV 2</span></div>
+
+<nav class="chapter-nav"><a href="4-01.html">Diatriba precedente</a><a class="chapter-home" href="../index.html">Home</a><a href="4-03.html">Diatriba successiva</a></nav>
+
+<div class="section-list">
+<article class="section" id="s-1"><a class="ref" href="#s-1">1</a><div class="section-text">A questo ambito devi prestare attenzione più che a ogni altro: bada di non tornare a mescolarti con qualcuno dei vecchi conoscenti o amici fino al punto di scendere di nuovo con lui alle stesse cose; altrimenti perderai te stesso.</div></article>
+<article class="section" id="s-2"><a class="ref" href="#s-2">2</a><div class="section-text">E se ti si insinua il pensiero: «Gli sembrerò sgradevole e non sarà più con me come prima», ricorda che nulla si ottiene gratuitamente e che non è possibile, se non fai più le stesse cose, essere ancora la stessa persona di un tempo.</div></article>
+<article class="section" id="s-3"><a class="ref" href="#s-3">3</a><div class="section-text">Scegli dunque che cosa vuoi: essere amato come prima da quelli di prima, restando simile a ciò che eri prima, oppure essere migliore e non ottenere più da loro le stesse cose.</div></article>
+<article class="section" id="s-4"><a class="ref" href="#s-4">4</a><div class="section-text">Se infatti questo è migliore, volgiti subito a questo e non lasciarti distrarre dagli altri ragionamenti. Nessuno può progredire restando diviso fra due direzioni; ma se hai preferito questo a tutto, se vuoi dedicarti soltanto a questo e lavorare per questo, lascia perdere tutto il resto.</div></article>
+<article class="section" id="s-5"><a class="ref" href="#s-5">5</a><div class="section-text">Altrimenti questa esitazione fra due strade farà sì che tu manchi entrambe: non progredirai come dovresti e non otterrai più neppure ciò che ottenevi prima.</div></article>
+<article class="section" id="s-6"><a class="ref" href="#s-6">6</a><div class="section-text">Prima infatti, desiderando sinceramente cose che non valgono nulla, eri piacevole a quelli che ti frequentavano.</div></article>
+<article class="section" id="s-7"><a class="ref" href="#s-7">7</a><div class="section-text">Ma non puoi eccellere in entrambi i modi di vivere: quanto più partecipi dell’uno, tanto più necessariamente resterai indietro nell’altro. Se non bevi più con quelli con cui bevevi, non puoi sembrare loro piacevole come prima. Scegli dunque: vuoi essere ubriacone e piacevole a loro, oppure sobrio e sgradevole? Se non canti più con quelli con cui cantavi, non puoi essere amato da loro allo stesso modo. Scegli dunque anche qui che cosa vuoi.</div></article>
+<article class="section" id="s-8"><a class="ref" href="#s-8">8</a><div class="section-text">Se infatti essere rispettoso di sé e composto è meglio che sentirsi dire «Che uomo piacevole!», lascia perdere il resto, rinunciaci, volgigli le spalle: non hai nulla a che fare con queste cose.</div></article>
+<article class="section" id="s-9"><a class="ref" href="#s-9">9</a><div class="section-text">Se invece questo non ti piace, volgiti interamente al contrario: diventa uno degli effeminati, uno degli adulteri, fa’ tutto ciò che ne consegue e otterrai ciò che vuoi. E mettiti a saltare gridando in approvazione del ballerino.</div></article>
+<article class="section" id="s-10"><a class="ref" href="#s-10">10</a><div class="section-text">Ruoli tanto diversi non si mescolano: non puoi interpretare insieme Tersite e Agamennone. Se vuoi essere Tersite, devi essere curvo e calvo; se Agamennone, grande e bello e capace di amare quelli che ti sono sottoposti.</div></article>
+</div>
+
+<nav class="chapter-nav chapter-nav-bottom"><a href="4-01.html">Diatriba precedente</a><a class="chapter-home" href="../index.html">Home</a><a href="4-03.html">Diatriba successiva</a></nav>

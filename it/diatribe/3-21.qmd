@@ -1,0 +1,55 @@
+---
+title: "Diatriba III.21 — Contro quelli che si accingono troppo facilmente a fare i sofisti"
+lang: it
+pagetitle: "Diatriba III.21 — Contro quelli che si accingono troppo facilmente a fare i sofisti — Epitteto, Diatribe"
+title-prefix: ""
+description-meta: "Diatriba III.21: «Contro quelli che si accingono troppo facilmente a fare i sofisti». Le Diatribe di Epitteto raccolte da Arriano, in traduzione italiana."
+sidebar: it
+---
+
+<!--
+FILE GENERATO. NON MODIFICARE A MANO.
+
+Modificare invece:
+- translation/it/**.md      per il testo e i titoli italiani
+- data/intro.json           per le note introduttive delle home page
+- tools/site_config.py      per lingue, testi dell'interfaccia, URL
+- styles.css                per l'aspetto grafico
+
+Poi eseguire:
+    run.bat
+-->
+
+
+<div class="diatribe-meta">Libro III · 24 sezioni · <span class="canonical" title="Riferimento canonico">III 21</span></div>
+
+<nav class="chapter-nav"><a href="3-20.html">Diatriba precedente</a><a class="chapter-home" href="../index.html">Home</a><a href="3-22.html">Diatriba successiva</a></nav>
+
+<div class="section-list">
+<article class="section" id="s-1"><a class="ref" href="#s-1">1</a><div class="section-text">Dopo aver appreso i principi in forma nuda e cruda, vogliono subito vomitarli, come chi ha lo stomaco malato vomita il cibo.</div></article>
+<article class="section" id="s-2"><a class="ref" href="#s-2">2</a><div class="section-text">Prima digeriscili, e poi non vomitarli così; altrimenti diventano davvero vomito, una cosa impura e immangiabile.</div></article>
+<article class="section" id="s-3"><a class="ref" href="#s-3">3</a><div class="section-text">Ma, una volta assimilati, mostraci qualche cambiamento nella tua facoltà direttiva, come gli atleti mostrano nelle spalle gli effetti di ciò con cui si sono allenati e nutriti, e come chi ha appreso un’arte mostra gli effetti di ciò che ha imparato.</div></article>
+<article class="section" id="s-4"><a class="ref" href="#s-4">4</a><div class="section-text">Il falegname non viene a dire: «Ascoltatemi mentre discorro di falegnameria»; prende in appalto una casa, la costruisce e così mostra di possedere l’arte.</div></article>
+<article class="section" id="s-5"><a class="ref" href="#s-5">5</a><div class="section-text">Fa’ anche tu qualcosa del genere: mangia da uomo, bevi da uomo, vestiti, sposati, abbi figli, partecipa alla vita politica; sopporta gli insulti, sopporta un fratello irragionevole, sopporta tuo padre, tuo figlio, un vicino, un compagno.</div></article>
+<article class="section" id="s-6"><a class="ref" href="#s-6">6</a><div class="section-text">Mostraci queste cose, perché possiamo vedere che hai davvero imparato qualcosa dai filosofi. No: «Venite ad ascoltarmi mentre espongo commenti». Va’ via, cerca qualcuno su cui vomitarli.</div></article>
+<article class="section" id="s-7"><a class="ref" href="#s-7">7</a><div class="section-text">«Eppure io vi spiegherò gli scritti di Crisippo come nessun altro; ne analizzerò il testo con la massima chiarezza, e magari aggiungerò anche qualche argomentazione di Antipatro e Archedemo.»</div></article>
+<article class="section" id="s-8"><a class="ref" href="#s-8">8</a><div class="section-text">È dunque per questo che i giovani devono lasciare la patria e i propri genitori, per venire ad ascoltarti mentre spieghi le tue paroline?</div></article>
+<article class="section" id="s-9"><a class="ref" href="#s-9">9</a><div class="section-text">Non dovrebbero tornare capaci di sopportare, di collaborare con gli altri, liberi dalle passioni, imperturbabili, provvisti di un simile viatico per la vita, grazie al quale possano sopportare bene ciò che accade e trarne dignità?</div></article>
+<article class="section" id="s-10"><a class="ref" href="#s-10">10</a><div class="section-text">E come potresti trasmettere loro ciò che tu non possiedi? Hai forse fatto altro, fin dall’inizio, che consumarti su queste questioni: come si risolvono i sillogismi, come quelli che mutano, come quelli che arrivano alla conclusione mediante domande?</div></article>
+<article class="section" id="s-11"><a class="ref" href="#s-11">11</a><div class="section-text">«Ma il tale ha una scuola: perché non dovrei averne anch’io?» Queste cose non si fanno a caso, schiavo, né come capita: occorrono anche un’età adatta, una vita adatta e Dio come guida.</div></article>
+<article class="section" id="s-12"><a class="ref" href="#s-12">12</a><div class="section-text">No: nessuno salpa da un porto senza aver sacrificato agli dèi e averli invocati come aiutanti, né gli uomini seminano senza aver prima invocato Demetra; e chi mette mano a un’impresa così grande potrà farlo con sicurezza senza gli dèi? E quelli che si rivolgeranno a lui potranno farlo con buon esito?</div></article>
+<article class="section" id="s-13"><a class="ref" href="#s-13">13</a><div class="section-text">Che altro fai, uomo, se non profanare i misteri e dire: «A Eleusi c’è un edificio, ed eccone uno anche qui. Là c’è uno ierofante: ne farò uno anch’io. Là c’è un araldo: ne nominerò uno anch’io. Là c’è un portatore di fiaccola: ne avrò uno anch’io. Là ci sono fiaccole: anche qui. Le parole sono le stesse: che differenza c’è tra ciò che avviene qui e ciò che avviene là?»</div></article>
+<article class="section" id="s-14"><a class="ref" href="#s-14">14</a><div class="section-text">Uomo empissimo, non c’è alcuna differenza? Queste cose giovano forse anche fuori luogo e fuori tempo? E invece avvengono con sacrifici e preghiere, dopo essersi purificati e dopo essersi predisposti nell’animo sapendo che ci si accosterà a riti sacri e antichi. È così che i misteri diventano utili,</div></article>
+<article class="section" id="s-15"><a class="ref" href="#s-15">15</a><div class="section-text">è così che arriviamo a comprendere che tutte queste cose furono istituite dagli antichi per l’educazione e la correzione della vita.</div></article>
+<article class="section" id="s-16"><a class="ref" href="#s-16">16</a><div class="section-text">Tu invece le divulghi e le profani fuori tempo e fuori luogo, senza sacrifici, senza purificazione; non hai la veste che deve avere lo ierofante, né la capigliatura, né la fascia che deve avere, né la voce, né l’età; non ti sei purificato come lui, ma hai imparato soltanto le parole e le reciti. Sono forse sacre le parole di per se stesse?</div></article>
+<article class="section" id="s-17"><a class="ref" href="#s-17">17</a><div class="section-text">Bisogna accostarsi a queste cose in un altro modo. L’impresa è grande, è iniziatica; non è una cosa qualsiasi né è concessa a chiunque.</div></article>
+<article class="section" id="s-18"><a class="ref" href="#s-18">18</a><div class="section-text">E forse non basta neppure essere sapienti per occuparsi dei giovani: occorrono anche una certa prontezza e un’attitudine a questo compito, per Zeus, e una certa costituzione fisica; e soprattutto occorre che Dio consigli di assumere questo ruolo,</div></article>
+<article class="section" id="s-19"><a class="ref" href="#s-19">19</a><div class="section-text">come consigliò a Socrate il ruolo di confutare, a Diogene quello regale e ammonitore, a Zenone quello di insegnare e formulare dottrine.</div></article>
+<article class="section" id="s-20"><a class="ref" href="#s-20">20</a><div class="section-text">Tu invece apri un ambulatorio senza possedere altro che medicine, senza sapere né esserti preoccupato di sapere dove e come vadano applicate.</div></article>
+<article class="section" id="s-21"><a class="ref" href="#s-21">21</a><div class="section-text">«Ecco, quello ha questi colliri; li ho anch’io.» Ma possiedi anche la capacità di usarli? Sai anche quando, come e a chi gioveranno?</div></article>
+<article class="section" id="s-22"><a class="ref" href="#s-22">22</a><div class="section-text">Perché dunque giochi d’azzardo con le cose più importanti, perché agisci alla leggera, perché ti metti a fare qualcosa che non ti compete affatto? Lascialo a chi ne è capace, a chi dà lustro alla filosofia. Non aggiungere anche tu, per colpa tua, vergogna alla filosofia e non diventare uno di quelli che screditano questa attività.</div></article>
+<article class="section" id="s-23"><a class="ref" href="#s-23">23</a><div class="section-text">Se invece i principi ti divertono, siediti e rigirateli per conto tuo. Ma non chiamarti mai filosofo, né tollerare che un altro ti chiami così; di’ piuttosto: «Si sbaglia. Io infatti non desidero diversamente da prima, non rivolgo i miei impulsi verso altre cose, non do assenso a cose diverse e, in generale, nell’uso delle rappresentazioni non sono affatto cambiato rispetto alla mia condizione precedente.»</div></article>
+<article class="section" id="s-24"><a class="ref" href="#s-24">24</a><div class="section-text">Pensa e parla così di te stesso, se vuoi giudicarti secondo il tuo vero valore; altrimenti continua a giocare d’azzardo e a fare ciò che fai. È questo, infatti, che ti si addice.</div></article>
+</div>
+
+<nav class="chapter-nav chapter-nav-bottom"><a href="3-20.html">Diatriba precedente</a><a class="chapter-home" href="../index.html">Home</a><a href="3-22.html">Diatriba successiva</a></nav>

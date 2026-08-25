@@ -1,0 +1,64 @@
+---
+title: "Diatriba I.28 — Che non bisogna adirarsi con gli uomini e quali sono le cose piccole e grandi fra gli uomini"
+lang: it
+pagetitle: "Diatriba I.28 — Che non bisogna adirarsi con gli uomini e quali sono le cose piccole e grandi fra gli uomini — Epitteto, Diatribe"
+title-prefix: ""
+description-meta: "Diatriba I.28: «Che non bisogna adirarsi con gli uomini e quali sono le cose piccole e grandi fra gli uomini». Le Diatribe di Epitteto raccolte da Arriano, in traduzione italiana."
+sidebar: it
+---
+
+<!--
+FILE GENERATO. NON MODIFICARE A MANO.
+
+Modificare invece:
+- translation/it/**.md      per il testo e i titoli italiani
+- data/intro.json           per le note introduttive delle home page
+- tools/site_config.py      per lingue, testi dell'interfaccia, URL
+- styles.css                per l'aspetto grafico
+
+Poi eseguire:
+    run.bat
+-->
+
+
+<div class="diatribe-meta">Libro I · 33 sezioni · <span class="canonical" title="Riferimento canonico">I 28</span></div>
+
+<nav class="chapter-nav"><a href="1-27.html">Diatriba precedente</a><a class="chapter-home" href="../index.html">Home</a><a href="1-29.html">Diatriba successiva</a></nav>
+
+<div class="section-list">
+<article class="section" id="s-1"><a class="ref" href="#s-1">1</a><div class="section-text">Che cosa causa l’assenso a qualcosa? Il fatto che appaia essere così.</div></article>
+<article class="section" id="s-2"><a class="ref" href="#s-2">2</a><div class="section-text">Non è dunque possibile dare assenso a ciò che appare non essere così. Perché? Perché questa è la natura della mente: assentire al vero, respingere il falso e, riguardo a ciò che è incerto, sospendere l’assenso.</div></article>
+<article class="section" id="s-3"><a class="ref" href="#s-3">3</a><div class="section-text">Quale prova ne abbiamo? Prova, se puoi, a credere adesso che è notte. Non è possibile. Prova a non credere che è giorno. Non è possibile. Prova a credere o a non credere che le stelle siano in numero pari. Non è possibile.</div></article>
+<article class="section" id="s-4"><a class="ref" href="#s-4">4</a><div class="section-text">Quando dunque qualcuno dà assenso al falso, sappi che non voleva dare assenso al falso: ogni anima, infatti, è privata della verità contro la propria volontà, come dice Platone; ma il falso gli è sembrato vero.</div></article>
+<article class="section" id="s-5"><a class="ref" href="#s-5">5</a><div class="section-text">Su, e nelle azioni che cosa abbiamo di analogo a ciò che qui sono il vero e il falso? Ciò che è doveroso e ciò che è contrario al dovere, ciò che conviene e ciò che non conviene, ciò che si addice a me e ciò che non mi si addice, e cose simili.</div></article>
+<article class="section" id="s-6"><a class="ref" href="#s-6">6</a><div class="section-text">È dunque possibile che uno giudichi che qualcosa gli convenga e tuttavia non la scelga? Non è possibile.</div></article>
+<article class="section" id="s-7"><a class="ref" href="#s-7">7</a><div class="section-text">Come si spiega allora quella che dice: «So quali mali sto per compiere, ma la passione è più forte dei miei propositi»? Perché ritiene proprio questo, assecondare la passione e vendicarsi del marito, più vantaggioso che salvare i figli.</div></article>
+<article class="section" id="s-8"><a class="ref" href="#s-8">8</a><div class="section-text">«Sì, ma si è ingannata». Mostrale chiaramente che si è ingannata e non lo farà; finché però non glielo mostri, che cosa può seguire se non ciò che le appare?</div></article>
+<article class="section" id="s-9"><a class="ref" href="#s-9">9</a><div class="section-text">Nient’altro. Perché dunque ti adiri con lei, perché quella poveretta si è smarrita sulle cose più importanti ed è diventata una vipera anziché un essere umano? Non dovresti semmai piuttosto compatirla, come compatiamo i ciechi e gli zoppi, così anche coloro che sono accecati e storpiati nelle facoltà più importanti?</div></article>
+<article class="section" id="s-10"><a class="ref" href="#s-10">10</a><div class="section-text">Chi dunque ricorda chiaramente questo, che per l’uomo misura di ogni azione è ciò che gli appare — e dunque o gli appare correttamente o erroneamente: se correttamente, non è da biasimare; se erroneamente, è lui stesso a subirne il danno, perché non può essere uno quello che si è ingannato e un altro quello che ne è danneggiato —, non si adirerà con nessuno, non se la prenderà con nessuno, non insulterà nessuno, non biasimerà nessuno, non odierà nessuno e non si scontrerà con nessuno.</div></article>
+<article class="section" id="s-11"><a class="ref" href="#s-11">11</a><div class="section-text">Dunque anche azioni così grandi e terribili hanno questa origine, ciò che appare? Questa e nessun’altra.</div></article>
+<article class="section" id="s-12"><a class="ref" href="#s-12">12</a><div class="section-text">L’Iliade non è altro che rappresentazione e uso delle rappresentazioni. Ad Alessandro parve di dover portar via la moglie di Menelao; a Elena parve di doverlo seguire.</div></article>
+<article class="section" id="s-13"><a class="ref" href="#s-13">13</a><div class="section-text">Se dunque a Menelao fosse parso che fosse un guadagno essere privato di una moglie simile, che cosa sarebbe accaduto? Sarebbe scomparsa non solo l’Iliade, ma anche l’Odissea. —</div></article>
+<article class="section" id="s-14"><a class="ref" href="#s-14">14</a><div class="section-text">— Dunque cose tanto grandi dipendono da una cosa così piccola? — Ma quali chiami «tanto grandi»? Guerre, lotte intestine, morti di molti uomini e distruzioni di città? E che cosa hanno di grande queste cose? — Nulla? —</div></article>
+<article class="section" id="s-15"><a class="ref" href="#s-15">15</a><div class="section-text">E che cosa c’è di grande nel morire di molti buoi e molte pecore, e nel bruciare e distruggere molti nidi di rondini o di cicogne?</div></article>
+<article class="section" id="s-16"><a class="ref" href="#s-16">16</a><div class="section-text">— Dunque queste cose sono simili a quelle? — Del tutto simili. Sono andati perduti corpi di uomini; anche di buoi e di pecore. Sono state bruciate casette di uomini; anche nidi di cicogne.</div></article>
+<article class="section" id="s-17"><a class="ref" href="#s-17">17</a><div class="section-text">Che cosa c’è di grande o terribile? Oppure mostrami in che cosa differiscono, in quanto abitazione, una casa d’uomo e un nido di cicogna.</div></article>
+<article class="section" id="s-18"><a class="ref" href="#s-18">18</a><div class="section-text">— Dunque una cicogna e un uomo sono simili? — Che dici? Quanto al corpo, sono del tutto simili. [Soltanto che le case degli uomini si costruiscono con travi, tegole e mattoni, quella della cicogna con ramoscelli e fango.]</div></article>
+<article class="section" id="s-19"><a class="ref" href="#s-19">19</a><div class="section-text">— Dunque l’uomo non differisce in nulla dalla cicogna? — Non sia mai; ma non differisce in queste cose. — In che cosa allora differisce?</div></article>
+<article class="section" id="s-20"><a class="ref" href="#s-20">20</a><div class="section-text">— Cerca e troverai che differisce in altro. Guarda se non sia nel comprendere ciò che fa, guarda se non sia nella natura sociale, nella fedeltà, nel senso del pudore, nella fermezza, nell’intelligenza.</div></article>
+<article class="section" id="s-21"><a class="ref" href="#s-21">21</a><div class="section-text">Dove stanno dunque il grande male e il grande bene negli uomini? Là dove sta la differenza. Se questa differenza si conserva e rimane ben difesa, e non si corrompono il senso del pudore, la fedeltà e l’intelligenza, allora anche l’uomo si conserva; se invece qualcuna di queste cose va perduta ed è espugnata, allora anche lui va perduto. È qui che stanno le grandi cose.</div></article>
+<article class="section" id="s-22"><a class="ref" href="#s-22">22</a><div class="section-text">Alessandro sbagliò forse gravemente quando, come si racconta, arrivarono i Greci, quando devastavano Troia e quando morivano i suoi fratelli?</div></article>
+<article class="section" id="s-23"><a class="ref" href="#s-23">23</a><div class="section-text">Per nulla: nessuno infatti sbaglia per l’azione di un altro; allora venivano devastati nidi di cicogna. Il suo errore fu quando perse il senso del pudore, la fedeltà, l’ospitalità, la dignità.</div></article>
+<article class="section" id="s-24"><a class="ref" href="#s-24">24</a><div class="section-text">Quando sbagliò Achille? Quando morì Patroclo? Non sia mai. Ma quando si adirava, quando piangeva per una ragazzetta, quando dimenticava di essere lì non per procurarsi amanti, ma per combattere.</div></article>
+<article class="section" id="s-25"><a class="ref" href="#s-25">25</a><div class="section-text">Questi sono gli errori umani, questo è l’assedio, questa la distruzione: quando vengono abbattuti i giudizi corretti, quando vengono corrotti.</div></article>
+<article class="section" id="s-26"><a class="ref" href="#s-26">26</a><div class="section-text">— Dunque, quando le donne vengono trascinate via, i bambini fatti prigionieri e gli uomini stessi massacrati, queste cose non sono mali?</div></article>
+<article class="section" id="s-27"><a class="ref" href="#s-27">27</a><div class="section-text">— Da dove viene il giudizio che vi aggiungi? Insegnalo anche a me. — No; ma tu, da dove dici che non sono mali?</div></article>
+<article class="section" id="s-28"><a class="ref" href="#s-28">28</a><div class="section-text">— Torniamo ai criteri; tira fuori le prenozioni. Per questo non ci si può meravigliare abbastanza di quel che accade. Quando vogliamo giudicare dei pesi, non giudichiamo a caso; quando si tratta di ciò che è diritto o storto, non giudichiamo a caso;</div></article>
+<article class="section" id="s-29"><a class="ref" href="#s-29">29</a><div class="section-text">in generale, ogni volta che ci importa conoscere ciò che è vero in un certo ambito, nessuno di noi farà mai nulla a caso.</div></article>
+<article class="section" id="s-30"><a class="ref" href="#s-30">30</a><div class="section-text">Là invece dove si trova la prima e unica causa dell’agire bene o sbagliare, del vivere serenamente o nell’affanno, dell’essere sfortunati o fortunati, soltanto lì agiamo a caso e precipitosamente. Da nessuna parte qualcosa di simile a una bilancia, da nessuna parte qualcosa di simile a una riga: qualcosa mi appare e subito agisco secondo ciò che mi è apparso.</div></article>
+<article class="section" id="s-31"><a class="ref" href="#s-31">31</a><div class="section-text">Sono forse migliore di Agamennone o di Achille, perché loro, seguendo ciò che appare loro, compiano e subiscano mali simili, mentre per me ciò che appare non debba bastare?</div></article>
+<article class="section" id="s-32"><a class="ref" href="#s-32">32</a><div class="section-text">E quale tragedia ha un’altra origine? Che cos’è l’<i>Atreo</i> di Euripide? Ciò che appare. Che cos’è l’<i>Edipo</i> di Sofocle? Ciò che appare. E <i>Fenice</i>?</div></article>
+<article class="section" id="s-33"><a class="ref" href="#s-33">33</a><div class="section-text">Ciò che appare. E <i>Ippolito</i>? Ciò che appare. Che cosa vi sembra dunque il non prendersi alcuna cura di questo? E come si chiamano quelli che seguono tutto ciò che appare? — Pazzi. — E noi facciamo forse qualcosa di diverso?</div></article>
+</div>
+
+<nav class="chapter-nav chapter-nav-bottom"><a href="1-27.html">Diatriba precedente</a><a class="chapter-home" href="../index.html">Home</a><a href="1-29.html">Diatriba successiva</a></nav>

@@ -1,0 +1,43 @@
+---
+title: "Διατριβὴ Δʹ.γʹ — τίνα τίνων ἀντικαταλλακτέον"
+lang: grc
+pagetitle: "Διατριβὴ Δʹ.γʹ — τίνα τίνων ἀντικαταλλακτέον — Ἐπικτήτου Διατριβαί"
+title-prefix: ""
+description-meta: "Διατριβὴ Δʹ.γʹ· «τίνα τίνων ἀντικαταλλακτέον». Ἀρριανοῦ τῶν Ἐπικτήτου Διατριβῶν, τὸ ἑλληνικὸν κείμενον."
+sidebar: grc
+---
+
+<!--
+FILE GENERATO. NON MODIFICARE A MANO.
+
+Modificare invece:
+- translation/it/**.md      per il testo e i titoli italiani
+- data/intro.json           per le note introduttive delle home page
+- tools/site_config.py      per lingue, testi dell'interfaccia, URL
+- styles.css                per l'aspetto grafico
+
+Poi eseguire:
+    run.bat
+-->
+
+
+<div class="diatribe-meta">Βιβλίον Δʹ · 12 τμήματα · <span class="canonical" title="Παραπομπή">IV 3</span></div>
+
+<nav class="chapter-nav"><a href="4-02.html">ἡ προτέρα διατριβή</a><a class="chapter-home" href="../index.html">Ἀρχή</a><a href="4-04.html">ἡ ἑπομένη διατριβή</a></nav>
+
+<div class="section-list">
+<article class="section" id="s-1"><a class="ref" href="#s-1">1</a><div class="section-text" lang="grc">ἐκεῖνο πρόχειρον ἔχε, ὅταν τινὸς ἀπολείπῃ τῶν ἐκτός, τί ἀντʼ αὐτοῦ περιποιῇ· κἂν ᾖ πλείονος ἄξιον, μηδέποτʼ εἴπῃς ὅτι <q>ἐζημίωμαι·</q></div></article>
+<article class="section" id="s-2"><a class="ref" href="#s-2">2</a><div class="section-text" lang="grc">οὐδʼ ἂν ἀντὶ ὄνου ἵππον, οὐδʼ ἀντὶ προβάτου βοῦν, οὐδʼ ἀντὶ κέρματος πρᾶξιν καλήν, οὐδʼ ἀντὶ ψυχρολογίας ἡσυχίαν οἵαν δεῖ, οὐδʼ ἀντὶ αἰσχρολογίας αἰδῶ.</div></article>
+<article class="section" id="s-3"><a class="ref" href="#s-3">3</a><div class="section-text" lang="grc">τούτων μεμνημένος πανταχοῦ διασώσεις τὸ σαυτοῦ πρόσωπον οἷον ἔχειν σε δεῖ. εἰ δὲ μή, σκόπει, ὅτι ἀπόλλυνται οἱ χρόνοι εἰκῇ καὶ ὅσα νῦν προσέχεις σεαυτῷ, μέλλεις ἐκχεῖν ἅπαντα ταῦτα καὶ ἀνατρέπειν.</div></article>
+<article class="section" id="s-4"><a class="ref" href="#s-4">4</a><div class="section-text" lang="grc">ὀλίγου δὲ χρεία ἐστὶ πρὸς τὴν ἀπώλειαν τὴν πάντων καὶ ἀνατροπήν, μικρᾶς ἀποστροφῆς τοῦ λόγου.</div></article>
+<article class="section" id="s-5"><a class="ref" href="#s-5">5</a><div class="section-text" lang="grc">ἵνα ὁ κυβερνήτης ἀνατρέψῃ τὸ πλοῖον, οὐ χρείαν ἔχει τῆς αὐτῆς παρασκευῆς, ὅσης εἰς τὸ σῶσαι· ἀλλὰ μικρὸν πρὸς τὸν ἄνεμον ἂν ἐπιστρέψῃ, ἀπώλετο· κἂν μὴ αὐτὸς ἑκών, ὑποπαρενθυμηθῇ δʼ, ἀπώλετο.</div></article>
+<article class="section" id="s-6"><a class="ref" href="#s-6">6</a><div class="section-text" lang="grc">τοιοῦτόν ἐστί τι καὶ ἐνθάδε· μικρὸν ἂν ἀπονυστάξῃς, ἀπῆλθεν πάντα τὰ μέχρι νῦν συνειλεγμένα. πρόσεχε οὖν ταῖς φαντασίαις, ἐπαγρύπνει.</div></article>
+<article class="section" id="s-7"><a class="ref" href="#s-7">7</a><div class="section-text" lang="grc">οὐ γὰρ μικρὸν τὸ τηρούμενον, ἀλλʼ αἰδὼς καὶ πίστις καὶ εὐστάθεια, ἀπάθεια, ἀλυπία, ἀφοβία, ἀταραξία, ἁπλῶς ἐλευθερία.</div></article>
+<article class="section" id="s-8"><a class="ref" href="#s-8">8</a><div class="section-text" lang="grc">τίνων μέλλεις ταῦτα πωλεῖν; βλέπε, πόσου ἀξίων. — ἀλλʼ οὐ τεύξομαι τοιούτου τινὸς ἀντʼ αὐτοῦ. — βλέπε καὶ τυγχάνων πάλιν ἐκείνου, τί ἀντʼ αὐτοῦ λαμβάνεις.</div></article>
+<article class="section" id="s-9"><a class="ref" href="#s-9">9</a><div class="section-text" lang="grc"><q>ἐγὼ εὐκοσμίαν, ἐκεῖνος δημαρχίαν· ἐκεῖνος στρατηγίαν, ἐγὼ αἰδῶ. ἀλλʼ οὐ κραυγάζω, ὅπου ἀπρεπές· ἀλλʼ οὐκ ἀναστήσομαι, ὅπου μὴ δεῖ. ἐλεύθερος γάρ εἰμι καὶ φίλος τοῦ θεοῦ, ἵνʼ ἑκὼν πείθωμαι αὐτῷ. </q></div></article>
+<article class="section" id="s-10"><a class="ref" href="#s-10">10</a><div class="section-text" lang="grc"><q> τῶν δʼ ἄλλων οὐδενὸς ἀντιποιεῖσθαί με δεῖ, οὐ σώματος, οὐ κτήσεως, οὐκ ἀρχῆς, οὐ φήμης, ἁπλῶς οὐδενός· οὐδὲ γὰρ ἐκεῖνος βούλεταί μʼ ἀντιποιεῖσθαι αὐτῶν. εἰ γὰρ ἤθελεν, ἀγαθὰ πεποιήκει αὐτὰ ἂν ἐμοί. νῦν δʼ οὐ πεποίηκεν· διὰ τοῦτο οὐδὲν δύναμαι παραβῆναι τῶν ἐντολῶν.</q></div></article>
+<article class="section" id="s-11"><a class="ref" href="#s-11">11</a><div class="section-text" lang="grc">τήρει τὸ ἀγαθὸν τὸ σαυτοῦ ἐν παντί, τῶν δʼ ἄλλων κατὰ τὸ διδόμενον μέχρι τοῦ εὐλογιστεῖν ἐν αὐτοῖς, τούτῳ μόνῳ ἀρκούμενος. εἰ δὲ μή, δυστυχήσεις, ἀτυχήσεις, κωλυθήσῃ, ἐμποδισθήσῃ.</div></article>
+<article class="section" id="s-12"><a class="ref" href="#s-12">12</a><div class="section-text" lang="grc">οὗτοί εἰσιν οἱ ἐκεῖθεν ἀπεσταλμένοι νόμοι, ταῦτα τὰ διατάγματα· τούτων ἐξηγητὴν δεῖ γενέσθαι, τούτοις ὑποτεταγμένον, οὐ τοῖς Μασουρίου καὶ Κασσίου.</div></article>
+</div>
+
+<nav class="chapter-nav chapter-nav-bottom"><a href="4-02.html">ἡ προτέρα διατριβή</a><a class="chapter-home" href="../index.html">Ἀρχή</a><a href="4-04.html">ἡ ἑπομένη διατριβή</a></nav>

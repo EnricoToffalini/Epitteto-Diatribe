@@ -1,0 +1,45 @@
+---
+title: "Diatriba III.15 — Che bisogna affrontare ogni cosa con circospezione"
+lang: it
+pagetitle: "Diatriba III.15 — Che bisogna affrontare ogni cosa con circospezione — Epitteto, Diatribe"
+title-prefix: ""
+description-meta: "Diatriba III.15: «Che bisogna affrontare ogni cosa con circospezione». Le Diatribe di Epitteto raccolte da Arriano, in traduzione italiana."
+sidebar: it
+---
+
+<!--
+FILE GENERATO. NON MODIFICARE A MANO.
+
+Modificare invece:
+- translation/it/**.md      per il testo e i titoli italiani
+- data/intro.json           per le note introduttive delle home page
+- tools/site_config.py      per lingue, testi dell'interfaccia, URL
+- styles.css                per l'aspetto grafico
+
+Poi eseguire:
+    run.bat
+-->
+
+
+<div class="diatribe-meta">Libro III · 14 sezioni · <span class="canonical" title="Riferimento canonico">III 15</span></div>
+
+<nav class="chapter-nav"><a href="3-14.html">Diatriba precedente</a><a class="chapter-home" href="../index.html">Home</a><a href="3-16.html">Diatriba successiva</a></nav>
+
+<div class="section-list">
+<article class="section" id="s-1"><a class="ref" href="#s-1">1</a><div class="section-text">Per ogni impresa considera ciò che viene prima e ciò che segue, e solo allora intraprendila. Altrimenti, all’inizio vi andrai pieno di entusiasmo, perché non hai pensato a nulla di ciò che verrà dopo; ma più tardi, quando si presenteranno certe conseguenze, ti ritirerai vergognosamente.</div></article>
+<article class="section" id="s-2"><a class="ref" href="#s-2">2</a><div class="section-text">«Voglio vincere ai Giochi Olimpici.» Ma considera ciò che viene prima e ciò che segue; e poi, se ti conviene, mettiti all’opera.</div></article>
+<article class="section" id="s-3"><a class="ref" href="#s-3">3</a><div class="section-text">Devi sottoporti alla disciplina, mangiare secondo prescrizione, astenerti dai dolci, allenarti per forza, a ore stabilite, con il caldo e con il freddo; non bere acqua fredda né vino quando ti capita; in una parola, devi affidarti all’allenatore come a un medico.</div></article>
+<article class="section" id="s-4"><a class="ref" href="#s-4">4</a><div class="section-text">Poi, durante la gara, dovrai rotolarti nella sabbia, talvolta slogarti una mano, storcerti una caviglia, inghiottire molta polvere, essere frustato; e, dopo tutto questo, talvolta anche essere sconfitto.</div></article>
+<article class="section" id="s-5"><a class="ref" href="#s-5">5</a><div class="section-text">Dopo aver considerato queste cose, se vuoi ancora, dedicati all’atletica; altrimenti sappi che ti comporterai come i bambini, che ora giocano a fare gli atleti, ora i gladiatori, ora suonano la tromba, poi recitano tragedie, secondo ciò che hanno visto e ammirato.</div></article>
+<article class="section" id="s-6"><a class="ref" href="#s-6">6</a><div class="section-text">Così anche tu: ora atleta, ora gladiatore, poi filosofo, poi retore; ma con tutta l’anima non sei nulla. Come una scimmia, imiti tutto ciò che vedi, e sempre una cosa dopo l’altra ti piace, mentre ciò a cui ti sei abituato ti viene a noia.</div></article>
+<article class="section" id="s-7"><a class="ref" href="#s-7">7</a><div class="section-text">Non sei infatti giunto a qualcosa dopo aver riflettuto, né dopo averne esaminato tutto l’insieme e averlo messo alla prova, ma a caso e per un desiderio tiepido.</div></article>
+<article class="section" id="s-8"><a class="ref" href="#s-8">8</a><div class="section-text">Così alcuni, dopo aver visto un filosofo e aver sentito qualcuno parlare come parla Eufrate — eppure chi sa parlare come lui? — vogliono anch’essi filosofare.</div></article>
+<article class="section" id="s-9"><a class="ref" href="#s-9">9</a><div class="section-text">Uomo, considera anzitutto che cosa sia questa impresa; poi anche la tua natura, che cosa sei capace di sopportare. Se vuoi fare il lottatore, guarda le tue spalle, le cosce, i lombi.</div></article>
+<article class="section" id="s-10"><a class="ref" href="#s-10">10</a><div class="section-text">Ciascuno infatti è fatto per natura per qualcosa di diverso. Credi che, facendo ciò che fai ora, tu possa filosofare? Credi di poter continuare a mangiare allo stesso modo, bere allo stesso modo, adirarti allo stesso modo, irritarti allo stesso modo?</div></article>
+<article class="section" id="s-11"><a class="ref" href="#s-11">11</a><div class="section-text">Devi vegliare, faticare, vincere alcuni desideri, allontanarti dai tuoi cari, essere disprezzato da un ragazzetto, deriso da chi incontri, avere meno degli altri in ogni cosa: nelle cariche, negli onori, nei tribunali.</div></article>
+<article class="section" id="s-12"><a class="ref" href="#s-12">12</a><div class="section-text">Dopo aver considerato tutto questo, se ti sembra opportuno, avvicinati, se vuoi ottenere in cambio di queste cose libertà dalle passioni, libertà e imperturbabilità. Altrimenti non avvicinarti: non fare come i bambini, ora filosofo, poi esattore delle tasse, poi retore, poi procuratore di Cesare.</div></article>
+<article class="section" id="s-13"><a class="ref" href="#s-13">13</a><div class="section-text">Queste cose non stanno insieme. Devi essere un uomo solo, buono o cattivo; devi lavorare o sulla tua facoltà direttiva o sulle cose esterne; dedicarti o a ciò che è dentro o a ciò che è fuori. Questo significa assumere la posizione del filosofo oppure quella dell’uomo comune.</div></article>
+<article class="section" id="s-14"><a class="ref" href="#s-14">14</a><div class="section-text">Dopo l’uccisione di Galba, uno disse a Rufo: «Dunque ora il mondo è governato dalla provvidenza?» Ed egli rispose: «Ho forse mai fondato incidentalmente su Galba la prova che il mondo è governato dalla provvidenza?»</div></article>
+</div>
+
+<nav class="chapter-nav chapter-nav-bottom"><a href="3-14.html">Diatriba precedente</a><a class="chapter-home" href="../index.html">Home</a><a href="3-16.html">Diatriba successiva</a></nav>

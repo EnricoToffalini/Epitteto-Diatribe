@@ -1,0 +1,44 @@
+---
+title: "Discourse II.15 — To or against those who obstinately persist in what they have determined"
+lang: en
+pagetitle: "Discourse II.15 — To or against those who obstinately persist in what they have determined — Epictetus, Discourses"
+title-prefix: ""
+description-meta: "Discourse II.15: “To or against those who obstinately persist in what they have determined”. The Discourses of Epictetus, in George Long’s English translation, with his notes."
+sidebar: en
+---
+
+<!--
+FILE GENERATO. NON MODIFICARE A MANO.
+
+Modificare invece:
+- translation/it/**.md      per il testo e i titoli italiani
+- data/intro.json           per le note introduttive delle home page
+- tools/site_config.py      per lingue, testi dell'interfaccia, URL
+- styles.css                per l'aspetto grafico
+
+Poi eseguire:
+    run.bat
+-->
+
+
+<div class="diatribe-meta">Book II · 2 paragraphs · <span class="canonical" title="Canonical reference">II 15</span></div>
+
+<nav class="chapter-nav"><a href="2-14.html">Previous discourse</a><a class="chapter-home" href="../index.html">Home</a><a href="2-16.html">Next discourse</a></nav>
+
+<div class="paragraph-list">
+<p>WHEN some persons have heard these words, that a man ought to be constant (firm), and that [the will is naturally free and not subject to compulsion, but that all other things are subject to hindrance, to slavery, and are in the power of others, they suppose that they ought without deviation to abide by every thing which they have determined. But in the first place that which has been determined ought to be sound (true). I require tone (sinews) in the body, but such as exists in a healthy body, in an athletic body; but if it is plain to me that you have the tone of a phrensied man and you boast of it, I shall say to you, man, seek the physician: this is not tone, but atony (deficiency in right tone). In a different way something of the same kind is felt by those who listen to these discourses in a wrong manner; which was the case with one of my companions who for no reason resolved to starve himself to death.<a class="note-ref" id="noteref-1" href="#note-1" role="doc-noteref" aria-label="note 1"><sup>1</sup></a> I heard of it when it was the third day of his abstinence from food and I went to inquire what had happened. I have resolved, he said.—But still tell me what it was which induced you to resolve; for if you have resolved rightly, we shall sit with you and assist you to depart; but if you have made an unreasonable resolution, change your mind.—We ought to keep to our determinations. —What are you doing, man? We ought to keep not to all our determinations, but to those which are right; for if you are now persuaded that it is night, do not change your mind, if you think fit, but persist and say, we ought to abide by our determinations. Will you not make the beginning and lay the foundation in an inquiry whether the determination is sound or not sound, and so then build on it firmness and security? But if you lay a rotten and ruinous foundation, will not your miserable little building fall down the sooner, the more and the stronger are the materials which you shall lay on it? Without any reason would you withdraw from us out of life a man who is a friend, and a companion, a citizen of the same city, both the great and the small city?<a class="note-ref" id="noteref-2" href="#note-2" role="doc-noteref" aria-label="note 2"><sup>2</sup></a> Then while you are committing murder and destroying a man who has done no wrong, do you say that you ought to abide by your determinations? And if it ever in any way came into your head to kill me, ought you to abide by your determinations?</p>
+<p>Now this man was with difficulty persuaded to change his mind. But it is impossible to convince some persons at present; so that I seem now to know, what I did not know before, the meaning of the common saying, That you can neither persuade nor break a fool.<a class="note-ref" id="noteref-3" href="#note-3" role="doc-noteref" aria-label="note 3"><sup>3</sup></a> May it never be my lot to have a wise fool for my friend: nothing is more untractable, <q>I am determined,</q> the man says. Madmen are also; but the more firmly they form a judgment on things which do not exist, the more ellebore<a class="note-ref" id="noteref-4" href="#note-4" role="doc-noteref" aria-label="note 4"><sup>4</sup></a> they require. Will you not act like a sick man and call in the physician?—I am sick, master, help me; consider what I must do: it is my duty to obey you. So it is here also: I know not what I ought to do, but I am come to learn.—Not so; but speak to me about other things: upon this I have determined.—What other things? for what is greater and more useful than for you to be persuaded that it is not sufficient to have made your determination and not to change it. This is the tone (energy) of madness, not of health.—I will die, if you compel me to this.—Why, man? What has happened?—I have determined—I have had a lucky escape that you have not determined to kill me—I take no money.<a class="note-ref" id="noteref-5" href="#note-5" role="doc-noteref" aria-label="note 5"><sup>5</sup></a> Why?—I have determined—Be assured that with the very tone (energy) which you now use in refusing to take, there is nothing to hinder you at some time from inclining without reason to take money and then saying, I have determined. As in a distempered body, subject to defluxions, the humour inclines sometimes to these parts, and then to those, so too a sickly soul knows not which way to incline: but if to this inclination and movement there is added a tone (obstinate resolution), then the evil becomes past help and cure.</p>
+</div>
+
+<section class="notes">
+<h2>Notes</h2>
+<ol class="note-list">
+<li class="note" id="note-1" role="doc-endnote"><p>The word is <span class="foreign" lang="grc">ἀποκαρτερεῖν</span>, which Cicero (Tusc. i. 34) renders <q lang="lat" class="foreign">perinediam vita discedere.</q> The words <q>I have resolved</q> are in Epictetus, <span class="foreign" lang="grc">κέκρικα</span>. Pliny (Epp. i. 12) says that Corellius Rufus, when he determined to end his great sufferings by starvation made the same answer, <span class="foreign" lang="grc">κέκρικα</span>, to the physician who offered him food.</p><a class="note-back" href="#noteref-1" aria-label="back to the text">&#8617;</a></li>
+<li class="note" id="note-2" role="doc-endnote"><p>The great city is the world.</p><a class="note-back" href="#noteref-2" aria-label="back to the text">&#8617;</a></li>
+<li class="note" id="note-3" role="doc-endnote"><p>The meaning is that you cannot lead a fool from his purpose either by words or force. <q>A wise fool</q> must mean a fool who thinks himself wise; and such we sometimes see. <q>Though thou shouldst bray a fool in the mortar among wheat with a pestle, yet will not his foolishness depart from him.</q> Proverbs, xxvii. 22.</p><a class="note-back" href="#noteref-3" aria-label="back to the text">&#8617;</a></li>
+<li class="note" id="note-4" role="doc-endnote"><p>Ellebore was a medicine used in madness. Horace says, <span class="cit"> <cite>Sat. ii. 3. 82—</cite> <span class="verse-quote" lang="lat" class="foreign"><span class="l">Danda est ellebori multo pars maxima avaris.</span></span> </span></p><a class="note-back" href="#noteref-4" aria-label="back to the text">&#8617;</a></li>
+<li class="note" id="note-5" role="doc-endnote"><p><q>Epictetus seems in this discussion to be referring to some professor, who had declared that he would not take money from his hearers, and then, indirectly at least had blamed our philosopher for receiving some fee from his hearers.</q> Schweig.</p><a class="note-back" href="#noteref-5" aria-label="back to the text">&#8617;</a></li>
+</ol>
+</section>
+
+<nav class="chapter-nav chapter-nav-bottom"><a href="2-14.html">Previous discourse</a><a class="chapter-home" href="../index.html">Home</a><a href="2-16.html">Next discourse</a></nav>

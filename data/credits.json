@@ -1,0 +1,27 @@
+{
+  "_nota": "Contenuto della pagina 'Fonti e crediti', una lista di paragrafi per lingua. Si può usare _corsivo_ e i link nella forma [testo](url).",
+
+  "it": [
+    "**Testo greco.** _Epicteti dissertationes ab Arriano digestae_, edizione maior a cura di Heinrich Schenkl, Leipzig, Teubner, 1916. Ripreso dalla [Perseus Digital Library](https://www.perseus.tufts.edu/) (Tufts University), URN `urn:cts:greekLit:tlg0557.tlg001.perseus-grc2`.",
+    "**Traduzione inglese.** George Long, _The Discourses of Epictetus, with the Encheiridion and Fragments_, London, George Bell and Sons, 1890. Ripresa dalla [Perseus Digital Library](https://www.perseus.tufts.edu/), URN `urn:cts:greekLit:tlg0557.tlg001.perseus-eng3`. Le note a piè di pagina sono di Long e sono riportate integralmente in fondo a ogni diatriba.",
+    "**Licenza.** I due testi di Perseus sono distribuiti con licenza [Creative Commons Attribution-ShareAlike 4.0 International](https://creativecommons.org/licenses/by-sa/4.0/). Questo sito li ripubblica alle stesse condizioni: chi ne riusa il contenuto deve citare la fonte e mantenere la stessa licenza.",
+    "**Traduzione italiana.** Realizzata da GPT-5.6 Sol, con l'ausilio di Claude Opus 5.0, sul testo greco di Schenkl; completata nel 2026.",
+    "**Illustrazione di copertina.** Generata con l'intelligenza artificiale per questa edizione."
+  ],
+
+  "en": [
+    "**Greek text.** _Epicteti dissertationes ab Arriano digestae_, editio maior, edited by Heinrich Schenkl, Leipzig, Teubner, 1916. Taken from the [Perseus Digital Library](https://www.perseus.tufts.edu/) (Tufts University), URN `urn:cts:greekLit:tlg0557.tlg001.perseus-grc2`.",
+    "**English translation.** George Long, _The Discourses of Epictetus, with the Encheiridion and Fragments_, London, George Bell and Sons, 1890. Taken from the [Perseus Digital Library](https://www.perseus.tufts.edu/), URN `urn:cts:greekLit:tlg0557.tlg001.perseus-eng3`. The footnotes are Long's own and are printed in full at the end of each discourse.",
+    "**Licence.** Both Perseus texts are published under a [Creative Commons Attribution-ShareAlike 4.0 International](https://creativecommons.org/licenses/by-sa/4.0/) licence. This site republishes them on the same terms: reuse requires attribution and the same licence.",
+    "**Italian translation.** Produced by GPT-5.6 Sol, with the assistance of Claude Opus 5.0, from Schenkl's Greek text; completed in 2026.",
+    "**Cover illustration.** Generated with AI for this edition."
+  ],
+
+  "grc": [
+    "**Τὸ ἑλληνικὸν κείμενον.** _Epicteti dissertationes ab Arriano digestae_, ἔκδοσις μείζων, ἐπιμελείᾳ Heinrich Schenkl, Leipzig, Teubner, 1916· ἐκ τῆς [Perseus Digital Library](https://www.perseus.tufts.edu/) (Tufts University), URN `urn:cts:greekLit:tlg0557.tlg001.perseus-grc2`.",
+    "**Ἡ ἀγγλικὴ μετάφρασις.** George Long, _The Discourses of Epictetus, with the Encheiridion and Fragments_, London, George Bell and Sons, 1890· ἐκ τῆς [Perseus Digital Library](https://www.perseus.tufts.edu/), URN `urn:cts:greekLit:tlg0557.tlg001.perseus-eng3`. αἱ δὲ σημειώσεις αὐτοῦ τοῦ Long εἰσὶ καὶ ἐν τῷ τέλει ἑκάστης διατριβῆς κεῖνται.",
+    "**Ἡ ἄδεια.** ἄμφω τὰ κείμενα κατὰ τὴν ἄδειαν [Creative Commons Attribution-ShareAlike 4.0 International](https://creativecommons.org/licenses/by-sa/4.0/) δίδοται, καὶ ὅδε ὁ τόπος ἐπὶ τοῖς αὐτοῖς αὐτὰ ἐκδίδωσιν.",
+    "**Ἡ ἰταλικὴ μετάφρασις.** ὑπὸ GPT-5.6 Sol, μετὰ τῆς Claude Opus 5.0 ἐπικουρίας, ἐκ τοῦ ἑλληνικοῦ κειμένου πεποιημένη, ἔτει 2026 τετελεσμένη.",
+    "**Ἡ εἰκὼν τοῦ ἐξωφύλλου.** διὰ τεχνητῆς νοήσεως πεποίηται."
+  ]
+}

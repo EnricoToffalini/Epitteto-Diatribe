@@ -1,0 +1,60 @@
+---
+title: "Diatriba II.14 — A Nasone"
+lang: it
+pagetitle: "Diatriba II.14 — A Nasone — Epitteto, Diatribe"
+title-prefix: ""
+description-meta: "Diatriba II.14: «A Nasone». Le Diatribe di Epitteto raccolte da Arriano, in traduzione italiana."
+sidebar: it
+---
+
+<!--
+FILE GENERATO. NON MODIFICARE A MANO.
+
+Modificare invece:
+- translation/it/**.md      per il testo e i titoli italiani
+- data/intro.json           per le note introduttive delle home page
+- tools/site_config.py      per lingue, testi dell'interfaccia, URL
+- styles.css                per l'aspetto grafico
+
+Poi eseguire:
+    run.bat
+-->
+
+
+<div class="diatribe-meta">Libro II · 29 sezioni · <span class="canonical" title="Riferimento canonico">II 14</span></div>
+
+<nav class="chapter-nav"><a href="2-13.html">Diatriba precedente</a><a class="chapter-home" href="../index.html">Home</a><a href="2-15.html">Diatriba successiva</a></nav>
+
+<div class="section-list">
+<article class="section" id="s-1"><a class="ref" href="#s-1">1</a><div class="section-text">Entrato un Romano con il figlio, dopo che ebbe ascoltato una lettura, Epitteto disse: «Questo è il metodo dell’insegnamento», e tacque.</div></article>
+<article class="section" id="s-2"><a class="ref" href="#s-2">2</a><div class="section-text">Ma poiché quello lo invitava a proseguire, disse: «Ogni arte, quando viene insegnata, comporta fatica per chi ne è profano e inesperto».</div></article>
+<article class="section" id="s-3"><a class="ref" href="#s-3">3</a><div class="section-text">I prodotti delle arti, invece, mostrano subito la propria utilità, lo scopo per cui sono stati fatti, e la maggior parte di essi ha anche qualcosa di attraente e piacevole.</div></article>
+<article class="section" id="s-4"><a class="ref" href="#s-4">4</a><div class="section-text">Per esempio, assistere e seguire come qualcuno impara il mestiere di calzolaio è poco piacevole; ma la scarpa è utile e, a guardarla, non è affatto sgradevole.</div></article>
+<article class="section" id="s-5"><a class="ref" href="#s-5">5</a><div class="section-text">Anche l’apprendimento del mestiere di falegname è molto noioso per un profano che vi assista; l’opera, invece, mostra l’utilità dell’arte.</div></article>
+<article class="section" id="s-6"><a class="ref" href="#s-6">6</a><div class="section-text">Lo vedrai molto più chiaramente nella musica: se assisti a una lezione, l’apprendimento ti sembrerà la cosa più sgradevole di tutte; e tuttavia i risultati della musica sono piacevoli e gradevoli da ascoltare anche per chi non ne sa nulla.</div></article>
+<article class="section" id="s-7"><a class="ref" href="#s-7">7</a><div class="section-text">Anche qui immaginiamo che il compito di chi pratica la filosofia sia qualcosa del genere: deve accordare la propria volontà a ciò che accade, così che nulla di ciò che accade avvenga contro il nostro volere, né, quando qualcosa non avviene, noi vogliamo che avvenga.</div></article>
+<article class="section" id="s-8"><a class="ref" href="#s-8">8</a><div class="section-text">Da ciò deriva, per chi vi è riuscito, di non fallire nel desiderio e di non incorrere in ciò che avversa, e di attraversare la vita senza dolore, senza paura e senza turbamento, vivendo con gli altri e conservando le relazioni sia naturali sia acquisite: di figlio, di padre, di fratello, di cittadino, di marito, di moglie, di vicino, di compagno di viaggio, di governante e di governato.</div></article>
+<article class="section" id="s-9"><a class="ref" href="#s-9">9</a><div class="section-text">Questo, dunque, immaginiamo sia il compito di chi pratica la filosofia. Subito dopo ci chiediamo come sia possibile realizzarlo.</div></article>
+<article class="section" id="s-10"><a class="ref" href="#s-10">10</a><div class="section-text">Vediamo che il falegname diventa falegname imparando certe cose, e il timoniere diventa timoniere imparandone altre. Forse dunque anche qui non basta voler diventare un uomo buono e virtuoso, ma occorre imparare qualcosa? Cerchiamo allora che cosa.</div></article>
+<article class="section" id="s-11"><a class="ref" href="#s-11">11</a><div class="section-text">I filosofi dicono che bisogna anzitutto imparare questo: che Dio esiste e provvede all’universo, e che non gli si può nascondere non solo ciò che si fa, ma neppure ciò che si pensa o si concepisce; poi, quale sia la natura degli dèi.</div></article>
+<article class="section" id="s-12"><a class="ref" href="#s-12">12</a><div class="section-text">Quali infatti si scopriranno essere, chi vuole piacere loro e obbedire deve necessariamente cercare, per quanto può, di rendersi simile a loro.</div></article>
+<article class="section" id="s-13"><a class="ref" href="#s-13">13</a><div class="section-text">Se il divino è fedele, anche lui deve essere fedele; se è libero, anche lui libero; se benefico, anche lui benefico; se magnanimo, anche lui magnanimo. Come imitatore di Dio, dunque, deve fare e dire tutto ciò che segue da questo.</div></article>
+<article class="section" id="s-14"><a class="ref" href="#s-14">14</a><div class="section-text">Da dove bisogna dunque cominciare? — Se accetti di entrare nella discussione, ti dirò che anzitutto devi comprendere i termini. — Dunque io adesso non comprendo i termini?</div></article>
+<article class="section" id="s-15"><a class="ref" href="#s-15">15</a><div class="section-text">— Non li comprendi. — Come faccio allora a usarli? — Come gli analfabeti usano le parole scritte e come gli animali usano le rappresentazioni: una cosa è l’uso, un’altra la comprensione.</div></article>
+<article class="section" id="s-16"><a class="ref" href="#s-16">16</a><div class="section-text">Se invece credi di comprenderli, proponi il termine che vuoi e mettiamoci alla prova, per vedere se davvero lo comprendiamo.</div></article>
+<article class="section" id="s-17"><a class="ref" href="#s-17">17</a><div class="section-text">— Ma è spiacevole essere confutato quando si è ormai anziani e magari si sono già compiute tre campagne militari.</div></article>
+<article class="section" id="s-18"><a class="ref" href="#s-18">18</a><div class="section-text">— Lo so anch’io. Perché ora sei venuto da me come se non avessi bisogno di nulla. E che cosa potresti mai immaginare che ti manchi? Sei ricco, hai figli, forse anche una moglie e molti servi; Cesare ti conosce, a Roma hai molti amici, adempi ai tuoi doveri, sai ricambiare chi ti fa del bene e fare del male a chi ti fa del male.</div></article>
+<article class="section" id="s-19"><a class="ref" href="#s-19">19</a><div class="section-text">Che cosa ti manca? Se dunque ti mostrerò che ti mancano proprio le cose più necessarie e importanti per la felicità, e che fino a oggi ti sei occupato di tutto più che di ciò di cui dovevi occuparti, e aggiungerò il colmo: che non sai né che cosa sia Dio, né che cosa sia l’uomo, né che cosa sia il bene, né che cosa sia il male,</div></article>
+<article class="section" id="s-20"><a class="ref" href="#s-20">20</a><div class="section-text">forse l’ignoranza delle altre cose è sopportabile; ma se ti dico che ignori te stesso, come potrai sopportarmi, sottoporti alla confutazione e restare?</div></article>
+<article class="section" id="s-21"><a class="ref" href="#s-21">21</a><div class="section-text">In nessun modo: te ne vai subito, irritato. Eppure quale male ti ho fatto? A meno che anche lo specchio non faccia male all’uomo brutto, perché gli mostra com’è; o che il medico non insulti il malato quando gli dice: «Uomo, ti sembra di non avere nulla, e invece hai la febbre. Oggi digiuna, bevi acqua». E nessuno dice: «Che terribile insulto!»</div></article>
+<article class="section" id="s-22"><a class="ref" href="#s-22">22</a><div class="section-text">Ma se dici a qualcuno: «I tuoi desideri sono infiammati, le tue avversioni sono meschine, i tuoi propositi incoerenti, i tuoi impulsi contrari alla natura, le tue opinioni infondate e false», quello esce subito dicendo: «Mi ha insultato».</div></article>
+<article class="section" id="s-23"><a class="ref" href="#s-23">23</a><div class="section-text">Le cose umane sono così, come in una fiera: vi si conducono animali, anche buoi, perché siano messi in vendita; e la maggior parte degli uomini viene, chi per comprare e chi per vendere. Pochi invece vengono per osservare la fiera: come si svolge, perché, chi l’ha istituita e a quale scopo.</div></article>
+<article class="section" id="s-24"><a class="ref" href="#s-24">24</a><div class="section-text">Così anche qui, in questa fiera: alcuni, come gli animali, non si interessano di nulla più che dell’erba. Tutti voi che vi affaccendate intorno a beni, campi, servi e cariche, infatti, non avete davanti altro che erba.</div></article>
+<article class="section" id="s-25"><a class="ref" href="#s-25">25</a><div class="section-text">Pochi sono invece gli uomini che partecipano alla fiera come amanti dello spettacolo: «Che cos’è dunque il cosmo? Chi lo governa? Nessuno?»</div></article>
+<article class="section" id="s-26"><a class="ref" href="#s-26">26</a><div class="section-text">E com’è possibile che una città o una casa non possano durare neppure per poco tempo senza qualcuno che le governi e se ne curi, mentre una costruzione così grande e bella sarebbe amministrata con tanto ordine a caso e come capita?</div></article>
+<article class="section" id="s-27"><a class="ref" href="#s-27">27</a><div class="section-text">Dunque qualcuno governa. Ma chi è e come governa? E noi, chi siamo, essendo stati generati da lui, e per quale compito? Abbiamo forse qualche legame e qualche relazione con lui, oppure nessuna?</div></article>
+<article class="section" id="s-28"><a class="ref" href="#s-28">28</a><div class="section-text">È questo ciò che accade a quei pochi; e ormai dedicano il loro tempo soltanto a questo: conoscere la fiera e poi andarsene.</div></article>
+<article class="section" id="s-29"><a class="ref" href="#s-29">29</a><div class="section-text">E allora? Sono derisi dai più; proprio come là gli spettatori sono derisi dai mercanti. E se gli animali avessero una qualche consapevolezza, riderebbero di chi ammira qualunque altra cosa oltre all’erba.</div></article>
+</div>
+
+<nav class="chapter-nav chapter-nav-bottom"><a href="2-13.html">Diatriba precedente</a><a class="chapter-home" href="../index.html">Home</a><a href="2-15.html">Diatriba successiva</a></nav>

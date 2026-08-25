@@ -1,0 +1,47 @@
+---
+title: "Διατριβὴ Γʹ.ιϛʹ — ὅτι εὐλαβῶς δεῖ συγκαθιέναι εἰς συμπεριφοράν"
+lang: grc
+pagetitle: "Διατριβὴ Γʹ.ιϛʹ — ὅτι εὐλαβῶς δεῖ συγκαθιέναι εἰς συμπεριφοράν — Ἐπικτήτου Διατριβαί"
+title-prefix: ""
+description-meta: "Διατριβὴ Γʹ.ιϛʹ· «ὅτι εὐλαβῶς δεῖ συγκαθιέναι εἰς συμπεριφοράν». Ἀρριανοῦ τῶν Ἐπικτήτου Διατριβῶν, τὸ ἑλληνικὸν κείμενον."
+sidebar: grc
+---
+
+<!--
+FILE GENERATO. NON MODIFICARE A MANO.
+
+Modificare invece:
+- translation/it/**.md      per il testo e i titoli italiani
+- data/intro.json           per le note introduttive delle home page
+- tools/site_config.py      per lingue, testi dell'interfaccia, URL
+- styles.css                per l'aspetto grafico
+
+Poi eseguire:
+    run.bat
+-->
+
+
+<div class="diatribe-meta">Βιβλίον Γʹ · 16 τμήματα · <span class="canonical" title="Παραπομπή">III 16</span></div>
+
+<nav class="chapter-nav"><a href="3-15.html">ἡ προτέρα διατριβή</a><a class="chapter-home" href="../index.html">Ἀρχή</a><a href="3-17.html">ἡ ἑπομένη διατριβή</a></nav>
+
+<div class="section-list">
+<article class="section" id="s-1"><a class="ref" href="#s-1">1</a><div class="section-text" lang="grc">ἀνάγκη τὸν συγκαθιέντα τισὶν ἐπιπλέον ἢ εἰς λαλιὰν ἢ εἰς συμπόσια ἢ ἁπλῶς εἰς συμβίωσιν ἢ αὐτὸν ἐκείνοις ἐξομοιωθῆναι ἢ ἐκείνους μεταθεῖναι ἐπὶ τὰ αὑτοῦ.</div></article>
+<article class="section" id="s-2"><a class="ref" href="#s-2">2</a><div class="section-text" lang="grc">καὶ γὰρ ἄνθρακα ἀπεσβεσμένον ἂν θῇ παρὰ τὸν καιόμενον, ἢ αὐτὸς ἐκεῖνον ἀποσβέσει ἢ ἐκεῖνος τοῦτον ἐκκαύσει.</div></article>
+<article class="section" id="s-3"><a class="ref" href="#s-3">3</a><div class="section-text" lang="grc">τηλικούτου οὖν τοῦ κινδύνου ὄντος εὐλαβῶς δεῖ τοῖς ἰδιώταις συγκαθίεσθαι εἰς τὰς τοιαύτας συμπεριφορὰς μεμνημένους, ὅτι ἀμήχανον τὸν συνανατριβόμενον τῷ ἠσβολωμένῳ μὴ καὶ αὐτὸν ἀπολαῦσαι τῆς ἀσβόλης·</div></article>
+<article class="section" id="s-4"><a class="ref" href="#s-4">4</a><div class="section-text" lang="grc">τί γὰρ ποιήσεις, ἂν περὶ μονομάχων λαλῇ<span class="ed-del">[ς]</span>, ἂν περὶ ἵππων, ἂν περὶ ἀθλητῶν, ἂν τὸ ἔτι τούτων χεῖρον περὶ ἀνθρώπων· <q>ὁ δεῖνα κακός, ὁ δεῖνα ἀγαθός· τοῦτο καλῶς ἐγένετο, τοῦτο κακῶς·</q> ἔτι ἂν σκώπτῃ, ἂν γελοιάζῃ, ἂν κακοηθίζηται;</div></article>
+<article class="section" id="s-5"><a class="ref" href="#s-5">5</a><div class="section-text" lang="grc">ἔχει τις ὑμῶν παρασκευὴν οἵαν ὁ κιθαριστικὸς τὴν λύραν λαβών, ὥστʼ εὐθὺς ἁψάμενος τῶν χορδῶν γνῶναι τὰς ἀσυμφώνους καὶ ἁρμόσασθαι τὸ ὄργανον; οἵαν εἶχεν δύναμιν Σωκράτης, ὥστʼ ἐν πάσῃ συμπεριφορᾷ ἄγειν ἐπὶ τὸ αὑτοῦ τοὺς συνόντας;</div></article>
+<article class="section" id="s-6"><a class="ref" href="#s-6">6</a><div class="section-text" lang="grc">πόθεν ὑμῖν; ἀλλʼ ἀνάγκη ὑπὸ τῶν ἰδιωτῶν ὑμᾶς περιάγεσθαι.</div></article>
+<article class="section" id="s-7"><a class="ref" href="#s-7">7</a><div class="section-text" lang="grc">διὰ τί οὖν ἐκεῖνοι ὑμῶν ἰσχυρότεροι; ὅτι ἐκεῖνοι μὲν τὰ σαπρὰ ταῦτα ἀπὸ δογμάτων λαλοῦσιν, ὑμεῖς δὲ τὰ κομψὰ ἀπὸ τῶν χειλῶν· διὰ τοῦτο ἄτονά ἐστι καὶ νεκρά, καὶ σικχᾶναι ἔστιν ἀκούοντα ὑμῶν τοὺς προτρεπτικοὺς καὶ τὴν ἀρετὴν τὴν ταλαίπωρον, ἣ ἄνω κάτω θρυλεῖται. οὕτως ὑμᾶς οἱ ἰδιῶται νικῶσιν.</div></article>
+<article class="section" id="s-8"><a class="ref" href="#s-8">8</a><div class="section-text" lang="grc">πανταχοῦ γὰρ ἰσχυρὸν τὸ δόγμα, ἀνίκητον τὸ δόγμα.</div></article>
+<article class="section" id="s-9"><a class="ref" href="#s-9">9</a><div class="section-text" lang="grc">μέχρις ἂν οὖν παγῶσιν ἐν ὑμῖν αἱ κομψαὶ ὑπολήψεις καὶ δυναμίν τινα περιποιήσησθε πρὸς ἀσφάλειαν, συμβουλεύω ὑμῖν εὐλαβῶς τοῖς ἰδιώταις συγκαταβαίνειν· εἰ δὲ μή, καθʼ ἡμέραν ὡς κηρὸς ἐν ἡλίῳ διατακήσεται, ὑμῶν εἴ τινα ἐν τῇ σχολῇ ἐγγράφετε.</div></article>
+<article class="section" id="s-10"><a class="ref" href="#s-10">10</a><div class="section-text" lang="grc">μακρὰν οὖν ἀπὸ τοῦ ἡλίου πού ποτε ὑπάγετε, μέχρις ἂν κηρίνας τὰς ὑπολήψεις ἔχητε.</div></article>
+<article class="section" id="s-11"><a class="ref" href="#s-11">11</a><div class="section-text" lang="grc">διὰ τοῦτο καὶ τῶν πατρίδων συμβουλεύουσιν ἀποχωρεῖν οἱ φιλόσοφοι, ὅτι τὰ παλαιὰ ἔθη περισπᾷ καὶ οὐκ ἐᾷ ἀρχὴν γενέσθαι τινὰ ἄλλου ἐθισμοῦ, οὐδὲ φέρομεν τοὺς ἀπαντῶντας καὶ λέγοντας <q><span class="ed-del">[ε]</span>ἴδʼ ὁ δεῖνα φιλοσοφεῖ, ὁ τοῖος καὶ ὁ τοῖος.</q></div></article>
+<article class="section" id="s-12"><a class="ref" href="#s-12">12</a><div class="section-text" lang="grc">οὕτως καὶ οἱ ἰατροὶ τοὺς μακρονοσοῦντας ἐκπέμπουσιν εἰς ἄλλην χώραν καὶ ἄλλον ἀέρα καλῶς ποιοῦντες.</div></article>
+<article class="section" id="s-13"><a class="ref" href="#s-13">13</a><div class="section-text" lang="grc">καὶ ὑμεῖς ἀντεισαγάγετε ἄλλα ἔθη· πήξατε ὑμῶν τὰς ὑπολήψεις, ἐναθλεῖτε αὐταῖς.</div></article>
+<article class="section" id="s-14"><a class="ref" href="#s-14">14</a><div class="section-text" lang="grc">οὔ· ἀλλʼ ἔνθεν ἐπὶ θεωρίαν, εἰς μονομαχίαν, εἰς ξυστόν, εἰς κίρκον· εἶτʼ ἐκεῖθεν ὧδε καὶ πάλιν ἔνθεν ἐκεῖ οἱ αὐτοί.</div></article>
+<article class="section" id="s-15"><a class="ref" href="#s-15">15</a><div class="section-text" lang="grc">καὶ ἔθος κομψὸν οὐδέν, οὔτε προσοχὴ οὔτʼ ἐπιστροφὴ ἐφʼ αὑτὸν καὶ παρατήρησις <q>πῶς χρῶμαι ταῖς προσπιπτούσαις φαντασίαις; κατὰ φύσιν ἢ παρὰ φύσιν; πῶς ἀποκρίνωμαι πρὸς αὐτάς; ὡς δεῖ ἢ ὡς οὐ δεῖ; ἐπιλέγω τοῖς ἀπροαιρέτοις, ὅτι οὐδὲν πρὸς ἐμέ;</q></div></article>
+<article class="section" id="s-16"><a class="ref" href="#s-16">16</a><div class="section-text" lang="grc">εἰ γὰρ μήπω οὕτως ἔχητε, φεύγετε ἔθη τὰ πρότερον, φεύγετε τοὺς ἰδιώτας, εἰ θέλετε ἄρξασθαί ποτέ τινες εἶναι.</div></article>
+</div>
+
+<nav class="chapter-nav chapter-nav-bottom"><a href="3-15.html">ἡ προτέρα διατριβή</a><a class="chapter-home" href="../index.html">Ἀρχή</a><a href="3-17.html">ἡ ἑπομένη διατριβή</a></nav>

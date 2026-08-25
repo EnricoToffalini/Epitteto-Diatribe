@@ -1,0 +1,43 @@
+---
+title: "Discourse I.15 — What philosophy promises"
+lang: en
+pagetitle: "Discourse I.15 — What philosophy promises — Epictetus, Discourses"
+title-prefix: ""
+description-meta: "Discourse I.15: “What philosophy promises”. The Discourses of Epictetus, in George Long’s English translation, with his notes."
+sidebar: en
+---
+
+<!--
+FILE GENERATO. NON MODIFICARE A MANO.
+
+Modificare invece:
+- translation/it/**.md      per il testo e i titoli italiani
+- data/intro.json           per le note introduttive delle home page
+- tools/site_config.py      per lingue, testi dell'interfaccia, URL
+- styles.css                per l'aspetto grafico
+
+Poi eseguire:
+    run.bat
+-->
+
+
+<div class="diatribe-meta">Book I · 3 paragraphs · <span class="canonical" title="Canonical reference">I 15</span></div>
+
+<nav class="chapter-nav"><a href="1-14.html">Previous discourse</a><a class="chapter-home" href="../index.html">Home</a><a href="1-16.html">Next discourse</a></nav>
+
+<div class="paragraph-list">
+<p>WHEN a man was consulting him how he should persuade his brother to cease being angry with him, Epictetus replied, Philosophy does not propose to secure for a man any external thing. If it did (or, if it were not, as I say), philosophy would be allowing something which is not within its province. For as the carpenter’s material is wood, and that of the statuary is copper, so the matter of the art of living is each man’s life.—What then is my brother’s?—That again belongs to his own art; but with respect to yours, it is one of the external things, like a piece of land, like health, like reputation. But Philosophy promises none of these. In every circumstance I will maintain, she says, the governing part<a class="note-ref" id="noteref-1" href="#note-1" role="doc-noteref" aria-label="note 1"><sup>1</sup></a> conformable to nature. Whose governing part? His in whom I am, she says.</p>
+<p>How then shall my brother cease to be angry with me? Bring him to me and I will tell him. But I have nothing to say to you about his anger.</p>
+<p>When the man, who was consulting him, said, I seek to know this, How, even if my brother is not reconciled to me, shall I maintain myself in a state conformable to nature? Nothing great, said Epictetus, is produced suddenly, since not even the grape or the fig is. If you say to me now that you want a fig, I will answer to you that it requires time: let it flower<a class="note-ref" id="noteref-2" href="#note-2" role="doc-noteref" aria-label="note 2"><sup>2</sup></a> first, then put forth fruit, and then ripen. Is then the fruit of a fig-tree not perfected suddenly and in one hour, and would you possess the fruit of a man’s mind in so short a time and so easily? Do not expect it, even if I tell you.</p>
+</div>
+
+<section class="notes">
+<h2>Notes</h2>
+<ol class="note-list">
+<li class="note" id="note-1" role="doc-endnote"><p>This is <span class="foreign" lang="grc">τὸ ἡγεμονικόν</span>, a word often used by Antoninus, ii. 2; vi. S.</p><a class="note-back" href="#noteref-1" aria-label="back to the text">&#8617;</a></li>
+<li class="note" id="note-2" role="doc-endnote"><p><q>The philosopher had forgot that fig-trees do not blossom</q> (Mrs. Carter). The flowers of a fig are inside the fleshy receptacle which becomes the fruit.</p> 
+<p>Schweig. prints <span class="foreign" lang="grc">μὴ δ᾽ ἂν, ἐγώ σοι λέγω, προσδόκα</span>: and in his Latin version he prints: <q lang="lat" class="foreign">Id vero, ego tibi dico, ne expectes.</q> I neither understand his pointing, nor his version. Wolf translates it, <q lang="lat" class="foreign">Etsi ego tibi dixero (virtutem brevi parari posse), noli credere</q>: which is light Wolf makes <span class="foreign" lang="grc">ἄν</span> go with <span class="foreign" lang="grc">λέγω</span>.</p><a class="note-back" href="#noteref-2" aria-label="back to the text">&#8617;</a></li>
+</ol>
+</section>
+
+<nav class="chapter-nav chapter-nav-bottom"><a href="1-14.html">Previous discourse</a><a class="chapter-home" href="../index.html">Home</a><a href="1-16.html">Next discourse</a></nav>

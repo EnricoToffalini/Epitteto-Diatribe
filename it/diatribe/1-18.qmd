@@ -1,0 +1,54 @@
+---
+title: "Diatriba I.18 — Che non bisogna adirarsi con chi sbaglia"
+lang: it
+pagetitle: "Diatriba I.18 — Che non bisogna adirarsi con chi sbaglia — Epitteto, Diatribe"
+title-prefix: ""
+description-meta: "Diatriba I.18: «Che non bisogna adirarsi con chi sbaglia». Le Diatribe di Epitteto raccolte da Arriano, in traduzione italiana."
+sidebar: it
+---
+
+<!--
+FILE GENERATO. NON MODIFICARE A MANO.
+
+Modificare invece:
+- translation/it/**.md      per il testo e i titoli italiani
+- data/intro.json           per le note introduttive delle home page
+- tools/site_config.py      per lingue, testi dell'interfaccia, URL
+- styles.css                per l'aspetto grafico
+
+Poi eseguire:
+    run.bat
+-->
+
+
+<div class="diatribe-meta">Libro I · 23 sezioni · <span class="canonical" title="Riferimento canonico">I 18</span></div>
+
+<nav class="chapter-nav"><a href="1-17.html">Diatriba precedente</a><a class="chapter-home" href="../index.html">Home</a><a href="1-19.html">Diatriba successiva</a></nav>
+
+<div class="section-list">
+<article class="section" id="s-1"><a class="ref" href="#s-1">1</a><div class="section-text">Se è vero ciò che dicono i filosofi, che per tutti gli uomini vi è un unico principio: come, per dare l’assenso, l’avere l’impressione che le cose stiano così; per negarlo, l’avere l’impressione che non stiano così; e, per Zeus, per sospendere il giudizio, l’avere l’impressione che la cosa sia incerta,</div></article>
+<article class="section" id="s-2"><a class="ref" href="#s-2">2</a><div class="section-text">così anche, per muoversi verso qualcosa, l’avere l’impressione che sia nel mio interesse; e poiché è impossibile giudicare vantaggiosa una cosa e desiderarne un’altra, giudicare doverosa una cosa e muoversi verso un’altra, perché allora ci adiriamo ancora con la gente?</div></article>
+<article class="section" id="s-3"><a class="ref" href="#s-3">3</a><div class="section-text">— «Sono ladri», dice, «e rapinatori.» — Che significa «ladri e rapinatori»? Si sono sbagliati sul bene e sul male. Bisogna dunque adirarsi con loro o averne pietà?</div></article>
+<article class="section" id="s-4"><a class="ref" href="#s-4">4</a><div class="section-text">Mostra loro l’errore e vedrai come si allontanano dalle loro colpe. Ma se non lo vedono, non hanno nulla che prevalga su ciò che a loro sembra vero.</div></article>
+<article class="section" id="s-5"><a class="ref" href="#s-5">5</a><div class="section-text">— E allora questo brigante e questo adultero non bisognava eliminarli?</div></article>
+<article class="section" id="s-6"><a class="ref" href="#s-6">6</a><div class="section-text">— Nient’affatto. Piuttosto di’: «Quest’uomo, che si è smarrito e ingannato sulle cose più importanti ed è diventato cieco non nella vista che distingue il bianco dal nero, ma nella facoltà di giudizio che distingue il bene dal male, non bisognerebbe eliminarlo?»</div></article>
+<article class="section" id="s-7"><a class="ref" href="#s-7">7</a><div class="section-text">Se la metti così, capirai quanto è disumano ciò che dici e che equivale a dire: «E allora questo cieco e questo sordo non bisognerebbe eliminarli?»</div></article>
+<article class="section" id="s-8"><a class="ref" href="#s-8">8</a><div class="section-text">Se infatti il danno più grande è la perdita delle cose più grandi, e la cosa più grande in ciascuno è che la sua scelta morale sia come deve essere, se uno ne è privo, perché ti adiri ancora con lui?</div></article>
+<article class="section" id="s-9"><a class="ref" href="#s-9">9</a><div class="section-text">Uomo, se proprio devi assumere un atteggiamento contrario a natura di fronte ai mali altrui, abbi pietà di lui anziché odiarlo; rinuncia a questa suscettibilità e a questo odio;</div></article>
+<article class="section" id="s-10"><a class="ref" href="#s-10">10</a><div class="section-text">non ripetere le frasi che ripetono i più: «Questi maledetti, questi scellerati!». E sia; ma tu, come sei diventato sapiente tutt’a un tratto?</div></article>
+<article class="section" id="s-11"><a class="ref" href="#s-11">11</a><div class="section-text">Perché sei così duro con gli altri? Perché dunque ci adiriamo? Perché diamo tanto valore alle cose di cui ci privano. Ebbene, non dare tanto valore ai tuoi vestiti e non ti adirerai con il ladro; non dare tanto valore alla bellezza di tua moglie e non ti adirerai con l’adultero.</div></article>
+<article class="section" id="s-12"><a class="ref" href="#s-12">12</a><div class="section-text">Sappi che il ladro e l’adultero non trovano posto fra le cose che sono tue, ma fra quelle altrui e che non dipendono da te. Se le lasci andare e le consideri un nulla, con chi ti adirerai ancora? Ma finché continui a dar loro valore, adirati con te stesso piuttosto che con loro. Considera infatti:</div></article>
+<article class="section" id="s-13"><a class="ref" href="#s-13">13</a><div class="section-text">hai bei vestiti, il tuo vicino no; hai una finestra e vuoi metterli all’aria. Lui non sa che cosa sia il bene dell’uomo, ma immagina che consista nell’avere bei vestiti: proprio ciò che immagini anche tu.</div></article>
+<article class="section" id="s-14"><a class="ref" href="#s-14">14</a><div class="section-text">E allora non dovrebbe venire a portarseli via? Ma tu, mostrando una focaccia a gente golosa e ingoiandotela tutto da solo, non vuoi che te la strappino? Non provocarli: non avere una finestra, non mettere all’aria i tuoi vestiti.</div></article>
+<article class="section" id="s-15"><a class="ref" href="#s-15">15</a><div class="section-text">L’altro giorno anch’io avevo una lampada di ferro accanto agli dèi di casa; sentendo un rumore alla finestra corsi giù e trovai che la lampada era stata portata via. Pensai che chi l’aveva presa aveva agito in modo tutt’altro che sorprendente. E allora? «Domani», mi dissi, «ne troverai una di terracotta.»</div></article>
+<article class="section" id="s-16"><a class="ref" href="#s-16">16</a><div class="section-text">Si perde infatti ciò che si possiede. «Ho perso il mantello.» Perché avevi un mantello. «Mi fa male la testa.» Ti fanno male forse le corna? Perché dunque ti indigni? Le perdite e i dolori riguardano appunto le cose che possediamo.</div></article>
+<article class="section" id="s-17"><a class="ref" href="#s-17">17</a><div class="section-text">«Ma il tiranno mi incatenerà.» Che cosa? La gamba. «Ma mi porterà via...» Che cosa? Il collo. Che cosa dunque non incatenerà né porterà via? La scelta morale. Per questo gli antichi raccomandavano: «Conosci te stesso».</div></article>
+<article class="section" id="s-18"><a class="ref" href="#s-18">18</a><div class="section-text">Che fare dunque? Per gli dèi, bisognava esercitarsi sulle piccole cose e, cominciando da quelle, passare alle più grandi.</div></article>
+<article class="section" id="s-19"><a class="ref" href="#s-19">19</a><div class="section-text">«Mi fa male la testa.» Non dire: «Ahimè!». «Mi fa male l’orecchio.» Non dire: «Ahimè!». E non dico che non ti sia concesso gemere, ma non gemere dentro di te. E se lo schiavo tarda a portare la benda, non gridare, non agitarti e non dire: «Tutti mi odiano». Chi non odierebbe uno così?</div></article>
+<article class="section" id="s-20"><a class="ref" href="#s-20">20</a><div class="section-text">D’ora in poi, forte di questi giudizi, procedi dritto, libero, senza confidare nella grandezza del corpo come un atleta; non si tratta infatti di essere invincibile come un asino.</div></article>
+<article class="section" id="s-21"><a class="ref" href="#s-21">21</a><div class="section-text">Chi è dunque l’invincibile? Colui che nulla di ciò che è estraneo alla scelta morale riesce a turbare. Poi, via via che affronto ciascuna circostanza, osservo attentamente, come nel caso dell’atleta: «Questo ha superato il primo turno. E il secondo? E se fa caldo?»</div></article>
+<article class="section" id="s-22"><a class="ref" href="#s-22">22</a><div class="section-text">«E a Olimpia?» Anche qui allo stesso modo. Se gli getti davanti un po’ di denaro, lo disprezzerà. E una ragazza? E al buio? E un po’ di fama? E un insulto? E un elogio? E la morte?</div></article>
+<article class="section" id="s-23"><a class="ref" href="#s-23">23</a><div class="section-text">Può vincere tutte queste cose. Ma che accade se fa caldo? È questo il punto. E se è ubriaco? Se è in preda alla malinconia? E nel sonno? Questo, per me, è l’atleta invincibile.</div></article>
+</div>
+
+<nav class="chapter-nav chapter-nav-bottom"><a href="1-17.html">Diatriba precedente</a><a class="chapter-home" href="../index.html">Home</a><a href="1-19.html">Diatriba successiva</a></nav>

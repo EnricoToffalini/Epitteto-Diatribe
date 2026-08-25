@@ -1,0 +1,41 @@
+---
+title: "Discourse I.3 — How a man should proceed from the principle of god being the father of all men to the rest"
+lang: en
+pagetitle: "Discourse I.3 — How a man should proceed from the principle of god being the father of all men to the rest — Epictetus, Discourses"
+title-prefix: ""
+description-meta: "Discourse I.3: “How a man should proceed from the principle of god being the father of all men to the rest”. The Discourses of Epictetus, in George Long’s English translation, with his notes."
+sidebar: en
+---
+
+<!--
+FILE GENERATO. NON MODIFICARE A MANO.
+
+Modificare invece:
+- translation/it/**.md      per il testo e i titoli italiani
+- data/intro.json           per le note introduttive delle home page
+- tools/site_config.py      per lingue, testi dell'interfaccia, URL
+- styles.css                per l'aspetto grafico
+
+Poi eseguire:
+    run.bat
+-->
+
+
+<div class="diatribe-meta">Book I · 2 paragraphs · <span class="canonical" title="Canonical reference">I 3</span></div>
+
+<nav class="chapter-nav"><a href="1-02.html">Previous discourse</a><a class="chapter-home" href="../index.html">Home</a><a href="1-04.html">Next discourse</a></nav>
+
+<div class="paragraph-list">
+<p>IF a man should be able to assent to this doctrine as he ought, that we are all sprung from God<a class="note-ref" id="noteref-1" href="#note-1" role="doc-noteref" aria-label="note 1"><sup>1</sup></a> in an especial manner, and that God is the father both of men and of gods, I suppose that he would never have any ignoble or mean thoughts about himself. But if Caesar (the emperor) should adopt you, no one could endure your arrogance; and if you know that you are the son of Zeus, will you not be elated? Yet we do not so; but since these two things are mingled in the generation of man, body in common with the animals, and reason and intelligence in common with the gods, many incline to this kinship, which is miserable and mortal; and some few to that which is divine and happy. Since then it is of necessity that every man uses everything according to the opinion which he has about it, those, the few, who think that they are formed for fidelity and modesty and a sure use of appearances have no mean or ignoble thoughts about themselves; but with the many it is quite the contrary. For they say, What am I? A poor, miserable man, with my wretched bit of flesh. Wretched, indeed; but you possess something better than your bit of flesh. Why then do you neglect that which is better, and why do you attach yourself to this?</p>
+<p>Through this kinship with the flesh, some of us inclining to it become like wolves, faithless and treacherous and mischievous: some become like lions, savage and bestial and untamed; but the greater part of us become foxes, and other worse animals. For what else is a slanderer and a malignant man than a fox, or some other more wretched and meaner animal? See<a class="note-ref" id="noteref-2" href="#note-2" role="doc-noteref" aria-label="note 2"><sup>2</sup></a> then and take care that you do not become some one of these miserable things.</p>
+</div>
+
+<section class="notes">
+<h2>Notes</h2>
+<ol class="note-list">
+<li class="note" id="note-1" role="doc-endnote"><p>Epictetus speaks of God <span class="foreign" lang="grc">ὁ θεός</span> and the gods. Also conformably to the practice of the people, he speaks of God under the name of Zeus. The gods of the people were many, but his God was perhaps one. <q>Father of men and gods,</q> says Homer of Zeus; and Virgil says of Jupiter, <q>Father of gods and king of men.</q> Salmasius proposed <span class="foreign" lang="grc">ἀπὸ τοῦ θεοῦ</span>. See Schweig.’s note.</p><a class="note-back" href="#noteref-1" aria-label="back to the text">&#8617;</a></li>
+<li class="note" id="note-2" role="doc-endnote"><p><span class="foreign" lang="grc">ὁρᾶτε καὶ προσέχετε μή τι τούτων ἀποβῆτε τῶν ἀτυχημάτων</span>. Upton compares Matthew xvi. 6: <q lang="grc" class="foreign">ὁρᾶτε καὶ προσέχετε ἀπὸ τῆς ζύμης</q>, Upton remarks that many expressions in Epictetus are not unlike the style of the Gospels, which were written in the same period in which Epictetus was teaching. Schweighaeuser also refers to Wetstein’s New Testament.</p><a class="note-back" href="#noteref-2" aria-label="back to the text">&#8617;</a></li>
+</ol>
+</section>
+
+<nav class="chapter-nav chapter-nav-bottom"><a href="1-02.html">Previous discourse</a><a class="chapter-home" href="../index.html">Home</a><a href="1-04.html">Next discourse</a></nav>

@@ -1,0 +1,40 @@
+---
+title: "Discourse III.19 — What is the condition of a common kind of man and of a philosopher"
+lang: en
+pagetitle: "Discourse III.19 — What is the condition of a common kind of man and of a philosopher — Epictetus, Discourses"
+title-prefix: ""
+description-meta: "Discourse III.19: “What is the condition of a common kind of man and of a philosopher”. The Discourses of Epictetus, in George Long’s English translation, with his notes."
+sidebar: en
+---
+
+<!--
+FILE GENERATO. NON MODIFICARE A MANO.
+
+Modificare invece:
+- translation/it/**.md      per il testo e i titoli italiani
+- data/intro.json           per le note introduttive delle home page
+- tools/site_config.py      per lingue, testi dell'interfaccia, URL
+- styles.css                per l'aspetto grafico
+
+Poi eseguire:
+    run.bat
+-->
+
+
+<div class="diatribe-meta">Book III · 1 paragraph · <span class="canonical" title="Canonical reference">III 19</span></div>
+
+<nav class="chapter-nav"><a href="3-18.html">Previous discourse</a><a class="chapter-home" href="../index.html">Home</a><a href="3-20.html">Next discourse</a></nav>
+
+<div class="paragraph-list">
+<p>THE first difference between a common person (<span class="foreign" lang="grc">ἰδιώτης</span>) and a philosopher is this: the common person says, Woe to me for my little child, for my brother, for my father.<a class="note-ref" id="noteref-1" href="#note-1" role="doc-noteref" aria-label="note 1"><sup>1</sup></a> The philosopher, if he shall ever be compelled to say, Woe to me, stops and says, <q>but for myself.</q> For nothing which is independent of the will can hinder or damage the will, and the will can only hinder or damage itself. If then we ourselves incline in this direction, so as, when we are unlucky, to blame ourselves and to remember that nothing else is the cause of perturbation or loss of tranquillity except our own opinion, I swear to you by all the gods that we have made progress. But in the present state of affairs we have gone another way from the beginning. For example, while we were still children, the nurse, if we ever stumbled through want of care, did not chide us, but would beat the stone. But what did the stone do? Ought the stone to have moved on account of your child’s folly? Again, if we find nothing to eat on coming out of the bath, the paedagogue never checks our appetite, but he flogs the cook. Man, did we make you the paedagogue of the cook and not of the child?<a class="note-ref" id="noteref-2" href="#note-2" role="doc-noteref" aria-label="note 2"><sup>2</sup></a> Correct the child, improve him. In this way even when we are grown up we are like children. For he who is unmusical is a child in music; he who is without letters is a child in learning: he who is untaught, is a child in life.</p>
+</div>
+
+<section class="notes">
+<h2>Notes</h2>
+<ol class="note-list">
+<li class="note" id="note-1" role="doc-endnote"><p>Compare iii. 5. 4.</p><a class="note-back" href="#noteref-1" aria-label="back to the text">&#8617;</a></li>
+<li class="note" id="note-2" role="doc-endnote"><p>I have not followed Schweighaeuser’s text here. See his note.</p><a class="note-back" href="#noteref-2" aria-label="back to the text">&#8617;</a></li>
+</ol>
+</section>
+
+<nav class="chapter-nav chapter-nav-bottom"><a href="3-18.html">Previous discourse</a><a class="chapter-home" href="../index.html">Home</a><a href="3-20.html">Next discourse</a></nav>

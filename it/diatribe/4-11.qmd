@@ -1,0 +1,67 @@
+---
+title: "Diatriba IV.11 — Sulla purezza"
+lang: it
+pagetitle: "Diatriba IV.11 — Sulla purezza — Epitteto, Diatribe"
+title-prefix: ""
+description-meta: "Diatriba IV.11: «Sulla purezza». Le Diatribe di Epitteto raccolte da Arriano, in traduzione italiana."
+sidebar: it
+---
+
+<!--
+FILE GENERATO. NON MODIFICARE A MANO.
+
+Modificare invece:
+- translation/it/**.md      per il testo e i titoli italiani
+- data/intro.json           per le note introduttive delle home page
+- tools/site_config.py      per lingue, testi dell'interfaccia, URL
+- styles.css                per l'aspetto grafico
+
+Poi eseguire:
+    run.bat
+-->
+
+
+<div class="diatribe-meta">Libro IV · 36 sezioni · <span class="canonical" title="Riferimento canonico">IV 11</span></div>
+
+<nav class="chapter-nav"><a href="4-10.html">Diatriba precedente</a><a class="chapter-home" href="../index.html">Home</a><a href="4-12.html">Diatriba successiva</a></nav>
+
+<div class="section-list">
+<article class="section" id="s-1"><a class="ref" href="#s-1">1</a><div class="section-text">Alcuni discutono se la socievolezza rientri nella natura dell’uomo; eppure neppure costoro, credo, contesterebbero che la pulizia vi rientra certamente e che, se l’uomo si distingue dagli altri animali per qualcosa, si distingue anche per questo.</div></article>
+<article class="section" id="s-2"><a class="ref" href="#s-2">2</a><div class="section-text">Quando dunque vediamo un altro animale pulirsi, siamo soliti aggiungere, meravigliandoci: «Come un uomo». E, viceversa, se qualcuno rimprovera un animale, subito siamo soliti dire, quasi per scusarlo: «Non è mica un uomo».</div></article>
+<article class="section" id="s-3"><a class="ref" href="#s-3">3</a><div class="section-text">Riteniamo dunque che nell’uomo vi sia qualcosa di particolare, che riceviamo anzitutto dagli dèi. Poiché infatti essi sono puri e incorrotti per natura, quanto più gli uomini si avvicinano a loro mediante la ragione, tanto più si attengono alla purezza e alla pulizia.</div></article>
+<article class="section" id="s-4"><a class="ref" href="#s-4">4</a><div class="section-text">Ma poiché è impossibile che la loro sostanza sia del tutto pura, mescolata com’è a una materia di questo genere, la ragione interviene e cerca, per quanto è possibile, di renderla pulita.</div></article>
+<article class="section" id="s-5"><a class="ref" href="#s-5">5</a><div class="section-text">La prima e più alta purezza è dunque quella dell’anima, e lo stesso vale per l’impurità. Non troveresti nell’anima un’impurità come quella del corpo; ma, in quanto anima, che altro potresti trovare se non ciò che la rende sporca rispetto alle attività che le sono proprie?</div></article>
+<article class="section" id="s-6"><a class="ref" href="#s-6">6</a><div class="section-text">Le attività dell’anima sono muoversi all’azione, trattenersene, desiderare, provare avversione, prepararsi, proporsi qualcosa, dare assenso.</div></article>
+<article class="section" id="s-7"><a class="ref" href="#s-7">7</a><div class="section-text">Che cosa dunque la rende sporca e impura in queste attività? Nient’altro che i suoi cattivi giudizi.</div></article>
+<article class="section" id="s-8"><a class="ref" href="#s-8">8</a><div class="section-text">Così, l’impurità dell’anima consiste nei cattivi giudizi, e la sua purificazione nell’imprimervi i giudizi che si devono avere. Pura è l’anima che possiede i giudizi che deve: essa sola infatti, nelle proprie attività, è non confusa e incontaminata.</div></article>
+<article class="section" id="s-9"><a class="ref" href="#s-9">9</a><div class="section-text">Qualcosa di simile bisogna cercare di fare, per quanto possibile, anche per il corpo. Era inevitabile che, con una costituzione di questo genere, dal naso dell’uomo colasse del muco; per questo la natura ha fatto le mani e le narici stesse come condotti per espellere i liquidi. Se dunque uno li tira su col naso, dico che non compie un’azione da uomo.</div></article>
+<article class="section" id="s-10"><a class="ref" href="#s-10">10</a><div class="section-text">Era inevitabile che i piedi si infangassero e, in generale, si sporcassero attraversando luoghi di questo genere; per questo la natura ha predisposto l’acqua e le mani.</div></article>
+<article class="section" id="s-11"><a class="ref" href="#s-11">11</a><div class="section-text">Era inevitabile che, mangiando, restasse qualcosa di sporco sui denti; per questo dice: «Lavati i denti». Perché? Per essere un uomo e non una bestia o un porcellino.</div></article>
+<article class="section" id="s-12"><a class="ref" href="#s-12">12</a><div class="section-text">Era inevitabile che il sudore e il contatto con gli abiti lasciassero sul corpo qualcosa di sporco e bisognoso di pulizia; per questo vi sono acqua, olio, mani, panno, raschietto, nitro e, quando occorre, tutto il resto dell’occorrente per pulirlo.</div></article>
+<article class="section" id="s-13"><a class="ref" href="#s-13">13</a><div class="section-text">No: il fabbro toglierà la ruggine dal ferro e avrà strumenti appositi per farlo; tu stesso laverai il piatto quando stai per mangiare, se non sei completamente sudicio e sporco; ma non laverai il corpicino, non lo renderai pulito?</div></article>
+<article class="section" id="s-14"><a class="ref" href="#s-14">14</a><div class="section-text">— «Perché?» — Te lo dirò di nuovo: anzitutto perché tu faccia ciò che fa un uomo; poi perché non dia fastidio a quelli che incontri.</div></article>
+<article class="section" id="s-15"><a class="ref" href="#s-15">15</a><div class="section-text">Anche qui fai qualcosa del genere senza accorgertene. Ritieni di meritare di puzzare: sia pure, meritane pure. Ma lo meritano anche quelli che ti siedono accanto, quelli che mangiano sdraiati con te, quelli che ti baciano?</div></article>
+<article class="section" id="s-16"><a class="ref" href="#s-16">16</a><div class="section-text">Oppure vattene in qualche deserto, come meriti, e vivi da solo godendoti il tuo stesso fetore. È giusto infatti che soltanto tu goda della tua sporcizia. Ma vivere in una città e comportarti così, senza considerazione e senza riguardo, a che genere di uomo ti sembra appartenere?</div></article>
+<article class="section" id="s-17"><a class="ref" href="#s-17">17</a><div class="section-text">Se la natura ti avesse affidato un cavallo, lo lasceresti trascurato e senza cure? Pensa dunque che ti sia stato affidato il corpo come un cavallo: lavalo, puliscilo, fa’ in modo che nessuno si allontani da te, che nessuno ti eviti.</div></article>
+<article class="section" id="s-18"><a class="ref" href="#s-18">18</a><div class="section-text">E chi non evita più un uomo sporco, maleodorante e dalla pelle sudicia che uno imbrattato di sterco? Quell’odore viene dall’esterno ed è aggiunto; l’altro nasce dalla trascuratezza, dall’interno, come da qualcosa che sta marcendo.</div></article>
+<article class="section" id="s-19"><a class="ref" href="#s-19">19</a><div class="section-text">«Ma Socrate faceva il bagno di rado.» Sì, ma il suo corpo splendeva ed era così gradevole e piacevole che i più belli e nobili si innamoravano di lui e desideravano stare sdraiati accanto a lui più che accanto ai più belli. Poteva anche non fare il bagno né lavarsi, se voleva; eppure anche quel farlo di rado aveva la sua efficacia. E se non vuoi lavarti con acqua calda, usa quella fredda.</div></article>
+<article class="section" id="s-20"><a class="ref" href="#s-20">20</a><div class="section-text">— «Ma Aristofane parla di quelli pallidi e scalzi.» — Dice anche che Socrate camminava nell’aria e rubava i mantelli dalla palestra.</div></article>
+<article class="section" id="s-21"><a class="ref" href="#s-21">21</a><div class="section-text">Eppure tutti quelli che hanno scritto di Socrate testimoniano esattamente il contrario: che era piacevole non soltanto da ascoltare, ma anche da vedere. E le stesse cose scrivono di Diogene.</div></article>
+<article class="section" id="s-22"><a class="ref" href="#s-22">22</a><div class="section-text">Non bisogna infatti allontanare la gente dalla filosofia neppure con l’impressione che dà il corpo; ma, come nelle altre cose, mostrarsi sereni e imperturbabili, così anche attraverso il corpo.</div></article>
+<article class="section" id="s-23"><a class="ref" href="#s-23">23</a><div class="section-text">«Guardate, uomini: non possiedo nulla, non ho bisogno di nulla. Guardate come, senza casa, senza città, esule se capita, senza focolare, vivo con maggiore imperturbabilità e serenità di tutti i nobili e i ricchi. Ma guardate anche il corpicino: la vita austera non lo rovina.»</div></article>
+<article class="section" id="s-24"><a class="ref" href="#s-24">24</a><div class="section-text">Se però uno mi dice queste cose con l’aspetto e la faccia di un condannato, quale dio potrà convincermi ad accostarmi alla filosofia, se essa rende gli uomini così? Non sia mai: non lo vorrei neppure se dovessi diventare sapiente.</div></article>
+<article class="section" id="s-25"><a class="ref" href="#s-25">25</a><div class="section-text">Per gli dèi, io preferisco che un giovane che muove i primi passi venga da me con i capelli ben curati piuttosto che consunto e sporco. Nel primo infatti si vede una certa rappresentazione del bello e un desiderio di ciò che è dignitoso; e là dove immagina che si trovi, là si dà da fare.</div></article>
+<article class="section" id="s-26"><a class="ref" href="#s-26">26</a><div class="section-text">Basta allora mostrargli e dirgli: «Giovane, cerchi il bello e fai bene. Sappi dunque che nasce là dove hai la ragione; cercalo là dove sono i tuoi impulsi ad agire e a trattenerti dall’azione, là dove sono i desideri e le avversioni.</div></article>
+<article class="section" id="s-27"><a class="ref" href="#s-27">27</a><div class="section-text">Questo è ciò che hai in te di particolare; il corpicino invece è per natura fango. Perché affaticarti invano intorno a esso? Se non altro, col tempo imparerai che non è nulla».</div></article>
+<article class="section" id="s-28"><a class="ref" href="#s-28">28</a><div class="section-text">Ma se mi arriva imbrattato di sterco, sporco, con i baffi fino alle ginocchia, che cosa posso dirgli, da quale somiglianza posso condurlo oltre?</div></article>
+<article class="section" id="s-29"><a class="ref" href="#s-29">29</a><div class="section-text">Di che cosa infatti si è mai occupato che assomigli al bello, così che io possa spostarlo e dirgli: «Il bello non è qui, ma là»? Vuoi che gli dica: «Il bello non consiste nell’essere imbrattato di sterco, ma nella ragione»? Desidera forse il bello? Ne possiede qualche rappresentazione? Va’ a parlare con un maiale, perché non si rotoli nel fango.</div></article>
+<article class="section" id="s-30"><a class="ref" href="#s-30">30</a><div class="section-text">Per questo anche i discorsi di Senocrate toccarono Polemone: era un giovane amante del bello, ed entrò portando in sé gli stimoli di un interesse per il bello, ma cercandolo nel posto sbagliato.</div></article>
+<article class="section" id="s-31"><a class="ref" href="#s-31">31</a><div class="section-text">La natura infatti non ha reso sporchi neppure gli animali che vivono insieme agli uomini. Un cavallo si rotola forse nel fango? Un cane di buona razza? No: lo fanno il maiale, le oche sudicie, i vermi e i ragni, gli animali più lontani dalla convivenza con l’uomo.</div></article>
+<article class="section" id="s-32"><a class="ref" href="#s-32">32</a><div class="section-text">E tu, che sei uomo, non vuoi essere neppure come uno degli animali che vivono con gli uomini, ma piuttosto come un verme o un ragno? Non ti laverai mai, come preferisci? Non ti toglierai di dosso la sporcizia? Non verrai pulito, perché quelli che stanno con te abbiano piacere della tua presenza? E vieni con noi perfino nei luoghi sacri in questo stato, dove non è consuetudine sputare né soffiarsi il naso, essendo tu tutto uno sputo e un muco?</div></article>
+<article class="section" id="s-33"><a class="ref" href="#s-33">33</a><div class="section-text">Che dunque? Qualcuno pretende che ci si adorni? Non sia mai, se non in ciò che siamo per natura: la ragione, i giudizi, le attività. Quanto al corpo, soltanto fino alla pulizia, fino al punto di non dare fastidio.</div></article>
+<article class="section" id="s-34"><a class="ref" href="#s-34">34</a><div class="section-text">Ma se senti dire che non bisogna portare abiti di porpora, vai forse a imbrattare di sterco il tuo mantello o a strapparlo? — «Ma dove trovo un bel mantello?» — Uomo, hai acqua: lavalo.</div></article>
+<article class="section" id="s-35"><a class="ref" href="#s-35">35</a><div class="section-text">Ecco un giovane degno di essere amato, ecco un vecchio degno di amare e di essere ricambiato, a cui uno affiderebbe il proprio figlio …, al quale si avvicinerebbero figlie e giovani, se capitasse, perché tenga loro le sue lezioni in mezzo a un letamaio.</div></article>
+<article class="section" id="s-36"><a class="ref" href="#s-36">36</a><div class="section-text">Non sia mai. Ogni deviazione parte da qualcosa di umano; questa è vicina a non essere più neppure umana.</div></article>
+</div>
+
+<nav class="chapter-nav chapter-nav-bottom"><a href="4-10.html">Diatriba precedente</a><a class="chapter-home" href="../index.html">Home</a><a href="4-12.html">Diatriba successiva</a></nav>

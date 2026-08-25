@@ -1,0 +1,71 @@
+---
+title: "Διατριβὴ Αʹ.ιαʹ — περὶ φιλοστοργίας"
+lang: grc
+pagetitle: "Διατριβὴ Αʹ.ιαʹ — περὶ φιλοστοργίας — Ἐπικτήτου Διατριβαί"
+title-prefix: ""
+description-meta: "Διατριβὴ Αʹ.ιαʹ· «περὶ φιλοστοργίας». Ἀρριανοῦ τῶν Ἐπικτήτου Διατριβῶν, τὸ ἑλληνικὸν κείμενον."
+sidebar: grc
+---
+
+<!--
+FILE GENERATO. NON MODIFICARE A MANO.
+
+Modificare invece:
+- translation/it/**.md      per il testo e i titoli italiani
+- data/intro.json           per le note introduttive delle home page
+- tools/site_config.py      per lingue, testi dell'interfaccia, URL
+- styles.css                per l'aspetto grafico
+
+Poi eseguire:
+    run.bat
+-->
+
+
+<div class="diatribe-meta">Βιβλίον Αʹ · 40 τμήματα · <span class="canonical" title="Παραπομπή">I 11</span></div>
+
+<nav class="chapter-nav"><a href="1-10.html">ἡ προτέρα διατριβή</a><a class="chapter-home" href="../index.html">Ἀρχή</a><a href="1-12.html">ἡ ἑπομένη διατριβή</a></nav>
+
+<div class="section-list">
+<article class="section" id="s-1"><a class="ref" href="#s-1">1</a><div class="section-text" lang="grc">ἀφικομένου δέ τινος πρὸς αὐτὸν τῶν ἐν τέλει πυθόμενος παρʼ αὐτοῦ τὰ ἐπὶ μέρους ἠρώτησεν, εἰ καὶ τέκνα εἴη αὐτῷ καὶ γυνή.</div></article>
+<article class="section" id="s-2"><a class="ref" href="#s-2">2</a><div class="section-text" lang="grc">τοῦ δʼ ὁμολογήσαντος προσεπύθετο· πῶς τι οὖν χρῇ τῷ πράγματι; — ἀθλίως, ἔφη.</div></article>
+<article class="section" id="s-3"><a class="ref" href="#s-3">3</a><div class="section-text" lang="grc">— καὶ ὅς· τίνα τρόπον; οὐ γὰρ δὴ τούτου γʼ ἕνεκα γαμοῦσιν ἄνθρωποι καὶ παιδοποιοῦνται, ὅπως ἄθλιοι ὦσιν, ἀλλὰ μᾶλλον ὅπως εὐδαίμονες.</div></article>
+<article class="section" id="s-4"><a class="ref" href="#s-4">4</a><div class="section-text" lang="grc">— ἀλλʼ ἐγώ, ἔφη, οὕτως ἀθλίως ἔχω περὶ τὰ παιδάρια, ὥστε πρῴην νοσοῦντός μου τοῦ θυγατρίου καὶ δόξαντος κινδυνεύειν οὐχ ὑπέμεινα οὐδὲ παρεῖναι αὐτῷ νοσοῦντι, φυγὼν δʼ ᾠχόμην, μέχρις οὗ προσήγγειλέ τις μοι ὅτι ἔχει καλῶς.</div></article>
+<article class="section" id="s-5"><a class="ref" href="#s-5">5</a><div class="section-text" lang="grc">— τί οὖν; ὀρθῶς φαίνει σαυτῷ ταῦτα πεποιηκέναι; — φυσικῶς, ἔφη. — ἀλλὰ μὴν τοῦτό με πεῖσον, ἔφη, σύ, διότι φυσικῶς, καὶ ἐγώ σε πείσω, ὅτι πᾶν τὸ κατὰ φύσιν γινόμενον ὀρθῶς γίνεται.</div></article>
+<article class="section" id="s-6"><a class="ref" href="#s-6">6</a><div class="section-text" lang="grc">— τοῦτο, ἔφη, πάντες ἢ οἵ γε πλεῖστοι πατέρες πάσχομεν. — οὐδʼ ἐγώ σοι ἀντιλέγω, ἔφη, ὅτι οὐ γίνεται, τὸ δʼ ἀμφισβητούμενον ἡμῖν ἐκεῖνό ἐστιν, εἰ ὀρθῶς.</div></article>
+<article class="section" id="s-7"><a class="ref" href="#s-7">7</a><div class="section-text" lang="grc">ἐπεὶ τούτου γʼ ἕνεκα καὶ τὰ φύματα δεῖ λέγειν ἐπʼ ἀγαθῷ γίνεσθαι τοῦ σώματος, ὅτι γίνεται, καὶ ἁπλῶς τὸ ἁμαρτάνειν εἶναι κατὰ φύσιν, ὅτι πάντες σχεδὸν ἢ οἵ γε πλεῖστοι ἁμαρτάνομεν.</div></article>
+<article class="section" id="s-8"><a class="ref" href="#s-8">8</a><div class="section-text" lang="grc">δεῖξον οὖν μοι σύ, πῶς κατὰ φύσιν ἐστίν. — οὐ δύναμαι, ἔφη· ἀλλὰ σύ μοι μᾶλλον δεῖξον, πῶς οὐκ ἔστι κατὰ φύσιν οὐδʼ ὀρθῶς γίνεται.</div></article>
+<article class="section" id="s-9"><a class="ref" href="#s-9">9</a><div class="section-text" lang="grc">— καὶ ὅς· ἀλλʼ εἰ ἐζητοῦμεν, ἔφη, περὶ λευκῶν καὶ μελάνων, ποῖον ἂν κριτήριον παρεκαλοῦμεν πρὸς διάγνωσιν αὐτῶν; — τὴν ὅρασιν, ἔφη. — τί δʼ εἰ περὶ θερμῶν καὶ ψυχρῶν καὶ σκληρῶν καὶ μαλακῶν, ποῖόν τι; — τὴν ἁφήν. —</div></article>
+<article class="section" id="s-10"><a class="ref" href="#s-10">10</a><div class="section-text" lang="grc">οὐκοῦν, ἐπειδὴ περὶ τῶν κατὰ φύσιν καὶ τῶν ὀρθῶς ἢ οὐκ ὀρθῶς γινομένων ἀμφισβητοῦμεν, ποῖον θέλεις κριτήριον παραλάβωμεν;</div></article>
+<article class="section" id="s-11"><a class="ref" href="#s-11">11</a><div class="section-text" lang="grc">— οὐκ οἶδʼ, ἔφη. — καὶ μὴν τὸ μὲν τῶν χρωμάτων καὶ ὀσμῶν, ἔτι δὲ χυλῶν κριτήριον ἀγνοεῖν τυχὸν οὐ μεγάλη ζημία, τὸ δὲ τῶν ἀγαθῶν καὶ τῶν κακῶν καὶ τῶν κατὰ φύσιν καὶ παρὰ φύσιν τῷ ἀνθρώπῳ δοκεῖ σοι μικρὰ ζημία εἶναι τῷ ἀγνοοῦντι;</div></article>
+<article class="section" id="s-12"><a class="ref" href="#s-12">12</a><div class="section-text" lang="grc">— ἡ μεγίστη μὲν οὖν. — φέρε, εἰπέ μοι, πάντα ἃ δοκεῖ τισιν εἶναι καλὰ καὶ προσήκοντα, ὀρθῶς δοκεῖ; καὶ νῦν Ἰουδαίοις καὶ Σύροις καὶ Αἰγυπτίοις καὶ Ῥωμαίοις οἷόν τε πάντα τὰ δοκοῦντα περὶ τροφῆς ὀρθῶς δοκεῖν;</div></article>
+<article class="section" id="s-13"><a class="ref" href="#s-13">13</a><div class="section-text" lang="grc">— καὶ πῶς οἷόν τε; — ἀλλʼ οἶμαι πᾶσα ἀνάγκη, εἰ ὀρθά ἐστι τὰ Αἰγυπτίων, μὴ ὀρθὰ εἶναι τὰ τῶν ἄλλων, εἰ καλῶς ἔχει τὰ Ἰουδαίων, μὴ καλῶς ἔχειν τὰ τῶν ἄλλων.</div></article>
+<article class="section" id="s-14"><a class="ref" href="#s-14">14</a><div class="section-text" lang="grc">— πῶς γὰρ οὔ; — ὅπου δʼ ἄγνοια, ἐκεῖ καὶ ἀμαθία καὶ ἡ περὶ τὰ ἀναγκαῖα ἀπαιδευσία.</div></article>
+<article class="section" id="s-15"><a class="ref" href="#s-15">15</a><div class="section-text" lang="grc">— συνεχώρει. — σὺ οὖν, ἔφη, τούτων αἰσθόμενος οὐδὲν ἄλλο τοῦ λοιποῦ σπουδάσεις οὐδὲ πρὸς ἄλλῳ τινὶ τὴν γνώμην. ἕξεις ἢ ὅπως τὸ κριτήριον τῶν κατὰ φύσιν καταμαθὼν τούτῳ προσχρώμενος διακρινεῖς τῶν ἐπὶ μέρους ἕκαστον.</div></article>
+<article class="section" id="s-16"><a class="ref" href="#s-16">16</a><div class="section-text" lang="grc">ἐπὶ δὲ τοῦ παρόντος τὰ τοσαῦτα ἔχω σοι πρὸς ὃ βούλει βοηθῆσαι.</div></article>
+<article class="section" id="s-17"><a class="ref" href="#s-17">17</a><div class="section-text" lang="grc">τὸ φιλόστοργον δοκεῖ σοι κατὰ φύσιν τʼ εἶναι καὶ καλόν; — πῶς γὰρ οὔ; — τί δέ; τὸ μὲν φιλόστοργον κατὰ φύσιν τʼ ἐστὶ καὶ καλόν, τὸ δʼ εὐλόγιστον οὐ καλόν;</div></article>
+<article class="section" id="s-18"><a class="ref" href="#s-18">18</a><div class="section-text" lang="grc">— οὐδαμῶς. — μὴ τοίνυν μάχην ἔχει τῷ φιλοστόργῳ τὸ εὐλόγιστον; — οὐ δοκεῖ μοι. — εἰ δὲ μή, τῶν μαχομένων ἀνάγκη θατέρου κατὰ φύσιν ὄντος θάτερον εἶναι παρὰ φύσιν; ἢ γὰρ οὔ; — οὕτως, ἔφη.</div></article>
+<article class="section" id="s-19"><a class="ref" href="#s-19">19</a><div class="section-text" lang="grc">— οὐκοῦν ὅ τι ἂν εὑρίσκωμεν ὁμοῦ μὲν φιλόστοργον ὁμοῦ δʼ εὐλόγιστον, τοῦτο θαρροῦντες ἀποφαινόμεθα ὀρθόν τε εἶναι καὶ καλόν;</div></article>
+<article class="section" id="s-20"><a class="ref" href="#s-20">20</a><div class="section-text" lang="grc">— ἔστω, ἔφη. — τί οὖν; ἀφεῖναι νοσοῦν τὸ παιδίον καὶ ἀφέντα ἀπελθεῖν ὅτι μὲν οὐκ εὐλόγιστον οὐκ οἶμαί σʼ ἀντερεῖν. ὑπολείπεται δʼ ἡμᾶς σκοπεῖν εἰ φιλόστοργον. — σκοπῶμεν δή. —</div></article>
+<article class="section" id="s-21"><a class="ref" href="#s-21">21</a><div class="section-text" lang="grc">ἆρʼ οὖν σὺ μὲν ἐπειδὴ φιλοστόργως διέκεισο πρὸς τὸ παιδίον, ὀρθῶς ἐποίεις φεύγων καὶ ἀπολείπων αὐτό; ἡ μήτηρ δʼ οὐ φιλοστοργεῖ τὸ παιδίον; — Φιλοστοργεῖ μὲν οὖν.</div></article>
+<article class="section" id="s-22"><a class="ref" href="#s-22">22</a><div class="section-text" lang="grc">— οὐκοῦν ἔδει καὶ τὴν μητέρα ἀφεῖναι αὐτὸ ἢ οὐκ ἔδει; — οὐκ ἔδει. — τί δʼ ἡ τιτθή; στέργει αὐτό; — στέργει, ἔφη. — ἔδει οὖν κἀκείνην ἀφεῖναι αὐτό; — οὐδαμῶς. — τί δʼ ὁ παιδαγωγός; οὐ στέργει αὐτό;</div></article>
+<article class="section" id="s-23"><a class="ref" href="#s-23">23</a><div class="section-text" lang="grc">— στέργει. — ἔδει οὖν κἀκεῖνον ἀφέντα ἀπελθεῖν, εἶθʼ οὕτως ἔρημον καὶ ἀβοήθητον ἀπολειφθῆναι τὸ παιδίον διὰ τὴν πολλὴν φιλοστοργίαν τῶν γονέων ὑμῶν καὶ τῶν περὶ αὐτὸ ἢ ἐν ταῖς χερσὶν τῶν οὔτε στεργόντων οὔτε κηδομένων ἀποθανεῖν; — μὴ γένοιτο.</div></article>
+<article class="section" id="s-24"><a class="ref" href="#s-24">24</a><div class="section-text" lang="grc">— καὶ μὴν ἐκεῖνό γε ἄνισον καὶ ἄγνωμον, ὅ τις αὑτῷ προσῆκον οἴεται διὰ τὸ φιλόστοργος εἶναι, τοῦτο τοῖς ὁμοίως φιλοστοργοῦσιν μὴ ἐφιέναι;</div></article>
+<article class="section" id="s-25"><a class="ref" href="#s-25">25</a><div class="section-text" lang="grc">— ἄτοπον. — ἄγε, σὺ δʼ ἂν νοσῶν ἠβούλου φιλοστόργους οὕτως ἔχειν τοὺς προσήκοντας τούς τʼ ἄλλους καὶ αὐτὰ τὰ τέκνα καὶ τὴν γυναῖκα, ὥστʼ ἀφεθῆναι μόνος ὑπʼ αὐτῶν καὶ ἔρημος;</div></article>
+<article class="section" id="s-26"><a class="ref" href="#s-26">26</a><div class="section-text" lang="grc">— οὐδαμῶς. — εὔξαιο δʼ ἂν οὕτως στερχθῆναι ὑπὸ τῶν σαυτοῦ, ὥστε διὰ τὴν ἄγαν αὐτῶν φιλοστοργίαν ἀεὶ μόνος ἀπολείπεσθαι ἐν ταῖς νόσοις, ἢ τούτου γʼ ἕνεκα μᾶλλον ἂν ὑπὸ τῶν ἐχθρῶν, εἰ δυνατὸν ἦν, φιλοστοργεῖσθαι ηὔχου, ὥστʼ ἀπολείπεσθαι ὑπʼ αὐτῶν; εἰ δὲ ταῦτα, ὑπολείπεται μηδαμῶς ἔτι φιλόστοργον εἶναι τὸ πραχθέν.</div></article>
+<article class="section" id="s-27"><a class="ref" href="#s-27">27</a><div class="section-text" lang="grc">τί οὖν; οὐδὲν ἦν τὸ κινῆσάν σε καὶ ἐξορμῆσαν πρὸς τὸ ἀφεῖναι τὸ παιδίον; καὶ πῶς οἷόν τε; ἀλλὰ τοιοῦτόν τι ἄν, οἷον καὶ ἐν Ῥώμῃ τινὰ ἦν τὸ κινοῦν, ὥστʼ ἐγκαλύπτεσθαι τοῦ ἵππου τρέχοντος ᾧ ἐσπουδάκει, εἶτα νικήσαντός ποτε παραλόγως σπόγγων δεῆσαι αὐτῷ πρὸς τὸ ἀναληφθῆναι λιποψυχοῦντα.</div></article>
+<article class="section" id="s-28"><a class="ref" href="#s-28">28</a><div class="section-text" lang="grc">τί οὖν τοῦτό ἐστιν; τὸ μὲν ἀκριβὲς οὐ τοῦ παρόντος καιροῦ τυχόν· ἐκεῖνο δʼ ἀπαρκεῖ πεισθῆναι, εἴπερ ὑγιές ἐστι τὸ ὑπὸ τῶν φιλοσόφων λεγόμενον, ὅτι οὐκ ἔξω που δεῖ ζητεῖν αὐτό, ἀλλʼ ἓν καὶ ταὐτόν ἐστιν ἐπὶ πάντων τὸ αἴτιον τοῦ ποιεῖν τι ἡμᾶς ἢ μὴ ποιεῖν, τοῦ λέγειν τινὰ ἢ μὴ λέγειν, τοῦ ἐπαίρεσθαι ἢ συστέλλεσθαι ἢ φεύγειν τινὰ ἢ διώκειν,</div></article>
+<article class="section" id="s-29"><a class="ref" href="#s-29">29</a><div class="section-text" lang="grc">τοῦθʼ ὅπερ καὶ νῦν ἐμοί τε καὶ σοὶ γέγονεν αἴτιον, σοὶ μὲν τοῦ ἐλθεῖν πρὸς ἐμὲ καὶ καθῆσθαι νῦν ἀκούοντα, ἐμοὶ δὲ τοῦ λέγειν ταῦτα.</div></article>
+<article class="section" id="s-30"><a class="ref" href="#s-30">30</a><div class="section-text" lang="grc">τί δʼ ἐστὶ τοῦτο; ἆρά γε ἄλλο ἢ ὅτι ἔδοξεν ἡμῖν; — οὐδέν. — εἰ δʼ ἄλλως ἡμῖν ἐφάνη, τί ἂν ἄλλο ἢ τὸ δόξαν ἐπράττομεν;</div></article>
+<article class="section" id="s-31"><a class="ref" href="#s-31">31</a><div class="section-text" lang="grc">οὐκ οὖν καὶ τῷ Ἀχιλλεῖ τοῦτο αἴτιον τοῦ πενθεῖν, οὐχ ὁ τοῦ Πατρόκλου θάνατος (ἄλλος γάρ τις οὐ πάσχει ταῦτα τοῦ ἑταίρου ἀποθανόντος)</div></article>
+<article class="section" id="s-32"><a class="ref" href="#s-32">32</a><div class="section-text" lang="grc">, ἀλλʼ ὅτι ἔδοξεν αὐτῷ. καὶ σοὶ τότε φεύγειν τοῦτο αὐτὸ ὅτι ἔδοξέν σοι· καὶ πάλιν, ἐὰν μείνῃς, ὅτι ἔδοξέν σοι. καὶ νῦν ἐν Ῥώμῃ ἀνέρχῃ, ὅτι δοκεῖ σοι· κἂν μεταδόξῃ, οὐκ ἂν ἀπελεύσῃ.</div></article>
+<article class="section" id="s-33"><a class="ref" href="#s-33">33</a><div class="section-text" lang="grc">καὶ ἁπλῶς οὔτε θάνατος οὔτε φυγὴ οὔτε πόνος οὔτε ἄλλο τι τῶν τοιούτων αἴτιόν ἐστι τοῦ πράττειν τι ἢ μὴ πράττειν ἡμᾶς, ἀλλʼ ὑπολήψεις καὶ δόγματα.</div></article>
+<article class="section" id="s-34"><a class="ref" href="#s-34">34</a><div class="section-text" lang="grc">τοῦτό σε πείθω ἢ οὐχί; — Πεί<span class="ed-del">[σ]</span>θεις, ἔφη. — οἷα δὴ τὰ αἴτια ἐφʼ ἑκάστου, τοιαῦτα καὶ τὰ ἀποτελούμενα.</div></article>
+<article class="section" id="s-35"><a class="ref" href="#s-35">35</a><div class="section-text" lang="grc">οὐκοῦν ὅταν μὴ ὀρθῶς τι πράττωμεν, ἀπὸ ταύτης τῆς ἡμέρας οὐδὲν ἄλλο αἰτιασόμεθα ἢ τὸ δόγμα, ἀφʼ οὗ αὐτὸ ἐπράξαμεν, κἀκεῖνο ἐξαίρειν καὶ ἐκτέμνειν πειρασόμεθα μᾶλλον ἢ τὰ φύματα καὶ τὰ ἀποστήματα ἐκ τοῦ σώματος.</div></article>
+<article class="section" id="s-36"><a class="ref" href="#s-36">36</a><div class="section-text" lang="grc">ὡσαύτως δὲ καὶ τῶν ὀρθῶς πραττομένων ταὐτὸν τοῦτο αἴτιον ἀποφανοῦμεν.</div></article>
+<article class="section" id="s-37"><a class="ref" href="#s-37">37</a><div class="section-text" lang="grc">καὶ οὔτʼ οἰκέτην ἔτι αἰτιασόμεθα οὔτε γείτονα οὔτε γυναῖκα οὔτε τέκνα ὡς αἴτιά τινων κακῶν ἡμῖν γινόμενα πεπεισμένοι ὅτι, ἂν μὴ ἡμῖν δόξῃ τοιαῦτά τινα εἶναι, οὐ πράττομεν τὰ ἀκόλουθα· τοῦ δόξαι δὲ ἢ μὴ δόξαι, ἡμεῖς κύριοι καὶ οὐ τὰ ἐκτός.</div></article>
+<article class="section" id="s-38"><a class="ref" href="#s-38">38</a><div class="section-text" lang="grc">— οὕτως, ἔφη. — ἀπὸ τῆς σήμερον τοίνυν ἡμέρας οὐδὲν ἄλλο ἐπισκοπήσομεν οὐδʼ ἐξετάσομεν, ποῖόν τι ἐστὶν ἢ πῶς ἔχει, οὔτε τὸν ἀγρὸν οὔτε τὰ ἀνδράποδα οὔτε τοὺς ἵππους ἢ κύνας, ἀλλὰ τὰ δόγματα. — εὔχομαι, ἔφη.</div></article>
+<article class="section" id="s-39"><a class="ref" href="#s-39">39</a><div class="section-text" lang="grc">— ὁρᾷς οὖν, ὅτι σχολαστικόν σε δεῖ γενέσθαι, τοῦτο τὸ ζῷον οὗ πάντες καταγελῶσιν, εἴπερ ἄρα θέλεις ἐπίσκεψιν τῶν σαυτοῦ δογμάτων ποιεῖσθαι.</div></article>
+<article class="section" id="s-40"><a class="ref" href="#s-40">40</a><div class="section-text" lang="grc">τοῦτο δʼ ὅτι μιᾶς ὥρας ἢ ἡμέρας οὐκ ἔστιν, ἐπινοεῖς καὶ αὐτός.</div></article>
+</div>
+
+<nav class="chapter-nav chapter-nav-bottom"><a href="1-10.html">ἡ προτέρα διατριβή</a><a class="chapter-home" href="../index.html">Ἀρχή</a><a href="1-12.html">ἡ ἑπομένη διατριβή</a></nav>

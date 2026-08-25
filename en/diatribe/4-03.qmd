@@ -1,0 +1,43 @@
+---
+title: "Discourse IV.3 — What things we should exchange for other things"
+lang: en
+pagetitle: "Discourse IV.3 — What things we should exchange for other things — Epictetus, Discourses"
+title-prefix: ""
+description-meta: "Discourse IV.3: “What things we should exchange for other things”. The Discourses of Epictetus, in George Long’s English translation, with his notes."
+sidebar: en
+---
+
+<!--
+FILE GENERATO. NON MODIFICARE A MANO.
+
+Modificare invece:
+- translation/it/**.md      per il testo e i titoli italiani
+- data/intro.json           per le note introduttive delle home page
+- tools/site_config.py      per lingue, testi dell'interfaccia, URL
+- styles.css                per l'aspetto grafico
+
+Poi eseguire:
+    run.bat
+-->
+
+
+<div class="diatribe-meta">Book IV · 1 paragraph · <span class="canonical" title="Canonical reference">IV 3</span></div>
+
+<nav class="chapter-nav"><a href="4-02.html">Previous discourse</a><a class="chapter-home" href="../index.html">Home</a><a href="4-04.html">Next discourse</a></nav>
+
+<div class="paragraph-list">
+<p>KEEP this thought in readiness, when you lose any thing external, what you acquire in place of it; and if it be worth more, never say, I have had a loss; neither<a class="note-ref" id="noteref-1" href="#note-1" role="doc-noteref" aria-label="note 1"><sup>1</sup></a> if you have got a horse in place of an ass, or an ox in place of a sheep, nor a good action in place of a bit of money, nor in place of idle talk such tranquillity as befits a man, nor in place of lewd talk if you have acquired modesty. If you remember this, you will always maintain your character such as it ought to be. But if you do not, consider that the times of opportunity are perishing, and that whatever pains you take about yourself, you are going to waste them all and overturn them. And it needs only a few things for the loss and overturning of all, namely a small deviation from reason. For the steerer of a ship to upset it, he has no need of the same means as he has need of for saving it: but if he turns it a little to the wind, it is lost; and if he does not do this purposely, but has been neglecting his duty a little, the ship is lost. Something of the kind happens in this case also: if you only fall a nodding a little, all that you have up to this time collected is gone. Attend therefore to the appearances of things, and watch over them; for that which you have to preserve is no small matter, but it is modesty and fidelity and constancy, freedom from the affects, a state of mind undisturbed, freedom from fear, tranquillity, in a word liberty. For what will you sell these things? See what is the value of the things which you will obtain in exchange for these.—But shall I not obtain any such thing for it?—See, and if you do in return get that, see what you receive in place of it.<a class="note-ref" id="noteref-2" href="#note-2" role="doc-noteref" aria-label="note 2"><sup>2</sup></a> I possess decency, he possesses a tribuneship: he possesses a praetorship, I possess modesty. But I do not make acclamations where it is not becoming: I will not stand up where I ought not;<a class="note-ref" id="noteref-3" href="#note-3" role="doc-noteref" aria-label="note 3"><sup>3</sup></a> for I am free, and a friend of God, and so I obey him willingly. But I must not claim (seek) any thing else, neither body nor possession, nor magistracy, nor good report, nor in fact any thing. For he (God) does not allow me to claim (seek) them: for if he had chosen, he would have made them good for me; but he has not done so, and for this reason I cannot transgress his commands.<a class="note-ref" id="noteref-4" href="#note-4" role="doc-noteref" aria-label="note 4"><sup>4</sup></a> Preserve that which is your own good in every thing; and as to every other thing, as it is permitted, and so far as to behave consistently with reason in respect to them, content with this only. If you do not, you will be unfortunate, you will fail in all things, you will be hindered, you will be impeded. These are the laws which have been sent from thence (from God); these are the orders. Of these laws a man ought to be an expositor, to these he ought to submit, not to those of Masurius and Cassius.<a class="note-ref" id="noteref-5" href="#note-5" role="doc-noteref" aria-label="note 5"><sup>5</sup></a></p>
+</div>
+
+<section class="notes">
+<h2>Notes</h2>
+<ol class="note-list">
+<li class="note" id="note-1" role="doc-endnote"><p>See Schweig.’s note.</p><a class="note-back" href="#noteref-1" aria-label="back to the text">&#8617;</a></li>
+<li class="note" id="note-2" role="doc-endnote"><p>The text is obscure, and perhaps there is something wrong, Schweighaeuser has a long note on the passage.</p><a class="note-back" href="#noteref-2" aria-label="back to the text">&#8617;</a></li>
+<li class="note" id="note-3" role="doc-endnote"><p>He alludes to the factions in the theatres, iii. 4, 4; iv. 2–9. Upton.</p><a class="note-back" href="#noteref-3" aria-label="back to the text">&#8617;</a></li>
+<li class="note" id="note-4" role="doc-endnote"><p>See i. 25. note 1; iv. 7. 17.</p><a class="note-back" href="#noteref-4" aria-label="back to the text">&#8617;</a></li>
+<li class="note" id="note-5" role="doc-endnote"><p>Masurius Sabinus was a great Roman jurisconsult in the times of Augustus and Tiberius. He is sometimes named Masurius only (Persius, v. 90). C. Cassius Longinus was also a jurist, and, it is said, a descendant of the Cassius, who was one of the murderers of the dictator C. Caesar. He lived from the time of Tiberius to that of Vespasian.</p><a class="note-back" href="#noteref-5" aria-label="back to the text">&#8617;</a></li>
+</ol>
+</section>
+
+<nav class="chapter-nav chapter-nav-bottom"><a href="4-02.html">Previous discourse</a><a class="chapter-home" href="../index.html">Home</a><a href="4-04.html">Next discourse</a></nav>

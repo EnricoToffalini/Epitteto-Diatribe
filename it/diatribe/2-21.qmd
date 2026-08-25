@@ -1,0 +1,53 @@
+---
+title: "Diatriba II.21 — Sull’incoerenza"
+lang: it
+pagetitle: "Diatriba II.21 — Sull’incoerenza — Epitteto, Diatribe"
+title-prefix: ""
+description-meta: "Diatriba II.21: «Sull’incoerenza». Le Diatribe di Epitteto raccolte da Arriano, in traduzione italiana."
+sidebar: it
+---
+
+<!--
+FILE GENERATO. NON MODIFICARE A MANO.
+
+Modificare invece:
+- translation/it/**.md      per il testo e i titoli italiani
+- data/intro.json           per le note introduttive delle home page
+- tools/site_config.py      per lingue, testi dell'interfaccia, URL
+- styles.css                per l'aspetto grafico
+
+Poi eseguire:
+    run.bat
+-->
+
+
+<div class="diatribe-meta">Libro II · 22 sezioni · <span class="canonical" title="Riferimento canonico">II 21</span></div>
+
+<nav class="chapter-nav"><a href="2-20.html">Diatriba precedente</a><a class="chapter-home" href="../index.html">Home</a><a href="2-22.html">Diatriba successiva</a></nav>
+
+<div class="section-list">
+<article class="section" id="s-1"><a class="ref" href="#s-1">1</a><div class="section-text">Alcune cose gli uomini le ammettono facilmente, altre no. Nessuno, dunque, ammetterà di essere stolto o privo d’intelligenza; al contrario, sentirai tutti dire: «Magari avessi tanta fortuna quanto senno».</div></article>
+<article class="section" id="s-2"><a class="ref" href="#s-2">2</a><div class="section-text">Ammettono invece facilmente di essere vili e dicono: «Sono piuttosto vile, lo riconosco; ma per il resto non mi troverai uno sciocco».</div></article>
+<article class="section" id="s-3"><a class="ref" href="#s-3">3</a><div class="section-text">Uno non ammetterà facilmente di essere intemperante, e per nulla di essere ingiusto; difficilmente ammetterà di essere invidioso o impiccione; la maggior parte, invece, ammette di essere compassionevole.</div></article>
+<article class="section" id="s-4"><a class="ref" href="#s-4">4</a><div class="section-text">Qual è dunque la causa? La principale è l’incoerenza e la confusione riguardo ai beni e ai mali; per altri vi sono cause diverse e, in generale, ciò che immaginano vergognoso non lo ammettono volentieri.</div></article>
+<article class="section" id="s-5"><a class="ref" href="#s-5">5</a><div class="section-text">Essere vili e compassionevoli, invece, lo considerano proprio di un’indole mite; essere stupidi, invece, proprio in tutto e per tutto di uno schiavo. E non ammettono volentieri neppure le colpe che riguardano i rapporti con gli altri.</div></article>
+<article class="section" id="s-6"><a class="ref" href="#s-6">6</a><div class="section-text">Nella maggior parte degli errori sono indotti ad ammetterli soprattutto perché vi vedono qualcosa di involontario, come nella viltà e nella compassione.</div></article>
+<article class="section" id="s-7"><a class="ref" href="#s-7">7</a><div class="section-text">E se uno ammette in qualche misura di essere intemperante, vi aggiunge l’amore, per essere perdonato come per qualcosa di involontario. L’ingiustizia, invece, non la considerano affatto involontaria. Anche nella gelosia, secondo loro, c’è qualcosa di involontario; perciò ammettono in qualche misura anche questa.</div></article>
+<article class="section" id="s-8"><a class="ref" href="#s-8">8</a><div class="section-text">Vivendo dunque fra uomini di questo genere, così confusi, così ignari di ciò che dicono, di quale male abbiano, se pure ne abbiano uno, da che cosa derivi e come possano liberarsene, credo che valga la pena sorvegliare continuamente anche se stessi:</div></article>
+<article class="section" id="s-9"><a class="ref" href="#s-9">9</a><div class="section-text">«Non sarò anch’io uno di loro? Quale rappresentazione ho di me stesso? Come tratto me stesso? Forse anch’io come un uomo assennato? Forse come uno padrone di sé? Non dico anch’io talvolta di essere stato educato ad affrontare ciò che viene?»</div></article>
+<article class="section" id="s-10"><a class="ref" href="#s-10">10</a><div class="section-text">Ho la consapevolezza che deve avere chi non sa nulla, cioè di non sapere nulla? Vado dal maestro come si va all’oracolo, preparato a obbedire? Oppure anch’io entro nella scuola pieno di catarro, soltanto per imparare informazioni e comprendere libri che prima non comprendevo e, magari, spiegarli poi agli altri?</div></article>
+<article class="section" id="s-11"><a class="ref" href="#s-11">11</a><div class="section-text">Uomo, a casa hai fatto a pugni con il tuo piccolo schiavo, hai messo sottosopra la casa, hai sconvolto i vicini; e vieni da me con la veste ben sistemata, come un saggio, e seduto giudichi come ho spiegato un’espressione e come mai abbia detto le sciocchezze che mi sono venute in mente?</div></article>
+<article class="section" id="s-12"><a class="ref" href="#s-12">12</a><div class="section-text">Sei venuto pieno d’invidia, abbattuto perché da casa non ti mandano nulla, e mentre si tengono le lezioni te ne stai seduto pensando soltanto a come si comporta con te tuo padre o tuo fratello.</div></article>
+<article class="section" id="s-13"><a class="ref" href="#s-13">13</a><div class="section-text">«Che cosa dicono di me quelli laggiù? Ora pensano che io stia facendo progressi e dicono: “Tornerà sapendo tutto”.»</div></article>
+<article class="section" id="s-14"><a class="ref" href="#s-14">14</a><div class="section-text">«Vorrei in qualche modo tornare dopo aver imparato tutto, ma ci vuole molta fatica, nessuno mi manda nulla, a Nicopoli i bagni sono pessimi, a casa si sta male e qui si sta male.»</div></article>
+<article class="section" id="s-15"><a class="ref" href="#s-15">15</a><div class="section-text">E poi dicono: «Nessuno trae beneficio dalla scuola». Ma chi viene a scuola? Chi vi viene come per farsi curare? Chi vi porta i propri giudizi perché siano purificati? Chi viene per rendersi conto di ciò di cui ha bisogno?</div></article>
+<article class="section" id="s-16"><a class="ref" href="#s-16">16</a><div class="section-text">Perché dunque vi meravigliate se riportate via proprio ciò che avete portato a scuola? Non venite infatti per deporlo, correggerlo o ricevere qualcos’altro al suo posto.</div></article>
+<article class="section" id="s-17"><a class="ref" href="#s-17">17</a><div class="section-text">Macché: neppure lontanamente. Guardate piuttosto se ottenete ciò per cui venite. Volete parlare delle dottrine. E allora? Non diventate più chiacchieroni? Le dottrinucole non vi forniscono materia per fare sfoggio? Non analizzate sillogismi e argomenti che mutano di significato? Non passate in rassegna le premesse del Mentitore e gli argomenti ipotetici? Perché dunque vi indignate se ottenete proprio ciò per cui siete qui?</div></article>
+<article class="section" id="s-18"><a class="ref" href="#s-18">18</a><div class="section-text">«Sì, ma se mi muore il figlio o il fratello, oppure se devo morire io o essere torturato, a che cosa mi serviranno queste cose?»</div></article>
+<article class="section" id="s-19"><a class="ref" href="#s-19">19</a><div class="section-text">Ma sei forse venuto per questo? È per questo che siedi accanto a me? È per questo che hai mai acceso la lampada o vegliato? Oppure, uscito a passeggiare, ti sei mai proposto una rappresentazione invece di un sillogismo e l’avete esaminata insieme?</div></article>
+<article class="section" id="s-20"><a class="ref" href="#s-20">20</a><div class="section-text">Quando mai? E poi dite che le dottrine sono inutili. A chi? A quelli che non le usano come devono. I colliri non sono inutili per chi li applica quando e come deve, né sono inutili gli impiastri, né i pesi ginnici: sono inutili per alcuni, utili per altri.</div></article>
+<article class="section" id="s-21"><a class="ref" href="#s-21">21</a><div class="section-text">Se ora mi chiedi: «I sillogismi sono utili?», ti dirò che sono utili e, se vuoi, ti dimostrerò anche come. «Ma a me sono serviti?» Uomo, non mi hai chiesto se siano utili a te, ma in generale.</div></article>
+<article class="section" id="s-22"><a class="ref" href="#s-22">22</a><div class="section-text">Mi chieda anche chi soffre di dissenteria se l’aceto è utile: dirò che è utile. «E per me è utile?» Dirò di no. Cerca prima di fermare il flusso e di far cicatrizzare le ulcerazioni. E anche voi, uomini, curate prima le vostre ferite, fermate i vostri flussi, calmate la mente e portatela a scuola libera da distrazioni; allora conoscerete quale forza possiede la ragione.</div></article>
+</div>
+
+<nav class="chapter-nav chapter-nav-bottom"><a href="2-20.html">Diatriba precedente</a><a class="chapter-home" href="../index.html">Home</a><a href="2-22.html">Diatriba successiva</a></nav>

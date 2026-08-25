@@ -1,0 +1,47 @@
+---
+title: "Διατριβὴ Αʹ.ηʹ — ὅτι αἱ δυνάμεις τοῖς ἀπαιδεύτοις οὐκ ἀσφαλεῖς"
+lang: grc
+pagetitle: "Διατριβὴ Αʹ.ηʹ — ὅτι αἱ δυνάμεις τοῖς ἀπαιδεύτοις οὐκ ἀσφαλεῖς — Ἐπικτήτου Διατριβαί"
+title-prefix: ""
+description-meta: "Διατριβὴ Αʹ.ηʹ· «ὅτι αἱ δυνάμεις τοῖς ἀπαιδεύτοις οὐκ ἀσφαλεῖς». Ἀρριανοῦ τῶν Ἐπικτήτου Διατριβῶν, τὸ ἑλληνικὸν κείμενον."
+sidebar: grc
+---
+
+<!--
+FILE GENERATO. NON MODIFICARE A MANO.
+
+Modificare invece:
+- translation/it/**.md      per il testo e i titoli italiani
+- data/intro.json           per le note introduttive delle home page
+- tools/site_config.py      per lingue, testi dell'interfaccia, URL
+- styles.css                per l'aspetto grafico
+
+Poi eseguire:
+    run.bat
+-->
+
+
+<div class="diatribe-meta">Βιβλίον Αʹ · 16 τμήματα · <span class="canonical" title="Παραπομπή">I 8</span></div>
+
+<nav class="chapter-nav"><a href="1-07.html">ἡ προτέρα διατριβή</a><a class="chapter-home" href="../index.html">Ἀρχή</a><a href="1-09.html">ἡ ἑπομένη διατριβή</a></nav>
+
+<div class="section-list">
+<article class="section" id="s-1"><a class="ref" href="#s-1">1</a><div class="section-text" lang="grc">καθʼ ὅσους τρόπους μεταλαμβάνειν ἔστι τὰ ἰσοδυναμοῦντα ἀλλήλοις, κατὰ τοσούτους καὶ τὰ εἴδη τῶν ἐπιχειρημάτων τε καὶ ἐνθυμημάτων ἐν τοῖς λόγοις ἐκποιεῖ μεταλαμβάνειν.</div></article>
+<article class="section" id="s-2"><a class="ref" href="#s-2">2</a><div class="section-text" lang="grc">οἷον φέρε τὸν τρόπον τοῦτον· εἰ ἐδανείσω καὶ μὴ ἀπέδωκας, ὀφείλεις μοι τὸ ἀργύριον· οὐχὶ ἐδανείσω μὲν καὶ οὐκ ἀπέδωκας· οὐ μὴν ὀφείλεις μοι τὸ ἀργύριον.</div></article>
+<article class="section" id="s-3"><a class="ref" href="#s-3">3</a><div class="section-text" lang="grc">καὶ τοῦτο οὐδενὶ μᾶλλον προσήκει ἢ τῷ φιλοσόφῳ ἐμπείρως ποιεῖν. εἴπερ γὰρ ἀτελὴς συλλογισμός ἐστι τὸ ἐνθύμημα, δῆλον ὅτι ὁ περὶ τὸν τέλειον συλλογισμὸν γεγυμνασμένος οὗτος ἂν ἱκανὸς εἴη καὶ περὶ τὸν ἀτελῆ οὐδὲν ἧττον.</div></article>
+<article class="section" id="s-4"><a class="ref" href="#s-4">4</a><div class="section-text" lang="grc">τί ποτʼ οὖν οὐ γυμνάζομεν αὑτούς τε καὶ ἀλλήλους τὸν τρόπον τοῦτον;</div></article>
+<article class="section" id="s-5"><a class="ref" href="#s-5">5</a><div class="section-text" lang="grc">ὅτι νῦν καίτοι μὴ γυμναζόμενοι περὶ ταῦτα μηδʼ ἀπὸ τῆς ἐπιμελείας τοῦ ἤθους ὑπό γε ἐμοῦ περισπώμενοι ὅμως οὐδὲν ἐπιδίδομεν εἰς καλοκἀγαθίαν.</div></article>
+<article class="section" id="s-6"><a class="ref" href="#s-6">6</a><div class="section-text" lang="grc">τί οὖν χρὴ προσδοκᾶν, εἰ καὶ ταύτην τὴν ἀσχολίαν προσλάβοιμεν; καὶ μάλισθʼ, ὅτι οὐ μόνον ἀσχολία τις ἀπὸ τῶν ἀναγκαιοτέρων αὐτὴ προσγένοιτʼ ἄν, ἀλλὰ καὶ οἰήσεως ἀφορμὴ καὶ τύφου οὐχ ἡ τυχοῦσα.</div></article>
+<article class="section" id="s-7"><a class="ref" href="#s-7">7</a><div class="section-text" lang="grc">μεγάλη γάρ ἐστι δύναμις ἡ ἐπιχειρητικὴ καὶ πιθανολογική, καὶ μάλιστʼ εἰ τύχοι γυμνασίας ἐπιπλέον καί τινα καὶ εὐπρέπειαν ἀπὸ τῶν ὀνομάτων προσλάβοι.</div></article>
+<article class="section" id="s-8"><a class="ref" href="#s-8">8</a><div class="section-text" lang="grc">ὅτι καὶ ἐν τῷ καθόλου πᾶσα δύναμις ἐπισφαλὴς τοῖς ἀπαιδεύτοις καὶ ἀσθενέσι προσγενομένη πρὸς τὸ ἐπᾶραι καὶ χαυνῶσαι ἐπʼ αὐτῇ.</div></article>
+<article class="section" id="s-9"><a class="ref" href="#s-9">9</a><div class="section-text" lang="grc">ποίᾳ γὰρ ἄν τις ἔτι μηχανῇ πείσαι τὸν νέον τὸν ἐν τούτοις διαφέροντα, ὅτι οὐ δεῖ προσθήκην αὐτὸν ἐκείνων γενέσθαι, ἀλλʼ ἐκεῖνα αὐτῷ προσθεῖναι;</div></article>
+<article class="section" id="s-10"><a class="ref" href="#s-10">10</a><div class="section-text" lang="grc">οὐχὶ δὲ πάντας τοὺς λόγους τούτους καταπατήσας ἐπηρμένος ἡμῖν καὶ πεφυσημένος περιπατεῖ μηδʼ ἀνεχόμενος, ἄν τις ἅπτηται <span class="ed-del">[τι]</span> αὐτοῦ ὑπομιμνῄσκων, τίνος ἀπολελειμμένος ποῦ ἀποκέκλικεν;</div></article>
+<article class="section" id="s-11"><a class="ref" href="#s-11">11</a><div class="section-text" lang="grc">τί οὖν; Πλάτων φιλόσοφος οὐκ ἦν; — Ἱπποκράτης γὰρ ἰατρὸς οὐκ ἦν; ἀλλʼ ὁρᾷς πῶς φράζει Ἱπποκράτης. μή τι οὖν Ἱπποκράτης οὕτω φράζει, καθὸ ἰατρός ἐστιν;</div></article>
+<article class="section" id="s-12"><a class="ref" href="#s-12">12</a><div class="section-text" lang="grc">τί οὖν μιγνύεις πράγματα ἄλλως ἐπὶ τῶν αὐτῶν ἀνθρώπων συνδραμόντα;</div></article>
+<article class="section" id="s-13"><a class="ref" href="#s-13">13</a><div class="section-text" lang="grc">εἰ δὲ καλὸς ἦν Πλάτων καὶ ἰσχυρός, ἔδει κἀμὲ καθήμενον ἐκπονεῖν, ἵνα καλὸς γένωμαι ἢ ἵνα ἰσχυρός, ὡς τοῦτο ἀναγκαῖον πρὸς φιλοσοφίαν, ἐπεί τις φιλόσοφος ἅμα καὶ καλὸς ἦν καὶ φιλόσοφος;</div></article>
+<article class="section" id="s-14"><a class="ref" href="#s-14">14</a><div class="section-text" lang="grc">οὐ θέλεις αἰσθάνεσθαι καὶ διακρῖναι κατὰ τί οἱ ἄνθρωποι γίνονται φιλόσοφοι καὶ τίνα ἄλλως αὐτοῖς πάρεστιν; ἄγε εἰ δʼ ἐγὼ φιλόσοφος ἤμην, ἔδει ὑμᾶς καὶ χωλοὺς γενέσθαι; τί οὖν;</div></article>
+<article class="section" id="s-15"><a class="ref" href="#s-15">15</a><div class="section-text" lang="grc">αἴρω τὰς δυνάμεις ταύτας; μὴ γένοιτο· οὐδὲ γὰρ τὴν ὁρατικήν.</div></article>
+<article class="section" id="s-16"><a class="ref" href="#s-16">16</a><div class="section-text" lang="grc">ὅμως δʼ, ἄν μου πυνθάνῃ τί ἐστιν ἀγαθὸν τοῦ ἀνθρώπου, οὐκ ἔχω σοι ἄλλο εἰπεῖν ἢ ὅτι ποιὰ προαίρεσις <span class="ed-del">[φαντασιῶν]</span>.</div></article>
+</div>
+
+<nav class="chapter-nav chapter-nav-bottom"><a href="1-07.html">ἡ προτέρα διατριβή</a><a class="chapter-home" href="../index.html">Ἀρχή</a><a href="1-09.html">ἡ ἑπομένη διατριβή</a></nav>

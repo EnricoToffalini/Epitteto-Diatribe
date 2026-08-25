@@ -1,0 +1,41 @@
+---
+title: "Διατριβὴ Δʹ.βʹ — περὶ συμπεριφορᾶς"
+lang: grc
+pagetitle: "Διατριβὴ Δʹ.βʹ — περὶ συμπεριφορᾶς — Ἐπικτήτου Διατριβαί"
+title-prefix: ""
+description-meta: "Διατριβὴ Δʹ.βʹ· «περὶ συμπεριφορᾶς». Ἀρριανοῦ τῶν Ἐπικτήτου Διατριβῶν, τὸ ἑλληνικὸν κείμενον."
+sidebar: grc
+---
+
+<!--
+FILE GENERATO. NON MODIFICARE A MANO.
+
+Modificare invece:
+- translation/it/**.md      per il testo e i titoli italiani
+- data/intro.json           per le note introduttive delle home page
+- tools/site_config.py      per lingue, testi dell'interfaccia, URL
+- styles.css                per l'aspetto grafico
+
+Poi eseguire:
+    run.bat
+-->
+
+
+<div class="diatribe-meta">Βιβλίον Δʹ · 10 τμήματα · <span class="canonical" title="Παραπομπή">IV 2</span></div>
+
+<nav class="chapter-nav"><a href="4-01.html">ἡ προτέρα διατριβή</a><a class="chapter-home" href="../index.html">Ἀρχή</a><a href="4-03.html">ἡ ἑπομένη διατριβή</a></nav>
+
+<div class="section-list">
+<article class="section" id="s-1"><a class="ref" href="#s-1">1</a><div class="section-text" lang="grc">τούτῳ τῷ τόπῳ πρὸ πάντων σε δεῖ προσέχειν, μή ποτε ἄρα τῶν προτέρων συνήθων ἢ φίλων ἀνακραθῇς τινι οὕτως, ὥστʼ εἰς τὰ αὐτὰ συγκαταβῆναι αὐτῷ· εἰ δὲ μή, ἀπολεῖς σεαυτόν.</div></article>
+<article class="section" id="s-2"><a class="ref" href="#s-2">2</a><div class="section-text" lang="grc">ἂν δέ σʼ ὑποτρέχῃ ὅτι <q>ἀδέξιος αὐτῷ φανοῦμαι καὶ οὐχ ὁμοίως ἕξει ὡς πρότερον,</q> μέμνησο, ὅτι προῖκα οὐδὲν γίνεται οὐδʼ ἔστι δυνατὸν μὴ τὰ αὐτὰ ποιοῦντα <span class="ed-del">[μὴ]</span> τὸν αὐτὸν εἶναι τῷ ποτέ.</div></article>
+<article class="section" id="s-3"><a class="ref" href="#s-3">3</a><div class="section-text" lang="grc">ἐλοῦ οὖν πότερον θέλεις, ὁμοίως φιλεῖσθαι ὑφʼ ὧν πρότερον ὅμοιος ὢν τῷ πρότερον σεαυτῷ ἢ κρείσσων ὢν μὴ τυγχάνειν τῶν ἴσων.</div></article>
+<article class="section" id="s-4"><a class="ref" href="#s-4">4</a><div class="section-text" lang="grc">εἰ γὰρ τοῦτο κρεῖσσον, αὐτόθεν ἀπόνευσον ἐπὶ τοῦτο μηδέ σε περισπάτωσαν οἱ ἕτεροι διαλογισμοί. οὐδεὶς γὰρ ἐπαμφοτερίζων δύναται προκόψαι, ἀλλʼ εἰ τοῦτο πάντων προκέκρικας, εἰ πρὸς τούτῳ μόνῳ θέλεις εἶναι, εἰ τοῦτο ἐκπονῆσαι, ἄφες ἅπαντα τἆλλα·</div></article>
+<article class="section" id="s-5"><a class="ref" href="#s-5">5</a><div class="section-text" lang="grc">εἰ δὲ μή, οὗτος ὁ ἐπαμφοτερισμὸς ἑκάτερόν σοι ποιήσει, οὔτε προκόψεις κατʼ ἀξίαν οὔτʼ ἐκείνων τεύξῃ, ὧν πρότερον ἐτύγχανες.</div></article>
+<article class="section" id="s-6"><a class="ref" href="#s-6">6</a><div class="section-text" lang="grc">πρότερον γὰρ εἰλικρινῶς ἐφιέμενος τῶν οὐδενὸς ἀξίων ἡδὺς ἦς τοῖς συνοῦσιν.</div></article>
+<article class="section" id="s-7"><a class="ref" href="#s-7">7</a><div class="section-text" lang="grc">οὐ δύνασαι δʼ ἐν ἀμφοτέρῳ τῷ εἴδει διενεγκεῖν· ἀλλʼ ἀνάγκη, καθόσον ἂν τοῦ ἑτέρου κοινωνῇς, ἀπολείπεσθαί σʼ ἐν θατέρῳ. οὐ δύνασαι μὴ πίνων μεθʼ ὧν ἔπινες ὁμοίως ἡδὺς αὐτοῖς φαίνεσθαι· ἑλοῦ οὖν, πότερον μεθυστὴς εἶναι θέλεις καὶ ἡδὺς ἐκείνοις ἢ νήφων ἀηδής. οὐ δύνασαι μὴ ᾁδων μεθʼ ὧν ᾖδες ὁμοίως φιλεῖσθαι ὑπʼ αὐτῶν· ἑλοῦ οὖν καὶ ἐνταῦθα, πότερον θέλεις.</div></article>
+<article class="section" id="s-8"><a class="ref" href="#s-8">8</a><div class="section-text" lang="grc">εἰ γὰρ κρεῖσσον τὸ αἰδήμονα εἶναι καὶ κόσμιον τοῦ εἰπεῖν τινα <q>ἡδὺς ἄνθρωπος,</q> ἄφες τὰ ἕτερα, ἀπόγνωθι, ἀποστράφηθι, μηδὲν σοὶ καὶ αὐτοῖς.</div></article>
+<article class="section" id="s-9"><a class="ref" href="#s-9">9</a><div class="section-text" lang="grc">εἰ δὲ μὴ ἀρέσει ταῦτα, ὅλος ἀπόκλινον ἐπὶ τἀναντία· γενοῦ εἷς τῶν κιναίδων, εἷς τῶν μοιχῶν καὶ ποίει τὰ ἑξῆς καὶ τεύξῃ ὧν θέλεις. καὶ ἀναπηδῶν ἐπικραύγαζε τῷ ὀρχηστῇ.</div></article>
+<article class="section" id="s-10"><a class="ref" href="#s-10">10</a><div class="section-text" lang="grc">διάφορα δʼ οὕτως πρόσωπα οὐ μίγνυται· οὐ δύνασαι καὶ Θερσίτην ὑποκρίνασθαι καὶ Ἀγαμέμνονα. ἂν Θερσίτης εἶναι θέλῃς, κυρτόν σε εἶναι δεῖ, φαλακρόν· ἂν Ἀγαμέμνων, μέγαν καὶ καλὸν καὶ τοὺς ὑποτεταγμένους φιλοῦντα.</div></article>
+</div>
+
+<nav class="chapter-nav chapter-nav-bottom"><a href="4-01.html">ἡ προτέρα διατριβή</a><a class="chapter-home" href="../index.html">Ἀρχή</a><a href="4-03.html">ἡ ἑπομένη διατριβή</a></nav>

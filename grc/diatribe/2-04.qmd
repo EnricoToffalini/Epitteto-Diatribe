@@ -1,0 +1,42 @@
+---
+title: "Διατριβὴ Βʹ.δʹ — πρὸς τὸν ἐπὶ μοιχείᾳ ποτὲ κατειλημμένον"
+lang: grc
+pagetitle: "Διατριβὴ Βʹ.δʹ — πρὸς τὸν ἐπὶ μοιχείᾳ ποτὲ κατειλημμένον — Ἐπικτήτου Διατριβαί"
+title-prefix: ""
+description-meta: "Διατριβὴ Βʹ.δʹ· «πρὸς τὸν ἐπὶ μοιχείᾳ ποτὲ κατειλημμένον». Ἀρριανοῦ τῶν Ἐπικτήτου Διατριβῶν, τὸ ἑλληνικὸν κείμενον."
+sidebar: grc
+---
+
+<!--
+FILE GENERATO. NON MODIFICARE A MANO.
+
+Modificare invece:
+- translation/it/**.md      per il testo e i titoli italiani
+- data/intro.json           per le note introduttive delle home page
+- tools/site_config.py      per lingue, testi dell'interfaccia, URL
+- styles.css                per l'aspetto grafico
+
+Poi eseguire:
+    run.bat
+-->
+
+
+<div class="diatribe-meta">Βιβλίον Βʹ · 11 τμήματα · <span class="canonical" title="Παραπομπή">II 4</span></div>
+
+<nav class="chapter-nav"><a href="2-03.html">ἡ προτέρα διατριβή</a><a class="chapter-home" href="../index.html">Ἀρχή</a><a href="2-05.html">ἡ ἑπομένη διατριβή</a></nav>
+
+<div class="section-list">
+<article class="section" id="s-1"><a class="ref" href="#s-1">1</a><div class="section-text" lang="grc">λέγοντος αὐτοῦ ὅτι Ὁ ἄνθρωπος πρὸς πίστιν γέγονεν καὶ τοῦτο ὁ ἀνατρέπων ἀνατρέπει τὸ ἴδιον τοῦ ἀνθρώπου ἐπεισῆλθέν τις τῶν δοκούντων φιλολόγων, ὃς κατείληπτό ποτε μοιχὸς ἐν τῇ πόλει.</div></article>
+<article class="section" id="s-2"><a class="ref" href="#s-2">2</a><div class="section-text" lang="grc">ὁ δʼ Ἀλλʼ ἄν, φησίν, ἀφέντες τοῦτο τὸ πιστόν, πρὸς ὃ πεφύκαμεν, ἐπιβουλεύωμεν τῇ γυναικὶ τοῦ γείτονος, τί ποιοῦμεν; τί γὰρ ἄλλο ἢ ἀπόλλυμεν καὶ ἀναιροῦμεν; τίνα; τὸν πιστόν, τὸν αἰδήμονα, τὸν ὅσιον.</div></article>
+<article class="section" id="s-3"><a class="ref" href="#s-3">3</a><div class="section-text" lang="grc">ταῦτα μόνα; γειτνίασιν δʼ οὐκ ἀναιροῦμεν, φιλίαν δʼ οὔ, πόλιν δʼ οὔ; εἰς τίνα δὲ χώραν αὑτοὺς κατατάσσομεν; ὡς τίνι σοι χρῶμαι, ἄνθρωπε; ὡς γείτονι, ὡς φίλῳ; ποίῳ τινί; ὡς πολίτῃ; τί σοι πιστεύσω;</div></article>
+<article class="section" id="s-4"><a class="ref" href="#s-4">4</a><div class="section-text" lang="grc">εἶτα σκευάριον μὲν εἰ ἦς οὕτως σαπρόν, ὥστε σοι πρὸς μηδὲν δύνασθαι χρῆσθαι, ἔξω ἂν ἐπὶ τὰς κοπρίας ἐρρίπτου καὶ οὐδʼ ἐκεῖθεν ἄν τίς σε ἀνῃρεῖτο·</div></article>
+<article class="section" id="s-5"><a class="ref" href="#s-5">5</a><div class="section-text" lang="grc">εἰ δʼ ἄνθρωπος ὢν οὐδεμίαν χώραν δύνασαι ἀποπληρῶσαι ἀνθρωπικήν, τί σε ποιήσομεν; ἔστω γάρ, φίλου οὐ δύνασαι τόπον ἔχειν· δούλου δύνασαι; καὶ τίς σοι πιστεύσει; οὐ θέλεις οὖν ῥιφῆναί που καὶ αὐτὸς ἐπὶ κοπρίαν ὡς σκεῦος ἄχρηστον, ὡς κόπριον;</div></article>
+<article class="section" id="s-6"><a class="ref" href="#s-6">6</a><div class="section-text" lang="grc">εἶτα ἐρεῖς <q>οὐδείς μου ἐπιστρέφεται, ἀνθρώπου φιλολόγου;</q> κακὸς γὰρ εἶ καὶ ἄχρηστος. οἷον εἰ οἱ σφῆκες ἠγανάκτουν, ὅτι οὐδεὶς αὐτῶν ἐπιστρέφεται, ἀλλὰ φεύγουσι πάντες κἄν τις δύνηται, πλήξας κατέβαλεν.</div></article>
+<article class="section" id="s-7"><a class="ref" href="#s-7">7</a><div class="section-text" lang="grc">σὺ κέντρον ἔχεις τοιοῦτον, ὥστε ὃν ἂν πλήξῃς εἰς πράγματα καὶ ὀδύνας ἐμβάλλειν. τί σε θέλεις ποιήσωμεν; οὐκ ἔχεις ποῦ τεθῇς.</div></article>
+<article class="section" id="s-8"><a class="ref" href="#s-8">8</a><div class="section-text" lang="grc">τί οὖν; οὐκ εἰσὶν αἱ γυναῖκες κοιναὶ φύσει; κἀγὼ λέγω. καὶ γὰρ τὸ χοιρίδιον κοινὸν τῶν κεκλημένων· ἀλλʼ ὅταν μέρη γένηται, ἄν σοι φανῇ, ἀνάρπασον ἀπελθὼν τὸ τοῦ παρακατακειμένου μέρος, λάθρᾳ κλέψον ἢ παρακαθεὶς τὴν χεῖρα λίχνευε, κἂν μὴ δύνῃ τοῦ κρέως ἀποσπάσαι, λίπαινε τοὺς δακτύλους καὶ περίλειχε. καλὸς συμπότης καὶ σύνδειπνος Σωκρατικός.</div></article>
+<article class="section" id="s-9"><a class="ref" href="#s-9">9</a><div class="section-text" lang="grc">ἄγε, τὸ δὲ θέατρον οὐκ ἔστι κοινὸν τῶν πολιτῶν; ὅταν οὖν καθίσωσιν, ἐλθών, ἄν σοι φανῇ, ἔκβαλέ τινα αὐτῶν.</div></article>
+<article class="section" id="s-10"><a class="ref" href="#s-10">10</a><div class="section-text" lang="grc">οὕτως καὶ αἱ γυναῖκες φύσει κοιναί. ὅταν δʼ ὁ νομοθέτης ὡς ἑστιάτωρ διέλῃ αὐτάς, οὐ θέλεις καὶ αὐτὸς ἴδιον μέρος ζητεῖν, ἀλλὰ τὸ ἀλλότριον ὑφαρπάζεις καὶ λιχνεύεις;</div></article>
+<article class="section" id="s-11"><a class="ref" href="#s-11">11</a><div class="section-text" lang="grc"><q>ἀλλὰ φιλόλογός εἰμι καὶ Ἀρχέδημον νοῶ.</q> Ἀρχέδημον τοίνυν νοῶν μοιχὸς ἴσθι καὶ ἄπιστος καὶ ἀντὶ ἀνθρώπου λύκος ἢ πίθηκος. τί γὰρ κωλύει;</div></article>
+</div>
+
+<nav class="chapter-nav chapter-nav-bottom"><a href="2-03.html">ἡ προτέρα διατριβή</a><a class="chapter-home" href="../index.html">Ἀρχή</a><a href="2-05.html">ἡ ἑπομένη διατριβή</a></nav>

@@ -1,0 +1,63 @@
+---
+title: "Diatriba I.1 — Su ciò che dipende da noi e ciò che non dipende da noi"
+lang: it
+pagetitle: "Diatriba I.1 — Su ciò che dipende da noi e ciò che non dipende da noi — Epitteto, Diatribe"
+title-prefix: ""
+description-meta: "Diatriba I.1: «Su ciò che dipende da noi e ciò che non dipende da noi». Le Diatribe di Epitteto raccolte da Arriano, in traduzione italiana."
+sidebar: it
+---
+
+<!--
+FILE GENERATO. NON MODIFICARE A MANO.
+
+Modificare invece:
+- translation/it/**.md      per il testo e i titoli italiani
+- data/intro.json           per le note introduttive delle home page
+- tools/site_config.py      per lingue, testi dell'interfaccia, URL
+- styles.css                per l'aspetto grafico
+
+Poi eseguire:
+    run.bat
+-->
+
+
+<div class="diatribe-meta">Libro I · 32 sezioni · <span class="canonical" title="Riferimento canonico">I 1</span></div>
+
+<nav class="chapter-nav"><a href="0-00.html">Diatriba precedente</a><a class="chapter-home" href="../index.html">Home</a><a href="1-02.html">Diatriba successiva</a></nav>
+
+<div class="section-list">
+<article class="section" id="s-1"><a class="ref" href="#s-1">1</a><div class="section-text">Tra le altre facoltà non ne troverete nessuna capace di contemplare se stessa e, di conseguenza, neppure di approvare o disapprovare.</div></article>
+<article class="section" id="s-2"><a class="ref" href="#s-2">2</a><div class="section-text">Fino a che punto la grammatica possiede la capacità di contemplare? Fino a distinguere le lettere. E la musica? Fino a distinguere la melodia.</div></article>
+<article class="section" id="s-3"><a class="ref" href="#s-3">3</a><div class="section-text">Ma qualcuna di esse contempla se stessa? Nient’affatto. Quando, per esempio, devi scrivere qualcosa a un amico, la grammatica ti dirà quali parole bisogna scrivere; ma se si debba scrivere o non scrivere all’amico, la grammatica non lo dirà. E così la musica riguardo alle melodie: se ora si debba cantare e suonare la cetra, oppure non cantare né suonare, non lo dirà.</div></article>
+<article class="section" id="s-4"><a class="ref" href="#s-4">4</a><div class="section-text">Chi lo dirà, dunque? Quella facoltà che contempla se stessa e tutte le altre cose. E qual è? La facoltà razionale: essa sola ci è stata data anche per comprendere se stessa, che cosa sia, che cosa possa e quale valore abbia, e tutte le altre facoltà.</div></article>
+<article class="section" id="s-5"><a class="ref" href="#s-5">5</a><div class="section-text">Che cos’altro, infatti, dice che l’oro è bello? L’oro stesso non lo dice. È chiaro: la facoltà che usa le rappresentazioni.</div></article>
+<article class="section" id="s-6"><a class="ref" href="#s-6">6</a><div class="section-text">Che cos’altro distingue la musica, la grammatica e le altre facoltà, giudica i loro usi e indica le occasioni opportune per servirsene? Nient’altro.</div></article>
+<article class="section" id="s-7"><a class="ref" href="#s-7">7</a><div class="section-text">Come era giusto, dunque, gli dèi hanno posto in nostro potere soltanto ciò che è più forte di tutto e domina tutto: il retto uso delle rappresentazioni; le altre cose, invece, non sono in nostro potere. Forse perché non volevano?</div></article>
+<article class="section" id="s-8"><a class="ref" href="#s-8">8</a><div class="section-text">Io credo che, se avessero potuto, ci avrebbero affidato anche quelle; ma certamente non potevano.</div></article>
+<article class="section" id="s-9"><a class="ref" href="#s-9">9</a><div class="section-text">Poiché siamo sulla terra, legati a un corpo come questo e a compagni come questi, come sarebbe stato possibile non essere ostacolati, in queste cose, da ciò che è esterno? Ma che cosa dice Zeus?</div></article>
+<article class="section" id="s-10"><a class="ref" href="#s-10">10</a><div class="section-text">«Epitteto, se fosse stato possibile, avrei reso libero e non soggetto a impedimenti anche il tuo corpicino e i tuoi piccoli beni.</div></article>
+<article class="section" id="s-11"><a class="ref" href="#s-11">11</a><div class="section-text">Ma ora non dimenticarlo: questo non è tuo, è argilla finemente impastata.</div></article>
+<article class="section" id="s-12"><a class="ref" href="#s-12">12</a><div class="section-text">E poiché non potevo fare questo, ti abbiamo dato una parte di noi: questa facoltà di muoverti verso e di ritrarti, di desiderare e di avversare, e in generale di usare le rappresentazioni. Se avrai cura di essa e porrai in essa ciò che è tuo, non sarai mai impedito, mai ostacolato; non gemerai, non accuserai, non adulerai nessuno. E allora? Ti sembrano forse cose da poco?» «Niente affatto.»</div></article>
+<article class="section" id="s-13"><a class="ref" href="#s-13">13</a><div class="section-text">«Ti bastano, dunque?» «Lo chiedo agli dèi.»</div></article>
+<article class="section" id="s-14"><a class="ref" href="#s-14">14</a><div class="section-text">Ora invece, pur potendo aver cura di una cosa sola e legarci a una sola, preferiamo aver cura di molte e legarci a molte: al corpo, ai beni, al fratello, all’amico, al figlio, allo schiavo.</div></article>
+<article class="section" id="s-15"><a class="ref" href="#s-15">15</a><div class="section-text">E così, legati a molte cose, ne siamo appesantiti e trascinati in basso.</div></article>
+<article class="section" id="s-16"><a class="ref" href="#s-16">16</a><div class="section-text">Per questo, quando non si può salpare, ce ne stiamo seduti a tormentarci e continuiamo a sporgere il capo: «Che vento soffia?» «Borea.» Che ce ne importa? «Quando soffierà Zefiro?» Quando parrà bene a lui, mio caro, o a Eolo. Dio non ha fatto te amministratore dei venti, ma Eolo.</div></article>
+<article class="section" id="s-17"><a class="ref" href="#s-17">17</a><div class="section-text">Che fare, dunque? Rendere nel modo migliore possibile ciò che è in nostro potere e servirci delle altre cose secondo la loro natura. «E qual è la loro natura?» Come Dio vuole.</div></article>
+<article class="section" id="s-18"><a class="ref" href="#s-18">18</a><div class="section-text">«Dunque devo essere decapitato proprio io, adesso, da solo?» E che cosa volevi? Che fossero decapitati tutti, perché tu avessi consolazione?</div></article>
+<article class="section" id="s-19"><a class="ref" href="#s-19">19</a><div class="section-text">Non vuoi tendere il collo come quel Laterano che, a Roma, ricevette da Nerone l’ordine di essere decapitato? Tese il collo, ricevette il colpo e, poiché il colpo fu debole, lo ritrasse per un momento; poi lo tese di nuovo.</div></article>
+<article class="section" id="s-20"><a class="ref" href="#s-20">20</a><div class="section-text">Ma già prima, quando Epafrodito, liberto di Nerone, gli si era avvicinato e lo interrogava sulla ragione del suo contrasto con l’imperatore, disse: «Se avrò qualcosa da dire, lo dirò al tuo padrone.»</div></article>
+<article class="section" id="s-21"><a class="ref" href="#s-21">21</a><div class="section-text">Che cosa bisogna dunque avere pronto in circostanze simili? Che altro, se non sapere che cosa è mio e che cosa non è mio, che cosa mi è consentito e che cosa non mi è consentito?</div></article>
+<article class="section" id="s-22"><a class="ref" href="#s-22">22</a><div class="section-text">Devo morire. Devo forse anche gemere? Essere incatenato. Devo forse anche lamentarmi? Essere mandato in esilio. Ma chi mi impedisce di andarci ridendo, sereno e tranquillo?</div></article>
+<article class="section" id="s-23"><a class="ref" href="#s-23">23</a><div class="section-text">«Dimmi i segreti.» Non li dico: questo dipende da me. «Ma ti incatenerò.» Uomo, che dici? Me? Incatenerai la mia gamba; ma la mia scelta morale neppure Zeus può vincerla.</div></article>
+<article class="section" id="s-24"><a class="ref" href="#s-24">24</a><div class="section-text">«Ti getterò in prigione.» Il mio corpicino. «Ti farò decapitare.» Quando mai ti ho detto che soltanto il mio collo non può essere tagliato?</div></article>
+<article class="section" id="s-25"><a class="ref" href="#s-25">25</a><div class="section-text">Queste sono le cose su cui i filosofi dovrebbero meditare, queste scrivere ogni giorno, in queste esercitarsi.</div></article>
+<article class="section" id="s-26"><a class="ref" href="#s-26">26</a><div class="section-text">Trasea era solito dire: «Preferisco essere ucciso oggi piuttosto che esiliato domani.»</div></article>
+<article class="section" id="s-27"><a class="ref" href="#s-27">27</a><div class="section-text">E che cosa gli disse Rufo? «Se scegli la morte come il male più grave, che follia è mai questa scelta? Se invece la scegli come il più lieve, chi ti ha dato la scelta? Non vuoi esercitarti ad accontentarti di ciò che ti è stato dato?»</div></article>
+<article class="section" id="s-28"><a class="ref" href="#s-28">28</a><div class="section-text">Per questo Agrippino che cosa diceva? «Io non divento un ostacolo a me stesso.» Gli fu annunciato: «Sei sotto processo in Senato.»</div></article>
+<article class="section" id="s-29"><a class="ref" href="#s-29">29</a><div class="section-text">«Buona fortuna. Ma è arrivata la quinta ora» — a quell’ora era solito fare esercizio e poi un bagno freddo —.</div></article>
+<article class="section" id="s-30"><a class="ref" href="#s-30">30</a><div class="section-text">«Andiamo dunque ad allenarci.» Dopo che si fu allenato, qualcuno venne a dirgli: «Sei stato condannato.» «All’esilio», disse, «o a morte?» «All’esilio.» «E i beni?» «Non sono stati confiscati.» «Andiamo allora ad Aricia e pranziamo.»</div></article>
+<article class="section" id="s-31"><a class="ref" href="#s-31">31</a><div class="section-text">Ecco che cosa significa essersi esercitati in ciò in cui bisogna esercitarsi: aver reso desiderio e avversione liberi da impedimenti e da ciò in cui non si vuole incorrere. Devo morire.</div></article>
+<article class="section" id="s-32"><a class="ref" href="#s-32">32</a><div class="section-text">Se adesso, muoio adesso; se fra poco, ora pranzo, perché è l’ora di pranzo, e poi morirò. Come? Come si conviene a chi restituisce ciò che appartiene ad altri.</div></article>
+</div>
+
+<nav class="chapter-nav chapter-nav-bottom"><a href="0-00.html">Diatriba precedente</a><a class="chapter-home" href="../index.html">Home</a><a href="1-02.html">Diatriba successiva</a></nav>

@@ -1,0 +1,41 @@
+---
+title: "Diatriba III.6 — Alcune osservazioni sparse"
+lang: it
+pagetitle: "Diatriba III.6 — Alcune osservazioni sparse — Epitteto, Diatribe"
+title-prefix: ""
+description-meta: "Diatriba III.6: «Alcune osservazioni sparse». Le Diatribe di Epitteto raccolte da Arriano, in traduzione italiana."
+sidebar: it
+---
+
+<!--
+FILE GENERATO. NON MODIFICARE A MANO.
+
+Modificare invece:
+- translation/it/**.md      per il testo e i titoli italiani
+- data/intro.json           per le note introduttive delle home page
+- tools/site_config.py      per lingue, testi dell'interfaccia, URL
+- styles.css                per l'aspetto grafico
+
+Poi eseguire:
+    run.bat
+-->
+
+
+<div class="diatribe-meta">Libro III · 10 sezioni · <span class="canonical" title="Riferimento canonico">III 6</span></div>
+
+<nav class="chapter-nav"><a href="3-05.html">Diatriba precedente</a><a class="chapter-home" href="../index.html">Home</a><a href="3-07.html">Diatriba successiva</a></nav>
+
+<div class="section-list">
+<article class="section" id="s-1"><a class="ref" href="#s-1">1</a><div class="section-text">A qualcuno che domandava come mai, ora che il ragionamento è stato elaborato più a fondo, in passato vi fossero progressi maggiori,</div></article>
+<article class="section" id="s-2"><a class="ref" href="#s-2">2</a><div class="section-text">«In che cosa», disse, «è stato elaborato più a fondo, e in che cosa erano allora maggiori i progressi? Infatti, proprio nell’ambito in cui oggi è stato elaborato più a fondo, lì si troveranno oggi anche progressi.»</div></article>
+<article class="section" id="s-3"><a class="ref" href="#s-3">3</a><div class="section-text">Oggi è stato elaborato per analizzare sillogismi, e in questo si fanno progressi; allora invece veniva coltivato per conservare la facoltà direttiva conforme a natura, e in questo si facevano progressi.</div></article>
+<article class="section" id="s-4"><a class="ref" href="#s-4">4</a><div class="section-text">Non confondere dunque le cose e non cercare, quando ne coltivi una, di progredire in un’altra. Guarda piuttosto se qualcuno di noi, dedicandosi a vivere e a condursi secondo natura, non progredisce. Non ne troverai nessuno.</div></article>
+<article class="section" id="s-5"><a class="ref" href="#s-5">5</a><div class="section-text">L’uomo virtuoso è invincibile: non entra infatti in gara là dove non è superiore, ma soltanto là dove lo è.</div></article>
+<article class="section" id="s-6"><a class="ref" href="#s-6">6</a><div class="section-text">Se vuoi il campo, prendilo; prendi i servi, prendi la carica, prendi il corpicino. Ma non farai fallire il suo desiderio né farai incappare la sua avversione in ciò che vuole evitare.</div></article>
+<article class="section" id="s-7"><a class="ref" href="#s-7">7</a><div class="section-text">Si getta soltanto in questa contesa, quella che riguarda ciò che dipende dalla scelta morale. Come potrebbe dunque non essere invincibile?</div></article>
+<article class="section" id="s-8"><a class="ref" href="#s-8">8</a><div class="section-text">A uno che domandava che cosa fosse il senso comune, disse: «Come si potrebbe chiamare comune un udito capace soltanto di distinguere le voci, mentre quello che distingue i suoni musicali non è più comune ma tecnico, così vi sono alcune cose che gli uomini non del tutto corrotti vedono grazie alle facoltà comuni a tutti. Una disposizione di questo genere si chiama senso comune.»</div></article>
+<article class="section" id="s-9"><a class="ref" href="#s-9">9</a><div class="section-text">Non è facile esortare i giovani fiacchi: neppure il formaggio si prende all’amo. I ben dotati, invece, anche se li scoraggi, si attaccano ancora di più alla ragione.</div></article>
+<article class="section" id="s-10"><a class="ref" href="#s-10">10</a><div class="section-text">Perciò anche Rufo per lo più scoraggiava i suoi allievi, servendosi di questo come criterio per distinguere i ben dotati da quelli privi di attitudine. Diceva infatti: «Come una pietra, anche se la lanci in alto, ricadrà a terra secondo la propria natura, così anche chi è ben dotato, quanto più lo si respinge, tanto più inclina verso ciò per cui è nato.»</div></article>
+</div>
+
+<nav class="chapter-nav chapter-nav-bottom"><a href="3-05.html">Diatriba precedente</a><a class="chapter-home" href="../index.html">Home</a><a href="3-07.html">Diatriba successiva</a></nav>

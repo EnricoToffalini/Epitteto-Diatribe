@@ -1,0 +1,37 @@
+---
+title: "Diatriba III.11 — Alcune osservazioni sparse"
+lang: it
+pagetitle: "Diatriba III.11 — Alcune osservazioni sparse — Epitteto, Diatribe"
+title-prefix: ""
+description-meta: "Diatriba III.11: «Alcune osservazioni sparse». Le Diatribe di Epitteto raccolte da Arriano, in traduzione italiana."
+sidebar: it
+---
+
+<!--
+FILE GENERATO. NON MODIFICARE A MANO.
+
+Modificare invece:
+- translation/it/**.md      per il testo e i titoli italiani
+- data/intro.json           per le note introduttive delle home page
+- tools/site_config.py      per lingue, testi dell'interfaccia, URL
+- styles.css                per l'aspetto grafico
+
+Poi eseguire:
+    run.bat
+-->
+
+
+<div class="diatribe-meta">Libro III · 6 sezioni · <span class="canonical" title="Riferimento canonico">III 11</span></div>
+
+<nav class="chapter-nav"><a href="3-10.html">Diatriba precedente</a><a class="chapter-home" href="../index.html">Home</a><a href="3-12.html">Diatriba successiva</a></nav>
+
+<div class="section-list">
+<article class="section" id="s-1"><a class="ref" href="#s-1">1</a><div class="section-text">Vi sono, per così dire, alcune pene stabilite per legge per chi disobbedisce al governo divino:</div></article>
+<article class="section" id="s-2"><a class="ref" href="#s-2">2</a><div class="section-text">chi considera bene qualcosa che non appartiene alla sfera della scelta morale, provi invidia, desideri, aduli, sia turbato; chi considera male qualcosa che ne è estraneo, si affligga, pianga, si lamenti, sia infelice.</div></article>
+<article class="section" id="s-3"><a class="ref" href="#s-3">3</a><div class="section-text">E tuttavia, pur essendo puniti così duramente, non riusciamo a desistere.</div></article>
+<article class="section" id="s-4"><a class="ref" href="#s-4">4</a><div class="section-text">Ricorda ciò che dice il poeta a proposito dello straniero: «Straniero, non mi è lecito, neppure se venisse uno peggiore di te, disonorare uno straniero: da Zeus infatti vengono tutti, stranieri e mendicanti.»</div></article>
+<article class="section" id="s-5"><a class="ref" href="#s-5">5</a><div class="section-text">Tieni dunque a portata di mano lo stesso principio anche riguardo al padre: «Non mi è lecito, neppure se venisse uno peggiore di te, disonorare mio padre: da Zeus Padre vengono infatti tutti.»</div></article>
+<article class="section" id="s-6"><a class="ref" href="#s-6">6</a><div class="section-text">E così riguardo al fratello: «Da Zeus, protettore della parentela, vengono infatti tutti.» E nello stesso modo, nelle altre relazioni, troveremo in Zeus colui che sovrintende a ciascuna di esse.</div></article>
+</div>
+
+<nav class="chapter-nav chapter-nav-bottom"><a href="3-10.html">Diatriba precedente</a><a class="chapter-home" href="../index.html">Home</a><a href="3-12.html">Diatriba successiva</a></nav>

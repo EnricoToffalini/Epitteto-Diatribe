@@ -1,0 +1,49 @@
+---
+title: "Diatriba IV.9 — A uno che era passato alla spudoratezza"
+lang: it
+pagetitle: "Diatriba IV.9 — A uno che era passato alla spudoratezza — Epitteto, Diatribe"
+title-prefix: ""
+description-meta: "Diatriba IV.9: «A uno che era passato alla spudoratezza». Le Diatribe di Epitteto raccolte da Arriano, in traduzione italiana."
+sidebar: it
+---
+
+<!--
+FILE GENERATO. NON MODIFICARE A MANO.
+
+Modificare invece:
+- translation/it/**.md      per il testo e i titoli italiani
+- data/intro.json           per le note introduttive delle home page
+- tools/site_config.py      per lingue, testi dell'interfaccia, URL
+- styles.css                per l'aspetto grafico
+
+Poi eseguire:
+    run.bat
+-->
+
+
+<div class="diatribe-meta">Libro IV · 18 sezioni · <span class="canonical" title="Riferimento canonico">IV 9</span></div>
+
+<nav class="chapter-nav"><a href="4-08.html">Diatriba precedente</a><a class="chapter-home" href="../index.html">Home</a><a href="4-10.html">Diatriba successiva</a></nav>
+
+<div class="section-list">
+<article class="section" id="s-1"><a class="ref" href="#s-1">1</a><div class="section-text">Quando vedi un altro ricoprire una carica, contrapponi a questo il fatto che tu possiedi il non aver bisogno di una carica; quando vedi un altro ricco, guarda che cosa possiedi in cambio.</div></article>
+<article class="section" id="s-2"><a class="ref" href="#s-2">2</a><div class="section-text">Se infatti non possiedi nulla in cambio, sei infelice; ma se possiedi il non aver bisogno della ricchezza, sappi che possiedi di più e qualcosa di molto maggior valore.</div></article>
+<article class="section" id="s-3"><a class="ref" href="#s-3">3</a><div class="section-text">Un altro ha una bella donna; tu hai il non desiderare una bella donna. Ti sembrano piccole cose? E quanto pagherebbero proprio quelli che sono ricchi, ricoprono cariche e vivono con belle donne per poter disprezzare la ricchezza, le cariche e quelle stesse donne che amano e di cui godono?</div></article>
+<article class="section" id="s-4"><a class="ref" href="#s-4">4</a><div class="section-text">Non sai che cosa sia la sete di chi ha la febbre? Non assomiglia affatto a quella di chi è sano. Quest’ultimo beve e ha finito; l’altro, dopo aver provato piacere per poco, ha nausea, trasforma l’acqua in bile, vomita, ha crampi e prova una sete ancora più forte.</div></article>
+<article class="section" id="s-5"><a class="ref" href="#s-5">5</a><div class="section-text">Così è essere ricchi con desiderio, ricoprire cariche con desiderio, dormire con una bella donna con desiderio: vi si aggiungono gelosia, paura di esserne privati, parole vergognose, pensieri vergognosi, azioni sconvenienti.</div></article>
+<article class="section" id="s-6"><a class="ref" href="#s-6">6</a><div class="section-text">«E che cosa perdo?», dice. Uomo, eri rispettoso di te stesso e ora non lo sei più: non hai perduto nulla? Al posto di Crisippo e Zenone leggi Aristide ed Eveno: non hai perduto nulla? Al posto di Socrate e Diogene ammiri chi è capace di corrompere e sedurre il maggior numero di donne.</div></article>
+<article class="section" id="s-7"><a class="ref" href="#s-7">7</a><div class="section-text">Vuoi essere bello e ti acconci per sembrarlo, pur non essendolo; vuoi mostrare abiti lucenti per attirare le donne e, se trovi un po’ di buon profumo, ti sembra di essere felice.</div></article>
+<article class="section" id="s-8"><a class="ref" href="#s-8">8</a><div class="section-text">Prima invece non pensavi a nulla di tutto questo, ma cercavi dove fosse un discorso dignitoso, un uomo degno di considerazione, un pensiero nobile. Perciò dormivi da uomo, uscivi da uomo, portavi un abito da uomo, parlavi come si addice a un uomo buono; e poi mi dici: «Non ho perduto nulla»?</div></article>
+<article class="section" id="s-9"><a class="ref" href="#s-9">9</a><div class="section-text">Dunque gli uomini perdono soltanto monete? Non si perde il rispetto di sé, non si perde la dignità? Oppure perdere queste cose non significa subire una perdita?</div></article>
+<article class="section" id="s-10"><a class="ref" href="#s-10">10</a><div class="section-text">A te forse ormai sembra che nessuna di queste cose sia una perdita. Ma vi fu un tempo in cui consideravi proprio questa l’unica perdita e l’unico danno, e temevi che qualcuno ti allontanasse da questi discorsi e da queste azioni.</div></article>
+<article class="section" id="s-11"><a class="ref" href="#s-11">11</a><div class="section-text">Ecco: non sei stato allontanato da nessun altro, ma da te stesso. Combatti contro te stesso; riporta te stesso alla dignità, al rispetto di te, alla libertà.</div></article>
+<article class="section" id="s-12"><a class="ref" href="#s-12">12</a><div class="section-text">Se qualcuno ti avesse mai detto di me che qualcuno mi costringeva a commettere adulterio, a portare un abito come questo, a profumarmi, non saresti andato a uccidere con le tue mani l’uomo che mi trattava in questo modo?</div></article>
+<article class="section" id="s-13"><a class="ref" href="#s-13">13</a><div class="section-text">Ora dunque non vuoi aiutare te stesso? E quanto è più facile questo aiuto! Non bisogna uccidere nessuno, né incatenarlo, né insultarlo, né andare in piazza; basta parlare a se stessi, alla persona che più facilmente ti ascolterà e sulla quale nessuno ha maggiore forza persuasiva di te.</div></article>
+<article class="section" id="s-14"><a class="ref" href="#s-14">14</a><div class="section-text">Anzitutto condanna ciò che stai facendo; poi, dopo averlo condannato, non disperare di te stesso e non fare come gli uomini ignobili, che, una volta ceduto, si abbandonano completamente e si lasciano trascinare come da una corrente. Impara piuttosto ciò che fanno gli allenatori.</div></article>
+<article class="section" id="s-15"><a class="ref" href="#s-15">15</a><div class="section-text">Il ragazzo è caduto. «Alzati», dice, «e lotta di nuovo, finché non diventi forte.»</div></article>
+<article class="section" id="s-16"><a class="ref" href="#s-16">16</a><div class="section-text">Fa’ anche tu qualcosa del genere. Sappi infatti che nulla è più facile da guidare dell’anima umana. Basta volerlo, ed è fatto, è raddrizzata; come, al contrario, basta assopirsi di nuovo, ed è perduta. Dall’interno infatti vengono sia la rovina sia l’aiuto.</div></article>
+<article class="section" id="s-17"><a class="ref" href="#s-17">17</a><div class="section-text">— «E allora quale bene ne ricavo?» — E quale bene maggiore cerchi? Da spudorato diventerai rispettoso di te stesso, da scomposto composto, da sleale leale, da intemperante temperante.</div></article>
+<article class="section" id="s-18"><a class="ref" href="#s-18">18</a><div class="section-text">Se cerchi qualcosa di più grande di queste cose, continua pure a fare ciò che fai: neppure uno degli dèi può più salvarti.</div></article>
+</div>
+
+<nav class="chapter-nav chapter-nav-bottom"><a href="4-08.html">Diatriba precedente</a><a class="chapter-home" href="../index.html">Home</a><a href="4-10.html">Diatriba successiva</a></nav>

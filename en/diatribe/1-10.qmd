@@ -1,0 +1,45 @@
+---
+title: "Discourse I.10 — Against those who eagerly seek preferment at Rome"
+lang: en
+pagetitle: "Discourse I.10 — Against those who eagerly seek preferment at Rome — Epictetus, Discourses"
+title-prefix: ""
+description-meta: "Discourse I.10: “Against those who eagerly seek preferment at Rome”. The Discourses of Epictetus, in George Long’s English translation, with his notes."
+sidebar: en
+---
+
+<!--
+FILE GENERATO. NON MODIFICARE A MANO.
+
+Modificare invece:
+- translation/it/**.md      per il testo e i titoli italiani
+- data/intro.json           per le note introduttive delle home page
+- tools/site_config.py      per lingue, testi dell'interfaccia, URL
+- styles.css                per l'aspetto grafico
+
+Poi eseguire:
+    run.bat
+-->
+
+
+<div class="diatribe-meta">Book I · 2 paragraphs · <span class="canonical" title="Canonical reference">I 10</span></div>
+
+<nav class="chapter-nav"><a href="1-09.html">Previous discourse</a><a class="chapter-home" href="../index.html">Home</a><a href="1-11.html">Next discourse</a></nav>
+
+<div class="paragraph-list">
+<p>IF we applied ourselves as busily to our own work as the old men at Rome do to those matters about which they are employed, perhaps we also might accomplish something. I am acquainted with a man older than myself, who is now superintendent of corn<a class="note-ref" id="noteref-1" href="#note-1" role="doc-noteref" aria-label="note 1"><sup>1</sup></a> at Rome, and I remember the time when he came here on his way back from exile, and what he said as he related the events of his former life, and how he declared that with respect to the future after his return he would look after nothing else than passing the rest of his life in quiet and tranquillity. For how little of life, he said, remains for me. I replied, you will not do it, but as soon as you smell Rome, you will forget all that you have said; and if admission is allowed even into the imperial palace, he<a class="note-ref" id="noteref-2" href="#note-2" role="doc-noteref" aria-label="note 2"><sup>2</sup></a> will gladly thrust himself in and thank God. If you find me, Epictetus, he answered, setting even one foot within the palace, think what you please. Well, what then did he do? Before he entered the city, he was met by letters from Caesar, and as soon as he received them, he forgot all, and ever after has added one piece of business to another. I wish that I were now by his side to remind him of what he said when he was passing this way, and to tell him how much better a seer I am than he is.</p>
+<p>Well then do I say that man is an animal made for doing nothing?<a class="note-ref" id="noteref-3" href="#note-3" role="doc-noteref" aria-label="note 3"><sup>3</sup></a> Certainly not. But why are we not active?<a class="note-ref" id="noteref-4" href="#note-4" role="doc-noteref" aria-label="note 4"><sup>4</sup></a>(We are active.) For example, as to myself, as soon as day comes, in a few words I remind myself of what I must read over to my pupils;<a class="note-ref" id="noteref-5" href="#note-5" role="doc-noteref" aria-label="note 5"><sup>5</sup></a> then forthwith I say to myself, But what is it to me how a certain person shall read? the first thing for me is to sleep. And indeed what resemblance is there between what other persons do and what we do? If you observe what they do, you will understand. And what else do they do all day long than make up accounts, enquire among themselves, give and take advice about some small quantity of grain, a bit of land, and such kind of profits? Is it then the same thing to receive a petition and to read in it: I intreat you to permit me to export<a class="note-ref" id="noteref-6" href="#note-6" role="doc-noteref" aria-label="note 6"><sup>6</sup></a> a small quantity of cor; and one to this effect: <q>I intreat you to learn from Chrysippus what is the administration of the world, and what place in it the rational animal holds; consider also who you are, and what is the nature of your good and bad. Are these things like the other, do they require equal care, and is it equally base to neglect these and those? Well then are we the only persons who are lazy and love sleep? No; but much rather you young men are. For we old men when we see young men amusing themselves are eager to play with them; and if I saw you active and zealous, much more should I be eager myself to join you in your serious pursuits.</q></p>
+</div>
+
+<section class="notes">
+<h2>Notes</h2>
+<ol class="note-list">
+<li class="note" id="note-1" role="doc-endnote"><p>A <span class="foreign" lang="lat">Præfectus Annonæ,</span> or superintendent of the supply of corn at Rome is first mentioned by Livy (iv. 12) as appointed during a scarcity. At a later time this office was conferred on Cn. Pompeius for five years. Maecenas (Dion. 52, c. 24) advised Augustus to make a Praefectus Annonae or permanent officer over the corn market and all other markets (<q lang="grc" class="foreign">ἐπὶ τοῦ σίτου τῆς τε ἀγορᾶς τῆς λοιπῆς</q>). He would thus have the office formerly exercised by the aediles.</p><a class="note-back" href="#noteref-1" aria-label="back to the text">&#8617;</a></li>
+<li class="note" id="note-2" role="doc-endnote"><p>I cannot explain why the third person is used here instead of the second. See Schweig.’s note.</p><a class="note-back" href="#noteref-2" aria-label="back to the text">&#8617;</a></li>
+<li class="note" id="note-3" role="doc-endnote"><p>The Stoics taught that man is adapted by his nature for action. He ought not therefore to withdraw from human affairs, and indulge in a lazy life, not even a life of contemplation and religious observances only. Upton refers to Antoninus, v. 1, viii. 19, and Cicero, De Fin. V. 20.</p><a class="note-back" href="#noteref-3" aria-label="back to the text">&#8617;</a></li>
+<li class="note" id="note-4" role="doc-endnote"><p>Schweighaeuser proposes a small alteration in the Greek text, but I do not think it necessary. When Epictetus says, <q>Why are we not active?</q> He means, Why do some say that we are not active? And he intends to say that We are active, but not in the way in which some people are active. I have therefore added in ( ) what is necessary to make the text intelligible.</p><a class="note-back" href="#noteref-4" aria-label="back to the text">&#8617;</a></li>
+<li class="note" id="note-5" role="doc-endnote"><p>This passage is rather obscure. The word <span class="foreign" lang="grc">ἐπαναγνῶναι</span> signifies, it is said, to read over for the purpose of explaining as a teacher may do. The pupil also would read something to the teacher for the purpose of showing if he understood it. So Epictetus also says, <q>But what is it to me,</q> etc.</p><a class="note-back" href="#noteref-5" aria-label="back to the text">&#8617;</a></li>
+<li class="note" id="note-6" role="doc-endnote"><p>A plain allusion to restraints put on the exportation of grain.</p><a class="note-back" href="#noteref-6" aria-label="back to the text">&#8617;</a></li>
+</ol>
+</section>
+
+<nav class="chapter-nav chapter-nav-bottom"><a href="1-09.html">Previous discourse</a><a class="chapter-home" href="../index.html">Home</a><a href="1-11.html">Next discourse</a></nav>

@@ -1,0 +1,50 @@
+---
+title: "Διατριβὴ Γʹ.κʹ — ὅτι ἀπὸ πάντων τῶν ἐκτὸς ἔστιν ὠφελεῖσθαι"
+lang: grc
+pagetitle: "Διατριβὴ Γʹ.κʹ — ὅτι ἀπὸ πάντων τῶν ἐκτὸς ἔστιν ὠφελεῖσθαι — Ἐπικτήτου Διατριβαί"
+title-prefix: ""
+description-meta: "Διατριβὴ Γʹ.κʹ· «ὅτι ἀπὸ πάντων τῶν ἐκτὸς ἔστιν ὠφελεῖσθαι». Ἀρριανοῦ τῶν Ἐπικτήτου Διατριβῶν, τὸ ἑλληνικὸν κείμενον."
+sidebar: grc
+---
+
+<!--
+FILE GENERATO. NON MODIFICARE A MANO.
+
+Modificare invece:
+- translation/it/**.md      per il testo e i titoli italiani
+- data/intro.json           per le note introduttive delle home page
+- tools/site_config.py      per lingue, testi dell'interfaccia, URL
+- styles.css                per l'aspetto grafico
+
+Poi eseguire:
+    run.bat
+-->
+
+
+<div class="diatribe-meta">Βιβλίον Γʹ · 19 τμήματα · <span class="canonical" title="Παραπομπή">III 20</span></div>
+
+<nav class="chapter-nav"><a href="3-19.html">ἡ προτέρα διατριβή</a><a class="chapter-home" href="../index.html">Ἀρχή</a><a href="3-21.html">ἡ ἑπομένη διατριβή</a></nav>
+
+<div class="section-list">
+<article class="section" id="s-1"><a class="ref" href="#s-1">1</a><div class="section-text" lang="grc">ἐπὶ τῶν θεωρητικῶν φαντασιῶν πάντες σχεδὸν τὸ ἀγαθὸν καὶ τὸ κακὸν ἐν ἡμῖν ἀπέλιπον, οὐχὶ δʼ ἐν τοῖς ἐκτός.</div></article>
+<article class="section" id="s-2"><a class="ref" href="#s-2">2</a><div class="section-text" lang="grc">οὐδεὶς λέγει ἀγαθὸν τὸ ἡμέραν εἶναι, κακὸν τὸ νύκτα εἶναι, μέγιστον δὲ κακῶν τὸ τρία τέσσαρα εἶναι. ἀλλὰ τί;</div></article>
+<article class="section" id="s-3"><a class="ref" href="#s-3">3</a><div class="section-text" lang="grc">τὴν μὲν ἐπιστήμην ἀγαθόν, τὴν δʼ ἀπάτην κακόν, ὥστε καὶ περὶ αὐτὸ τὸ ψεῦδος ἀγαθὸν συνίστασθαι, τὴν ἐπιστήμην τοῦ ψεῦδος εἶναι αὐτό.</div></article>
+<article class="section" id="s-4"><a class="ref" href="#s-4">4</a><div class="section-text" lang="grc">ἔδει οὖν οὕτως καὶ ἐπὶ τοῦ βίου. ὑγεία ἀγαθόν, νόσος δὲ κακόν; οὔ, ἄνθρωπε. ἀλλὰ τί; τὸ καλῶς ὑγιαίνειν ἀγαθόν, τὸ κακῶς κακόν. — ὥστε καὶ ἀπὸ νόσου ἔστιν ὠφεληθῆναι; — τὸν θεόν σοι, ἀπὸ θανάτου γὰρ οὐκ ἔστιν; ἀπὸ π<span class="ed-del">[λ]</span>ηρώσεως γὰρ οὐκ ἔστιν,</div></article>
+<article class="section" id="s-5"><a class="ref" href="#s-5">5</a><div class="section-text" lang="grc">μικρά σοι δοκεῖ ὁ Μενοικεὺς ὠφεληθῆναι, ὅτʼ ἀπέθνῃσκεν; — τοιαῦτά τις εἰπὼν ὠφεληθείη <span class="ed-del">[ἢ]</span> οἷα ἐκεῖνος ὠφελήθη. — ἔα, ἄνθρωπε, οὐκ ἐτήρησεν τὸν φιλόπατριν, τὸν μεγαλόφρονα, τὸν πιστόν, τὸν γενναῖον; ἐπιζήσας δὲ οὐκ ἀπώλλυεν ταῦτα πάντα;</div></article>
+<article class="section" id="s-6"><a class="ref" href="#s-6">6</a><div class="section-text" lang="grc">οὐ περιεποιεῖτο τὰ ἐναντία; τὸν δειλὸν οὐκ ἀνελάμβανεν, τὸν ἀγεννῆ, τὸν μισόπατριν, τὸν φιλόψυχον; ἄγε δοκεῖ σοι μικρὰ ὠφεληθῆναι ἀποθανών;</div></article>
+<article class="section" id="s-7"><a class="ref" href="#s-7">7</a><div class="section-text" lang="grc">οὔ· ἀλλʼ ὁ τοῦ Ἀδμήτου πατὴρ μεγάλα ὠφελήθη ζήσας οὕτως ἀγεννῶς καὶ ἀθλίως;</div></article>
+<article class="section" id="s-8"><a class="ref" href="#s-8">8</a><div class="section-text" lang="grc">ὕστερον γὰρ οὐκ ἀπέθανεν; παύσασθε, τοὺς θεοὺς ὑμῖν, τὰς ὕλας θαυμάζοντες, παύσασθʼ ἑαυτοὺς δούλους ποιοῦντες πρῶτον τῶν πραγμάτων, εἶτα διʼ αὐτὰ καὶ τῶν ἀνθρώπων τῶν ταῦτα περιποιεῖν ἢ ἀφαιρεῖσθαι δυναμένων.</div></article>
+<article class="section" id="s-9"><a class="ref" href="#s-9">9</a><div class="section-text" lang="grc">ἔστιν οὖν ἀπὸ τούτων ὠφεληθῆναι;— ἀπὸ πάντων. — καὶ ἀπὸ τοῦ λοιδοροῦντος; — τί δʼ ὠφελεῖ τὸν ἀθλητὴν ὁ προσγυμναζόμενος; τὰ μέγιστα. καὶ οὗτος ἐμοῦ προγυμναστὴς γίνεται· τὸ ἀνεκτικόν μου γυμνάζει, τὸ ἀόργητον, τὸ πρᾷον.</div></article>
+<article class="section" id="s-10"><a class="ref" href="#s-10">10</a><div class="section-text" lang="grc">οὔ· ἀλλʼ ὁ μὲν τοῦ τραχήλου καθάπτων καὶ τὴν ὀσφῦν μου καὶ τοὺς ὤμους καταρτίζων ὠφελεῖ με καὶ ὁ ἀλείπτης καλῶς ποιῶν λέγει <q>ἆρον ὕπερον ἀμφοτέραις</q> καὶ ὅσῳ βαρύτερός ἐστιν ἐκεῖνος, τοσούτῳ μᾶλλον ὠφελοῦμαι ἐγώ· εἰ δέ τις πρὸς ἀοργησίαν με γυμνάζει, οὐκ ὠφελεῖ με;</div></article>
+<article class="section" id="s-11"><a class="ref" href="#s-11">11</a><div class="section-text" lang="grc">τοῦτʼ ἔστι τὸ μὴ εἰδέναι ἀπʼ ἀνθρώπων ὠφελεῖσθαι. κακὸς γείτων; αὑτῷ· ἀλλʼ ἐμοὶ ἀγαθός· γυμνάζει μου τὸ εὔγνωμον, τὸ ἐπιεικές.</div></article>
+<article class="section" id="s-12"><a class="ref" href="#s-12">12</a><div class="section-text" lang="grc">κακὸς πατήρ; αὑτῷ· ἀλλʼ ἐμοὶ ἀγαθός. τοῦτʼ ἔστι τὸ τοῦ Ἑρμοῦ ῥαβδίον· <q>οὗ θέλεις,</q> φησίν, <q>ἅψαι καὶ χρυσοῦν ἔσται.</q> οὔ· ἀλλʼ ὃ θέλεις φέρε κἀγὼ αὐτὸ ἀγαθὸν ποιήσω. φέρε νόσον, φέρε θάνατον, φέρε ἀπορίαν, φέρε λοιδορίαν, δίκην τὴν περὶ τῶν ἐσχάτων· πάντα ταῦτα τῷ ῥαβδίῳ τοῦ Ἑρμοῦ ὠφέλιμα ἔσται.</div></article>
+<article class="section" id="s-13"><a class="ref" href="#s-13">13</a><div class="section-text" lang="grc"><q>τὸν θάνατον τί ποιήσεις;</q> τί γὰρ ἄλλο ἢ ἵνα σε κοσμήσῃ ἢ ἵνα δείξῃς<span class="ed-del">[ε]</span> ἔργῳ διʼ αὐτοῦ, τί ἐστιν ἄνθρωπος τῷ βουλήματι τῆς φύσεως παρακολουθῶν;</div></article>
+<article class="section" id="s-14"><a class="ref" href="#s-14">14</a><div class="section-text" lang="grc"><q>τὴν νόσον τί ποιήσεις;</q> δείξω αὐτῆς τὴν φύσιν, διαπρέψω ἐν αὐτῇ, εὐσταθήσω, εὐροήσω, τὸν ἰατρὸν οὐ κολακεύσω, οὐκ εὔξομαι ἀποθανεῖν.</div></article>
+<article class="section" id="s-15"><a class="ref" href="#s-15">15</a><div class="section-text" lang="grc">τί ἔτι ἄλλο ζητεῖς; πᾶν ὃ ἂν δῷς, ἐγὼ αὐτὸ ποιήσω μακάριον, εὐδαιμονικόν, σεμνόν, ζηλωτόν.</div></article>
+<article class="section" id="s-16"><a class="ref" href="#s-16">16</a><div class="section-text" lang="grc">οὔ· ἀλλὰ <q>βλέπε μὴ νοσήσῃς· κακόν ἐστιν.</q> οἷον εἴ τις ἔλεγεν <q>βλέπε μὴ λάβῃς ποτὲ φαντασίαν τοῦ τὰ τρία τέσσαρα εἶναι· κακόν ἐστιν.</q> ἄνθρωπε, πῶς κακόν; ἂν ὃ δεῖ περὶ αὐτοῦ ὑπολάβω, πῶς ἔτι με βλάψει; οὐχὶ δὲ μᾶλλον καὶ ὠφελήσει;</div></article>
+<article class="section" id="s-17"><a class="ref" href="#s-17">17</a><div class="section-text" lang="grc">ἂν οὖν περὶ πενίας ὃ δεῖ ὑπολάβω, ἂν περὶ νόσου, ἂν περὶ ἀναρχίας, οὐκ ἀρκεῖ μοι; οὐκ ὠφέλιμα ἔσται; πῶς οὖν ἔτι ἐν τοῖς ἐκτὸς τὰ κακὰ καὶ τἀγαθὰ δεῖ με ζητεῖν;</div></article>
+<article class="section" id="s-18"><a class="ref" href="#s-18">18</a><div class="section-text" lang="grc">ἀλλὰ τί; ταῦτα μέχρι ὧδε, εἰς οἶκον δʼ οὐδεὶς ἀποφέρει· ἀλλʼ εὐθὺς πρὸς τὸ παιδάριον πόλεμος, πρὸς τοὺς γείτονας, πρὸς τοὺς σκώψαντας, πρὸς τοὺς καταγελάσαντας.</div></article>
+<article class="section" id="s-19"><a class="ref" href="#s-19">19</a><div class="section-text" lang="grc">καλῶς γένοιτο Λεσβίῳ, ὅτι με καθʼ ἡμέραν ἐξελέγχει μηδὲν εἰδότα.</div></article>
+</div>
+
+<nav class="chapter-nav chapter-nav-bottom"><a href="3-19.html">ἡ προτέρα διατριβή</a><a class="chapter-home" href="../index.html">Ἀρχή</a><a href="3-21.html">ἡ ἑπομένη διατριβή</a></nav>

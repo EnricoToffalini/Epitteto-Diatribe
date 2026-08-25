@@ -1,0 +1,65 @@
+---
+title: "Diatriba I.9 — Come procedere dalla nostra parentela con Dio alle conseguenze"
+lang: it
+pagetitle: "Diatriba I.9 — Come procedere dalla nostra parentela con Dio alle conseguenze — Epitteto, Diatribe"
+title-prefix: ""
+description-meta: "Diatriba I.9: «Come procedere dalla nostra parentela con Dio alle conseguenze». Le Diatribe di Epitteto raccolte da Arriano, in traduzione italiana."
+sidebar: it
+---
+
+<!--
+FILE GENERATO. NON MODIFICARE A MANO.
+
+Modificare invece:
+- translation/it/**.md      per il testo e i titoli italiani
+- data/intro.json           per le note introduttive delle home page
+- tools/site_config.py      per lingue, testi dell'interfaccia, URL
+- styles.css                per l'aspetto grafico
+
+Poi eseguire:
+    run.bat
+-->
+
+
+<div class="diatribe-meta">Libro I · 34 sezioni · <span class="canonical" title="Riferimento canonico">I 9</span></div>
+
+<nav class="chapter-nav"><a href="1-08.html">Diatriba precedente</a><a class="chapter-home" href="../index.html">Home</a><a href="1-10.html">Diatriba successiva</a></nav>
+
+<div class="section-list">
+<article class="section" id="s-1"><a class="ref" href="#s-1">1</a><div class="section-text">Se sono vere le cose che i filosofi dicono sulla parentela tra Dio e gli uomini, che altro resta agli uomini se non fare come Socrate: non rispondere mai, a chi domanda di quale paese siamo, «ateniese» o «corinzio», ma «cittadino del mondo»?</div></article>
+<article class="section" id="s-2"><a class="ref" href="#s-2">2</a><div class="section-text">Perché infatti dici di essere ateniese e non soltanto di provenire da quell’angolo in cui, alla nascita, è stato gettato il tuo corpicino?</div></article>
+<article class="section" id="s-3"><a class="ref" href="#s-3">3</a><div class="section-text">Non è forse chiaro che ti chiami ateniese o corinzio a partire da ciò che è più autorevole e comprende non soltanto quell’angolo, ma anche tutta la tua casa e, in generale, il luogo da cui la stirpe dei tuoi antenati è giunta fino a te?</div></article>
+<article class="section" id="s-4"><a class="ref" href="#s-4">4</a><div class="section-text">Chi dunque ha compreso l’ordine del mondo e ha imparato che la comunità più grande, più autorevole e più comprensiva di tutte è quella formata dagli uomini e da Dio, e che da lui sono discesi i semi non soltanto in mio padre o in mio nonno, ma in tutto ciò che nasce e cresce sulla terra, e soprattutto negli esseri razionali,</div></article>
+<article class="section" id="s-5"><a class="ref" href="#s-5">5</a><div class="section-text">poiché soltanto questi sono per natura capaci di comunione con Dio, essendogli congiunti nella convivenza attraverso la ragione,</div></article>
+<article class="section" id="s-6"><a class="ref" href="#s-6">6</a><div class="section-text">perché non dovrebbe chiamarsi cittadino del mondo? Perché non figlio di Dio? E perché dovrebbe temere qualcosa di ciò che accade tra gli uomini?</div></article>
+<article class="section" id="s-7"><a class="ref" href="#s-7">7</a><div class="section-text">Se la parentela con Cesare o con qualche altro potente di Roma basta a farci vivere sicuri, al riparo dal disprezzo e senza timore di nulla, avere Dio come creatore, padre e custode non ci libererà forse dai dolori e dalle paure?</div></article>
+<article class="section" id="s-8"><a class="ref" href="#s-8">8</a><div class="section-text">— «E da dove mangerò», dice, «se non possiedo nulla?» — E gli schiavi, e i fuggiaschi? Su che cosa fanno affidamento quando lasciano i padroni? Sui campi? Sugli schiavi? Sull’argenteria? Su nulla, se non su se stessi; e tuttavia il cibo non viene loro meno.</div></article>
+<article class="section" id="s-9"><a class="ref" href="#s-9">9</a><div class="section-text">E il nostro filosofo dovrà invece viaggiare confidando negli altri e appoggiandosi a loro, senza prendersi cura di se stesso, ed essere peggiore e più vile degli animali irrazionali, ciascuno dei quali basta a se stesso e non manca né del cibo che gli è proprio né di un modo di vivere adatto e conforme alla natura?</div></article>
+<article class="section" id="s-10"><a class="ref" href="#s-10">10</a><div class="section-text">Io credo invece che il vecchio dovrebbe starsene qui non per escogitare il modo in cui voi non abbiate pensieri meschini né facciate su voi stessi ragionamenti bassi e ignobili,</div></article>
+<article class="section" id="s-11"><a class="ref" href="#s-11">11</a><div class="section-text">ma per evitare che sorgano giovani tali che, riconosciuta la loro parentela con gli dèi e compreso che questi legami cui siamo attaccati — il corpo, i suoi beni e tutto ciò che per causa loro ci è necessario per l’amministrazione e la vita quotidiana — siano pesi dolorosi e inutili, vogliano gettarli via e andarsene dai loro parenti.</div></article>
+<article class="section" id="s-12"><a class="ref" href="#s-12">12</a><div class="section-text">Questa sarebbe la lotta che dovrebbe sostenere il vostro maestro ed educatore, se davvero ne aveste uno: voi dovreste venire da lui dicendo: «Epitteto, non sopportiamo più di essere legati a questo corpicino, di nutrirlo, abbeverarlo, farlo riposare e pulirlo, e poi, a causa sua, compiacere questo e quello.</div></article>
+<article class="section" id="s-13"><a class="ref" href="#s-13">13</a><div class="section-text">Non sono forse indifferenti queste cose e non hanno nulla a che fare con noi? E la morte non è forse un male? E non siamo in qualche modo parenti di Dio e venuti da lui?</div></article>
+<article class="section" id="s-14"><a class="ref" href="#s-14">14</a><div class="section-text">Lasciaci andare là da dove siamo venuti; lasciaci finalmente liberarci da questi legami che ci tengono appesi e ci appesantiscono.</div></article>
+<article class="section" id="s-15"><a class="ref" href="#s-15">15</a><div class="section-text">Qui ci sono briganti, ladri, tribunali e quelli che si chiamano tiranni, convinti di avere qualche potere su di noi attraverso il corpicino e i suoi beni. Lasciaci mostrare loro che non hanno potere su nessuno.»</div></article>
+<article class="section" id="s-16"><a class="ref" href="#s-16">16</a><div class="section-text">E io, da parte mia, direi: «Uomini, aspettate Dio. Quando egli darà il segnale e vi congederà da questo servizio, allora andate da lui; per ora sopportate di abitare in questo luogo nel quale egli vi ha assegnati.</div></article>
+<article class="section" id="s-17"><a class="ref" href="#s-17">17</a><div class="section-text">Breve è davvero il tempo di questa dimora, e facile da sopportare per chi è disposto così. Quale tiranno, quale ladro, quali tribunali sono ancora temibili per chi ha ridotto a nulla il corpo e i suoi beni? Restate, non andatevene senza ragione.»</div></article>
+<article class="section" id="s-18"><a class="ref" href="#s-18">18</a><div class="section-text">Qualcosa del genere dovrebbe venire dall’educatore rivolto ai giovani di buona natura.</div></article>
+<article class="section" id="s-19"><a class="ref" href="#s-19">19</a><div class="section-text">Ma ora che cosa accade? Morto è l’educatore, morti siete voi. Quando oggi vi siete saziati, ve ne state seduti a piangere per il domani: da dove mangerete?</div></article>
+<article class="section" id="s-20"><a class="ref" href="#s-20">20</a><div class="section-text">Schiavo, se avrai, avrai; se non avrai, te ne andrai. La porta è aperta. Perché piangi? Dove c’è ancora posto per le lacrime? Quale occasione resta per l’adulazione? Perché uno dovrebbe invidiare un altro? Perché dovrebbe ammirare chi possiede molto o chi detiene il potere, soprattutto se è anche forte e iracondo?</div></article>
+<article class="section" id="s-21"><a class="ref" href="#s-21">21</a><div class="section-text">Che cosa infatti potranno farci? Di ciò che possono fare non ci importerà; ciò che ci importa, non possono farlo. Chi potrà dunque dominare un uomo disposto così?</div></article>
+<article class="section" id="s-22"><a class="ref" href="#s-22">22</a><div class="section-text">Come si comportava Socrate rispetto a queste cose? Come avrebbe potuto altrimenti, se non come si addice a chi è convinto di essere parente degli dèi?</div></article>
+<article class="section" id="s-23"><a class="ref" href="#s-23">23</a><div class="section-text">«Se ora mi diceste», dice, «che mi lasciate libero a condizione che non tenga più quei discorsi che finora ho tenuto e non importuni più né i giovani né i vecchi,</div></article>
+<article class="section" id="s-24"><a class="ref" href="#s-24">24</a><div class="section-text">vi risponderei che siete ridicoli: pretendete che, se il vostro generale mi avesse assegnato un posto, io dovessi mantenerlo e custodirlo e scegliere di morire diecimila volte piuttosto che abbandonarlo; ma se Dio ci ha assegnati a un certo luogo e modo di vivere, allora dovremmo abbandonarli.»</div></article>
+<article class="section" id="s-25"><a class="ref" href="#s-25">25</a><div class="section-text">Questo è un uomo veramente parente degli dèi.</div></article>
+<article class="section" id="s-26"><a class="ref" href="#s-26">26</a><div class="section-text">Noi invece pensiamo a noi stessi come se fossimo ventri, intestini e organi genitali: per questo temiamo, desideriamo; aduliamo quelli che possono aiutarci in queste cose e temiamo gli stessi.</div></article>
+<article class="section" id="s-27"><a class="ref" href="#s-27">27</a><div class="section-text">Un uomo mi chiese di scrivere a Roma in suo favore, perché ai più sembrava sfortunato: prima era stato illustre e ricco, poi aveva perduto tutto e viveva qui.</div></article>
+<article class="section" id="s-28"><a class="ref" href="#s-28">28</a><div class="section-text">Io scrissi per lui con tono umile. Ma, letta la lettera, me la restituì e disse: «Volevo ricevere da te un aiuto, non essere compatito; non mi è accaduto alcun male.»</div></article>
+<article class="section" id="s-29"><a class="ref" href="#s-29">29</a><div class="section-text">Così anche Rufo, per mettermi alla prova, era solito dirmi: «Ti accadrà questo e quest’altro per colpa del padrone.»</div></article>
+<article class="section" id="s-30"><a class="ref" href="#s-30">30</a><div class="section-text">E quando io gli rispondevo: «Sono cose umane», replicava: «Perché allora dovrei ancora pregarlo, se posso riceverle da te?»</div></article>
+<article class="section" id="s-31"><a class="ref" href="#s-31">31</a><div class="section-text">Infatti, ciò che uno possiede da se stesso, è superfluo e vano riceverlo da un altro.</div></article>
+<article class="section" id="s-32"><a class="ref" href="#s-32">32</a><div class="section-text">Io dunque, potendo ricavare da me stesso grandezza d’animo e nobiltà, dovrei ricevere da te un campo, denaro o qualche carica? Niente affatto. Non sarò tanto insensibile ai miei veri beni.</div></article>
+<article class="section" id="s-33"><a class="ref" href="#s-33">33</a><div class="section-text">Ma quando uno è vile e meschino, che altro si può fare per lui se non scrivere lettere come per un morto: «Concedici il cadavere del tale e un sestario di povero sangue»?</div></article>
+<article class="section" id="s-34"><a class="ref" href="#s-34">34</a><div class="section-text">Perché, in verità, uno così è un cadavere e un sestario di sangue, e nulla di più. Se fosse qualcosa di più, capirebbe che nessuno è infelice per causa di un altro.</div></article>
+</div>
+
+<nav class="chapter-nav chapter-nav-bottom"><a href="1-08.html">Diatriba precedente</a><a class="chapter-home" href="../index.html">Home</a><a href="1-10.html">Diatriba successiva</a></nav>

@@ -1,0 +1,57 @@
+---
+title: "Diatriba II.13 — Sull’ansia"
+lang: it
+pagetitle: "Diatriba II.13 — Sull’ansia — Epitteto, Diatribe"
+title-prefix: ""
+description-meta: "Diatriba II.13: «Sull’ansia». Le Diatribe di Epitteto raccolte da Arriano, in traduzione italiana."
+sidebar: it
+---
+
+<!--
+FILE GENERATO. NON MODIFICARE A MANO.
+
+Modificare invece:
+- translation/it/**.md      per il testo e i titoli italiani
+- data/intro.json           per le note introduttive delle home page
+- tools/site_config.py      per lingue, testi dell'interfaccia, URL
+- styles.css                per l'aspetto grafico
+
+Poi eseguire:
+    run.bat
+-->
+
+
+<div class="diatribe-meta">Libro II · 26 sezioni · <span class="canonical" title="Riferimento canonico">II 13</span></div>
+
+<nav class="chapter-nav"><a href="2-12.html">Diatriba precedente</a><a class="chapter-home" href="../index.html">Home</a><a href="2-14.html">Diatriba successiva</a></nav>
+
+<div class="section-list">
+<article class="section" id="s-1"><a class="ref" href="#s-1">1</a><div class="section-text">Quando vedo un uomo in ansia, dico: «Che cosa vuole costui? Se non volesse qualcosa che non dipende da lui, come potrebbe essere ancora in ansia?»</div></article>
+<article class="section" id="s-2"><a class="ref" href="#s-2">2</a><div class="section-text">Per questo anche il cantore con la cetra, quando canta da solo, non è in ansia; ma lo è quando entra in teatro, anche se ha una voce eccellente e suona bene la cetra. Non vuole infatti soltanto cantare bene, ma anche ottenere approvazione, e questo non dipende più da lui.</div></article>
+<article class="section" id="s-3"><a class="ref" href="#s-3">3</a><div class="section-text">Dove possiede la competenza, dunque, lì ha fiducia: mettigli davanti un profano qualsiasi e non se ne cura. Dove invece non sa e non si è esercitato, lì è in ansia.</div></article>
+<article class="section" id="s-4"><a class="ref" href="#s-4">4</a><div class="section-text">E che cos’è questo? Non sa che cosa sia una folla né che cosa sia la lode della folla. Ha imparato a toccare la corda più acuta e quella più grave; ma che cosa sia la lode della gente e quale forza abbia nella vita, non lo sa né si è esercitato a comprenderlo.</div></article>
+<article class="section" id="s-5"><a class="ref" href="#s-5">5</a><div class="section-text">Di conseguenza deve tremare e impallidire. Quando vedo qualcuno spaventato, dunque, non posso dire che non sia un cantore con la cetra; ma posso dire altre cose di lui, e non una sola, bensì molte.</div></article>
+<article class="section" id="s-6"><a class="ref" href="#s-6">6</a><div class="section-text">E anzitutto lo chiamo straniero e dico: «Quest’uomo non sa in quale parte della terra si trovi; pur soggiornandovi da tanto tempo, ignora le leggi della città, le consuetudini, che cosa sia consentito e che cosa no. E non si è mai procurato neppure un giurista che gli dicesse e gli spiegasse le leggi».</div></article>
+<article class="section" id="s-7"><a class="ref" href="#s-7">7</a><div class="section-text">Eppure non scrive un testamento senza sapere come vada scritto o senza rivolgersi a chi lo sa, né appone il sigillo a una fideiussione né redige un atto di garanzia senza criterio; ma usa il desiderio senza un giurista, e così l’avversione, l’impulso, il proposito e l’intenzione.</div></article>
+<article class="section" id="s-8"><a class="ref" href="#s-8">8</a><div class="section-text">Come, senza un giurista? Non sa che vuole ciò che non gli è concesso e non vuole ciò che è necessario; non sa né che cosa sia suo né che cosa appartenga ad altri. Se lo sapesse, non sarebbe mai ostacolato, mai impedito, non sarebbe in ansia.</div></article>
+<article class="section" id="s-9"><a class="ref" href="#s-9">9</a><div class="section-text">E come potrebbe? Si ha forse paura per cose che non sono mali? — No. — E per mali che dipende da noi impedire che accadano?</div></article>
+<article class="section" id="s-10"><a class="ref" href="#s-10">10</a><div class="section-text">— Nient’affatto. — Se dunque le cose estranee alla scelta morale non sono né beni né mali, mentre tutto ciò che dipende dalla scelta morale è in nostro potere e nessuno può sottrarcele né imporci, tra esse, ciò che non vogliamo, dove resta ancora posto per l’ansia?</div></article>
+<article class="section" id="s-11"><a class="ref" href="#s-11">11</a><div class="section-text">Eppure siamo in ansia per il corpicino, per il piccolo patrimonio, per ciò che penserà Cesare, e per nulla di ciò che è dentro di noi. Forse per non formulare un giudizio falso? — No: dipende da me. — Forse per non muovermi contro natura? — Neppure per questo. —</div></article>
+<article class="section" id="s-12"><a class="ref" href="#s-12">12</a><div class="section-text">Quando dunque vedi qualcuno impallidire, come il medico dal colorito dice: «A costui è malata la milza, a quello il fegato», così anche tu di’: «A costui sono malati il desiderio e l’avversione; non stanno bene, sono infiammati».</div></article>
+<article class="section" id="s-13"><a class="ref" href="#s-13">13</a><div class="section-text">Nient’altro infatti fa cambiare colore, né provoca tremore, né battere di denti, né fa cedere le ginocchia e rannicchiarsi sui due piedi.</div></article>
+<article class="section" id="s-14"><a class="ref" href="#s-14">14</a><div class="section-text">Per questo Zenone, dovendo incontrare Antigono, non era in ansia: delle cose che Zenone ammirava, Antigono non aveva potere su nessuna, e delle cose su cui Antigono aveva potere Zenone non si curava.</div></article>
+<article class="section" id="s-15"><a class="ref" href="#s-15">15</a><div class="section-text">Antigono invece, dovendo incontrare Zenone, era in ansia, e a ragione: voleva piacergli, e questo era fuori dal suo potere. Zenone invece non voleva piacere ad Antigono, come nessun esperto vuole piacere a chi non conosce la sua arte.</div></article>
+<article class="section" id="s-16"><a class="ref" href="#s-16">16</a><div class="section-text">Io dovrei voler piacere a te? Per quale ragione? Conosci forse i criteri secondo cui un uomo giudica un altro uomo? Ti sei preoccupato di sapere che cosa sia un uomo buono e che cosa uno cattivo, e come si diventi l’uno o l’altro? Perché dunque tu stesso non sei buono?</div></article>
+<article class="section" id="s-17"><a class="ref" href="#s-17">17</a><div class="section-text">— Come, dice, non lo sono? — Perché nessun uomo buono si affligge o geme, nessuno si lamenta, nessuno impallidisce e trema né dice: «Come mi accoglierà? Come mi ascolterà?»</div></article>
+<article class="section" id="s-18"><a class="ref" href="#s-18">18</a><div class="section-text">Schiavo, come gli parrà. Che cosa t’importa delle cose altrui? Non è forse un errore suo accogliere male ciò che viene da te? — Certamente. — Ma può l’errore essere di uno e il male di un altro? — No. — Perché dunque sei in ansia per ciò che appartiene ad altri?</div></article>
+<article class="section" id="s-19"><a class="ref" href="#s-19">19</a><div class="section-text">— Sì, ma sono in ansia per come gli parlerò. — E non puoi forse parlargli come vuoi? — Ma temo di confondermi.</div></article>
+<article class="section" id="s-20"><a class="ref" href="#s-20">20</a><div class="section-text">— Se devi scrivere il nome di Dione, temi forse di confonderti? — Nient’affatto. — Perché? Non perché ti sei esercitato a scrivere? — Certamente. — E se dovessi leggerlo, non ti sentiresti allo stesso modo? — Allo stesso modo. — Perché? Perché ogni arte dà forza e fiducia nelle cose che le appartengono.</div></article>
+<article class="section" id="s-21"><a class="ref" href="#s-21">21</a><div class="section-text">Dunque non ti sei esercitato a parlare? E che cos’altro facevi nella scuola? — Sillogismi e argomenti che mutano di significato. — A quale scopo? Non per discutere con competenza? E discutere con competenza non significa forse farlo al momento opportuno, con sicurezza e intelligenza, senza inciampare né essere ostacolati e, oltre a tutto questo, con fiducia? — Sì.</div></article>
+<article class="section" id="s-22"><a class="ref" href="#s-22">22</a><div class="section-text">— Dunque, da cavaliere sceso in campo contro un uomo a piedi, sei in ansia proprio là dove tu ti sei esercitato e lui no? — Sì, ma ha il potere di uccidermi.</div></article>
+<article class="section" id="s-23"><a class="ref" href="#s-23">23</a><div class="section-text">— Allora di’ la verità, disgraziato, e non vantarti, non pretendere di essere filosofo e non ignorare chi sono i tuoi padroni; finché offrirai questa presa attraverso il corpo, segui chiunque sia più forte di te.</div></article>
+<article class="section" id="s-24"><a class="ref" href="#s-24">24</a><div class="section-text">A parlare si era esercitato Socrate, lui che discuteva così con i tiranni, con i giudici e in prigione. A parlare si era esercitato Diogene, lui che parlava così con Alessandro, con Filippo, con i pirati e con colui che lo aveva comprato…</div></article>
+<article class="section" id="s-25"><a class="ref" href="#s-25">25</a><div class="section-text">Quelli avevano fiducia nelle cose in cui si erano esercitati. Tu invece va’ alle tue cose e non allontanartene mai: va’ a sederti in un angolo, intreccia sillogismi e proponili a un altro.</div></article>
+<article class="section" id="s-27"><a class="ref" href="#s-27">27</a><div class="section-text">Non c’è in te un uomo capace di guidare una città.</div></article>
+</div>
+
+<nav class="chapter-nav chapter-nav-bottom"><a href="2-12.html">Diatriba precedente</a><a class="chapter-home" href="../index.html">Home</a><a href="2-14.html">Diatriba successiva</a></nav>

@@ -1,0 +1,48 @@
+---
+title: "Diatriba III.12 — Sull'esercizio"
+lang: it
+pagetitle: "Diatriba III.12 — Sull'esercizio — Epitteto, Diatribe"
+title-prefix: ""
+description-meta: "Diatriba III.12: «Sull'esercizio». Le Diatribe di Epitteto raccolte da Arriano, in traduzione italiana."
+sidebar: it
+---
+
+<!--
+FILE GENERATO. NON MODIFICARE A MANO.
+
+Modificare invece:
+- translation/it/**.md      per il testo e i titoli italiani
+- data/intro.json           per le note introduttive delle home page
+- tools/site_config.py      per lingue, testi dell'interfaccia, URL
+- styles.css                per l'aspetto grafico
+
+Poi eseguire:
+    run.bat
+-->
+
+
+<div class="diatribe-meta">Libro III · 17 sezioni · <span class="canonical" title="Riferimento canonico">III 12</span></div>
+
+<nav class="chapter-nav"><a href="3-11.html">Diatriba precedente</a><a class="chapter-home" href="../index.html">Home</a><a href="3-13.html">Diatriba successiva</a></nav>
+
+<div class="section-list">
+<article class="section" id="s-1"><a class="ref" href="#s-1">1</a><div class="section-text">Gli esercizi non devono consistere in pratiche contrarie alla natura e stravaganti; altrimenti noi che diciamo di filosofare non differiremo in nulla dai saltimbanchi.</div></article>
+<article class="section" id="s-2"><a class="ref" href="#s-2">2</a><div class="section-text">È difficile infatti anche camminare su una fune, e non solo difficile, ma anche pericoloso. Per questo dovremmo forse esercitarci anche noi a camminare su una fune, a rizzare una palma o ad abbracciare statue?</div></article>
+<article class="section" id="s-3"><a class="ref" href="#s-3">3</a><div class="section-text">Nient’affatto. Non tutto ciò che è difficile e pericoloso è adatto all’esercizio, ma ciò che è appropriato allo scopo che ci proponiamo di raggiungere.</div></article>
+<article class="section" id="s-4"><a class="ref" href="#s-4">4</a><div class="section-text">E qual è lo scopo da raggiungere? Servirsi del desiderio e dell’avversione senza impedimenti. E che cosa significa? Non fallire ciò che si desidera e non incappare in ciò che si vuole evitare. A questo dunque deve tendere anche l’esercizio.</div></article>
+<article class="section" id="s-5"><a class="ref" href="#s-5">5</a><div class="section-text">Poiché infatti non è possibile avere un desiderio che non fallisca e un’avversione che non incappi in ciò che vuole evitare senza un esercizio grande e continuo, sappi che, se lasci che desiderio e avversione si rivolgano all’esterno, verso ciò che non dipende dalla scelta morale, non avrai né un desiderio che raggiunge il suo scopo né un’avversione che evita ciò che vuole evitare.</div></article>
+<article class="section" id="s-6"><a class="ref" href="#s-6">6</a><div class="section-text">E poiché l’abitudine ha una grande forza e noi siamo abituati a servirci del desiderio e dell’avversione soltanto verso queste cose, bisogna contrapporre a questa abitudine un’abitudine contraria e, là dove le rappresentazioni ci fanno scivolare di più, opporre l’esercizio.</div></article>
+<article class="section" id="s-7"><a class="ref" href="#s-7">7</a><div class="section-text">Ho una forte inclinazione al piacere: mi spingerò verso il contrario, anche oltre misura, per esercizio. Ho avversione per il dolore: eserciterò e allenerò le mie rappresentazioni contro di esso, per distogliere l’avversione da tutto ciò che è di questo genere.</div></article>
+<article class="section" id="s-8"><a class="ref" href="#s-8">8</a><div class="section-text">Chi è infatti colui che si esercita? Chi si allena a non servirsi del desiderio e a servirsi dell’avversione soltanto verso ciò che dipende dalla scelta morale, esercitandosi soprattutto nelle cose più difficili da dominare. Perciò ciascuno deve esercitarsi maggiormente contro cose diverse.</div></article>
+<article class="section" id="s-9"><a class="ref" href="#s-9">9</a><div class="section-text">Che c’entra dunque con questo rizzare una palma o portare in giro una tenda di pelle, un mortaio e un pestello?</div></article>
+<article class="section" id="s-10"><a class="ref" href="#s-10">10</a><div class="section-text">Uomo, se sei irascibile, esercitati a sopportare gli insulti e a non irritarti quando vieni disprezzato. Poi progredirai al punto che, anche se qualcuno ti colpisce, dirai a te stesso: «Immagina di aver abbracciato una statua».</div></article>
+<article class="section" id="s-11"><a class="ref" href="#s-11">11</a><div class="section-text">Poi impara anche a servirti bene del vinello, non bevendone molto — anche in questo infatti vi sono esercitanti molto abili — ma anzitutto a farne a meno; e a fare a meno di una ragazza e di un dolcetto. Poi, un giorno, per metterti alla prova, se mai sarà opportuno, ti esporrai tu stesso a queste cose, per sapere se le rappresentazioni ti dominano ancora allo stesso modo.</div></article>
+<article class="section" id="s-12"><a class="ref" href="#s-12">12</a><div class="section-text">Ma all’inizio fuggi lontano dalle cose più forti di te. È una lotta impari quella fra una bella ragazza e un giovane che comincia a filosofare: pentola e pietra, si dice, non vanno d’accordo.</div></article>
+<article class="section" id="s-13"><a class="ref" href="#s-13">13</a><div class="section-text">Dopo il desiderio e l’avversione, il secondo ambito riguarda l’impulso ad agire e il trattenersi dall’azione: perché siano obbedienti alla ragione, non fuori tempo, non fuori luogo, non in contrasto con qualche altra convenienza del genere.</div></article>
+<article class="section" id="s-14"><a class="ref" href="#s-14">14</a><div class="section-text">Il terzo riguarda gli assensi, di fronte a ciò che è persuasivo e attraente.</div></article>
+<article class="section" id="s-15"><a class="ref" href="#s-15">15</a><div class="section-text">Come infatti Socrate diceva che non bisogna vivere una vita senza esame, così non bisogna accogliere una rappresentazione senza esaminarla, ma dirle: «Aspetta, lascia che veda chi sei e da dove vieni», come le guardie notturne: «Mostrami la parola d’ordine». Hai il contrassegno dato dalla natura che deve possedere la rappresentazione che si può accogliere?</div></article>
+<article class="section" id="s-16"><a class="ref" href="#s-16">16</a><div class="section-text">Infine, tutte le pratiche che chi esercita il corpo gli impone, se in qualche modo tendono al desiderio e all’avversione, possono anch’esse servire all’esercizio; ma se mirano all’esibizione, sono proprie di chi è rivolto verso l’esterno, cerca qualcos’altro e vuole spettatori che dicano: «Che grande uomo!»</div></article>
+<article class="section" id="s-17"><a class="ref" href="#s-17">17</a><div class="section-text">Perciò Apollonio diceva bene che, quando vuoi esercitarti per te stesso, una volta, assetato per il caldo, prendi in bocca un sorso d’acqua fredda, sputalo e non dirlo a nessuno.</div></article>
+</div>
+
+<nav class="chapter-nav chapter-nav-bottom"><a href="3-11.html">Diatriba precedente</a><a class="chapter-home" href="../index.html">Home</a><a href="3-13.html">Diatriba successiva</a></nav>

@@ -1,0 +1,45 @@
+---
+title: "Diatriba III.14 — Alcune osservazioni sparse"
+lang: it
+pagetitle: "Diatriba III.14 — Alcune osservazioni sparse — Epitteto, Diatribe"
+title-prefix: ""
+description-meta: "Diatriba III.14: «Alcune osservazioni sparse». Le Diatribe di Epitteto raccolte da Arriano, in traduzione italiana."
+sidebar: it
+---
+
+<!--
+FILE GENERATO. NON MODIFICARE A MANO.
+
+Modificare invece:
+- translation/it/**.md      per il testo e i titoli italiani
+- data/intro.json           per le note introduttive delle home page
+- tools/site_config.py      per lingue, testi dell'interfaccia, URL
+- styles.css                per l'aspetto grafico
+
+Poi eseguire:
+    run.bat
+-->
+
+
+<div class="diatribe-meta">Libro III · 14 sezioni · <span class="canonical" title="Riferimento canonico">III 14</span></div>
+
+<nav class="chapter-nav"><a href="3-13.html">Diatriba precedente</a><a class="chapter-home" href="../index.html">Home</a><a href="3-15.html">Diatriba successiva</a></nav>
+
+<div class="section-list">
+<article class="section" id="s-1"><a class="ref" href="#s-1">1</a><div class="section-text">Come i cattivi attori tragici non sanno cantare da soli, ma soltanto insieme a molti altri, così alcuni non sanno neppure passeggiare da soli.</div></article>
+<article class="section" id="s-2"><a class="ref" href="#s-2">2</a><div class="section-text">Uomo, se sei qualcuno, passeggia anche da solo, parla con te stesso e non nasconderti nel coro.</div></article>
+<article class="section" id="s-3"><a class="ref" href="#s-3">3</a><div class="section-text">Fatti prendere in giro una volta tanto, guardati intorno, lasciati scuotere, così da conoscere chi sei.</div></article>
+<article class="section" id="s-4"><a class="ref" href="#s-4">4</a><div class="section-text">Quando uno beve acqua o fa qualche esercizio, coglie ogni occasione per dirlo a tutti.</div></article>
+<article class="section" id="s-5"><a class="ref" href="#s-5">5</a><div class="section-text">«Io bevo acqua.» Ma è forse per questo che bevi acqua, per il semplice fatto di bere acqua? Uomo, se bere ti giova, bevi; altrimenti ti comporti in modo ridicolo.</div></article>
+<article class="section" id="s-6"><a class="ref" href="#s-6">6</a><div class="section-text">E se ti giova e la bevi, taci davanti a quelli che trovano da ridire sugli altri. Che cosa dunque? Vuoi piacere proprio a costoro?</div></article>
+<article class="section" id="s-7"><a class="ref" href="#s-7">7</a><div class="section-text">Delle azioni, alcune si compiono come fini principali, altre secondo le circostanze, altre per una certa gestione delle cose, altre per adattamento agli altri, altre per opposizione.</div></article>
+<article class="section" id="s-8"><a class="ref" href="#s-8">8</a><div class="section-text">Bisogna eliminare dagli uomini queste due cose: la presunzione e la sfiducia. La presunzione consiste nel credere di non aver bisogno di nulla; la sfiducia nel ritenere impossibile vivere serenamente in mezzo a tante circostanze.</div></article>
+<article class="section" id="s-9"><a class="ref" href="#s-9">9</a><div class="section-text">La presunzione viene eliminata dalla confutazione, ed è questo che Socrate fa per prima cosa. Quanto poi al fatto che l’impresa non sia impossibile, esamina e cerca. Questa ricerca non ti farà alcun male;</div></article>
+<article class="section" id="s-10"><a class="ref" href="#s-10">10</a><div class="section-text">anzi, filosofare consiste pressappoco proprio in questo: cercare come sia possibile servirsi del desiderio e dell’avversione senza impedimenti.</div></article>
+<article class="section" id="s-11"><a class="ref" href="#s-11">11</a><div class="section-text">«Sono migliore di te: mio padre infatti è stato console.» Un altro dice: «Io sono stato tribuno, tu no.»</div></article>
+<article class="section" id="s-12"><a class="ref" href="#s-12">12</a><div class="section-text">Se fossimo cavalli, diresti forse: «Mio padre era più veloce», oppure: «Io ho molto orzo e molto fieno», o ancora: «Ho dei bei finimenti». Se mentre dici queste cose io ti rispondessi: «Sia pure: corriamo, allora»?</div></article>
+<article class="section" id="s-13"><a class="ref" href="#s-13">13</a><div class="section-text">E dunque, per un uomo, non esiste nulla di simile alla corsa per un cavallo, qualcosa da cui si possa riconoscere chi è peggiore e chi è migliore? Non saranno forse il rispetto di sé, la lealtà, la giustizia?</div></article>
+<article class="section" id="s-14"><a class="ref" href="#s-14">14</a><div class="section-text">Mostrati migliore in queste cose, perché tu sia migliore come uomo. Se mi dici: «Scalcio forte», anch’io ti dirò che vai fiero di un’opera da asino.</div></article>
+</div>
+
+<nav class="chapter-nav chapter-nav-bottom"><a href="3-13.html">Diatriba precedente</a><a class="chapter-home" href="../index.html">Home</a><a href="3-15.html">Diatriba successiva</a></nav>

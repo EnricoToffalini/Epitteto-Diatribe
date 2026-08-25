@@ -1,0 +1,58 @@
+---
+title: "Διατριβὴ Βʹ.ϛʹ — περὶ ἀδιαφορίας"
+lang: grc
+pagetitle: "Διατριβὴ Βʹ.ϛʹ — περὶ ἀδιαφορίας — Ἐπικτήτου Διατριβαί"
+title-prefix: ""
+description-meta: "Διατριβὴ Βʹ.ϛʹ· «περὶ ἀδιαφορίας». Ἀρριανοῦ τῶν Ἐπικτήτου Διατριβῶν, τὸ ἑλληνικὸν κείμενον."
+sidebar: grc
+---
+
+<!--
+FILE GENERATO. NON MODIFICARE A MANO.
+
+Modificare invece:
+- translation/it/**.md      per il testo e i titoli italiani
+- data/intro.json           per le note introduttive delle home page
+- tools/site_config.py      per lingue, testi dell'interfaccia, URL
+- styles.css                per l'aspetto grafico
+
+Poi eseguire:
+    run.bat
+-->
+
+
+<div class="diatribe-meta">Βιβλίον Βʹ · 27 τμήματα · <span class="canonical" title="Παραπομπή">II 6</span></div>
+
+<nav class="chapter-nav"><a href="2-05.html">ἡ προτέρα διατριβή</a><a class="chapter-home" href="../index.html">Ἀρχή</a><a href="2-07.html">ἡ ἑπομένη διατριβή</a></nav>
+
+<div class="section-list">
+<article class="section" id="s-1"><a class="ref" href="#s-1">1</a><div class="section-text" lang="grc">τὸ συνημμένον ἀδιάφορον· ἡ κρίσις ἡ περὶ αὐτοῦ οὐκ ἀδιάφορος, ἀλλʼ ἢ ἐπιστήμη ἢ δόξα ἢ ἀπάτη. οὕτως τὸ ζῆν ἀδιάφορον, ἡ χρῆσις οὐκ ἀδιάφορος.</div></article>
+<article class="section" id="s-2"><a class="ref" href="#s-2">2</a><div class="section-text" lang="grc">μή ποτʼ οὖν, ὅταν εἴπῃ τις ὑμῖν ἀδιαφορεῖν καὶ ταῦτα, ἀμελεῖς γίνεσθε, μήθʼ ὅταν εἰς ἐπιμέλειάν τις ὑμᾶς παρακαλῇ, ταπεινοὶ καὶ τᾶς ὕλας τεθαυμακότες.</div></article>
+<article class="section" id="s-3"><a class="ref" href="#s-3">3</a><div class="section-text" lang="grc">καλὸν δὲ καὶ τὸ εἰδέναι τὴν αὑτοῦ παρασκευὴν καὶ δύναμιν, ἵνʼ ἐν οἷς μὴ παρεσκεύασαι, ἡσυχίαν ἄγῃς μηδʼ ἀγανακτῇς, εἴ τινες ἄλλοι πλεῖόν σου ἔχουσιν ἐν ἐκείνοις.</div></article>
+<article class="section" id="s-4"><a class="ref" href="#s-4">4</a><div class="section-text" lang="grc">καὶ γὰρ σὺ ἐν συλλογισμοῖς πλεῖον ἀξιώσεις σεαυτὸν ἔχειν κἂν ἀγανακτῶσιν ἐπὶ τούτῳ, παραμυθήσῃ αὐτούς· <q>ἐγὼ ἔμαθον, ὑμεῖς δʼ οὔ.</q></div></article>
+<article class="section" id="s-5"><a class="ref" href="#s-5">5</a><div class="section-text" lang="grc">οὕτως καί, ὅπου τινὸς χρεία τριβῆς, μὴ ζήτει τὸ ἀπὸ τῆς χρείας περιγινόμενον, ἀλλʼ ἐκείνου μὲν παραχώρει τοῖς περιτετριμμένοις, σοὶ δʼ ἀρκείτω τὸ εὐσταθεῖν.</div></article>
+<article class="section" id="s-6"><a class="ref" href="#s-6">6</a><div class="section-text" lang="grc"><q>ἄπελθε καὶ ἄσπασαι τὸν δεῖνα.</q> <q>ἀσπάζομαι.</q> <q>πῶς;</q> <q>οὐ ταπεινῶς.</q> <q>ἀλλʼ ἐξεκλείσθης.</q> <q>διὰ θυρίδος γὰρ οὐκ ἔμαθον εἰσέρχεσθαι. ὅταν δὲ κεκλειμένην εὕρω τὴν θύραν, ἀνάγκη μʼ ἢ ἀποχωρῆσαι ἢ διὰ τῆς θυρίδος εἰσελθεῖν.</q></div></article>
+<article class="section" id="s-7"><a class="ref" href="#s-7">7</a><div class="section-text" lang="grc"><q>ἀλλὰ καὶ λάλησον αὐτῷ.</q> <q>λαλῶ.</q></div></article>
+<article class="section" id="s-8"><a class="ref" href="#s-8">8</a><div class="section-text" lang="grc"><q>τίνα τρόπον;</q> <q>οὐ ταπεινῶς.</q> <q>ἀλλʼ οὐκ ἐπέτυχες.</q> μὴ γὰρ σὸν τοῦτο τὸ ἔργον ἦν; ἀλλʼ ἐκείνου. τί οὖν ἀντιποιῇ τοῦ ἀλλοτρίου; ἀεὶ μεμνημένος ὅ τι σὸν καὶ τί ἀλλότριον <span class="ed-del">[καὶ]</span> οὐ ταραχθήσῃ.</div></article>
+<article class="section" id="s-9"><a class="ref" href="#s-9">9</a><div class="section-text" lang="grc">διὰ τοῦτο καλῶς ὁ Χρύσιππος λέγει ὅτι <q>μέχρις ἂν ἄδηλά μοι ᾖ τὰ ἑξῆς, ἀεὶ τῶν εὐφυεστέρων ἔχομαι πρὸς τὸ τυγχάνειν τῶν κατὰ φύσιν· αὐτὸς γάρ μʼ ὁ θεὸς ἐποίησεν τούτων ἐκλεκτικόν.</q></div></article>
+<article class="section" id="s-10"><a class="ref" href="#s-10">10</a><div class="section-text" lang="grc"><q> εἰ δέ γε ᾔδειν ὅτι νοσεῖν μοι καθείμαρται νῦν, καὶ ὥρμων ἂν ἐπʼ αὐτό· καὶ γὰρ ὁ πούς, εἰ φρένας εἶχεν, ὥρμα ἂν ἐπὶ τὸ πηλοῦσθαι.</q></div></article>
+<article class="section" id="s-11"><a class="ref" href="#s-11">11</a><div class="section-text" lang="grc">ἐπεί τοι τίνος ἕνεκα γίνονται στάχυες; οὐχ ἵνα καὶ ξηρανθῶσιν; ἀλλὰ ξηραίνονται μέν, οὐχ ἵνα δὲ καὶ θερισθῶσιν;</div></article>
+<article class="section" id="s-12"><a class="ref" href="#s-12">12</a><div class="section-text" lang="grc">οὐ γὰρ ἀπόλυτοι γίνονται. εἰ οὖν αἴσθησιν εἶχον, εὔχεσθαι αὐτοὺς ἔδει, ἵνα μὴ θερισθῶσιν μηδέποτε; τοῦτο δὲ κατάρα ἐστὶν ἐπὶ σταχύων τὸ μηδέποτε θερισθῆναι.</div></article>
+<article class="section" id="s-13"><a class="ref" href="#s-13">13</a><div class="section-text" lang="grc">οὕτως ἴστε ὅτι καὶ ἐπʼ ἀνθρώπων κατάρα ἐστὶ τὸ μὴ ἀποθανεῖν· ὅμοιον τῷ μὴ πεπανθῆναι, μὴ θερισθῆναι.</div></article>
+<article class="section" id="s-14"><a class="ref" href="#s-14">14</a><div class="section-text" lang="grc">ἡμεῖς δʼ ἐπειδὴ οἱ αὐτοί ἐσμεν, ἅμα μὲν οὓς δεῖ θερισθῆναι, ἅμα δὲ καὶ αὐτῷ τούτῳ παρακολουθοῦντες ὅτι θεριζόμεθα, διὰ τοῦτο ἀγανακτοῦμεν. οὔτε γὰρ ἴσμεν τίνες ἐσμὲν οὔτε μεμελετήκαμεν τὰ ἀνθρωπικὰ ὡς ἱππικοὶ τὰ ἱππικά.</div></article>
+<article class="section" id="s-15"><a class="ref" href="#s-15">15</a><div class="section-text" lang="grc">ἀλλὰ Χρυσάντας μὲν παίειν μέλλων τὸν πολέμιον, ἐπειδὴ τῆς σάλπιγγος ἤκουσεν ἀνακαλούσης, ἀνέσχεν· οὕτως προυργιαίτερον ἔδοξεν αὐτῷ τὸ τοῦ στρατηγοῦ πρόσταγμα ἢ τὸ ἴδιον ποιεῖν·</div></article>
+<article class="section" id="s-16"><a class="ref" href="#s-16">16</a><div class="section-text" lang="grc">ἡμῶν δʼ οὐδεὶς θέλει οὐδὲ τῆς ἀνάγκης καλούσης εὐλύτως ὑπακοῦσαι αὐτῇ, ἀλλὰ κλάοντες καὶ στένοντες πάσχομεν ἃ πάσχομεν καὶ περιστάσεις αὐτὰ καλοῦντες.</div></article>
+<article class="section" id="s-17"><a class="ref" href="#s-17">17</a><div class="section-text" lang="grc">ποίας περιστάσεις, ἄνθρωπε; εἰ περιστάσεις λέγεις τὰ περιεστηκότα, πάντα περιστάσεις εἰσίν· εἰ δʼ ὡς δύσκολα καλεῖς, ποίαν δυσκολίαν ἔχει τὸ γενόμενον φθαρῆναι;</div></article>
+<article class="section" id="s-18"><a class="ref" href="#s-18">18</a><div class="section-text" lang="grc">τὸ δὲ φθεῖρον ἢ μάχαιρά ἐστιν ἢ τροχὸς ἢ θάλασσα ἢ κεραμὶς ἢ τύραννος. τί σοι μέλει, ποίᾳ ὁδῷ καταβῇς εἰς Ἅιδου;</div></article>
+<article class="section" id="s-19"><a class="ref" href="#s-19">19</a><div class="section-text" lang="grc">ἴσαι πᾶσαί εἰσιν. εἰ δὲ θέλεις ἀκοῦσαι τἀληθῆ, συντομωτέρα ἣν πέμπει ὁ τύραννος. οὐδέποτʼ οὐδεὶς τύραννος ἓξ μησίν τινα ἔσφαξεν, πυρετὸς δὲ καὶ ἐνιαυτῷ πολλάκις. ψόφος ἐστὶ πάντα ταῦτα καὶ κόμπος κενῶν ὀνομάτων.</div></article>
+<article class="section" id="s-20"><a class="ref" href="#s-20">20</a><div class="section-text" lang="grc"><q>τῇ κεφαλῇ κινδυνεύω ἐπὶ Καίσαρος.</q> ἐγὼ δʼ οὐ κινδυνεύω, ὃς οἰκῶ ἐν Νικοπόλει, ὅπου σεισμοὶ τοσοῦτοι; σὺ δʼ αὐτὸς ὅταν διαπλέῃς τὸν Ἀδρίαν, τί κινδυνεύεις; οὐ τῇ κεφαλῇ;</div></article>
+<article class="section" id="s-21"><a class="ref" href="#s-21">21</a><div class="section-text" lang="grc"><q>ἀλλὰ καὶ τῇ ὑπολήψει κινδυνεύω.</q> τῇ σῇ; πῶς; τίς γάρ σε ἀναγκάσαι δύναται ὑπολαβεῖν τι ὧν οὐ θέλεις; ἀλλὰ τῇ ἀλλοτρίᾳ; καὶ ποῖός ἐστι κίνδυνος σὸς ἄλλους τὰ ψεύδη ὑπολαβεῖν;</div></article>
+<article class="section" id="s-22"><a class="ref" href="#s-22">22</a><div class="section-text" lang="grc"><q>ἀλλʼ ἐξορισθῆναι κινδυνεύω.</q> τί ἐστιν ἐξορισθῆναι; ἀλλαχοῦ εἶναι ἢ ἐν Ῥώμῃ; <q>ναί. τί οὖν; ἂν εἰς Γύαρα πεμφθῶ;</q> ἄν σοι ποιῇ, ἀπελεύσῃ· εἰ δὲ μή, ἔχεις ποῦ ἀντὶ Γυάρων ἀπέλθῃς, ὅπου κἀκεῖνος ἐλεύσεται, ἄν τε θέλῃ ἄν τε μή, ὁ πέμπων σε εἰς Γύαρα.</div></article>
+<article class="section" id="s-23"><a class="ref" href="#s-23">23</a><div class="section-text" lang="grc">τί λοιπὸν ὡς ἐπὶ μεγάλα ἀνέρχῃ; μικρότερά ἐστι τῆς παρασκευῆς, ἵνʼ εἴπῃ νέος εὐφυὴς ὅτι <q>οὐκ ἦν τοσούτου τοσούτων μὲν ἀκηκοέναι, τοσαῦτα δὲ γεγραφέναι, τοσούτῳ δὲ χρόνῳ παρακεκαθικέναι γεροντίῳ οὐ πολλοῦ ἀξίῳ.</q></div></article>
+<article class="section" id="s-24"><a class="ref" href="#s-24">24</a><div class="section-text" lang="grc">μόνον ἐκείνης τῆς διαιρέσεως μέμνησο, καθʼ ἣν διορίζεται τὰ σὰ καὶ οὐ τὰ σά. μή ποτʼ ἀντιποιήσῃ τινὸς τῶν ἀλλοτρίων.</div></article>
+<article class="section" id="s-25"><a class="ref" href="#s-25">25</a><div class="section-text" lang="grc">βῆμα καὶ φυλακὴ τόπος ἐστὶν ἑκάτερον, ὁ μὲν ὑψηλός, ὁ δὲ ταπεινός· ἡ προαίρεσις δʼ ἴση, ἂν ἴσην αὐτὴν ἐν ἑκατέρῳ φυλάξαι θέλῃς, δύναται φυλαχθῆναι.</div></article>
+<article class="section" id="s-26"><a class="ref" href="#s-26">26</a><div class="section-text" lang="grc">καὶ τότʼ ἐσόμεθα ζηλωταὶ Σωκράτους, ὅταν ἐν φυλακῇ δυνώμεθα παιᾶνας γράφειν.</div></article>
+<article class="section" id="s-27"><a class="ref" href="#s-27">27</a><div class="section-text" lang="grc">μέχρι δὲ νῦν ὡς ἔχομεν, ὅρα εἰ ἠνεσχόμεθʼ ἂν ἐν τῇ φυλακῇ ἄλλου τινὸς ἡμῖν λέγοντος <q>θέλεις ἀναγνῶ σοι παιᾶνας;</q> <q>τί μοι πράγματα παρέχεις; οὐκ οἶδας τὰ ἔχοντά με κακά; ἐν τούτοις γάρ μοι ἔστιν — </q> ἐν τίσιν οὖν; <q>ἀποθνῄσκειν μέλλω.</q> ἄνθρωποι δʼ ἄλλοι ἀθάνατοι ἔσονται;</div></article>
+</div>
+
+<nav class="chapter-nav chapter-nav-bottom"><a href="2-05.html">ἡ προτέρα διατριβή</a><a class="chapter-home" href="../index.html">Ἀρχή</a><a href="2-07.html">ἡ ἑπομένη διατριβή</a></nav>

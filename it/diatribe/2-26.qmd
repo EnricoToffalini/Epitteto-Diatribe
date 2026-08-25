@@ -1,0 +1,38 @@
+---
+title: "Diatriba II.26 — Che cosa è proprio dell’errore"
+lang: it
+pagetitle: "Diatriba II.26 — Che cosa è proprio dell’errore — Epitteto, Diatribe"
+title-prefix: ""
+description-meta: "Diatriba II.26: «Che cosa è proprio dell’errore». Le Diatribe di Epitteto raccolte da Arriano, in traduzione italiana."
+sidebar: it
+---
+
+<!--
+FILE GENERATO. NON MODIFICARE A MANO.
+
+Modificare invece:
+- translation/it/**.md      per il testo e i titoli italiani
+- data/intro.json           per le note introduttive delle home page
+- tools/site_config.py      per lingue, testi dell'interfaccia, URL
+- styles.css                per l'aspetto grafico
+
+Poi eseguire:
+    run.bat
+-->
+
+
+<div class="diatribe-meta">Libro II · 7 sezioni · <span class="canonical" title="Riferimento canonico">II 26</span></div>
+
+<nav class="chapter-nav"><a href="2-25.html">Diatriba precedente</a><a class="chapter-home" href="../index.html">Home</a><a href="3-01.html">Diatriba successiva</a></nav>
+
+<div class="section-list">
+<article class="section" id="s-1"><a class="ref" href="#s-1">1</a><div class="section-text">Ogni errore contiene una contraddizione. Infatti chi sbaglia non vuole sbagliare, ma agire rettamente; è chiaro dunque che non fa ciò che vuole.</div></article>
+<article class="section" id="s-2"><a class="ref" href="#s-2">2</a><div class="section-text">Che cosa vuole fare il ladro? Ciò che gli conviene. Dunque, se rubare non gli conviene, non fa ciò che vuole.</div></article>
+<article class="section" id="s-3"><a class="ref" href="#s-3">3</a><div class="section-text">Ogni anima razionale ha per natura avversione alla contraddizione; finché non si rende conto di essere in contraddizione, nulla le impedisce di fare cose contraddittorie. Ma una volta che se ne accorge, è necessariamente costretta ad allontanarsi dalla contraddizione e a fuggirla, proprio come chi si accorge che qualcosa è falso è necessariamente costretto a negargli l’assenso; finché però non gli appare falso, vi assente come se fosse vero.</div></article>
+<article class="section" id="s-4"><a class="ref" href="#s-4">4</a><div class="section-text">È dunque abile nel ragionamento, e insieme capace di esortare e confutare, chi sa mostrare a ciascuno la contraddizione per cui sbaglia e rendere chiaramente evidente come non faccia ciò che vuole e faccia invece ciò che non vuole.</div></article>
+<article class="section" id="s-5"><a class="ref" href="#s-5">5</a><div class="section-text">Se infatti qualcuno gli mostra questo, egli stesso si ritirerà da ciò che fa. Finché invece non glielo mostri, non meravigliarti se persiste: lo fa infatti perché ne ha la rappresentazione di un’azione retta.</div></article>
+<article class="section" id="s-6"><a class="ref" href="#s-6">6</a><div class="section-text">Per questo anche Socrate, confidando in questa capacità, diceva: «Non sono solito chiamare nessun altro a testimoniare ciò che dico; mi basta sempre il mio interlocutore: chiedo il suo voto, chiamo lui a testimone, e lui solo mi basta al posto di tutti.»</div></article>
+<article class="section" id="s-7"><a class="ref" href="#s-7">7</a><div class="section-text">Sapeva infatti da che cosa è mossa un’anima razionale: inclinerà come una bilancia, che tu lo voglia oppure no. Mostra una contraddizione alla facoltà direttiva razionale e se ne allontanerà; se invece non gliela mostri, biasima piuttosto te stesso che chi non si lascia persuadere.</div></article>
+</div>
+
+<nav class="chapter-nav chapter-nav-bottom"><a href="2-25.html">Diatriba precedente</a><a class="chapter-home" href="../index.html">Home</a><a href="3-01.html">Diatriba successiva</a></nav>

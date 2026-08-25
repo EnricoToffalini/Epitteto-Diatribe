@@ -1,0 +1,52 @@
+---
+title: "Diatriba I.16 — Sulla Provvidenza"
+lang: it
+pagetitle: "Diatriba I.16 — Sulla Provvidenza — Epitteto, Diatribe"
+title-prefix: ""
+description-meta: "Diatriba I.16: «Sulla Provvidenza». Le Diatribe di Epitteto raccolte da Arriano, in traduzione italiana."
+sidebar: it
+---
+
+<!--
+FILE GENERATO. NON MODIFICARE A MANO.
+
+Modificare invece:
+- translation/it/**.md      per il testo e i titoli italiani
+- data/intro.json           per le note introduttive delle home page
+- tools/site_config.py      per lingue, testi dell'interfaccia, URL
+- styles.css                per l'aspetto grafico
+
+Poi eseguire:
+    run.bat
+-->
+
+
+<div class="diatribe-meta">Libro I · 21 sezioni · <span class="canonical" title="Riferimento canonico">I 16</span></div>
+
+<nav class="chapter-nav"><a href="1-15.html">Diatriba precedente</a><a class="chapter-home" href="../index.html">Home</a><a href="1-17.html">Diatriba successiva</a></nav>
+
+<div class="section-list">
+<article class="section" id="s-1"><a class="ref" href="#s-1">1</a><div class="section-text">Non meravigliatevi se per gli altri animali tutto ciò che riguarda il corpo è stato predisposto, non solo il cibo e la bevanda, ma anche un giaciglio, e il fatto che non abbiano bisogno né di calzature, né di coperte, né di vestiti, mentre noi abbiamo bisogno di tutte queste cose.</div></article>
+<article class="section" id="s-2"><a class="ref" href="#s-2">2</a><div class="section-text">Infatti non conveniva che gli esseri nati non per se stessi, ma per servire, fossero fatti in modo da aver bisogno di altre cose.</div></article>
+<article class="section" id="s-3"><a class="ref" href="#s-3">3</a><div class="section-text">Considera infatti che cosa sarebbe stato per noi doverci occupare non solo di noi stessi, ma anche delle pecore e degli asini: come vestirli, come calzarli, come farli mangiare, come farli bere.</div></article>
+<article class="section" id="s-4"><a class="ref" href="#s-4">4</a><div class="section-text">Ma come i soldati sono pronti per il comandante, calzati, vestiti e armati, e sarebbe terribile se il tribuno dovesse andare in giro a calzare o vestire i mille uomini, così anche la natura ha fatto gli esseri nati per servire già pronti e preparati, senza che abbiano bisogno di ulteriori cure.</div></article>
+<article class="section" id="s-5"><a class="ref" href="#s-5">5</a><div class="section-text">Così basta un bambino piccolo a guidare le pecore con un bastone.</div></article>
+<article class="section" id="s-6"><a class="ref" href="#s-6">6</a><div class="section-text">Noi invece, anziché essere grati per questo, perché non dobbiamo occuparci anche di loro con la stessa cura che di noi stessi, ci lamentiamo con Dio della nostra condizione.</div></article>
+<article class="section" id="s-7"><a class="ref" href="#s-7">7</a><div class="section-text">Eppure, per Zeus e per gli dèi, una sola delle cose esistenti sarebbe bastata a far percepire la Provvidenza a un uomo rispettoso e grato.</div></article>
+<article class="section" id="s-8"><a class="ref" href="#s-8">8</a><div class="section-text">E non parlarmi ora delle grandi cose: questo solo, che dall’erba si produce il latte, dal latte il formaggio e dalla pelle la lana, chi ha fatto o concepito tutto questo? «Nessuno», dice. O grande insensibilità e sfrontatezza!</div></article>
+<article class="section" id="s-9"><a class="ref" href="#s-9">9</a><div class="section-text">Su, lasciamo le opere della natura e contempliamo le sue opere minori.</div></article>
+<article class="section" id="s-10"><a class="ref" href="#s-10">10</a><div class="section-text">C’è forse qualcosa di più inutile dei peli sul mento? E allora? La natura non si è servita anche di questi nel modo più appropriato possibile? Non ha distinto per mezzo loro il maschio dalla femmina?</div></article>
+<article class="section" id="s-11"><a class="ref" href="#s-11">11</a><div class="section-text">Non grida forse subito da lontano la natura di ciascuno di noi: «Sono un uomo; accostati a me così, parlami così, non cercare altro: ecco i segni»?</div></article>
+<article class="section" id="s-12"><a class="ref" href="#s-12">12</a><div class="section-text">E nelle donne, come ha mescolato nella voce qualcosa di più delicato, così ha tolto i peli del viso. No: l’essere vivente doveva essere lasciato indistinto, e ciascuno di noi doveva proclamare: «Sono un uomo».</div></article>
+<article class="section" id="s-13"><a class="ref" href="#s-13">13</a><div class="section-text">E quanto è bello questo segno, decoroso e dignitoso; quanto più bello della cresta dei galli, quanto più maestoso della criniera dei leoni.</div></article>
+<article class="section" id="s-14"><a class="ref" href="#s-14">14</a><div class="section-text">Per questo bisognava conservare i segni di Dio, non disfarsene, non confondere, per quanto dipende da noi, i sessi che sono stati distinti.</div></article>
+<article class="section" id="s-15"><a class="ref" href="#s-15">15</a><div class="section-text">Sono forse queste le sole opere della Provvidenza nei nostri confronti? E quale discorso basterebbe a lodarle o a rappresentarle come meritano? Se avessimo senno, che altro dovremmo fare, insieme e ciascuno per conto proprio, se non celebrare la divinità, benedirla e ricordarne i benefici?</div></article>
+<article class="section" id="s-16"><a class="ref" href="#s-16">16</a><div class="section-text">Non dovremmo, anche mentre scaviamo, ariamo e mangiamo, cantare l’inno a Dio? «Grande è Dio, perché ci ha dato questi strumenti con cui lavoreremo la terra;</div></article>
+<article class="section" id="s-17"><a class="ref" href="#s-17">17</a><div class="section-text">grande è Dio, perché ci ha dato le mani, la capacità di deglutire, lo stomaco, la capacità di crescere senza accorgercene e di respirare mentre dormiamo».</div></article>
+<article class="section" id="s-18"><a class="ref" href="#s-18">18</a><div class="section-text">Questo dovremmo cantare in ogni occasione, e soprattutto il più grande e divino degli inni: che ci ha dato la facoltà di comprendere queste cose e di usarle nel modo giusto.</div></article>
+<article class="section" id="s-19"><a class="ref" href="#s-19">19</a><div class="section-text">E allora? Poiché la maggior parte di voi è diventata cieca, non bisognava che qualcuno occupasse questo posto e, a nome di tutti, cantasse l’inno a Dio?</div></article>
+<article class="section" id="s-20"><a class="ref" href="#s-20">20</a><div class="section-text">Che altro posso fare, vecchio e zoppo, se non celebrare Dio? Se fossi un usignolo, farei ciò che fa l’usignolo; se un cigno, ciò che fa il cigno.</div></article>
+<article class="section" id="s-21"><a class="ref" href="#s-21">21</a><div class="section-text">Ora invece sono un essere razionale: devo celebrare Dio. Questo è il mio compito; lo svolgo e non abbandonerò questo posto finché mi sarà concesso, e invito anche voi a questo stesso canto.</div></article>
+</div>
+
+<nav class="chapter-nav chapter-nav-bottom"><a href="1-15.html">Diatriba precedente</a><a class="chapter-home" href="../index.html">Home</a><a href="1-17.html">Diatriba successiva</a></nav>

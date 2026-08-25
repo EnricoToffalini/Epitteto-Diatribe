@@ -1,0 +1,37 @@
+---
+title: "Diatriba III.19 — Qual è l'atteggiamento dell'uomo comune e del filosofo"
+lang: it
+pagetitle: "Diatriba III.19 — Qual è l'atteggiamento dell'uomo comune e del filosofo — Epitteto, Diatribe"
+title-prefix: ""
+description-meta: "Diatriba III.19: «Qual è l'atteggiamento dell'uomo comune e del filosofo». Le Diatribe di Epitteto raccolte da Arriano, in traduzione italiana."
+sidebar: it
+---
+
+<!--
+FILE GENERATO. NON MODIFICARE A MANO.
+
+Modificare invece:
+- translation/it/**.md      per il testo e i titoli italiani
+- data/intro.json           per le note introduttive delle home page
+- tools/site_config.py      per lingue, testi dell'interfaccia, URL
+- styles.css                per l'aspetto grafico
+
+Poi eseguire:
+    run.bat
+-->
+
+
+<div class="diatribe-meta">Libro III · 6 sezioni · <span class="canonical" title="Riferimento canonico">III 19</span></div>
+
+<nav class="chapter-nav"><a href="3-18.html">Diatriba precedente</a><a class="chapter-home" href="../index.html">Home</a><a href="3-20.html">Diatriba successiva</a></nav>
+
+<div class="section-list">
+<article class="section" id="s-1"><a class="ref" href="#s-1">1</a><div class="section-text">La prima differenza tra l’uomo comune e il filosofo è questa: il primo dice «Ahimè, per il mio bambino, per mio fratello; ahimè, per mio padre»; il secondo, se mai è costretto a dire «Ahimè»,</div></article>
+<article class="section" id="s-2"><a class="ref" href="#s-2">2</a><div class="section-text">si ferma e aggiunge: «Per causa mia». Nulla infatti che non dipenda dalla scelta morale può impedire o danneggiare la scelta morale, se non essa stessa.</div></article>
+<article class="section" id="s-3"><a class="ref" href="#s-3">3</a><div class="section-text">Se dunque anche noi ci orienteremo in questa direzione, così che, quando le cose ci vanno male, accusiamo noi stessi e ricordiamo che nulla è causa di turbamento o instabilità se non un giudizio, vi giuro per tutti gli dèi che abbiamo fatto progressi.</div></article>
+<article class="section" id="s-4"><a class="ref" href="#s-4">4</a><div class="section-text">Ora invece abbiamo preso fin dall’inizio un’altra strada. Quando eravamo ancora bambini, se inciampavamo distrattamente, la nutrice non rimproverava noi, ma picchiava la pietra. Che cosa aveva fatto la pietra? Doveva forse spostarsi per la stoltezza del tuo bambino?</div></article>
+<article class="section" id="s-5"><a class="ref" href="#s-5">5</a><div class="section-text">E ancora, se uscendo dal bagno non trovavamo da mangiare, il pedagogo non frenava mai il nostro desiderio, ma picchiava il cuoco. Uomo, ti abbiamo forse nominato pedagogo di quello? No, del nostro bambino: correggi lui, giova a lui.</div></article>
+<article class="section" id="s-6"><a class="ref" href="#s-6">6</a><div class="section-text">Così, anche da adulti, ci mostriamo bambini. È infatti bambino nella musica chi non conosce la musica, nelle lettere chi non conosce le lettere, nella vita chi è privo di educazione.</div></article>
+</div>
+
+<nav class="chapter-nav chapter-nav-bottom"><a href="3-18.html">Diatriba precedente</a><a class="chapter-home" href="../index.html">Home</a><a href="3-20.html">Diatriba successiva</a></nav>

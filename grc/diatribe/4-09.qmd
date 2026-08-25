@@ -1,0 +1,49 @@
+---
+title: "Διατριβὴ Δʹ.θʹ — πρὸς τὸν εἰς ἀναισχυντίαν μεταβληθέντα"
+lang: grc
+pagetitle: "Διατριβὴ Δʹ.θʹ — πρὸς τὸν εἰς ἀναισχυντίαν μεταβληθέντα — Ἐπικτήτου Διατριβαί"
+title-prefix: ""
+description-meta: "Διατριβὴ Δʹ.θʹ· «πρὸς τὸν εἰς ἀναισχυντίαν μεταβληθέντα». Ἀρριανοῦ τῶν Ἐπικτήτου Διατριβῶν, τὸ ἑλληνικὸν κείμενον."
+sidebar: grc
+---
+
+<!--
+FILE GENERATO. NON MODIFICARE A MANO.
+
+Modificare invece:
+- translation/it/**.md      per il testo e i titoli italiani
+- data/intro.json           per le note introduttive delle home page
+- tools/site_config.py      per lingue, testi dell'interfaccia, URL
+- styles.css                per l'aspetto grafico
+
+Poi eseguire:
+    run.bat
+-->
+
+
+<div class="diatribe-meta">Βιβλίον Δʹ · 18 τμήματα · <span class="canonical" title="Παραπομπή">IV 9</span></div>
+
+<nav class="chapter-nav"><a href="4-08.html">ἡ προτέρα διατριβή</a><a class="chapter-home" href="../index.html">Ἀρχή</a><a href="4-10.html">ἡ ἑπομένη διατριβή</a></nav>
+
+<div class="section-list">
+<article class="section" id="s-1"><a class="ref" href="#s-1">1</a><div class="section-text" lang="grc">ὅταν ἄλλον ἴδῃς ἄρχοντα, ἀντίθες, ὅτι σὺ ἔχεις τὸ μὴ δεῖσθαι ἀρχῆς· ὅταν ἄλλον πλουτοῦντα, ἰδοῦ, τί ἀντὶ τούτου ἔχεις.</div></article>
+<article class="section" id="s-2"><a class="ref" href="#s-2">2</a><div class="section-text" lang="grc">εἰ μὲν γὰρ μηδὲν ἔχεις ἀντʼ αὐτοῦ, ἄθλιος εἶ· εἰ δʼ ἔχεις τὸ μὴ χρείαν ἔχειν πλούτου, γίγνωσκε, ὅτι πλεῖον ἔχεις καὶ πολλῷ πλείονος ἄξιον.</div></article>
+<article class="section" id="s-3"><a class="ref" href="#s-3">3</a><div class="section-text" lang="grc">ἄλλος γυναῖκα εὔμορφον, σὺ τὸ μὴ ἐπιθυμεῖν εὐμόρφου γυναικός. μικρά σοι δοκεῖ ταῦτα; καὶ πόσου ἂν τιμήσαιντο οὗτοι αὐτοὶ οἱ πλουτοῦντες καὶ ἄρχοντες καὶ μετʼ εὐμόρφων διαιτώμενοι δύνασθαι πλούτου καταφρονεῖν καὶ ἀρχῶν καὶ αὐτῶν τούτων τῶν γυναικῶν, ὧν ἐρῶσιν καὶ ὧν τυγχάνουσιν;</div></article>
+<article class="section" id="s-4"><a class="ref" href="#s-4">4</a><div class="section-text" lang="grc">ἀγνοεῖς οἷόν τί ἐστι δίψος πυρέσσοντος; οὐδὲν ὅμοιον ἔχει τῷ τοῦ ὑγιαίνοντος. ἐκεῖνος πιὼν ἀποπέπαυται· ὁ δὲ πρὸς ὀλίγον ἡσθεὶς ναυτιᾷ, χολὴν αὐτὸ ποιεῖ ἀντὶ ὕδατος, ἐμεῖ, στροφοῦται, διψῇ σφοδρότερον.</div></article>
+<article class="section" id="s-5"><a class="ref" href="#s-5">5</a><div class="section-text" lang="grc">τοιοῦτόν ἐστι μετʼ ἐπιθυμίας πλουτεῖν, μετʼ ἐπιθυμίας ἄρχειν, μετʼ ἐπιθυμίας καλῇ συγκαθεύδειν· ζηλοτυπία πρόσεστιν, φόβος τοῦ στερηθῆναι, αἰσχροὶ λόγοι, αἰσχρὰ ἐνθυμήματα, ἔργα ἀσχήμονα.</div></article>
+<article class="section" id="s-6"><a class="ref" href="#s-6">6</a><div class="section-text" lang="grc">καὶ τί, φησίν, ἀπολλύω;— ἄνθρωπε, ὑπῆρχες αἰδήμων καὶ νῦν οὐκέτι εἶ· οὐδὲν ἀπολώλεκας; ἀντὶ Χρυσίππου καὶ Ζήνωνος Ἀριστείδην ἀναγιγνώσκεις καὶ Εὐηνόν· οὐδὲν ἀπολώλεκας; ἀντὶ Σωκράτους καὶ Διογένους τεθαύμακας τὸν πλείστας διαφθεῖραι καὶ ἀναπεῖσαι δυνάμενον.</div></article>
+<article class="section" id="s-7"><a class="ref" href="#s-7">7</a><div class="section-text" lang="grc">καλὸς εἶναι θέλεις καὶ πλάσσεις σεαυτὸν μὴ ὢν καὶ ἐσθῆτα ἐπιδεικνύειν θέλεις στιλπνήν, ἵνα τὰς γυναῖκας ἐπιστρέφῃς, κἄν που μυραφίου ἐπιτύχῃς, μακάριος εἶναι δοκεῖς.</div></article>
+<article class="section" id="s-8"><a class="ref" href="#s-8">8</a><div class="section-text" lang="grc">πρότερον δʼ οὐδὲ ἐνεθυμοῦ τι τούτων, ἀλλὰ ποῦ εὐσχήμων λόγος, ἀνὴρ ἀξιόλογος, ἐνθύμημα γενναῖον. τοιγαροῦν ἐκάθευδες ὡς ἀνήρ, προῄεις ὡς ἀνήρ, ἐσθῆτα ἐφόρεις ἀνδρικήν, λόγους ἐλάλεις πρέποντας ἀνδρὶ ἀγαθῷ· εἶτά μοι λέγεις <q>οὐδὲν ἀπώλεσα;</q></div></article>
+<article class="section" id="s-9"><a class="ref" href="#s-9">9</a><div class="section-text" lang="grc">οὕτως οὐδὲν ἄλλο ἢ κέρμα ἀπολλύουσιν ἄνθρωποι; αἰδὼς οὐκ ἀπόλλυται, εὐσχημοσύνη οὐκ ἀπόλλυται; ἢ οὐκ ἔστι ζημιωθῆναι ταῦτα ἀπολέσαντα;</div></article>
+<article class="section" id="s-10"><a class="ref" href="#s-10">10</a><div class="section-text" lang="grc">σοὶ μὲν οὖν δοκεῖ τάχα τούτων οὐδὲν οὐκέτι εἶναι ζημία· ἦν δέ ποτε χρόνος, ὅτε μόνην αὐτὴν ὑπελογίζου καὶ ζημίαν καὶ βλάβην, ὅτε ἠγωνίας, μή τις ἐκσείσῃ σε τούτων τῶν λόγων καὶ ἔργων.</div></article>
+<article class="section" id="s-11"><a class="ref" href="#s-11">11</a><div class="section-text" lang="grc">ἰδού, ἐκσέσεισαι ὑπʼ ἄλλου μὲν οὐδενός, ὑπὸ σαυτοῦ δέ. μαχέσθητι σαυτῷ, ἀφελοῦ σαυτὸν εἰς εὐσχημοσύνην, εἰς αἰδῶ, εἰς ἐλευθερίαν.</div></article>
+<article class="section" id="s-12"><a class="ref" href="#s-12">12</a><div class="section-text" lang="grc">εἴ σοί τίς που ἔλεγεν περὶ ἐμοῦ ταῦτα, ὅτι μέ τις μοιχεύειν ἀναγκάζει, ὅτι ἐσθῆτα φορεῖν τοιαύτην, ὅτι μυρίζεσθαι, οὐκ ἂν ἀπελθὼν αὐτόχειρ ἐγένου τούτου τοῦ ἀνθρώπου τοῦ οὕτως μοι παραχρωμένου;</div></article>
+<article class="section" id="s-13"><a class="ref" href="#s-13">13</a><div class="section-text" lang="grc">νῦν οὖν οὐ θέλεις σαυτῷ βοηθῆσαι; καὶ πόσῳ ῥᾴων αὕτη ἡ βοήθεια; οὐκ ἀποκτεῖναί τινα δεῖ, οὐ δῆσαι, οὐχ ὑβρίσαι, οὐκ εἰς ἀγορὰν προελθεῖν, ἀλλʼ αὐτὸν αὑτῷ λαλῆσαι, τῷ μάλιστα πεισθησομένῳ, πρὸς ὃν οὐδείς ἐστί σου πιθανώτερος.</div></article>
+<article class="section" id="s-14"><a class="ref" href="#s-14">14</a><div class="section-text" lang="grc">καὶ πρῶτον μὲν κατάγνωθι τῶν γιγνομένων, εἶτα καταγνοὺς μὴ ἀπογνῷς σεαυτοῦ μηδὲ πάθῃς τὸ τῶν ἀγεννῶν ἀνθρώπων, οἳ ἅπαξ ἐνδόντες εἰσάπαν ἐπέδωκαν ἑαυτοὺς καὶ ὡς ὑπὸ ῥεύματος παρεσύρησαν, ἀλλὰ μάθε τὸ τῶν παιδοτριβῶν.</div></article>
+<article class="section" id="s-15"><a class="ref" href="#s-15">15</a><div class="section-text" lang="grc">πέπτωκε τὸ παιδίον· <q>ἀναστάς,</q> φησίν, <q>πάλιν πάλαιε, μέχρις ἂν ἰσχυροπο<span class="ed-add">&lang;ι&rang;</span>ηθῇς.</q></div></article>
+<article class="section" id="s-16"><a class="ref" href="#s-16">16</a><div class="section-text" lang="grc">τοιοῦτόν τι καὶ σὺ πάθε· ἴσθι γάρ, ὅτι οὐδέν ἐστιν εὐαγωγότερον ἀνθρωπίνης ψυχῆς. θελῆσαι δεῖ καὶ γέγονεν, διώρθωται· ὡς πάλιν ἀπονυστάσαι καὶ ἀπόλωλεν. ἔσωθεν γάρ ἐστι καὶ ἀπώλεια καὶ βοήθεια.</div></article>
+<article class="section" id="s-17"><a class="ref" href="#s-17">17</a><div class="section-text" lang="grc">— εἶτα τί μοι ἀγαθόν; — καὶ τί ζητεῖς τούτου μεῖζον; ἐξ ἀναισχύντου αἰδήμων ἔσῃ, ἐξ ἀκόσμου κόσμιος, ἐξ ἀπίστου πιστός, ἐξ ἀκολάστου σώφρων.</div></article>
+<article class="section" id="s-18"><a class="ref" href="#s-18">18</a><div class="section-text" lang="grc">εἴ τινα ἄλλα τούτων μείζονα ζητεῖς, ποίει ἃ ποιεῖς· οὐδὲ θεῶν σέ τις ἔτι σῶσαι δύναται.</div></article>
+</div>
+
+<nav class="chapter-nav chapter-nav-bottom"><a href="4-08.html">ἡ προτέρα διατριβή</a><a class="chapter-home" href="../index.html">Ἀρχή</a><a href="4-10.html">ἡ ἑπομένη διατριβή</a></nav>

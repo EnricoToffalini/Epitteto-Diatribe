@@ -1,0 +1,40 @@
+---
+title: "Discourse IV.2 — On familiar intimacy"
+lang: en
+pagetitle: "Discourse IV.2 — On familiar intimacy — Epictetus, Discourses"
+title-prefix: ""
+description-meta: "Discourse IV.2: “On familiar intimacy”. The Discourses of Epictetus, in George Long’s English translation, with his notes."
+sidebar: en
+---
+
+<!--
+FILE GENERATO. NON MODIFICARE A MANO.
+
+Modificare invece:
+- translation/it/**.md      per il testo e i titoli italiani
+- data/intro.json           per le note introduttive delle home page
+- tools/site_config.py      per lingue, testi dell'interfaccia, URL
+- styles.css                per l'aspetto grafico
+
+Poi eseguire:
+    run.bat
+-->
+
+
+<div class="diatribe-meta">Book IV · 1 paragraph · <span class="canonical" title="Canonical reference">IV 2</span></div>
+
+<nav class="chapter-nav"><a href="4-01.html">Previous discourse</a><a class="chapter-home" href="../index.html">Home</a><a href="4-03.html">Next discourse</a></nav>
+
+<div class="paragraph-list">
+<p>To this matter before all you must attend, that you be never so closely connected with any of your former intimates or friends as to come down to the same acts as he does.<a class="note-ref" id="noteref-1" href="#note-1" role="doc-noteref" aria-label="note 1"><sup>1</sup></a> If you do not observe this rule, you will ruin yourself. But if the thought arises in your mind, <q>I shall seem disobliging to him and he will not have the same feeling towards me,</q> remember that nothing is done without cost, nor is it possible for a man if he does not do the same things to be the same man that he was. Choose then which of the two you will have, to be equally loved by those by whom you were formerly loved, being the same with your former self; or being superior, not to obtain from your friends the same that you did before. For if this is better, immediately turn away to it, and let not other considerations draw you in a different direction. For no man is able to make progress (improvement), when he is wavering between opposite things; but if you have preferred this (one thing) to all things, if you choose to attend to this only, to work out this only, give up every thing else. But if you will not do this, your wavering will produce both these results: you will neither improve as you ought, nor will you obtain what you formerly obtained. For before by plainly desiring the things which were worth nothing, you pleased your associates. But you cannot excel in both kinds, and it is necessary that so far as you share in the one, you must fall short in the other. You cannot, when you do not drink with those with whom you used to drink, be agreeable to them as you were before. Choose then whether you will be a hard drinker and pleasant to your former associates or a sober man and disagreeable to them. You cannot, when you do not sing with those with whom you used to sing, be equally loved by them. Choose then in this matter also which of the two you will have. For if it is better to be modest and orderly than for a man to say, He is a jolly fellow, give up the rest, renounce it, turn away from it, have nothing to do with such men. But if this behaviour shall not please you, turn altogether to the opposite: become a catamite, an adulterer, and act accordingly, and you will get what you wish. And jump up in the theatre and bawl out in praise of the dancer. But characters so different cannot be mingled: you cannot act both Thersites and Agamemnon. If you intend to be Thersites,<a class="note-ref" id="noteref-2" href="#note-2" role="doc-noteref" aria-label="note 2"><sup>2</sup></a> you must be humpbacked and bald: if Agamemnon, you must be tall and handsome, and love those who are placed in obedience to you.</p>
+</div>
+
+<section class="notes">
+<h2>Notes</h2>
+<ol class="note-list">
+<li class="note" id="note-1" role="doc-endnote"><p>He means that you must not do as he does, because he does this or that act. The advice is in substance, Do not do as your friend does simply because he is your friend.</p><a class="note-back" href="#noteref-1" aria-label="back to the text">&#8617;</a></li>
+<li class="note" id="note-2" role="doc-endnote"><p>See Iliad, ii 216; and for the description of Agamemnon, Iliad iii. 167.</p><a class="note-back" href="#noteref-2" aria-label="back to the text">&#8617;</a></li>
+</ol>
+</section>
+
+<nav class="chapter-nav chapter-nav-bottom"><a href="4-01.html">Previous discourse</a><a class="chapter-home" href="../index.html">Home</a><a href="4-03.html">Next discourse</a></nav>

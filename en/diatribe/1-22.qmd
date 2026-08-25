@@ -1,0 +1,51 @@
+---
+title: "Discourse I.22 — On praecognitions"
+lang: en
+pagetitle: "Discourse I.22 — On praecognitions — Epictetus, Discourses"
+title-prefix: ""
+description-meta: "Discourse I.22: “On praecognitions”. The Discourses of Epictetus, in George Long’s English translation, with his notes."
+sidebar: en
+---
+
+<!--
+FILE GENERATO. NON MODIFICARE A MANO.
+
+Modificare invece:
+- translation/it/**.md      per il testo e i titoli italiani
+- data/intro.json           per le note introduttive delle home page
+- tools/site_config.py      per lingue, testi dell'interfaccia, URL
+- styles.css                per l'aspetto grafico
+
+Poi eseguire:
+    run.bat
+-->
+
+
+<div class="diatribe-meta">Book I · 4 paragraphs · <span class="canonical" title="Canonical reference">I 22</span></div>
+
+<div class="title-note">Note on the title<a class="note-ref" id="noteref-1" href="#note-1" role="doc-noteref" aria-label="note 1"><sup>1</sup></a></div>
+
+<nav class="chapter-nav"><a href="1-21.html">Previous discourse</a><a class="chapter-home" href="../index.html">Home</a><a href="1-23.html">Next discourse</a></nav>
+
+<div class="paragraph-list">
+<p>PRAECOGNITIONS are common to all men, and praecognition is not contradictory to praecognition. For who of us does not assume that Good is useful and eligible, and in all circumstances that we ought to follow and pursue it? And who of us does not assume that Justice is beautiful and becoming? When then does the contradiction arise? It arises in the adaptation of the praecognitions to the particular cases. When one man says, He has done well: he is a brave man, and another says, <q>Not so; but he has acted foolishly;</q> then the disputes arise among men. This is the dispute among the Jews and the Syrians and the Egyptians and the Romans; not whether holiness<a class="note-ref" id="noteref-2" href="#note-2" role="doc-noteref" aria-label="note 2"><sup>2</sup></a> should be preferred to all things and in all cases should be pursued, but whether it is holy to eat pig’s flesh or not holy. You will find this dispute also between Agamemnon and Achilles;<a class="note-ref" id="noteref-3" href="#note-3" role="doc-noteref" aria-label="note 3"><sup>3</sup></a> for call them forth. What do you say, Agamemnon? ought not that to be done which is proper and right? Certainly. Well, what do you say, Achilles? do you not admit that what is good ought to be done? I do most certainly. Adapt your praecognitions then to the present matter. Here the dispute begins. Agamemnon says, I ought not to give up Chryseis to her father. Achilles says, You ought. It is certain that one of the two makes a wrong adaptation of the praecognition of <q>ought</q> or <q>duty.</q> Further, Agamemnon says, Then if I ought to restore Chryseis, it is fit that I take his prize from some of you. Achilles replies, <q>Would you then take her whom I love?</q> Yes, her whom you love. Must I then be the only man who goes without a prize? and must I be the only man who has no prize? Thus the dispute begins.<a class="note-ref" id="noteref-4" href="#note-4" role="doc-noteref" aria-label="note 4"><sup>4</sup></a></p>
+<p>What then is education? Education is the learning how to adapt the natural praecognitions to the particular things conformably to nature; and then to distinguish that of things some are in our power, but others are not: in our power are will and all acts which depend on the will; things not in our power are the body, the parts of the body, possessions, parents, brothers, children, country and generally, all with whom we live in society. In what then should we place the good? To what kind of things (<span class="foreign" lang="grc">οὐσίᾳ</span>) shall we adapt it? To the things which are in our power? Is not health then a good thing, and soundness of limb, and life? and are not children and parents and country? Who will tolerate you if you deny this?</p>
+<p>Let us then transfer the notion of good to these things. Is it possible then, when a man sustains damage and does not obtain good things, that he can be happy? It is not possible. And can he maintain towards society a proper behaviour? He can not. For I am naturally formed to look after my own interest. If it is my interest to have an estate in land, it is my interest also to take it from my neighbour. If it is my interest to have a garment, it is my interest also to steal it from the bath.<a class="note-ref" id="noteref-5" href="#note-5" role="doc-noteref" aria-label="note 5"><sup>5</sup></a> This is the origin of wars, civil commotions, tyrannies, conspiracies. And how shall I be still able to maintain my duty towards Zeus? for if I sustain damage and am unlucky, he takes no care of me; and what is he to me if he cannot help me; and further, what is he to me if he allows me to be in the condition in which I am? I now begin to hate him. Why then do we build temples, why set up statues to Zeus, as well as to evil daemons, such as to Fever;<a class="note-ref" id="noteref-6" href="#note-6" role="doc-noteref" aria-label="note 6"><sup>6</sup></a> and how is Zeus the Saviour, and how the giver of rain, and the giver of fruits? And in truth if we place the nature of Good in any such things, all this follows.</p>
+<p>What should we do then? This is the inquiry of the true philosopher who is in labour.<a class="note-ref" id="noteref-7" href="#note-7" role="doc-noteref" aria-label="note 7"><sup>7</sup></a> Now I do not see what the Good is nor the Bad. Am I not mad? Yes. But suppose that I place the good somewhere among the things which depend on the will: all will laugh at me. There will come some greyhead wearing many gold rings on his fingers, and he will shake his head and say, Hear, my child. It is right that you should philosophize; but you ought to have some brains also: all this that you are doing is silly. You learn the syllogism from philosophers; but you know how to act better than philosophers do.—Man, why then do you blame me, if I know? What shall I say to this slave? If I am silent, he will burst. I must speak in this way: Excuse me, as you would excuse lovers: I am not my own master: I am mad.</p>
+</div>
+
+<section class="notes">
+<h2>Notes</h2>
+<ol class="note-list">
+<li class="note" id="note-1" role="doc-endnote"><p>Praecognitions (<span class="foreign" lang="grc">προλήψεις</span>) is translated Praecognita by John Smith, Select Discourses, p. 4. Cicero says (Topica, 7): <q lang="lat" class="foreign">Notionem appello quod Graeci tum <span class="foreign" lang="grc">ἔννοιαν</span>, tum <span class="foreign" lang="grc">πρόληψιν</span> dicunt. Ea est insita et ante percepta cujusque formae cognitio, enodationis indigens.</q> In the De Natura Deorum (i. 16) he says: <q lang="lat" class="foreign">Quae est enim gens aut quod genus hominum, quod non habeat sine doctrina anticipationem quandam deorum, quam appellat <span class="foreign" lang="grc">πρόληψιν</span> Epicurus? id est, anteceptam animo rei quandam informationem, sine qua nec intelligi quidquam nec quaeri nec disputari potest.</q> Epicurus, as Cicero says in the following chapter (17), was the first who used <span class="foreign" lang="grc">πρόληψις</span> in this sense, which Cicero applies to what he calls the ingrafted or rather innate cognitions of the existence of gods, and these cognitions he supposes to be universal; but whether this is so or not, I do not know. See l. c. 2; Tuscul i. 24; De Fin. iii. 6, and <span class="foreign" lang="grc">πρόληψις</span> in iv. 8. 6.</p><a class="note-back" href="#noteref-1" aria-label="back to the text">&#8617;</a></li>
+<li class="note" id="note-2" role="doc-endnote"><p>The word is <span class="foreign" lang="grc">ὅσιον</span>, which is very difficult to translate. We may take an instance from ourselves. There is a general agreement about integrity, and about the worship of the supreme being, but a wondrous difference about certain acts or doings in trading, whether they are consistent with integrity or not; and a still more wondrous difference in forms of worship, whether they are conformable to religion or not.</p><a class="note-back" href="#noteref-2" aria-label="back to the text">&#8617;</a></li>
+<li class="note" id="note-3" role="doc-endnote"><p><cite>Horace, Epp. i. 2</cite>.</p><a class="note-back" href="#noteref-3" aria-label="back to the text">&#8617;</a></li>
+<li class="note" id="note-4" role="doc-endnote"><p>Iliad, i. The quarrel of Achilles and Agamemnon about giving up Chryseis to her father.</p><a class="note-back" href="#noteref-4" aria-label="back to the text">&#8617;</a></li>
+<li class="note" id="note-5" role="doc-endnote"><p>The bath was a place of common resort, where a thief had the opportunity of carrying off a bather’s clothes. From men’s desires to have what they have not, and do not choose to labour for, spring the disorders of society, as it is said in the epistle of James, c. iv., v. 1, to which Mrs. Carter refers.</p><a class="note-back" href="#noteref-5" aria-label="back to the text">&#8617;</a></li>
+<li class="note" id="note-6" role="doc-endnote"><p>See i. 19. 6, note 2.</p><a class="note-back" href="#noteref-6" aria-label="back to the text">&#8617;</a></li>
+<li class="note" id="note-7" role="doc-endnote"><p>Upton refers to a passage in the Theaetetus (p. 150, Steph.), where Socrates professes that it is his art to discover whether a young man’s mind is giving birth to an idol (an unreality) and a falsity, or to something productive and true; and he says (p. 151) that those who associate with him are like women in child-birth, for they are in labour and full of trouble nights and days much more than women, and his art has the power of stirring up and putting to rest this labour of child-birth.</p> 
+<p>The conclusion in the chapter is not clear. The student is supposed to be addressed by some rich old man, who really does not know what to say; and the best way of getting rid of him and his idle talk is by dismissing him with a joke. See Schweighaeuser’s note.</p><a class="note-back" href="#noteref-7" aria-label="back to the text">&#8617;</a></li>
+</ol>
+</section>
+
+<nav class="chapter-nav chapter-nav-bottom"><a href="1-21.html">Previous discourse</a><a class="chapter-home" href="../index.html">Home</a><a href="1-23.html">Next discourse</a></nav>

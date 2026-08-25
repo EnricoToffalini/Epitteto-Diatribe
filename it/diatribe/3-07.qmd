@@ -1,0 +1,67 @@
+---
+title: "Diatriba III.7 — A un amministratore delle città libere, che era epicureo"
+lang: it
+pagetitle: "Diatriba III.7 — A un amministratore delle città libere, che era epicureo — Epitteto, Diatribe"
+title-prefix: ""
+description-meta: "Diatriba III.7: «A un amministratore delle città libere, che era epicureo». Le Diatribe di Epitteto raccolte da Arriano, in traduzione italiana."
+sidebar: it
+---
+
+<!--
+FILE GENERATO. NON MODIFICARE A MANO.
+
+Modificare invece:
+- translation/it/**.md      per il testo e i titoli italiani
+- data/intro.json           per le note introduttive delle home page
+- tools/site_config.py      per lingue, testi dell'interfaccia, URL
+- styles.css                per l'aspetto grafico
+
+Poi eseguire:
+    run.bat
+-->
+
+
+<div class="diatribe-meta">Libro III · 36 sezioni · <span class="canonical" title="Riferimento canonico">III 7</span></div>
+
+<nav class="chapter-nav"><a href="3-06.html">Diatriba precedente</a><a class="chapter-home" href="../index.html">Home</a><a href="3-08.html">Diatriba successiva</a></nav>
+
+<div class="section-list">
+<article class="section" id="s-1"><a class="ref" href="#s-1">1</a><div class="section-text">Quando l’amministratore entrò da lui — ed era epicureo — Epitteto disse: «È giusto che noi, che non siamo filosofi, chiediamo a voi filosofi, come quelli che giungono in una città straniera chiedono ai cittadini e a chi la conosce, quale sia la cosa migliore nel mondo, affinché anche noi, dopo averlo appreso, possiamo perseguirla e contemplarla, come quelli visitano le cose notevoli delle città.»</div></article>
+<article class="section" id="s-2"><a class="ref" href="#s-2">2</a><div class="section-text">«Che infatti le cose che riguardano l’uomo siano tre — anima, corpo e cose esterne — quasi nessuno lo contesta. Resta dunque a voi rispondere quale sia la migliore. Che cosa diremo agli uomini?»</div></article>
+<article class="section" id="s-3"><a class="ref" href="#s-3">3</a><div class="section-text">«La carne? E per questa Massimo navigò fino a Cassiope d’inverno, accompagnando il figlio, perché la carne ne provasse piacere?»</div></article>
+<article class="section" id="s-4"><a class="ref" href="#s-4">4</a><div class="section-text">Poiché quello negò e disse: «Non sia mai», Epitteto riprese: «Non conviene forse dedicarsi a ciò che è migliore?» — «Più di ogni altra cosa.» — «Che cosa dunque abbiamo di migliore della carne?» — «L’anima», disse. — «E i beni di ciò che è migliore sono migliori o quelli di ciò che è inferiore?»</div></article>
+<article class="section" id="s-5"><a class="ref" href="#s-5">5</a><div class="section-text">— «Quelli di ciò che è migliore.» — «E i beni dell’anima dipendono dalla scelta morale oppure no?» — «Dalla scelta morale.» — «Dunque il piacere dell’anima dipende dalla scelta morale?»</div></article>
+<article class="section" id="s-6"><a class="ref" href="#s-6">6</a><div class="section-text">— «Sì», disse. — «E da che cosa nasce? Forse da se stesso? Ma è inconcepibile: deve infatti sussistere prima una certa realtà primaria del bene, ottenendo la quale proveremo piacere nell’anima.» — Concesse anche questo. — «Da che cosa dunque proveremo questo piacere dell’anima?»</div></article>
+<article class="section" id="s-7"><a class="ref" href="#s-7">7</a><div class="section-text">«Se dai beni dell’anima, abbiamo trovato l’essenza del bene. Non può infatti essere bene una cosa e un’altra ciò per cui ragionevolmente ci rallegriamo; né, se ciò che viene prima non è bene, può essere bene ciò che ne deriva. Perché ciò che ne deriva sia ragionevole, ciò che viene prima deve essere bene.»</div></article>
+<article class="section" id="s-8"><a class="ref" href="#s-8">8</a><div class="section-text">«Ma questo non lo direste, se aveste senno: direste infatti cose incoerenti sia con Epicuro sia con le altre vostre dottrine.»</div></article>
+<article class="section" id="s-9"><a class="ref" href="#s-9">9</a><div class="section-text">«Resta dunque che il piacere dell’anima si provi per le cose del corpo; e di nuovo queste diventano ciò che viene prima e l’essenza del bene.»</div></article>
+<article class="section" id="s-10"><a class="ref" href="#s-10">10</a><div class="section-text">«Perciò Massimo agì da stolto, se navigò per qualcos’altro che non fosse la carne, cioè per ciò che è migliore.»</div></article>
+<article class="section" id="s-11"><a class="ref" href="#s-11">11</a><div class="section-text">«E agisce da stolto anche chi, essendo giudice e potendo prendere, si astiene dalle cose altrui. Ma, se ti pare, consideriamo soltanto questo: che lo si faccia di nascosto, in sicurezza, senza che nessuno lo sappia.»</div></article>
+<article class="section" id="s-12"><a class="ref" href="#s-12">12</a><div class="section-text">«Rubare infatti neppure Epicuro dichiara che sia un male, ma essere scoperti; e poiché è impossibile avere la certezza di farla franca, per questo dice: “Non rubate”.»</div></article>
+<article class="section" id="s-13"><a class="ref" href="#s-13">13</a><div class="section-text">«Ma io ti dico che, se lo si fa abilmente e con cautela, non saremo scoperti; inoltre abbiamo a Roma amici e amiche potenti, e i Greci sono deboli: nessuno oserà salire fin là per questo.»</div></article>
+<article class="section" id="s-14"><a class="ref" href="#s-14">14</a><div class="section-text">«Perché ti astieni dal tuo bene? È insensato, è sciocco. E neppure se mi dici che te ne astieni ti crederò.»</div></article>
+<article class="section" id="s-15"><a class="ref" href="#s-15">15</a><div class="section-text">«Come infatti è impossibile dare assenso a ciò che appare falso e distogliersi da ciò che appare vero, così è impossibile tenersi lontani da ciò che appare bene. E la ricchezza è un bene, anzi quasi la cosa più efficace di tutte nel produrre piaceri.»</div></article>
+<article class="section" id="s-16"><a class="ref" href="#s-16">16</a><div class="section-text">«Perché non procurartela? E perché non sedurre la moglie del vicino, se possiamo farlo senza essere scoperti? E se il marito fa chiasso, perché non buttar fuori anche lui prendendolo per il collo?»</div></article>
+<article class="section" id="s-17"><a class="ref" href="#s-17">17</a><div class="section-text">«Se vuoi essere filosofo come si deve, anzi un filosofo perfetto, devi seguire le tue dottrine; altrimenti non differirai affatto da noi che siamo chiamati Stoici: anche noi infatti diciamo una cosa e ne facciamo un’altra.»</div></article>
+<article class="section" id="s-18"><a class="ref" href="#s-18">18</a><div class="section-text">«Noi diciamo cose nobili e facciamo cose vergognose; tu sarai corrotto nel modo opposto, professando dottrine vergognose e facendo cose nobili.»</div></article>
+<article class="section" id="s-19"><a class="ref" href="#s-19">19</a><div class="section-text">«Per dio, riesci a immaginare una città di Epicurei? “Io non mi sposo.” “Nemmeno io: infatti non ci si deve sposare.” Ma non si devono neppure avere figli, né partecipare alla vita politica. Che cosa accadrà allora? Da dove verranno i cittadini? Chi li educherà? Chi sarà efebarca, chi ginnasiarca? E che cosa insegnerà loro? Quello che veniva insegnato agli Spartani o agli Ateniesi?»</div></article>
+<article class="section" id="s-20"><a class="ref" href="#s-20">20</a><div class="section-text">«Prendimi un giovane e conducilo secondo le tue dottrine. Sono dottrine cattive, sovversive della città, distruttive delle case, non adatte neppure alle donne. Lasciale perdere, uomo.»</div></article>
+<article class="section" id="s-21"><a class="ref" href="#s-21">21</a><div class="section-text">«Vivi in una città che governa: devi esercitare il comando, giudicare con giustizia, astenerti dalle cose altrui; nessuna donna deve sembrarti bella se non la tua, nessun ragazzo bello, nessun oggetto d’argento, nessun oggetto d’oro.»</div></article>
+<article class="section" id="s-22"><a class="ref" href="#s-22">22</a><div class="section-text">«Cerca giudizi coerenti con queste cose, partendo dai quali ti asterrai volentieri da realtà tanto persuasive da trascinarci e vincerci.»</div></article>
+<article class="section" id="s-23"><a class="ref" href="#s-23">23</a><div class="section-text">«Ma se, oltre alla loro forza persuasiva, ci siamo anche inventati una filosofia che ci spinge verso di esse e ci rafforza in quella direzione, che ne sarà?»</div></article>
+<article class="section" id="s-24"><a class="ref" href="#s-24">24</a><div class="section-text">«In un’opera di cesello, che cosa conta di più, l’argento o l’arte? La materia della mano è la carne, ma ciò che in essa conta anzitutto sono le opere della mano.»</div></article>
+<article class="section" id="s-25"><a class="ref" href="#s-25">25</a><div class="section-text">«Anche i doveri sono dunque di tre specie: alcuni riguardano l’esistenza, altri l’essere in un certo modo, altri ancora sono proprio le attività principali. Così anche nell’uomo non bisogna stimare la materia, la povera carne, ma le attività principali.»</div></article>
+<article class="section" id="s-26"><a class="ref" href="#s-26">26</a><div class="section-text">«Quali sono? Partecipare alla vita politica, sposarsi, avere figli, venerare Dio, prendersi cura dei genitori; in generale desiderare, provare avversione, muoversi all’azione e astenersi, facendo ciascuna di queste cose come si deve e secondo la nostra natura. E come siamo fatti per natura?»</div></article>
+<article class="section" id="s-27"><a class="ref" href="#s-27">27</a><div class="section-text">«Come esseri liberi, nobili, rispettosi di sé. Quale altro animale infatti arrossisce? Quale altro ha una rappresentazione di ciò che è vergognoso?»</div></article>
+<article class="section" id="s-28"><a class="ref" href="#s-28">28</a><div class="section-text">«Sottometti il piacere a queste cose come una serva, come un’ancella, perché susciti il nostro slancio e ci sostenga nelle azioni conformi a natura.»</div></article>
+<article class="section" id="s-29"><a class="ref" href="#s-29">29</a><div class="section-text">— «Ma io sono ricco e non ho bisogno di nulla.» — «Perché allora fingi ancora di filosofare? Ti bastano gli oggetti d’oro e d’argento: che bisogno hai di principi?»</div></article>
+<article class="section" id="s-30"><a class="ref" href="#s-30">30</a><div class="section-text">— «Ma sono anche giudice dei Greci.» — «Sai giudicare? Che cosa ti ha reso capace di farlo?» — «Cesare mi ha scritto un decreto di nomina.» — «Te ne scriva uno perché tu giudichi anche di musica: e che vantaggio ne avrai?»</div></article>
+<article class="section" id="s-31"><a class="ref" href="#s-31">31</a><div class="section-text">«E comunque, come sei diventato giudice? La mano di chi hai baciato, quella di Sinforo o quella di Numenio? Davanti alla camera di chi hai dormito? A chi hai mandato doni? E non ti accorgi che essere giudice vale quanto vale Numenio?» — «Ma posso mettere in prigione chi voglio.»</div></article>
+<article class="section" id="s-32"><a class="ref" href="#s-32">32</a><div class="section-text">— «Come una pietra.» — «Ma posso far bastonare chi voglio.» — «Come un asino. Questo non è governare uomini.»</div></article>
+<article class="section" id="s-33"><a class="ref" href="#s-33">33</a><div class="section-text">«Governaci come esseri razionali: mostraci ciò che ci giova e ti seguiremo; mostraci ciò che non ci giova e ce ne distoglieremo.»</div></article>
+<article class="section" id="s-34"><a class="ref" href="#s-34">34</a><div class="section-text">«Fa’ che diventiamo tuoi imitatori, come Socrate rese gli altri imitatori di sé. Era lui a governare gli uomini come uomini, inducendoli a sottomettere a lui il proprio desiderio, la propria avversione, il proprio impulso e il proprio astenersi.»</div></article>
+<article class="section" id="s-35"><a class="ref" href="#s-35">35</a><div class="section-text">«Fa’ questo, non fare quest’altro; altrimenti ti metterò in prigione.» Così il governo non è più esercitato su esseri razionali.</div></article>
+<article class="section" id="s-36"><a class="ref" href="#s-36">36</a><div class="section-text">«Fa’ invece ciò che Zeus ha disposto; e se non lo farai, ne pagherai il prezzo, ne sarai danneggiato.» — «Quale danno?» — «Nessun altro se non il non aver fatto ciò che dovevi: perderai la tua lealtà, il tuo senso del pudore, la tua dignità. Non cercare danni più grandi di questi.»</div></article>
+</div>
+
+<nav class="chapter-nav chapter-nav-bottom"><a href="3-06.html">Diatriba precedente</a><a class="chapter-home" href="../index.html">Home</a><a href="3-08.html">Diatriba successiva</a></nav>

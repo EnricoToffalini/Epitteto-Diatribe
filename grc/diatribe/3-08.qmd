@@ -1,0 +1,38 @@
+---
+title: "Διατριβὴ Γʹ.ηʹ — πῶς πρὸς τὰς φαντασίας γυμναστέον"
+lang: grc
+pagetitle: "Διατριβὴ Γʹ.ηʹ — πῶς πρὸς τὰς φαντασίας γυμναστέον — Ἐπικτήτου Διατριβαί"
+title-prefix: ""
+description-meta: "Διατριβὴ Γʹ.ηʹ· «πῶς πρὸς τὰς φαντασίας γυμναστέον». Ἀρριανοῦ τῶν Ἐπικτήτου Διατριβῶν, τὸ ἑλληνικὸν κείμενον."
+sidebar: grc
+---
+
+<!--
+FILE GENERATO. NON MODIFICARE A MANO.
+
+Modificare invece:
+- translation/it/**.md      per il testo e i titoli italiani
+- data/intro.json           per le note introduttive delle home page
+- tools/site_config.py      per lingue, testi dell'interfaccia, URL
+- styles.css                per l'aspetto grafico
+
+Poi eseguire:
+    run.bat
+-->
+
+
+<div class="diatribe-meta">Βιβλίον Γʹ · 7 τμήματα · <span class="canonical" title="Παραπομπή">III 8</span></div>
+
+<nav class="chapter-nav"><a href="3-07.html">ἡ προτέρα διατριβή</a><a class="chapter-home" href="../index.html">Ἀρχή</a><a href="3-09.html">ἡ ἑπομένη διατριβή</a></nav>
+
+<div class="section-list">
+<article class="section" id="s-1"><a class="ref" href="#s-1">1</a><div class="section-text" lang="grc">ὡς πρὸς τὰ ἐρωτήματα τὰ σοφιστικὰ γυμναζόμεθα, οὕτως καὶ πρὸς τὰς φαντασίας καθʼ ἡμέραν ἔδει γυμνάζεσθαι· προτείνουσι γὰρ ἡμῖν καὶ αὗται ἐρωτήματα.</div></article>
+<article class="section" id="s-2"><a class="ref" href="#s-2">2</a><div class="section-text" lang="grc">ὁ υἱὸς ἀπέθανε τοῦ δεῖνος. ἀπόκριναι <q>ἀπροαίρετον, οὐ κακόν.</q> ὁ πατὴρ τὸν δεῖνα ἀποκληρονόμον ἀπέλ<span class="ed-del">[ε]</span>ιπεν. τί σοι δοκεῖ; <q>ἀπροαίρετον, οὐ κακόν.</q> Καῖσαρ αὐτὸν κατέκρινεν.</div></article>
+<article class="section" id="s-3"><a class="ref" href="#s-3">3</a><div class="section-text" lang="grc"><q>ἀπροαίρετον, οὐ κακόν.</q> ἐλυπήθη ἐπὶ τούτοις. <q>προαιρετικόν, κακόν.</q> γενναίως ὑπέμεινεν. <q>προαιρετικόν, ἀγαθόν.</q></div></article>
+<article class="section" id="s-4"><a class="ref" href="#s-4">4</a><div class="section-text" lang="grc">κἂν οὕτως ἐθιζώμεθα, προκόψομεν· οὐδέποτε γὰρ ἄλλῳ συγκαταθησόμεθα ἢ οὗ φαντασία καταληπτικὴ γίνεται.</div></article>
+<article class="section" id="s-5"><a class="ref" href="#s-5">5</a><div class="section-text" lang="grc">ὁ υἱὸς ἀπέθανε. τί ἐγένετο; ὁ υἱὸς ἀπέθανεν. ἄλλο οὐδέν; οὐδ<span class="ed-del">[ε]</span>έν. τὸ πλοῖον ἀπώλετο. τί ἐγένετο; τὸ πλοῖον ἀπώλετο. εἰς φυλακὴν ἀπήχθη. τί γέγονεν; εἰς φυλακὴν ἀπήχθη. τὸ δʼ ὅτι <q>κακῶς πέπραχεν</q></div></article>
+<article class="section" id="s-6"><a class="ref" href="#s-6">6</a><div class="section-text" lang="grc">ἐξ αὑτοῦ ἕκαστος προστίθησιν. <q>ἀλλʼ οὐκ ὀρθῶς ταῦτα ὁ Ζεὺς ποιεῖ.</q> διὰ τί; ὅτι σε ὑπομενητικὸν ἐποίησεν, ὅτι μεγαλόψυχον, ὅτι ἀφεῖλεν αὐτῶν τὸ εἶναι κακά, ὅτι ἔξεστίν σοι πάσχοντι ταῦτα εὐδαιμονεῖν, ὅτι σοι τὴν θύραν ἤνοιξεν, ὅταν σοι μὴ ποιῇ; ἄνθρωπε, ἔξελθε καὶ μὴ ἐγκάλει.</div></article>
+<article class="section" id="s-7"><a class="ref" href="#s-7">7</a><div class="section-text" lang="grc">πῶς ἔχουσι Ῥωμαῖοι πρὸς φιλοσόφους ἂν θέλῃς γνῶναι, ἄκουσον. Ἰταλικὸς ὁ μάλιστα δοκῶν αὐτῶν φιλόσοφος εἶναι παρόντος ποτέ μου χαλεπήνας τοῖς ἰδίοις, ὡς ἀνήκεστα πάσχων, <q>οὐ δύναμαι,</q> ἔφη, <q>φέρειν· ἀπόλλυτέ με, ποιήσετέ με τοιοῦτον γενέσθαι,</q> δείξας ἐμέ.</div></article>
+</div>
+
+<nav class="chapter-nav chapter-nav-bottom"><a href="3-07.html">ἡ προτέρα διατριβή</a><a class="chapter-home" href="../index.html">Ἀρχή</a><a href="3-09.html">ἡ ἑπομένη διατριβή</a></nav>

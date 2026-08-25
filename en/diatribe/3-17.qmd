@@ -1,0 +1,41 @@
+---
+title: "Discourse III.17 — On Providence"
+lang: en
+pagetitle: "Discourse III.17 — On Providence — Epictetus, Discourses"
+title-prefix: ""
+description-meta: "Discourse III.17: “On Providence”. The Discourses of Epictetus, in George Long’s English translation, with his notes."
+sidebar: en
+---
+
+<!--
+FILE GENERATO. NON MODIFICARE A MANO.
+
+Modificare invece:
+- translation/it/**.md      per il testo e i titoli italiani
+- data/intro.json           per le note introduttive delle home page
+- tools/site_config.py      per lingue, testi dell'interfaccia, URL
+- styles.css                per l'aspetto grafico
+
+Poi eseguire:
+    run.bat
+-->
+
+
+<div class="diatribe-meta">Book III · 2 paragraphs · <span class="canonical" title="Canonical reference">III 17</span></div>
+
+<nav class="chapter-nav"><a href="3-16.html">Previous discourse</a><a class="chapter-home" href="../index.html">Home</a><a href="3-18.html">Next discourse</a></nav>
+
+<div class="paragraph-list">
+<p>WHEN you make any charge against Providence, consider, and you will learn that the thing has happened according to reason.—Yes, but the unjust man has the advantage.— In what?—In money.—Yes, for he is superior to you in this, that he flatters, is free from shame, and is watchful. What is the wonder? But see if he has the advantage over you in being faithful, in being modest: for you will not find it to be so; but wherein you are superior, there you will find that you have the advantage. And I once said to a man who was vexed because Philostorgus was fortunate: Would you choose to lie with Sura?<a class="note-ref" id="noteref-1" href="#note-1" role="doc-noteref" aria-label="note 1"><sup>1</sup></a>— May it never happen, he replied, that this day should come? Why then are you vexed, if he receives something in return for that which he sells; or how can you consider him happy who acquires those things by such means as you abominate; or what wrong does Providence, if he gives the better things to the better men? Is it not better to be modest than to be rich?—He admitted this—Why are you vexed then, man, when you possess the better thing? Remember then always and have in readiness the truth, that this is a law of nature, that the superior has an advantage over the inferior in that in which he is superior; and you will never be vexed.</p>
+<p>But my wife treats me badly.—Well, if any man asks you what this is, say, my wife treats me badly—Is there then nothing more? Nothing.—My father gives me nothing–[What is this? my father gives me nothing—Is there nothing else then?—Nothing]<a class="note-ref" id="noteref-2" href="#note-2" role="doc-noteref" aria-label="note 2"><sup>2</sup></a>: but to say that this is an evil is something which must be added to it externally, and falsely added. For this reason we must not get rid of poverty, but of the opinion about poverty, and then we shall be happy.</p>
+</div>
+
+<section class="notes">
+<h2>Notes</h2>
+<ol class="note-list">
+<li class="note" id="note-1" role="doc-endnote"><p>Upton suggests that Sura may be Palfurius (Juvenal, iv. 53), or Palfurius Sura (Suetonius, <cite>Domitian, c. 13</cite>).</p><a class="note-back" href="#noteref-1" aria-label="back to the text">&#8617;</a></li>
+<li class="note" id="note-2" role="doc-endnote"><p>See Schweig.’s note.</p><a class="note-back" href="#noteref-2" aria-label="back to the text">&#8617;</a></li>
+</ol>
+</section>
+
+<nav class="chapter-nav chapter-nav-bottom"><a href="3-16.html">Previous discourse</a><a class="chapter-home" href="../index.html">Home</a><a href="3-18.html">Next discourse</a></nav>

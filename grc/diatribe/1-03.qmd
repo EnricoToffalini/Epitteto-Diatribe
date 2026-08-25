@@ -1,0 +1,40 @@
+---
+title: "Διατριβὴ Αʹ.γʹ — πῶς ἄν τις ἀπὸ τοῦ τὸν θεὸν πατέρα εἶναι τῶν ἀνθρώπων ἐπὶ τὰ ἑξῆς ἐπέλθοι"
+lang: grc
+pagetitle: "Διατριβὴ Αʹ.γʹ — πῶς ἄν τις ἀπὸ τοῦ τὸν θεὸν πατέρα εἶναι τῶν ἀνθρώπων ἐπὶ τὰ ἑξῆς ἐπέλθοι — Ἐπικτήτου Διατριβαί"
+title-prefix: ""
+description-meta: "Διατριβὴ Αʹ.γʹ· «πῶς ἄν τις ἀπὸ τοῦ τὸν θεὸν πατέρα εἶναι τῶν ἀνθρώπων ἐπὶ τὰ ἑξῆς ἐπέλθοι». Ἀρριανοῦ τῶν Ἐπικτήτου Διατριβῶν, τὸ ἑλληνικὸν κείμενον."
+sidebar: grc
+---
+
+<!--
+FILE GENERATO. NON MODIFICARE A MANO.
+
+Modificare invece:
+- translation/it/**.md      per il testo e i titoli italiani
+- data/intro.json           per le note introduttive delle home page
+- tools/site_config.py      per lingue, testi dell'interfaccia, URL
+- styles.css                per l'aspetto grafico
+
+Poi eseguire:
+    run.bat
+-->
+
+
+<div class="diatribe-meta">Βιβλίον Αʹ · 9 τμήματα · <span class="canonical" title="Παραπομπή">I 3</span></div>
+
+<nav class="chapter-nav"><a href="1-02.html">ἡ προτέρα διατριβή</a><a class="chapter-home" href="../index.html">Ἀρχή</a><a href="1-04.html">ἡ ἑπομένη διατριβή</a></nav>
+
+<div class="section-list">
+<article class="section" id="s-1"><a class="ref" href="#s-1">1</a><div class="section-text" lang="grc">εἴ τις τῷ δόγματι τούτῳ συμπαθῆσαι κατʼ ἀξίαν δύναιτο, ὅτι γεγόναμεν ὑπὸ τοῦ θεοῦ πάντες προηγουμένως καὶ ὁ θεὸς πατήρ ἐστι τῶν τʼ ἀνθρώπων καὶ τῶν θεῶν, οἶμαι ὅτι οὐδὲν ἀγεννὲς οὐδὲ ταπεινὸν ἐνθυμηθήσεται περὶ ἑαυτοῦ.</div></article>
+<article class="section" id="s-2"><a class="ref" href="#s-2">2</a><div class="section-text" lang="grc">ἀλλʼ ἂν μὲν Καῖσαρ εἰσποιήσηταί σε, οὐδείς σου τὴν ὀφρῦν βαστάσει· ἂν δὲ γνῷς, ὅτι τοῦ Διὸς υἱὸς εἶ, οὐκ ἐπαρθήσῃ;</div></article>
+<article class="section" id="s-3"><a class="ref" href="#s-3">3</a><div class="section-text" lang="grc">νῦν δʼ οὐ ποιοῦμεν, ἀλλʼ ἐπειδὴ δύο ταῦτα ἐν τῇ γενέσει ἡμῶν ἐγκαταμέμικται, τὸ σῶμα μὲν κοινὸν πρὸς τὰ ζῷα, ὁ λόγος δὲ καὶ ἡ γνώμη κοινὸν πρὸς τοὺς θεούς, ἄλλοι μὲν ἐπὶ ταύτην ἀποκλίνουσιν τὴν συγγένειαν τὴν ἀτυχῆ καὶ νεκράν, ὀλίγοι δέ τινες ἐπὶ τὴν θείαν καὶ μακαρίαν.</div></article>
+<article class="section" id="s-4"><a class="ref" href="#s-4">4</a><div class="section-text" lang="grc">ἐπειδὴ τοίνυν ἀνάγκη πάνθʼ ὁντινοῦν οὕτως ἑκάστῳ χρῆσθαι ὡς ἂν περὶ αὐτοῦ ὑπολάβῃ, ἐκεῖνοι μὲν οἱ ὀλίγοι, ὅσοι πρὸς πίστιν οἴονται γεγονέναι καὶ πρὸς αἰδῶ καὶ πρὸς ἀσφάλειαν τῆς χρήσεως τῶν φαντασιῶν, οὐδὲν ταπεινὸν οὐδʼ ἀγε<span class="ed-add">&lang;ν&rang;</span>νὲς ἐνθυμοῦνται περὶ αὑτῶν, οἱ δὲ πολλοὶ τἀναντία.</div></article>
+<article class="section" id="s-5"><a class="ref" href="#s-5">5</a><div class="section-text" lang="grc"><q>τί γὰρ εἰμί; ταλαίπωρον ἀνθρωπάριον</q> καὶ <q>τὰ δύστηνά μου σαρκίδια.</q></div></article>
+<article class="section" id="s-6"><a class="ref" href="#s-6">6</a><div class="section-text" lang="grc">τῷ μὲν ὄντι δύστηνα, ἀλλὰ ἔχεις τι καὶ κρεῖσσον τῶν σαρκιδίων. τί οὖν ἀφεὶς ἐκεῖνο τούτοις προστέτηκας;</div></article>
+<article class="section" id="s-7"><a class="ref" href="#s-7">7</a><div class="section-text" lang="grc">διὰ ταύτην τὴν συγγένειαν οἱ μὲν ἀποκλίναντες λύκοις ὅμοιοι γινόμεθα, ἄπιστοι καὶ ἐπίβουλοι καὶ βλαβεροί, οἱ δὲ λέουσιν, ἄγριοι καὶ θηριώδεις καὶ ἀνήμεροι, οἱ πλείους δʼ ἡμῶν ἀλώπεκες καὶ ὡς ἐν ζῴοις ἀτυχήματα.</div></article>
+<article class="section" id="s-8"><a class="ref" href="#s-8">8</a><div class="section-text" lang="grc">τί γάρ ἐστιν ἄλλο λοίδορος καὶ κακοήθης ἄνθρωπος ἢ ἀλώπηξ ἢ τί ἄλλο ἀτυχέστερον καὶ ταπεινότερον;</div></article>
+<article class="section" id="s-9"><a class="ref" href="#s-9">9</a><div class="section-text" lang="grc">ὁρᾶτε οὖν καὶ προσέχετε, μή τι τούτων ἀποβῆτε τῶν ἀτυχημάτων.</div></article>
+</div>
+
+<nav class="chapter-nav chapter-nav-bottom"><a href="1-02.html">ἡ προτέρα διατριβή</a><a class="chapter-home" href="../index.html">Ἀρχή</a><a href="1-04.html">ἡ ἑπομένη διατριβή</a></nav>

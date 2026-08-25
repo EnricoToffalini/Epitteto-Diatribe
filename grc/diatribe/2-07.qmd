@@ -1,0 +1,45 @@
+---
+title: "Διατριβὴ Βʹ.ζʹ — πῶς μαντευτέον"
+lang: grc
+pagetitle: "Διατριβὴ Βʹ.ζʹ — πῶς μαντευτέον — Ἐπικτήτου Διατριβαί"
+title-prefix: ""
+description-meta: "Διατριβὴ Βʹ.ζʹ· «πῶς μαντευτέον». Ἀρριανοῦ τῶν Ἐπικτήτου Διατριβῶν, τὸ ἑλληνικὸν κείμενον."
+sidebar: grc
+---
+
+<!--
+FILE GENERATO. NON MODIFICARE A MANO.
+
+Modificare invece:
+- translation/it/**.md      per il testo e i titoli italiani
+- data/intro.json           per le note introduttive delle home page
+- tools/site_config.py      per lingue, testi dell'interfaccia, URL
+- styles.css                per l'aspetto grafico
+
+Poi eseguire:
+    run.bat
+-->
+
+
+<div class="diatribe-meta">Βιβλίον Βʹ · 14 τμήματα · <span class="canonical" title="Παραπομπή">II 7</span></div>
+
+<nav class="chapter-nav"><a href="2-06.html">ἡ προτέρα διατριβή</a><a class="chapter-home" href="../index.html">Ἀρχή</a><a href="2-08.html">ἡ ἑπομένη διατριβή</a></nav>
+
+<div class="section-list">
+<article class="section" id="s-1"><a class="ref" href="#s-1">1</a><div class="section-text" lang="grc">διὰ τὸ ἀκαίρως μαντεύεσθαι πολλοὶ καθήκοντα πολλὰ παραλείπομεν.</div></article>
+<article class="section" id="s-2"><a class="ref" href="#s-2">2</a><div class="section-text" lang="grc">τί γὰρ ὁ μάντις δύναται πλέον ἰδεῖν θανάτου ἢ κινδύνου ἢ νόσου ἢ ὅλως τῶν τοιούτων;</div></article>
+<article class="section" id="s-3"><a class="ref" href="#s-3">3</a><div class="section-text" lang="grc">ἂν οὖν δέῃ κινδυνεῦσαι ὑπὲρ τοῦ φίλου, ἂν δὲ καὶ ἀποθανεῖν ὑπὲρ αὐτοῦ καθήκῃ, ποῦ μοι καιρὸς ἔτι μαντεύεσθαι; οὐκ ἔχω τὸν μάντιν ἔσω τὸν εἰρηκότα μοι τὴν οὐσίαν τοῦ ἀγαθοῦ καὶ τοῦ κακοῦ, τὸν ἐξηγημένον τὰ σημεῖα ἀμφοτέρων;</div></article>
+<article class="section" id="s-4"><a class="ref" href="#s-4">4</a><div class="section-text" lang="grc">τί οὖν ἔτι χρείαν ἔχω τῶν σπλάγχνων ἢ τῶν οἰωνῶν; ἀλλʼ ἀνέχομαι λέγοντος ἐκείνου <q>συμφέρει σοι;</q> τί γάρ ἐστι συμφέρον οἶδεν;</div></article>
+<article class="section" id="s-5"><a class="ref" href="#s-5">5</a><div class="section-text" lang="grc">τί ἐστιν ἀγαθὸν οἶδεν; μεμάθηκεν ὥσπερ τὰ σημεῖα τῶν σπλάγχνων οὕτως σημεῖα τίνα ἀγαθῶν καὶ κακῶν; εἰ γὰρ τούτων οἶδεν σημεῖα, καὶ καλῶν καὶ αἰσχρῶν οἶδεν καὶ δικαίων καὶ ἀδίκων.</div></article>
+<article class="section" id="s-6"><a class="ref" href="#s-6">6</a><div class="section-text" lang="grc">ἄνθρωπε, σύ μοι λέγε τί σημαίνεται, ζωὴ ἢ θάνατος, πενία ἢ πλοῦτος· πότερον δὲ συμφέρει ταῦτα ἢ ἀσύμφορά ἐστιν, σοῦ μέλλω πυνθάνεσθαι;</div></article>
+<article class="section" id="s-7"><a class="ref" href="#s-7">7</a><div class="section-text" lang="grc">διὰ τί ἐν γραμματικοῖς οὐ λέγεις; ἐνθάδʼ οὖν, ὅπου πάντες ἄνθρωποι πλανώμεθα καὶ πρὸς ἀλλήλους μαχόμεθα;</div></article>
+<article class="section" id="s-8"><a class="ref" href="#s-8">8</a><div class="section-text" lang="grc">διὰ τοῦτο ἡ γυνὴ καλῶς εἶπεν ἡ πέμψαι θέλουσα τῇ Γρατίλλῃ ἐξωρισμένῃ τὸ πλοῖον τῶν ἐπιμηνίων κατὰ τὸν εἰπόντα ὅτι <q>ἀφαιρήσεται αὐτὰ Δομιτιανὸς</q> <q>μᾶλλον θέλω,</q> φησίν, <q>ἵνʼ ἐκεῖνος αὐτὰ ἀφέληται ἢ ἵνʼ ἐγὼ μὴ πέμψω.</q></div></article>
+<article class="section" id="s-9"><a class="ref" href="#s-9">9</a><div class="section-text" lang="grc">τί οὖν ἡμᾶς ἐπὶ τὸ οὕτω συνεχῶς μαντεύεσθαι ἄγει; ἡ δειλία, τὸ φοβεῖσθαι τὰς ἐκβάσεις. διὰ τοῦτο κολακεύομεν τοὺς μάντεις· <q>κληρονομήσω, κύριε, τὸν πατέρα;</q> <q>ἴδωμεν· ἐπεκθυσώμεθα.</q> <q>ναί, κύριε, ὡς ἡ τύχη θέλει.</q> εἶτʼ ἂν εἴπῃ <q>κληρονομήσεις,</q> ὡς παρʼ αὐτοῦ τὴν κληρονομίαν εἰληφότες εὐχαριστοῦμεν αὐτῷ. διὰ τοῦτο κἀκεῖνοι λοιπὸν ἐμπαίζουσιν ἡμῖν.</div></article>
+<article class="section" id="s-10"><a class="ref" href="#s-10">10</a><div class="section-text" lang="grc">τί οὖν; δεῖ δίχα ὀρέξεως ἔρχεσθαι καὶ ἐκκλίσεως, ὡς ὁ ὁδοιπόρος πυνθάνεται παρὰ τοῦ ἀπαντήσαντος, ποτέρα<span class="ed-del">[ν]</span> τῶν ὁδῶν φέρει, οὐκ ἔχων ὄρεξιν πρὸς τὸ τὴν δεξιὰν μᾶλλον φέρειν ἢ τὴν ἀριστεράν· οὐ γὰρ τούτων τινὰ ἀπελθεῖν θέλει, ἀλλὰ τὴν φέρουσαν.</div></article>
+<article class="section" id="s-11"><a class="ref" href="#s-11">11</a><div class="section-text" lang="grc">οὕτως ἔδει καὶ ἐπὶ τὸν θεὸν ἔρχεσθαι ὡς ὁδηγόν, ὡς τοῖς ὀφθαλμοῖς χρώμεθα, οὐ παρακαλοῦντες αὐτοὺς ἵνα τὰ τοιαῦτα μᾶλλον ἡμῖν δεικνύωσιν, ἀλλʼ οἷα ἐνδείκνυνται τούτων τὰς φαντασίας δεχόμενοι.</div></article>
+<article class="section" id="s-12"><a class="ref" href="#s-12">12</a><div class="section-text" lang="grc">νῦν δὲ τρέμοντες τὸ ὀρνιθάριον κρατοῦμεν καὶ τὸν θεὸν ἐπικαλούμενοι δεόμεθα αὐτοῦ·</div></article>
+<article class="section" id="s-13"><a class="ref" href="#s-13">13</a><div class="section-text" lang="grc"><q>κύριε, ἐλέησον· ἐπίτρεψόν μοι ἐξελθεῖν.</q> ἀνδράποδον, ἄλλο γάρ τι θέλεις ἢ τὸ ἄμεινον; ἄλλο οὖν τι ἄμεινον ἢ τὸ τῷ θεῷ δοκοῦν;</div></article>
+<article class="section" id="s-14"><a class="ref" href="#s-14">14</a><div class="section-text" lang="grc">τί τὸ ὅσον ἐπὶ σοὶ διαφθείρεις τὸν κριτήν, παράγεις τὸν σύμβουλον;</div></article>
+</div>
+
+<nav class="chapter-nav chapter-nav-bottom"><a href="2-06.html">ἡ προτέρα διατριβή</a><a class="chapter-home" href="../index.html">Ἀρχή</a><a href="2-08.html">ἡ ἑπομένη διατριβή</a></nav>

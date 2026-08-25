@@ -1,0 +1,41 @@
+---
+title: "Διατριβὴ Γʹ.κεʹ — πρὸς τοὺς ἀποπίπτοντας ὧν προέθεντο"
+lang: grc
+pagetitle: "Διατριβὴ Γʹ.κεʹ — πρὸς τοὺς ἀποπίπτοντας ὧν προέθεντο — Ἐπικτήτου Διατριβαί"
+title-prefix: ""
+description-meta: "Διατριβὴ Γʹ.κεʹ· «πρὸς τοὺς ἀποπίπτοντας ὧν προέθεντο». Ἀρριανοῦ τῶν Ἐπικτήτου Διατριβῶν, τὸ ἑλληνικὸν κείμενον."
+sidebar: grc
+---
+
+<!--
+FILE GENERATO. NON MODIFICARE A MANO.
+
+Modificare invece:
+- translation/it/**.md      per il testo e i titoli italiani
+- data/intro.json           per le note introduttive delle home page
+- tools/site_config.py      per lingue, testi dell'interfaccia, URL
+- styles.css                per l'aspetto grafico
+
+Poi eseguire:
+    run.bat
+-->
+
+
+<div class="diatribe-meta">Βιβλίον Γʹ · 10 τμήματα · <span class="canonical" title="Παραπομπή">III 25</span></div>
+
+<nav class="chapter-nav"><a href="3-24.html">ἡ προτέρα διατριβή</a><a class="chapter-home" href="../index.html">Ἀρχή</a><a href="3-26.html">ἡ ἑπομένη διατριβή</a></nav>
+
+<div class="section-list">
+<article class="section" id="s-1"><a class="ref" href="#s-1">1</a><div class="section-text" lang="grc">σκέψαι, ὧν προέθου ἀρχόμενος, τίνων μὲν ἐκράτησας, τίνων δʼ οὔ, καὶ πῶς ἐφʼ οἷς μὲν εὐφραίνῃ ἀναμιμνῃσκόμενος, ἐφʼ οἷς δʼ ἄχθῃ, καὶ εἰ δυνατόν, ἀνάλαβε κἀκεῖνα ὧν ἀπώλισθες.</div></article>
+<article class="section" id="s-2"><a class="ref" href="#s-2">2</a><div class="section-text" lang="grc">οὐ γὰρ ἀποκνητέον τὸν ἀγῶνα τὸν μέγιστον ἀγωνιζομένοις, ἀλλὰ καὶ πληγὰς ληπτέον·</div></article>
+<article class="section" id="s-3"><a class="ref" href="#s-3">3</a><div class="section-text" lang="grc">οὐ γὰρ ὑπὲρ πάλης καὶ παγκρατίου ὁ ἀγὼν πρόκειται, οὗ καὶ τυχόντι καὶ μὴ τυχόντι ἔξεστιν μὲν πλείστου ἀξίῳ, ἔξεστι δὲ ὀλίγου εἶναι καὶ νὴ Δία ἔξεστιν μὲν εὐτυχεστάτῳ, ἔξεστι δὲ κακοδαιμονεστάτῳ εἶναι, ἀλλʼ ὑπὲρ αὐτῆς εὐτυχίας καὶ εὐδαιμονίας.</div></article>
+<article class="section" id="s-4"><a class="ref" href="#s-4">4</a><div class="section-text" lang="grc">τί οὖν; οὐδʼ ἂν ἀπαυδήσωμεν ἐνταῦθα, κωλύει τις πάλιν ἀγωνίζεσθαι οὐδὲ δεῖ περιμεῖναι τετραετίαν ἄλλην, ἵνʼ ἔλθῃ ἄλλα Ὀλύμπια, ἀλλʼ εὐθὺς ἀναλαβόντι καὶ ἀνακτησαμένῳ ἑαυτὸν καὶ τὴν αὐτὴν εἰσφέροντι προθυμίαν ἔξεστιν ἀγωνίζεσθαι· κἂν πάλιν ἀπείπῃς, πάλιν ἔξεστιν, κἂν ἅπαξ νικήσῃς, ὅμοιος εἶ τῷ μηδέποτε ἀπειπόντι.</div></article>
+<article class="section" id="s-5"><a class="ref" href="#s-5">5</a><div class="section-text" lang="grc">μόνον μὴ ὑπὸ ἔθους τοῦ αὐτοῦ ἡδέως αὐτὸ ἄρξῃ ποιεῖν· καὶ λοιπὸν ὡς κακὸς ἀθλητὴς περιέρχῃ νικώμενος τὴν περίοδον ὅμοιος τοῖς ἀποφυγοῦσιν ὄρτυξιν.</div></article>
+<article class="section" id="s-6"><a class="ref" href="#s-6">6</a><div class="section-text" lang="grc"><q>ἡττᾷ με φαντασία παιδισκαρίου καλοῦ. τί γάρ; πρῴην οὐχ ἡττήθην;</q> <q>προθυμία μοι γίνεται ψέξαι τινά. πρῴην γὰρ οὐκ ἔψεξα;</q></div></article>
+<article class="section" id="s-7"><a class="ref" href="#s-7">7</a><div class="section-text" lang="grc">οὕτως ἡμῖν λαλεῖς ὡς ἀζήμιος ἐξεληλυθώς, οἱονεί τις τῷ ἰατρῷ κωλύοντι λούσασθαι λέγοι <q>πρῴην γὰρ οὐκ ἐλουσάμην;</q> ἂν οὖν ὁ ἰατρὸς αὐτῷ ἔχῃ λέγειν <q>ἄγε, λουσάμενος οὖν τί ἔπαθες; οὐκ ἐπύρεξας; οὐκ ἐκεφαλάλγησας;</q></div></article>
+<article class="section" id="s-8"><a class="ref" href="#s-8">8</a><div class="section-text" lang="grc">καὶ σὺ ψέξας πρῴην τινὰ οὐ κακοήθους ἔργον ἔπραξας; οὐ φλυάρου; οὐκ ἔθρεψάς σου τὴν ἕξιν ταύτην παραβάλλων αὐτῇ τὰ οἰκεῖα ἔργα; ἡττηθεὶς δὲ τοῦ παιδισκαρίου ἀπῆλθες ἀζήμιος; τί οὖν τὰ πρῴην λέγεις;</div></article>
+<article class="section" id="s-9"><a class="ref" href="#s-9">9</a><div class="section-text" lang="grc">ἔδει δʼ οἶμαι μεμνημένον, ὡς οἱ δοῦλοι τῶν πληγῶν, ἀπέχεσθαι τῶν αὐτῶν ἁμαρτημάτων.</div></article>
+<article class="section" id="s-10"><a class="ref" href="#s-10">10</a><div class="section-text" lang="grc">ἀλλʼ οὐχ ὅμοιον· ἐνταῦθα μὲν γὰρ ὁ πόνος τὴν μνήμην ποιεῖ, ἐπὶ δὲ τῶν ἁμαρτημάτων ποῖος πόνος, ποία ζημία; πότε γὰρ εἰθίσθης φεύγειν τὸ κακῶς ἐνεργῆσαι;</div></article>
+</div>
+
+<nav class="chapter-nav chapter-nav-bottom"><a href="3-24.html">ἡ προτέρα διατριβή</a><a class="chapter-home" href="../index.html">Ἀρχή</a><a href="3-26.html">ἡ ἑπομένη διατριβή</a></nav>

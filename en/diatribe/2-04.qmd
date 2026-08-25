@@ -1,0 +1,42 @@
+---
+title: "Discourse II.4 — Against a person who had once been detected in adultery"
+lang: en
+pagetitle: "Discourse II.4 — Against a person who had once been detected in adultery — Epictetus, Discourses"
+title-prefix: ""
+description-meta: "Discourse II.4: “Against a person who had once been detected in adultery”. The Discourses of Epictetus, in George Long’s English translation, with his notes."
+sidebar: en
+---
+
+<!--
+FILE GENERATO. NON MODIFICARE A MANO.
+
+Modificare invece:
+- translation/it/**.md      per il testo e i titoli italiani
+- data/intro.json           per le note introduttive delle home page
+- tools/site_config.py      per lingue, testi dell'interfaccia, URL
+- styles.css                per l'aspetto grafico
+
+Poi eseguire:
+    run.bat
+-->
+
+
+<div class="diatribe-meta">Book II · 2 paragraphs · <span class="canonical" title="Canonical reference">II 4</span></div>
+
+<nav class="chapter-nav"><a href="2-03.html">Previous discourse</a><a class="chapter-home" href="../index.html">Home</a><a href="2-05.html">Next discourse</a></nav>
+
+<div class="paragraph-list">
+<p>As Epictetus was saying that man is formed for fidelity, and that he who subverts fidelity subverts the peculiar characteristic of men, there entered one of those who are considered to be men of letters, who had once been detected in adultery in the city. Then Epictetus continued, But if we lay aside this fidelity for which we are formed and make designs against our neighbour’s wife, what are we doing? What else but destroying and overthrowing? Whom, the man of fidelity, the man of modesty, the man of sanctity. Is this all? And are we not overthrowing neighbourhood, and friendship, and the community; and in what place are we putting ourselves? How shall I consider you, man? As a neighbour, as a friend? What kind of one? As a citizen? Wherein shall I trust you? So if you were an utensil so worthless that a man could not use you, you would be pitched out on the dung heaps, and no man would pick you up. But if being a man you are unable to fill any place which befits a man, what shall we do with you? For suppose that you cannot hold the place of a friend, can you hold the place of a slave? And who will trust you? Are you not then content that you also should be pitched somewhere on a dung heap, as a useless utensil, and a bit of dung? Then will you say, no man cares for me, a man of letters? They do not, because you are bad and useless. It is just as if the wasps complained because no man cares for them, but all fly from them, and if a man can, he strikes them and knocks them down. You have such a sting that you throw into trouble and pain any man that you wound with it. What would you have us do with you? You have no place where you can be put.</p>
+<p>What then, are not women common by nature?<a class="note-ref" id="noteref-1" href="#note-1" role="doc-noteref" aria-label="note 1"><sup>1</sup></a> So I say also; for a little pig is common to all the invited guests, but when the portions have been distributed, go, if you think it right, and snatch up the portion of him who reclines next to you, or slily steal it, or place your hand down by it and lay hold of it, and if you can not tear away a bit of the meat, grease your fingers and lick them. A fine companion over cups, and Socratic guest indeed Well, is not the theatre common to the citizens? When then they have taken their seats, come, if you think proper, and eject one of them. In this way women also are common by nature. When then the legislator, like the master of a feast, has distributed them, will you not also look for your own portion and not filch and handle what belongs to another. But I am a man of letters and understand Archedemus.<a class="note-ref" id="noteref-2" href="#note-2" role="doc-noteref" aria-label="note 2"><sup>2</sup></a>—Understand Archedemus then, and be an adulterer, and faithless, and instead of a man, be a wolf or an ape: for what is the difference?<a class="note-ref" id="noteref-3" href="#note-3" role="doc-noteref" aria-label="note 3"><sup>3</sup></a></p>
+</div>
+
+<section class="notes">
+<h2>Notes</h2>
+<ol class="note-list">
+<li class="note" id="note-1" role="doc-endnote"><p>It is not clear what is meant by women being common by nature In any rational sense. Zeno and his school said (Diogenes Laertius, vii.; Zeno, p. 195. London, 1664): <q>it is their opinion also that the women should be common among the wise, so that any man should use any woman, as Zeno says in his Polity, and Chrysippus in the book on Polity, and Diogenes the Cynic and Plato; and we shall love all the children equally like fathers, and the jealousy about adultery will be removed.</q> These wise men knew little about human nature, if they taught such doctrines.</p><a class="note-back" href="#noteref-1" aria-label="back to the text">&#8617;</a></li>
+<li class="note" id="note-2" role="doc-endnote"><p>Archedemus was a Stoic philosopher of Tarsus. We know little about him.</p><a class="note-back" href="#noteref-2" aria-label="back to the text">&#8617;</a></li>
+<li class="note" id="note-3" role="doc-endnote"><p>A man may be a philosopher or pretend to be; and at the same time he may be a beat.</p><a class="note-back" href="#noteref-3" aria-label="back to the text">&#8617;</a></li>
+</ol>
+</section>
+
+<nav class="chapter-nav chapter-nav-bottom"><a href="2-03.html">Previous discourse</a><a class="chapter-home" href="../index.html">Home</a><a href="2-05.html">Next discourse</a></nav>

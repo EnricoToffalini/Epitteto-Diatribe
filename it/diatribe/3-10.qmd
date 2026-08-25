@@ -1,0 +1,51 @@
+---
+title: "Diatriba III.10 — Come bisogna sopportare le malattie"
+lang: it
+pagetitle: "Diatriba III.10 — Come bisogna sopportare le malattie — Epitteto, Diatribe"
+title-prefix: ""
+description-meta: "Diatriba III.10: «Come bisogna sopportare le malattie». Le Diatribe di Epitteto raccolte da Arriano, in traduzione italiana."
+sidebar: it
+---
+
+<!--
+FILE GENERATO. NON MODIFICARE A MANO.
+
+Modificare invece:
+- translation/it/**.md      per il testo e i titoli italiani
+- data/intro.json           per le note introduttive delle home page
+- tools/site_config.py      per lingue, testi dell'interfaccia, URL
+- styles.css                per l'aspetto grafico
+
+Poi eseguire:
+    run.bat
+-->
+
+
+<div class="diatribe-meta">Libro III · 20 sezioni · <span class="canonical" title="Riferimento canonico">III 10</span></div>
+
+<nav class="chapter-nav"><a href="3-09.html">Diatriba precedente</a><a class="chapter-home" href="../index.html">Home</a><a href="3-11.html">Diatriba successiva</a></nav>
+
+<div class="section-list">
+<article class="section" id="s-1"><a class="ref" href="#s-1">1</a><div class="section-text">Quando si presenta l’occasione di applicare un certo principio, bisogna averlo a portata di mano: a pranzo, quelli che riguardano il pranzo; al bagno, quelli che riguardano il bagno; a letto, quelli che riguardano il letto.</div></article>
+<article class="section" id="s-2"><a class="ref" href="#s-2">2</a><div class="section-text">«Non accogliere il sonno sulle morbide palpebre prima di aver ripercorso una per una le azioni della giornata:</div></article>
+<article class="section" id="s-3"><a class="ref" href="#s-3">3</a><div class="section-text">“Dove ho trasgredito? Che cosa ho fatto? Quale dovere non ho compiuto?” Comincia da qui e passa tutto in rassegna; poi rimproverati per ciò che hai fatto male e rallegrati di ciò che hai fatto bene.»</div></article>
+<article class="section" id="s-4"><a class="ref" href="#s-4">4</a><div class="section-text">E questi versi bisogna conoscerli per usarli, non per declamarli come il «Peana, Apollo!». Così, quando hai la febbre, tieni a portata di mano i principi adatti a questa situazione.</div></article>
+<article class="section" id="s-5"><a class="ref" href="#s-5">5</a><div class="section-text">Non bisogna, appena ci viene la febbre, lasciar perdere tutto e dimenticare: «Se continuo ancora a filosofare, accada quel che vuole. Devo andarmene chissà dove a curare questo corpicino»</div></article>
+<article class="section" id="s-6"><a class="ref" href="#s-6">6</a><div class="section-text">— come se la febbre non potesse venire anche là. E che cosa significa filosofare? Non è forse prepararsi a ciò che accade? Non ti accorgi dunque che stai dicendo qualcosa del genere: «Se continuo ancora a prepararmi a sopportare con serenità ciò che accade, accada quel che vuole»? È come se uno, dopo aver preso dei colpi, smettesse di praticare il pancrazio.</div></article>
+<article class="section" id="s-7"><a class="ref" href="#s-7">7</a><div class="section-text">Là però si può abbandonare la gara e non farsi più colpire; qui invece, se abbandoniamo la filosofia, che vantaggio ne ricaviamo? Che cosa bisogna dunque dirsi davanti a ciascuna difficoltà? «È per questo che mi allenavo, è per questo che mi esercitavo.»</div></article>
+<article class="section" id="s-8"><a class="ref" href="#s-8">8</a><div class="section-text">Dio ti dice: «Dammi una prova che ti sei allenato secondo le regole, che hai mangiato quanto dovevi, che ti sei esercitato, che hai ascoltato l’allenatore». E poi, proprio al momento della prova, ti rammollisci? Ora è il momento di avere la febbre: che sia una buona febbre. Di avere sete: che sia una buona sete. Di avere fame: che sia una buona fame.</div></article>
+<article class="section" id="s-9"><a class="ref" href="#s-9">9</a><div class="section-text">Non dipende forse da te? Chi te lo impedirà? Il medico potrà impedirti di bere, ma non può impedirti di avere sete bene; potrà impedirti di mangiare, ma non può impedirti di avere fame bene.</div></article>
+<article class="section" id="s-10"><a class="ref" href="#s-10">10</a><div class="section-text">«Ma non posso dedicarmi allo studio.» — E perché ti dedichi allo studio? Schiavo, non è forse per vivere serenamente? Non è per essere stabile? Non è per avere una disposizione conforme a natura e condurti così nella vita?</div></article>
+<article class="section" id="s-11"><a class="ref" href="#s-11">11</a><div class="section-text">Che cosa impedisce a chi ha la febbre di conservare la facoltà direttiva conforme a natura? Qui sta la verifica della cosa, la prova di chi filosofa. Anche questo infatti è una parte della vita, come una passeggiata, un viaggio per mare, un viaggio per terra: così anche la febbre.</div></article>
+<article class="section" id="s-12"><a class="ref" href="#s-12">12</a><div class="section-text">Forse mentre passeggi leggi? — No. — Così neppure mentre hai la febbre. Ma se passeggi bene, fai ciò che compete a chi passeggia; se hai bene la febbre, fai ciò che compete a chi ha la febbre.</div></article>
+<article class="section" id="s-13"><a class="ref" href="#s-13">13</a><div class="section-text">Che cosa significa avere bene la febbre? Non accusare né Dio né un uomo; non lasciarsi opprimere da ciò che accade; accogliere la morte bene e serenamente; fare ciò che viene prescritto; quando entra il medico, non temere ciò che dirà e, se dice «Stai bene», non rallegrarti troppo. Che bene ti ha annunciato? Quando eri sano, infatti, quale bene possedevi per questo?</div></article>
+<article class="section" id="s-14"><a class="ref" href="#s-14">14</a><div class="section-text">E se dice «Stai male», non perderti d’animo. Che cosa significa infatti stare male? Avvicinarsi al momento in cui l’anima si separa dal corpo. Che cosa c’è dunque di terribile? Se non ti avvicini ora, non ti avvicinerai più tardi? Forse il mondo sta per essere sconvolto quando morirai?</div></article>
+<article class="section" id="s-15"><a class="ref" href="#s-15">15</a><div class="section-text">Perché dunque aduli il medico? Perché dici: «Se vuoi tu, signore, starò bene»? Perché gli dai occasione di inorgoglirsi? Non gli attribuisci invece il valore che gli spetta, come al calzolaio per il piede, al falegname per la casa, così al medico per il corpicino, che non è mio ed è per natura cosa morta? Questo è il momento di mettere in pratica tali principi per chi ha la febbre; se li compie, ha ciò che gli spetta.</div></article>
+<article class="section" id="s-16"><a class="ref" href="#s-16">16</a><div class="section-text">Non è infatti compito del filosofo custodire queste cose esterne — il vinello, l’olietto o il corpicino — ma che cosa? La propria facoltà direttiva. E le cose esterne? Occuparsene soltanto fino al punto di non comportarsi irragionevolmente rispetto a esse.</div></article>
+<article class="section" id="s-17"><a class="ref" href="#s-17">17</a><div class="section-text">Dove resta dunque spazio per la paura? Dove per l’ira? Dove per il timore riguardo alle cose altrui, a cose che non valgono nulla?</div></article>
+<article class="section" id="s-18"><a class="ref" href="#s-18">18</a><div class="section-text">Bisogna infatti avere a portata di mano questi due principi: che al di fuori della scelta morale nulla è bene o male, e che non bisogna pretendere di guidare gli avvenimenti, ma seguirli.</div></article>
+<article class="section" id="s-19"><a class="ref" href="#s-19">19</a><div class="section-text">«Mio fratello non avrebbe dovuto trattarmi così.» No: questo lo vedrà lui. Io invece, comunque mi tratti, userò come si deve ciò che riguarda il mio rapporto con lui.</div></article>
+<article class="section" id="s-20"><a class="ref" href="#s-20">20</a><div class="section-text">Questo infatti è mio, quello è altrui; questo nessuno può impedirlo, quello può essere impedito.</div></article>
+</div>
+
+<nav class="chapter-nav chapter-nav-bottom"><a href="3-09.html">Diatriba precedente</a><a class="chapter-home" href="../index.html">Home</a><a href="3-11.html">Diatriba successiva</a></nav>

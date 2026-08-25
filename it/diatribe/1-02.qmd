@@ -1,0 +1,68 @@
+---
+title: "Diatriba I.2 — Come mantenere in ogni circostanza ciò che si addice al proprio ruolo"
+lang: it
+pagetitle: "Diatriba I.2 — Come mantenere in ogni circostanza ciò che si addice al proprio ruolo — Epitteto, Diatribe"
+title-prefix: ""
+description-meta: "Diatriba I.2: «Come mantenere in ogni circostanza ciò che si addice al proprio ruolo». Le Diatribe di Epitteto raccolte da Arriano, in traduzione italiana."
+sidebar: it
+---
+
+<!--
+FILE GENERATO. NON MODIFICARE A MANO.
+
+Modificare invece:
+- translation/it/**.md      per il testo e i titoli italiani
+- data/intro.json           per le note introduttive delle home page
+- tools/site_config.py      per lingue, testi dell'interfaccia, URL
+- styles.css                per l'aspetto grafico
+
+Poi eseguire:
+    run.bat
+-->
+
+
+<div class="diatribe-meta">Libro I · 37 sezioni · <span class="canonical" title="Riferimento canonico">I 2</span></div>
+
+<nav class="chapter-nav"><a href="1-01.html">Diatriba precedente</a><a class="chapter-home" href="../index.html">Home</a><a href="1-03.html">Diatriba successiva</a></nav>
+
+<div class="section-list">
+<article class="section" id="s-1"><a class="ref" href="#s-1">1</a><div class="section-text">Solo per l’essere razionale è insopportabile ciò che è irragionevole; ciò che è ragionevole, invece, è sopportabile.</div></article>
+<article class="section" id="s-2"><a class="ref" href="#s-2">2</a><div class="section-text">Le percosse non sono per natura insopportabili. — In che modo? — Guarda: gli Spartani si lasciano flagellare, perché hanno imparato che è ragionevole.</div></article>
+<article class="section" id="s-3"><a class="ref" href="#s-3">3</a><div class="section-text">— E impiccarsi non è forse insopportabile? — Quando uno arriva a ritenere che sia ragionevole, va e si impicca.</div></article>
+<article class="section" id="s-4"><a class="ref" href="#s-4">4</a><div class="section-text">In generale, se prestiamo attenzione, vedremo che l’essere vivente non è oppresso da nulla quanto da ciò che è irragionevole, e da nulla è attratto quanto da ciò che è ragionevole.</div></article>
+<article class="section" id="s-5"><a class="ref" href="#s-5">5</a><div class="section-text">Ma ciò che appare ragionevole o irragionevole varia da persona a persona, così come variano il bene e il male, ciò che è vantaggioso e ciò che è svantaggioso.</div></article>
+<article class="section" id="s-6"><a class="ref" href="#s-6">6</a><div class="section-text">Per questo abbiamo soprattutto bisogno di educazione: per imparare ad applicare, in accordo con la natura, la prenozione di ciò che è ragionevole e irragionevole ai singoli casi concreti.</div></article>
+<article class="section" id="s-7"><a class="ref" href="#s-7">7</a><div class="section-text">Nel giudicare ciò che è ragionevole e irragionevole, però, non consideriamo soltanto il valore delle cose esterne, ma ciascuno anche ciò che si addice al proprio ruolo.</div></article>
+<article class="section" id="s-8"><a class="ref" href="#s-8">8</a><div class="section-text">Per uno, per esempio, può essere ragionevole reggere il vaso da notte, se guarda soltanto a questo: che, se non lo regge, riceverà percosse e non avrà da mangiare; se invece lo regge, non subirà nulla di duro o doloroso.</div></article>
+<article class="section" id="s-9"><a class="ref" href="#s-9">9</a><div class="section-text">A un altro, invece, non sembra insopportabile soltanto reggerlo lui stesso, ma anche tollerare che lo regga un altro.</div></article>
+<article class="section" id="s-10"><a class="ref" href="#s-10">10</a><div class="section-text">Se dunque mi chiedi: «Devo reggere il vaso da notte oppure no?», ti dirò che ricevere da mangiare ha più valore che non riceverlo, e che essere picchiato è peggio che non esserlo; perciò, se misuri ciò che ti riguarda in base a queste cose, va’ e reggilo.</div></article>
+<article class="section" id="s-11"><a class="ref" href="#s-11">11</a><div class="section-text">«Ma questo non sarebbe conforme a me.» Questo devi aggiungerlo tu alla riflessione, non io. Sei tu infatti che conosci te stesso, quanto vali ai tuoi stessi occhi e a quale prezzo vendi te stesso: uomini diversi si vendono a prezzi diversi.</div></article>
+<article class="section" id="s-12"><a class="ref" href="#s-12">12</a><div class="section-text">Per questo Agrippino, a Floro che rifletteva se dovesse recarsi agli spettacoli di Nerone e parteciparvi anche lui con qualche esibizione, disse: «Vacci.»</div></article>
+<article class="section" id="s-13"><a class="ref" href="#s-13">13</a><div class="section-text">E quando quello gli chiese: «Perché tu non ci vai?», rispose: «Perché io non mi pongo nemmeno il problema.»</div></article>
+<article class="section" id="s-14"><a class="ref" href="#s-14">14</a><div class="section-text">Chi infatti si mette una volta a discutere su cose simili, calcolando anche il valore delle cose esterne, è già vicino a quelli che hanno dimenticato il proprio ruolo.</div></article>
+<article class="section" id="s-15"><a class="ref" href="#s-15">15</a><div class="section-text">Perché mi chiedi: «È preferibile la morte o la vita?» Io dico: la vita.</div></article>
+<article class="section" id="s-16"><a class="ref" href="#s-16">16</a><div class="section-text">«Il dolore o il piacere?» Dico: il piacere. «Ma se non recito in tragedia, mi faranno decapitare.» E allora va’ e recita; io invece non reciterò.</div></article>
+<article class="section" id="s-17"><a class="ref" href="#s-17">17</a><div class="section-text">«Perché?» Perché tu ritieni di essere uno dei fili che compongono una tunica. E allora? Devi preoccuparti di non essere diverso dagli altri uomini, come neppure il filo vuole avere qualcosa di particolare rispetto agli altri fili.</div></article>
+<article class="section" id="s-18"><a class="ref" href="#s-18">18</a><div class="section-text">Io invece voglio essere la porpora, quella piccola parte brillante che fa apparire decoroso e bello tutto il resto. Perché dunque mi dici: «Renditi simile ai molti»? E come potrei allora essere ancora porpora?</div></article>
+<article class="section" id="s-19"><a class="ref" href="#s-19">19</a><div class="section-text">Questo comprese anche Prisco Elvidio, e agì di conseguenza. Quando Vespasiano gli mandò a dire di non entrare in Senato, rispose: «È in tuo potere impedirmi di essere senatore; ma finché lo sono, devo entrare.»</div></article>
+<article class="section" id="s-20"><a class="ref" href="#s-20">20</a><div class="section-text">«Va bene», disse, «entra pure, ma taci.» «Non chiedermi il mio parere e tacerò.» «Ma devo chiedertelo.» «E io devo dire ciò che mi sembra giusto.» «Ma se lo dirai, ti ucciderò.»</div></article>
+<article class="section" id="s-21"><a class="ref" href="#s-21">21</a><div class="section-text">«E quando ti ho detto che sono immortale? Tu farai la tua parte e io la mia. A te spetta uccidere, a me morire senza tremare; a te mandarmi in esilio, a me partire senza affliggermi.»</div></article>
+<article class="section" id="s-22"><a class="ref" href="#s-22">22</a><div class="section-text">Che utilità portò dunque Prisco, essendo uno solo? E quale utilità porta la porpora alla veste? Che altro, se non risaltare in essa come porpora e offrire anche agli altri un bell’esempio?</div></article>
+<article class="section" id="s-23"><a class="ref" href="#s-23">23</a><div class="section-text">Un altro, se Cesare gli avesse detto in una circostanza simile di non presentarsi in Senato, avrebbe risposto: «Ti ringrazio di risparmiarmi.»</div></article>
+<article class="section" id="s-24"><a class="ref" href="#s-24">24</a><div class="section-text">Uno così non gli avrebbe nemmeno impedito di entrare: sapeva infatti che se ne sarebbe stato seduto come un vaso di terracotta oppure, se avesse parlato, avrebbe detto ciò che sapeva che Cesare voleva, aggiungendovi anche molto altro.</div></article>
+<article class="section" id="s-25"><a class="ref" href="#s-25">25</a><div class="section-text">Allo stesso modo un atleta, che rischiava di morire se non gli fosse stato amputato l’organo genitale, quando suo fratello — che era filosofo — venne da lui e gli disse: «Su, fratello, che cosa farai? Amputiamo questa parte e torniamo ancora in palestra?», non acconsentì, ma resistette e morì.</div></article>
+<article class="section" id="s-26"><a class="ref" href="#s-26">26</a><div class="section-text">E quando qualcuno domandò: «Come fece questo? Come atleta o come filosofo?», rispose: «Come uomo; e come uomo che era stato proclamato atleta a Olimpia e vi aveva gareggiato, che aveva vissuto in un ambiente simile, non uno che si ungeva soltanto nella palestra di Batone.»</div></article>
+<article class="section" id="s-27"><a class="ref" href="#s-27">27</a><div class="section-text">Un altro si sarebbe lasciato tagliare perfino il collo, se avesse potuto vivere senza collo.</div></article>
+<article class="section" id="s-28"><a class="ref" href="#s-28">28</a><div class="section-text">Questo è ciò che significa ciò che è conforme al proprio ruolo: è così forte in coloro che sono abituati a introdurlo spontaneamente nelle proprie valutazioni.</div></article>
+<article class="section" id="s-29"><a class="ref" href="#s-29">29</a><div class="section-text">«Su dunque, Epitteto, rasati.» Se sono filosofo, dico: «Non mi raso.» «Ma ti taglierò il collo.» Se per te è meglio, taglialo.</div></article>
+<article class="section" id="s-30"><a class="ref" href="#s-30">30</a><div class="section-text">Qualcuno domandò: «Come farà dunque ciascuno di noi a riconoscere ciò che si addice al proprio ruolo?» — «Come fa il toro», rispose, «quando arriva il leone, a riconoscere da solo la propria forza e a farsi avanti in difesa di tutta la mandria? Non è forse chiaro che, insieme al possesso di quella forza, nasce subito anche la consapevolezza di averla?»</div></article>
+<article class="section" id="s-31"><a class="ref" href="#s-31">31</a><div class="section-text">Allo stesso modo, chi di noi possiede una simile disposizione non la ignorerà.</div></article>
+<article class="section" id="s-32"><a class="ref" href="#s-32">32</a><div class="section-text">Ma un toro non nasce all’improvviso, né un uomo valoroso: bisogna allenarsi d’inverno, prepararsi, e non gettarsi alla cieca in cose che non ci riguardano affatto.</div></article>
+<article class="section" id="s-33"><a class="ref" href="#s-33">33</a><div class="section-text">Considera soltanto a quale prezzo vendi la tua scelta morale. Uomo, se non altro per questo, non venderla a poco. Ciò che è grande e fuori del comune forse spetta ad altri, a Socrate e a quelli come lui.</div></article>
+<article class="section" id="s-34"><a class="ref" href="#s-34">34</a><div class="section-text">— Ma allora, se siamo fatti per questo, perché non diventano così tutti, o almeno molti? — Forse tutti i cavalli diventano veloci? Tutti i cani diventano bravi a seguire le tracce?</div></article>
+<article class="section" id="s-35"><a class="ref" href="#s-35">35</a><div class="section-text">E allora? Poiché sono poco dotato, per questo rinuncerò a prendermene cura?</div></article>
+<article class="section" id="s-36"><a class="ref" href="#s-36">36</a><div class="section-text">Niente affatto. Epitteto non sarà migliore di Socrate; ma se non sarà peggiore, questo mi basta.</div></article>
+<article class="section" id="s-37"><a class="ref" href="#s-37">37</a><div class="section-text">Infatti non sarò neppure Milone, e tuttavia non trascuro il corpo; né sarò Creso, e tuttavia non trascuro i beni; né, in generale, smettiamo di prenderci cura di qualcosa solo perché disperiamo di raggiungere il grado più alto.</div></article>
+</div>
+
+<nav class="chapter-nav chapter-nav-bottom"><a href="1-01.html">Diatriba precedente</a><a class="chapter-home" href="../index.html">Home</a><a href="1-03.html">Diatriba successiva</a></nav>

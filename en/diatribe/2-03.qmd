@@ -1,0 +1,42 @@
+---
+title: "Discourse II.3 — To those who recommend persons to philosophers"
+lang: en
+pagetitle: "Discourse II.3 — To those who recommend persons to philosophers — Epictetus, Discourses"
+title-prefix: ""
+description-meta: "Discourse II.3: “To those who recommend persons to philosophers”. The Discourses of Epictetus, in George Long’s English translation, with his notes."
+sidebar: en
+---
+
+<!--
+FILE GENERATO. NON MODIFICARE A MANO.
+
+Modificare invece:
+- translation/it/**.md      per il testo e i titoli italiani
+- data/intro.json           per le note introduttive delle home page
+- tools/site_config.py      per lingue, testi dell'interfaccia, URL
+- styles.css                per l'aspetto grafico
+
+Poi eseguire:
+    run.bat
+-->
+
+
+<div class="diatribe-meta">Book II · 1 paragraph · <span class="canonical" title="Canonical reference">II 3</span></div>
+
+<nav class="chapter-nav"><a href="2-02.html">Previous discourse</a><a class="chapter-home" href="../index.html">Home</a><a href="2-04.html">Next discourse</a></nav>
+
+<div class="paragraph-list">
+<p>DIOGENES said well to one who asked from him letters of recommendation, <q>That you are a man, he said, he will know as soon as he sees you; and he will know whether you are good or bad, if he is by experience skilful to distinguish the good and the bad; but if he is without experience, he will never know, if I write to him ten thousand times.</q><a class="note-ref" id="noteref-1" href="#note-1" role="doc-noteref" aria-label="note 1"><sup>1</sup></a> For it is just the same as if a drachma (a piece of silver money) asked to be recommended to a person to be tested. If he is skilful in testing silver, he will know what you are, for you (the drachma) will recommend yourself. We ought then in life also to have some skill as in the case of silver coin that a man may be able to say like the judge of silver, Bring me any drachma and I will test it. But in the case of syllogisms, I would say, Bring any man that you please, and I will distinguish for you the man who knows how to resolve syllogisms and the man who does not. Why? Because I know how to resolve syllogisms. I have the power, which a man must have who is able to discover those who have the power of resolving syllogisms. But in life how do I act? At one time I call a thing good, and at another time bad. What is the reason? The contrary to that which is in the case of syllogisms, ignorance and inexperience.</p>
+</div>
+
+<section class="notes">
+<h2>Notes</h2>
+<ol class="note-list">
+<li class="note" id="note-1" role="doc-endnote"><p>Mrs. Carter says <q>This is one of the many extravagant refinements of the philosophers; and might lead persons into very dangerous mistakes, if it was laid down as a maxim in ordinary life.</q> I think that Mrs. Carter has not seen the meaning of Epictetus. The philosopher will discover the man’s character by trying him, as the assayer tries the silver by a test.</p>
+<p>Cicero (De legibus, i. 9) says that the face expresses the hidden character. Euripides (Medea, 518) says better, that no mark is impressed on the body by which we can distinguish the good man from the bad. Shakspere says</p> 
+<p><span class="verse-quote"><span class="lg"> <span class="l">There’s no art</span> <span class="l">To find the mind’s destruction in the face.</span> </span></span></p>
+<p>Macbeth, act i. sc. 4.</p><a class="note-back" href="#noteref-1" aria-label="back to the text">&#8617;</a></li>
+</ol>
+</section>
+
+<nav class="chapter-nav chapter-nav-bottom"><a href="2-02.html">Previous discourse</a><a class="chapter-home" href="../index.html">Home</a><a href="2-04.html">Next discourse</a></nav>

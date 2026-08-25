@@ -1,0 +1,43 @@
+---
+title: "Διατριβὴ Γʹ.δʹ — πρὸς τὸν ἀκόσμως ἐν θεάτρῳ σπουδάσαντα"
+lang: grc
+pagetitle: "Διατριβὴ Γʹ.δʹ — πρὸς τὸν ἀκόσμως ἐν θεάτρῳ σπουδάσαντα — Ἐπικτήτου Διατριβαί"
+title-prefix: ""
+description-meta: "Διατριβὴ Γʹ.δʹ· «πρὸς τὸν ἀκόσμως ἐν θεάτρῳ σπουδάσαντα». Ἀρριανοῦ τῶν Ἐπικτήτου Διατριβῶν, τὸ ἑλληνικὸν κείμενον."
+sidebar: grc
+---
+
+<!--
+FILE GENERATO. NON MODIFICARE A MANO.
+
+Modificare invece:
+- translation/it/**.md      per il testo e i titoli italiani
+- data/intro.json           per le note introduttive delle home page
+- tools/site_config.py      per lingue, testi dell'interfaccia, URL
+- styles.css                per l'aspetto grafico
+
+Poi eseguire:
+    run.bat
+-->
+
+
+<div class="diatribe-meta">Βιβλίον Γʹ · 12 τμήματα · <span class="canonical" title="Παραπομπή">III 4</span></div>
+
+<nav class="chapter-nav"><a href="3-03.html">ἡ προτέρα διατριβή</a><a class="chapter-home" href="../index.html">Ἀρχή</a><a href="3-05.html">ἡ ἑπομένη διατριβή</a></nav>
+
+<div class="section-list">
+<article class="section" id="s-1"><a class="ref" href="#s-1">1</a><div class="section-text" lang="grc">τοῦ δʼ ἐπιτρόπου τῆς Ἠπείρου ἀκοσμότερον σπουδάσαντος κωμῳδῷ τινι καὶ ἐπὶ τούτῳ δημοσίᾳ λοιδορηθέντος, εἶτα ἑξῆς ἀπαγγείλαντος πρὸς αὐτόν, ὅτι ἐλοιδορήθη, καὶ ἀγανακτοῦντος πρὸς τοὺς λοιδορήσαντας Καὶ τί κακόν, ἔφη, ἐποίουν; ἐσπούδαζον καὶ οὗτοι ὡς καὶ σύ.</div></article>
+<article class="section" id="s-2"><a class="ref" href="#s-2">2</a><div class="section-text" lang="grc">εἰπόντος δʼ ἐκείνου Οὕτως οὖν τις σπουδάζει; σέ, ἔφη, βλέποντες τὸν αὐτῶν ἄρχοντα, τοῦ Καίσαρος φίλον καὶ ἐπίτροπον, οὕτως σπουδάζοντα οὐκ ἔμελλον καὶ αὐτοὶ οὕτως σπουδάζειν;</div></article>
+<article class="section" id="s-3"><a class="ref" href="#s-3">3</a><div class="section-text" lang="grc">εἰ γὰρ μὴ δεῖ οὕτως σπουδάζειν, μηδὲ σὺ σπούδαζε· εἰ δὲ δεῖ, τί χαλεπαίνεις, εἴ σε ἐμιμήσαντο; τίνας γὰρ ἔχουσιν μιμήσασθαι οἱ πολλοὶ ἢ τοὺς ὑπερέχοντας ὑμᾶς; εἰς τίνας ἀπίδωσιν ἐλθόντες εἰς τὰ θέατρα ἢ ὑμᾶς;</div></article>
+<article class="section" id="s-4"><a class="ref" href="#s-4">4</a><div class="section-text" lang="grc"><q>ὅρα πῶς ὁ ἐπίτροπος τοῦ Καίσαρος θεωρεῖ· κέκραγεν· κἀγὼ τοίνυν κραυγάσω. ἀναπηδᾷ· κἀγὼ ἀναπηδήσω. οἱ δοῦλοι αὐτοῦ διακάθηνται κραυγάζοντες· ἐγὼ δʼ οὐκ ἔχω δούλους· ἀντὶ πάντων αὐτὸς ὅσον δύναμαι κραυγάσω.</q></div></article>
+<article class="section" id="s-5"><a class="ref" href="#s-5">5</a><div class="section-text" lang="grc">εἰδέναι σε οὖν δεῖ, ὅταν εἰσέρχῃ εἰς τὸ θέατρον, ὅτι κανὼν εἰσέρχῃ καὶ παράδειγμα τοῖς ἄλλοις, πῶς αὐτοὺς δεῖ θεωρεῖν.</div></article>
+<article class="section" id="s-6"><a class="ref" href="#s-6">6</a><div class="section-text" lang="grc">τί οὖν σε ἐλοιδόρουν; ὅτι πᾶς ἄνθρωπος μισεῖ τὸ ἐμποδίζον. ἐκεῖνοι στεφανωθῆναι ἤθελον τὸν δεῖνα, σὺ ἕτερον· ἐκεῖνοι σοὶ ἐνεπόδιζον καὶ σὺ ἐκείνοις. σὺ εὑρίσκου ἰσχυρότερος· ἐκεῖνοι ὃ ἐδύναντο ἐποίουν, ἐλοιδόρουν τὸ ἐμποδίζον.</div></article>
+<article class="section" id="s-7"><a class="ref" href="#s-7">7</a><div class="section-text" lang="grc">τί οὖν θέλεις; ἵνα σὺ μὲν ποιῇς ὃ θέλεις, ἐκεῖνοι δὲ μηδʼ εἴπωσιν ἃ θέλουσιν; καὶ τί θαυμαστόν; οἱ γεωργοὶ τὸν Δία οὐ λοιδοροῦσιν, ὅταν ἐμποδίζωνται ὑπʼ αὐτοῦ; οἱ ναῦται οὐ λοιδοροῦσι; τὸν Καίσαρα παύονται λοιδοροῦντες;</div></article>
+<article class="section" id="s-8"><a class="ref" href="#s-8">8</a><div class="section-text" lang="grc">τί οὖν; οὐ γιγνώσκει ὁ Ζεύς; τῷ Καίσαρι οὐκ ἀπαγγέλλονται τὰ λεγόμενα; τί οὖν ποιεῖ; οἶδεν ὅτι, ἂν πάντας τοὺς λοιδοροῦντας κολάζῃ, οὐχ ἕξει τίνων ἄρξει.</div></article>
+<article class="section" id="s-9"><a class="ref" href="#s-9">9</a><div class="section-text" lang="grc">τί οὖν; ἔδει εἰσερχόμενον εἰς τὸ θέατρον τοῦτο εἰπεῖν <q>ἄγε ἵνα Σώφρων στεφανωθῇ;</q> ἀλλʼ ἐκεῖνο <q>ἄγε ἵνα τηρήσω τὴν ἐμαυτοῦ προαίρεσιν ἐπὶ ταύτης τῆς ὕλης κατὰ φύσιν ἔχουσαν.</q></div></article>
+<article class="section" id="s-10"><a class="ref" href="#s-10">10</a><div class="section-text" lang="grc">ἐμοὶ παρʼ ἐμὲ φίλτερος οὐδείς· γελοῖον οὖν, ἵνʼ ἄλλος νικήσῃ κωμῳδῶν, ἐμὲ βλάπτεσθαι.</div></article>
+<article class="section" id="s-11"><a class="ref" href="#s-11">11</a><div class="section-text" lang="grc">— τίνα οὖν θέλω νικῆσαι; — τὸν νικῶντα· καὶ οὕτως ἀεὶ νικήσει, ὃν θέλω. — ἀλλὰ θέλω στεφανωθῆναι Σώφρονα. — ἐν οἴκῳ ὅσους θέλεις ἀγῶνας ἄγων ἀνακήρυξον αὐτὸν Νέμεα, Πύθια, Ἴσθμια, Ὀλύμπια· ἐν φανερῷ δὲ μὴ πλεονέκτει μηδʼ ὑφάρπαζε τὸ κοινόν. εἰ δὲ μή, ἀνέχου λοιδορούμενος·</div></article>
+<article class="section" id="s-12"><a class="ref" href="#s-12">12</a><div class="section-text" lang="grc">ὡς, ὅταν ταὐτὰ ποιῇς τοῖς πολλοῖς, εἰς ἴσον ἐκείνοις καθιστᾷς σαυτόν.</div></article>
+</div>
+
+<nav class="chapter-nav chapter-nav-bottom"><a href="3-03.html">ἡ προτέρα διατριβή</a><a class="chapter-home" href="../index.html">Ἀρχή</a><a href="3-05.html">ἡ ἑπομένη διατριβή</a></nav>

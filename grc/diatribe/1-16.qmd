@@ -1,0 +1,52 @@
+---
+title: "Διατριβὴ Αʹ.ιϛʹ — περὶ προνοίας"
+lang: grc
+pagetitle: "Διατριβὴ Αʹ.ιϛʹ — περὶ προνοίας — Ἐπικτήτου Διατριβαί"
+title-prefix: ""
+description-meta: "Διατριβὴ Αʹ.ιϛʹ· «περὶ προνοίας». Ἀρριανοῦ τῶν Ἐπικτήτου Διατριβῶν, τὸ ἑλληνικὸν κείμενον."
+sidebar: grc
+---
+
+<!--
+FILE GENERATO. NON MODIFICARE A MANO.
+
+Modificare invece:
+- translation/it/**.md      per il testo e i titoli italiani
+- data/intro.json           per le note introduttive delle home page
+- tools/site_config.py      per lingue, testi dell'interfaccia, URL
+- styles.css                per l'aspetto grafico
+
+Poi eseguire:
+    run.bat
+-->
+
+
+<div class="diatribe-meta">Βιβλίον Αʹ · 21 τμήματα · <span class="canonical" title="Παραπομπή">I 16</span></div>
+
+<nav class="chapter-nav"><a href="1-15.html">ἡ προτέρα διατριβή</a><a class="chapter-home" href="../index.html">Ἀρχή</a><a href="1-17.html">ἡ ἑπομένη διατριβή</a></nav>
+
+<div class="section-list">
+<article class="section" id="s-1"><a class="ref" href="#s-1">1</a><div class="section-text" lang="grc">μὴ θαυμάζετʼ εἰ τοῖς μὲν ἄλλοις ζῴοις τὰ πρὸς τὸ σῶμα ἕτοιμα γέγονεν, οὐ μόνον τροφαὶ καὶ πόμα, ἀλλὰ καὶ κοίτη καὶ τὸ μὴ δεῖσθαι ὑποδημάτων, μὴ ὑποστρωμάτων, μὴ ἐσθῆτος, ἡμεῖς δὲ πάντων τούτων προσδεόμεθα.</div></article>
+<article class="section" id="s-2"><a class="ref" href="#s-2">2</a><div class="section-text" lang="grc">τὰ γὰρ οὐκ αὐτῶν ἕνεκα, ἀλλὰ πρὸς ὑπηρεσίαν γεγονότα οὐκ ἐλυσιτέλει προσδεόμενα ἄλλων πεποιηκέναι.</div></article>
+<article class="section" id="s-3"><a class="ref" href="#s-3">3</a><div class="section-text" lang="grc">ἐπεὶ ὅρα οἷον ἦν ἡμᾶς φροντίζειν μὴ περὶ αὑτῶν μόνον ἀλλὰ καὶ περὶ τῶν προβάτων καὶ τῶν ὄνων, πῶς ἐνδύσηται καὶ πῶς ὑποδήσηται, πῶς φάγῃ, πῶς πίῃ.</div></article>
+<article class="section" id="s-4"><a class="ref" href="#s-4">4</a><div class="section-text" lang="grc">ἀλλʼ ὥσπερ οἱ στρατιῶται ἕτοιμοί εἰσι τῷ στρατηγῷ ὑποδεδεμένοι ἐνδεδυμένοι ὡπλισμένοι, εἰ δʼ ἔδει περιερχόμενον τὸν χιλίαρχον ὑποδεῖν ἢ ἐνδύειν τοὺς χιλίους, δεινὸν ἂν ἦν, οὕτω καὶ ἡ φύσις πεποίηκε τὰ πρὸς ὑπηρεσίαν γεγονότα ἕτοιμα παρεσκευασμένα μηδεμιᾶς ἐπιμελείας ἔτι προσδεόμενα.</div></article>
+<article class="section" id="s-5"><a class="ref" href="#s-5">5</a><div class="section-text" lang="grc">οὕτως ἓν παιδίον μικρὸν καὶ ῥάβδῳ ἐλαύνει τὰ πρόβατα.</div></article>
+<article class="section" id="s-6"><a class="ref" href="#s-6">6</a><div class="section-text" lang="grc">νῦν δʼ ἡμεῖς ἀφέντες ἐπὶ τούτοις εὐχαριστεῖν, ὅτι μὴ καὶ αὐτῶν τὴν ἴσην ἐπιμέλειαν ἐπιμελούμεθα, ἐφʼ αὑτοῖς ἐγκαλοῦμεν τῷ θεῷ.</div></article>
+<article class="section" id="s-7"><a class="ref" href="#s-7">7</a><div class="section-text" lang="grc">καίτοι νὴ τὸν Δία καὶ τοὺς θεοὺς ἓν τῶν γεγονότων ἀπήρκει πρὸς τὸ αἰσθέσθαι τῆς προνοίας τῷ γε αἰδήμονι καὶ εὐχαρίστῳ.</div></article>
+<article class="section" id="s-8"><a class="ref" href="#s-8">8</a><div class="section-text" lang="grc">καὶ μή μοι νῦν τὰ μεγάλα· αὐτὸ τοῦτο τὸ ἐκ π<span class="ed-del">[τ]</span>όας γάλα γεννᾶσθαι καὶ ἐκ γάλακτος τυρὸν καὶ ἐκ δέρματος ἔρια τίς ἐστιν ὁ πεποιηκὼς ταῦτα ἢ ἐπινενοηκώς; <q>οὐδὲ εἷς</q> φησίν. ὦ μεγάλης ἀναισθησίας καὶ ἀναισχυντίας.</div></article>
+<article class="section" id="s-9"><a class="ref" href="#s-9">9</a><div class="section-text" lang="grc">ἄγε ἀφῶμεν τὰ ἔργα τῆς φύσεως, τὰ πάρεργα αὐτῆς θεασώμεθα.</div></article>
+<article class="section" id="s-10"><a class="ref" href="#s-10">10</a><div class="section-text" lang="grc">μή τι ἀχρηστότερον τριχῶν τῶν ἐπὶ γενείου; τί οὖν; οὐ συνεχρήσατο καὶ ταύταις ὡς μάλιστα πρεπόντως ἐδύνατο; οὐ διέκρινεν διʼ αὐτῶν τὸ ἄρρεν καὶ τὸ θῆλυ;</div></article>
+<article class="section" id="s-11"><a class="ref" href="#s-11">11</a><div class="section-text" lang="grc">οὐκ εὐθὺς μακρόθεν κέκραγεν ἡμῶν ἑκάστου ἡ φύσις <q>ἀνήρ εἰμι· οὕτω μοι προσέρχου, οὕτω μοι λάλει, ἄλλο μηδὲν ζήτει· ἰδοὺ τὰ σύμβολα;</q></div></article>
+<article class="section" id="s-12"><a class="ref" href="#s-12">12</a><div class="section-text" lang="grc">πάλιν ἐπὶ τῶν γυναικῶν ὥσπερ ἐν φωνῇ τι ἐγκατέμιξεν ἁπαλώτερον, οὕτως καὶ τὰς τρίχας ἀφεῖλεν. οὔ· ἀλλʼ ἀδιάκριτον ἔδει τὸ ζῷον ἀπολειφθῆναι καὶ κηρύσσειν ἕκαστον ἡμῶν ὅτι <q>ἀνήρ εἰμι.</q></div></article>
+<article class="section" id="s-13"><a class="ref" href="#s-13">13</a><div class="section-text" lang="grc">πῶς δὲ καλὸν τὸ σύμβολον καὶ εὐπρεπὲς καὶ σεμνόν, πόσῳ κάλλιον τοῦ τῶν ἀλεκτρυόνων λόφου, πόσῳ μεγαλοπρεπέστερον τῆς χαίτης τῶν λεόντων.</div></article>
+<article class="section" id="s-14"><a class="ref" href="#s-14">14</a><div class="section-text" lang="grc">διὰ τοῦτο ἔδει σῴζειν τὰ σύμβολα τοῦ θεοῦ, ἔδει αὐτὰ μὴ καταπροίεσθαι, μὴ συγχεῖν ὅσον ἐφʼ ἑαυτοῖς τὰ γένη τὰ διῃρημένα.</div></article>
+<article class="section" id="s-15"><a class="ref" href="#s-15">15</a><div class="section-text" lang="grc">ταῦτα μόνα ἐστὶν ἔργα ἐφʼ ἡμῶν τῆς προνοίας; καὶ τίς ἐξαρκεῖ λόγος ὁμοίως αὐτὰ ἐπαινέσαι ἢ παραστῆσαι; εἰ γὰρ νοῦν εἴχομεν, ἄλλο τι ἔδει ἡμᾶς ποιεῖν καὶ κοινῇ καὶ ἰδίᾳ ἢ ὑμνεῖν τὸ θεῖον καὶ εὐφημεῖν καὶ ἐπεξέρχεσθαι τὰς χάριτας;</div></article>
+<article class="section" id="s-16"><a class="ref" href="#s-16">16</a><div class="section-text" lang="grc">οὐκ ἔδει καὶ σκάπτοντας καὶ ἀροῦντας καὶ ἐσθίοντας ᾁδειν τὸν ὕμνον τὸν εἰς τὸν θεόν; <q>μέγας ὁ θεὸς, ὅτι ἡμῖν παρέσχεν ὄργανα ταῦτα διʼ ὧν τὴν γῆν ἐργασόμεθα· </q></div></article>
+<article class="section" id="s-17"><a class="ref" href="#s-17">17</a><div class="section-text" lang="grc"><q> μέγας ὁ θεός, ὅτι χεῖρας δέδωκεν, ὅτι κατάποσιν, ὅτι κοιλίαν, ὅτι αὔξεσθαι λεληθότως, ὅτι καθεύδοντας ἀναπνεῖν.</q></div></article>
+<article class="section" id="s-18"><a class="ref" href="#s-18">18</a><div class="section-text" lang="grc">ταῦτα ἐφʼ ἑκάστου ἐφυμνεῖν ἔδει καὶ τὸν μέγιστον καὶ θειότατον ὕμνον ἐφυμνεῖν, ὅτι τὴν δύναμιν ἔδωκεν τὴν παρακολουθητικὴν τούτοις καὶ ὁδῷ χρηστικήν.</div></article>
+<article class="section" id="s-19"><a class="ref" href="#s-19">19</a><div class="section-text" lang="grc">τί οὖν; ἐπεὶ οἱ πολλοὶ ἀποτετύφλωσθε, οὐκ ἔδει τινὰ εἶναι τὸν ταύτην ἐκπληροῦντα τὴν χώραν καὶ ὑπὲρ πάντων ᾁδοντα τὸν ὕμνον τὸν εἰς τὸν θεόν;</div></article>
+<article class="section" id="s-20"><a class="ref" href="#s-20">20</a><div class="section-text" lang="grc">τί γὰρ ἄλλο δύναμαι γέρων χωλὸς εἰ μὴ ὑμνεῖν τὸν θεόν; εἰ γοῦν ἀηδὼν ἤμην, ἐποίουν τὰ τῆς ἀηδόνος, εἰ κύκνος, τὰ τοῦ κύκνου.</div></article>
+<article class="section" id="s-21"><a class="ref" href="#s-21">21</a><div class="section-text" lang="grc">νῦν δὲ λογικός εἰμι· ὑμνεῖν με δεῖ τὸν θεόν. τοῦτό μου τὸ ἔργον ἐστίν, ποιῶ αὐτὸ οὐδʼ ἐγκαταλείψω τὴν τάξιν ταύτην, ἐφʼ ὅσον ἂν διδῶται, καὶ ὑμᾶς ἐπὶ τὴν αὐτὴν ταύτην ᾠδὴν παρακαλῶ.</div></article>
+</div>
+
+<nav class="chapter-nav chapter-nav-bottom"><a href="1-15.html">ἡ προτέρα διατριβή</a><a class="chapter-home" href="../index.html">Ἀρχή</a><a href="1-17.html">ἡ ἑπομένη διατριβή</a></nav>

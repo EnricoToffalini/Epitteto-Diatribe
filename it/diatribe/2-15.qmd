@@ -1,0 +1,51 @@
+---
+title: "Diatriba II.15 — Contro quelli che persistono ostinatamente nelle proprie decisioni"
+lang: it
+pagetitle: "Diatriba II.15 — Contro quelli che persistono ostinatamente nelle proprie decisioni — Epitteto, Diatribe"
+title-prefix: ""
+description-meta: "Diatriba II.15: «Contro quelli che persistono ostinatamente nelle proprie decisioni». Le Diatribe di Epitteto raccolte da Arriano, in traduzione italiana."
+sidebar: it
+---
+
+<!--
+FILE GENERATO. NON MODIFICARE A MANO.
+
+Modificare invece:
+- translation/it/**.md      per il testo e i titoli italiani
+- data/intro.json           per le note introduttive delle home page
+- tools/site_config.py      per lingue, testi dell'interfaccia, URL
+- styles.css                per l'aspetto grafico
+
+Poi eseguire:
+    run.bat
+-->
+
+
+<div class="diatribe-meta">Libro II · 20 sezioni · <span class="canonical" title="Riferimento canonico">II 15</span></div>
+
+<nav class="chapter-nav"><a href="2-14.html">Diatriba precedente</a><a class="chapter-home" href="../index.html">Home</a><a href="2-16.html">Diatriba successiva</a></nav>
+
+<div class="section-list">
+<article class="section" id="s-1"><a class="ref" href="#s-1">1</a><div class="section-text">Quando alcuni ascoltano questi discorsi, secondo cui bisogna essere saldi e la scelta morale è per natura libera e non soggetta a costrizione, mentre tutte le altre cose sono soggette a impedimenti e costrizioni, schiave e altrui, immaginano di dover restare irremovibilmente fedeli a qualunque decisione abbiano preso.</div></article>
+<article class="section" id="s-2"><a class="ref" href="#s-2">2</a><div class="section-text">Ma anzitutto dev’essere sana la decisione presa. Voglio infatti che nel corpo ci sia vigore, ma quello di chi è sano, di chi si allena.</div></article>
+<article class="section" id="s-3"><a class="ref" href="#s-3">3</a><div class="section-text">Se invece mi mostri il vigore di un delirante e te ne vanti, ti dirò: «Uomo, cerca qualcuno che ti curi. Questo non è vigore, ma debolezza».</div></article>
+<article class="section" id="s-4"><a class="ref" href="#s-4">4</a><div class="section-text">In modo diverso, qualcosa di simile accade anche nell’anima a quelli che fraintendono questi discorsi. Per esempio, un mio compagno decise senza alcun motivo di lasciarsi morire di fame.</div></article>
+<article class="section" id="s-5"><a class="ref" href="#s-5">5</a><div class="section-text">Lo venni a sapere quando era già al terzo giorno di digiuno e, andato da lui, gli chiesi che cosa fosse successo.</div></article>
+<article class="section" id="s-6"><a class="ref" href="#s-6">6</a><div class="section-text">— «Ho deciso», disse. — Ma che cosa, tuttavia, ti ha persuaso? Se infatti hai deciso rettamente, eccoci qui seduti accanto a te e ti aiutiamo a uscire dalla vita; se invece hai deciso irragionevolmente, cambia decisione.</div></article>
+<article class="section" id="s-7"><a class="ref" href="#s-7">7</a><div class="section-text">— «Bisogna attenersi alle decisioni prese.» — Che fai, uomo? Non a tutte, ma a quelle giuste. Altrimenti, se ora ti convincessi che è notte, se così ti pare non cambiare idea, ma resta fermo e di’ che bisogna attenersi alle decisioni prese.</div></article>
+<article class="section" id="s-8"><a class="ref" href="#s-8">8</a><div class="section-text">Non vuoi stabilire anzitutto il principio e il fondamento, esaminare se la decisione è sana oppure no, e poi costruirvi sopra il vigore e la fermezza?</div></article>
+<article class="section" id="s-9"><a class="ref" href="#s-9">9</a><div class="section-text">Se invece poni come base qualcosa di marcio e cedevole, che nemmeno regge come costruzione, quanto più numerose e pesanti saranno le cose che vi porrai sopra, tanto più rapidamente crollerà.</div></article>
+<article class="section" id="s-10"><a class="ref" href="#s-10">10</a><div class="section-text">Senza alcun motivo ci sottrai alla vita un uomo caro e familiare, concittadino della stessa città, tanto della grande quanto della piccola;</div></article>
+<article class="section" id="s-11"><a class="ref" href="#s-11">11</a><div class="section-text">e poi, mentre commetti un omicidio e fai morire un uomo che non ha fatto nulla di male, dici che bisogna attenersi alle decisioni prese.</div></article>
+<article class="section" id="s-12"><a class="ref" href="#s-12">12</a><div class="section-text">E se mai ti venisse in mente di uccidere me, dovresti attenerti alla decisione presa?</div></article>
+<article class="section" id="s-13"><a class="ref" href="#s-13">13</a><div class="section-text">Quello, dunque, si lasciò persuadere a fatica. Ma alcuni di quelli di oggi è impossibile farli cambiare idea. Così mi sembra di sapere ora ciò che prima ignoravo, che cosa significhi il detto comune: «Un folle non lo persuadi né lo spezzi».</div></article>
+<article class="section" id="s-14"><a class="ref" href="#s-14">14</a><div class="section-text">Che non mi capiti mai di avere per amico uno stolto che si crede sapiente. Nulla è più difficile da trattare. «Ho deciso.» Anche i pazzi decidono; ma quanto più saldamente giudicano reali cose che non esistono, tanto più elleboro occorre loro.</div></article>
+<article class="section" id="s-15"><a class="ref" href="#s-15">15</a><div class="section-text">Non vuoi comportarti come un malato e chiamare il medico? «Sono malato, signore; aiutami. Esamina che cosa devo fare: a me spetta obbedirti.»</div></article>
+<article class="section" id="s-16"><a class="ref" href="#s-16">16</a><div class="section-text">Così anche qui: «Non so che cosa debba fare; sono venuto per impararlo.» No: «Parlami delle altre cose. Su questo ho deciso.»</div></article>
+<article class="section" id="s-17"><a class="ref" href="#s-17">17</a><div class="section-text">Di quali altre cose? Che cosa c’è infatti di più grande o più importante che persuaderti che non basta aver preso una decisione e non cambiarla?</div></article>
+<article class="section" id="s-18"><a class="ref" href="#s-18">18</a><div class="section-text">Questo è vigore da pazzi, non vigore sano. «Voglio morire, se mi costringi a questo.» Perché, uomo? Che cosa è successo? «Ho deciso.» Meno male che non hai deciso di uccidere me.</div></article>
+<article class="section" id="s-19"><a class="ref" href="#s-19">19</a><div class="section-text">«Non accetto denaro.» Perché? «Ho deciso.» Sappi che, con lo stesso vigore che ora usi per non accettarlo, nulla impedisce che un giorno tu inclini irragionevolmente ad accettarlo e dica di nuovo: «Ho deciso»,</div></article>
+<article class="section" id="s-20"><a class="ref" href="#s-20">20</a><div class="section-text">proprio come in un corpo malato, in cui gli umori scorrono ora da una parte, ora dall’altra. Così anche un animo debole non sa da che parte finirà per inclinare; e quando a questa inclinazione e a questo slancio si aggiunge anche vigore, allora il male diventa senza rimedio e incurabile.</div></article>
+</div>
+
+<nav class="chapter-nav chapter-nav-bottom"><a href="2-14.html">Diatriba precedente</a><a class="chapter-home" href="../index.html">Home</a><a href="2-16.html">Diatriba successiva</a></nav>

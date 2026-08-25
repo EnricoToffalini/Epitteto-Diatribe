@@ -1,0 +1,44 @@
+---
+title: "Discourse I.16 — Of Providence"
+lang: en
+pagetitle: "Discourse I.16 — Of Providence — Epictetus, Discourses"
+title-prefix: ""
+description-meta: "Discourse I.16: “Of Providence”. The Discourses of Epictetus, in George Long’s English translation, with his notes."
+sidebar: en
+---
+
+<!--
+FILE GENERATO. NON MODIFICARE A MANO.
+
+Modificare invece:
+- translation/it/**.md      per il testo e i titoli italiani
+- data/intro.json           per le note introduttive delle home page
+- tools/site_config.py      per lingue, testi dell'interfaccia, URL
+- styles.css                per l'aspetto grafico
+
+Poi eseguire:
+    run.bat
+-->
+
+
+<div class="diatribe-meta">Book I · 4 paragraphs · <span class="canonical" title="Canonical reference">I 16</span></div>
+
+<nav class="chapter-nav"><a href="1-15.html">Previous discourse</a><a class="chapter-home" href="../index.html">Home</a><a href="1-17.html">Next discourse</a></nav>
+
+<div class="paragraph-list">
+<p>Do not wonder if for other animals than man all things are provided for the body, not only food and drink, but beds also, and they have no need of shoes nor bed materials, nor clothing; but we require all these additional things. For animals not being made for themselves, but for service, it was not fit for them to be made so as to need other things. For consider what it would be for us to take care not only of ourselves, but also about cattle and asses, how they should be clothed, and how shod, and how they should eat and drink. Now as soldiers are ready for their commander, shod, clothed, and armed: but it would be a hard thing for the chiliarch (tribune) to go round and shoe or clothe his thousand men: so also nature has formed the animals which are made for service, all ready, prepared, and requiring no further care. So one little boy with only a stick drives the cattle.</p>
+<p>But now we, instead of being thankful that we need not take the same care of animals as of ourselves, complain of God on our own account; and yet, in the name of Zeus and the gods, any one thing of those which exist would be enough to make a man perceive the providence of God, at least a man who is modest and grateful. And speak not to me now of the great things, but only of this, that milk is produced from grass, and cheese from milk, and wool form skins. Who made these things or devised them? No one, you say. O amazing shamelessness and stupidity!</p>
+<p>Well, let us omit the works of nature, and contemplate her smaller (subordinate, <span class="foreign" lang="grc">πάρεργα</span>) acts. Is there anything less useful than the hair on the chin? What then, has not nature used this hair also in the most suitable manner possible? Has she not by it distinguished the male and the female? does not the nature of every man forthwith proclaim from a distance, I am a man: as such approach me, as such speak to me; look for nothing else; see the signs? Again, in the case of women, as she has mingled something softer in the voice, so she has also deprived them of hair (on the chin). You say, not so: the human animal ought to have been left without marks of distinction, and each of us should have been obliged to proclaim, I am a man. But how is not the sign beautiful and becoming and venerable? how much more beautiful than the cock’s comb, how much more becoming than the lion’s mane? For this reason we ought to preserve the signs which God has given, we ought not to throw them away, nor to confound, as much as we can, the distinctions of the sexes.</p>
+<p>Are these the only works of providence in us? And what words are sufficient to praise them and set them forth according to their worth? For if we had understanding, ought we to do any thing else both jointly and severally than to sing hymns and bless the deity, and to tell of his benefits?<a class="note-ref" id="noteref-1" href="#note-1" role="doc-noteref" aria-label="note 1"><sup>1</sup></a> Ought we not when we are digging and ploughing and eating to sing this hymn to God? <q>Great is God, who has given us such implements with which we shall cultivate the earth: great is God who has given us hands, the power of swallowing, a stomach, imperceptible growth, and the power of breathing while we sleep.</q> This is what we ought to sing on every occasion, and to sing the greatest and most divine hymn for giving us the faculty of comprehending these things and using a proper way.<a class="note-ref" id="noteref-2" href="#note-2" role="doc-noteref" aria-label="note 2"><sup>2</sup></a> Well then, since most of you have become blind, ought there not to be some man to fill this office, and on behalf of all to sing<a class="note-ref" id="noteref-3" href="#note-3" role="doc-noteref" aria-label="note 3"><sup>3</sup></a> the hymn to God? For what else can I do, a lame old man, than sing hymns to God? If then I was a nightingale, I would do the part of a nightingale. if I were a swan, I would do like a swan. But now I am a rational creature, and I ought to praise God: this is my work; I do it, nor will I desert this post, so long as I am allowed to keep it; and I exhort you to join in this same song.</p>
+</div>
+
+<section class="notes">
+<h2>Notes</h2>
+<ol class="note-list">
+<li class="note" id="note-1" role="doc-endnote"><p>Antoninus, v. 33.</p><a class="note-back" href="#noteref-1" aria-label="back to the text">&#8617;</a></li>
+<li class="note" id="note-2" role="doc-endnote"><p>See Upton’s note on <span class="foreign" lang="grc">ὁδῷ</span>.</p><a class="note-back" href="#noteref-2" aria-label="back to the text">&#8617;</a></li>
+<li class="note" id="note-3" role="doc-endnote"><p><span class="foreign" lang="grc">ᾁδοντα</span> is Schweighaeuser’s probable emendation.</p><a class="note-back" href="#noteref-3" aria-label="back to the text">&#8617;</a></li>
+</ol>
+</section>
+
+<nav class="chapter-nav chapter-nav-bottom"><a href="1-15.html">Previous discourse</a><a class="chapter-home" href="../index.html">Home</a><a href="1-17.html">Next discourse</a></nav>

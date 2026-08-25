@@ -1,0 +1,67 @@
+---
+title: "Diatriba IV.10 — Quali cose bisogna disprezzare e a quali dare importanza"
+lang: it
+pagetitle: "Diatriba IV.10 — Quali cose bisogna disprezzare e a quali dare importanza — Epitteto, Diatribe"
+title-prefix: ""
+description-meta: "Diatriba IV.10: «Quali cose bisogna disprezzare e a quali dare importanza». Le Diatribe di Epitteto raccolte da Arriano, in traduzione italiana."
+sidebar: it
+---
+
+<!--
+FILE GENERATO. NON MODIFICARE A MANO.
+
+Modificare invece:
+- translation/it/**.md      per il testo e i titoli italiani
+- data/intro.json           per le note introduttive delle home page
+- tools/site_config.py      per lingue, testi dell'interfaccia, URL
+- styles.css                per l'aspetto grafico
+
+Poi eseguire:
+    run.bat
+-->
+
+
+<div class="diatribe-meta">Libro IV · 36 sezioni · <span class="canonical" title="Riferimento canonico">IV 10</span></div>
+
+<nav class="chapter-nav"><a href="4-09.html">Diatriba precedente</a><a class="chapter-home" href="../index.html">Home</a><a href="4-11.html">Diatriba successiva</a></nav>
+
+<div class="section-list">
+<article class="section" id="s-1"><a class="ref" href="#s-1">1</a><div class="section-text">Tutti gli uomini si trovano in difficoltà per le cose esterne, senza sapere che fare riguardo alle cose esterne: «Che cosa farò? Come andrà? Come finirà? Purché non accada questo, purché non accada quello».</div></article>
+<article class="section" id="s-2"><a class="ref" href="#s-2">2</a><div class="section-text">Tutte queste sono parole di chi si aggira intorno a cose che non dipendono dalla scelta morale. Chi dice infatti: «Come posso evitare di dare assenso al falso? Come posso evitare di allontanarmi dal vero?»</div></article>
+<article class="section" id="s-3"><a class="ref" href="#s-3">3</a><div class="section-text">Se uno è tanto ben disposto da preoccuparsi di queste cose, gli ricorderò: «Perché ti preoccupi? Dipende da te. Sta’ tranquillo: non precipitarti a dare assenso prima di aver applicato il criterio naturale».</div></article>
+<article class="section" id="s-4"><a class="ref" href="#s-4">4</a><div class="section-text">E ancora, se si preoccupa del desiderio, perché non resti insoddisfatto e non fallisca il proprio scopo,</div></article>
+<article class="section" id="s-5"><a class="ref" href="#s-5">5</a><div class="section-text">e dell’avversione, perché non incappi in ciò che vuole evitare, anzitutto lo bacerei, perché, lasciate le cose per cui gli altri sono agitati e le loro paure, si è preso cura delle proprie attività, là dove egli stesso è.</div></article>
+<article class="section" id="s-6"><a class="ref" href="#s-6">6</a><div class="section-text">Poi gli direi: «Se non vuoi desiderare in modo da fallire il tuo scopo né provare avversione in modo da incappare in ciò che vuoi evitare, non desiderare nulla di ciò che è altrui e non provare avversione per nulla che non dipenda da te. Altrimenti dovrai necessariamente fallire e incappare in ciò che vuoi evitare».</div></article>
+<article class="section" id="s-7"><a class="ref" href="#s-7">7</a><div class="section-text">Quale difficoltà rimane qui? Dove c’è posto per «Come andrà?», «Come finirà?», «Purché non accada questo o quello»?</div></article>
+<article class="section" id="s-8"><a class="ref" href="#s-8">8</a><div class="section-text">Ora, ciò che accadrà non dipende forse dalla scelta morale? — «Sì.» — E l’essenza del bene e del male non sta forse nelle cose che dipendono dalla scelta morale? — «Sì.» — Puoi dunque usare secondo natura qualunque cosa accada? Qualcuno può impedirtelo?</div></article>
+<article class="section" id="s-9"><a class="ref" href="#s-9">9</a><div class="section-text">— «Nessuno.» — Non dirmi dunque più: «Come andrà?» Comunque vada, tu ne farai buon uso e ciò che sarà accaduto diventerà per te una buona sorte.</div></article>
+<article class="section" id="s-10"><a class="ref" href="#s-10">10</a><div class="section-text">Che Eracle sarebbe stato, se avesse detto: «Come posso evitare che mi si presenti un grande leone, un grande cinghiale o uomini feroci?» E che te ne importa? Se si presenta un grande cinghiale, affronterai una prova più grande; se uomini cattivi, libererai il mondo da uomini cattivi.</div></article>
+<article class="section" id="s-11"><a class="ref" href="#s-11">11</a><div class="section-text">— «E se così morirò?» — Morirai da uomo buono, mentre compi un’azione nobile. Poiché infatti bisogna comunque morire, necessariamente la morte ci troverà mentre facciamo qualcosa: coltiviamo la terra, scaviamo, commerciamo, esercitiamo il consolato, soffriamo di indigestione o di diarrea.</div></article>
+<article class="section" id="s-12"><a class="ref" href="#s-12">12</a><div class="section-text">Che cosa vuoi dunque essere trovato a fare dalla morte? Quanto a me, vorrei qualche azione umana, benefica, utile alla comunità, nobile.</div></article>
+<article class="section" id="s-13"><a class="ref" href="#s-13">13</a><div class="section-text">E se non posso essere trovato a fare cose tanto grandi, almeno quella che non può essermi impedita e che mi è concessa: correggere me stesso, perfezionare la facoltà che usa le rappresentazioni, lavorare alla libertà dalle passioni, rendere alle relazioni ciò che loro spetta; e, se sono tanto fortunato, accostarmi anche al terzo ambito, quello della sicurezza dei giudizi.</div></article>
+<article class="section" id="s-14"><a class="ref" href="#s-14">14</a><div class="section-text">Se la morte mi coglie mentre faccio queste cose, mi basta poter tendere le mani a Dio e dire: «I mezzi che ho ricevuto da te per comprendere il tuo governo e seguirlo non li ho trascurati; per quanto dipendeva da me, non ti ho disonorato.</div></article>
+<article class="section" id="s-15"><a class="ref" href="#s-15">15</a><div class="section-text">Guarda come ho usato i sensi, guarda come ho usato le prenozioni. Ti ho mai biasimato? Mi sono mai mostrato scontento di qualcosa che accadeva o ho desiderato che avvenisse diversamente? Ho forse trasgredito le mie relazioni?</div></article>
+<article class="section" id="s-16"><a class="ref" href="#s-16">16</a><div class="section-text">Ti ringrazio perché mi hai generato e per ciò che mi hai dato. Mi basta aver usato per il tempo concesso ciò che era tuo. Riprendilo e assegnalo al posto che vuoi: tutto era tuo, tu me lo hai dato».</div></article>
+<article class="section" id="s-17"><a class="ref" href="#s-17">17</a><div class="section-text">Non basta uscire dalla vita in questa disposizione? Quale vita è migliore o più dignitosa di quella di chi vive così, e quale conclusione più felice?</div></article>
+<article class="section" id="s-18"><a class="ref" href="#s-18">18</a><div class="section-text">Ma perché questo accada, bisogna sopportare cose non piccole e rinunciare a cose non piccole. Non puoi volere insieme essere console e avere queste cose, occuparti dei campi e avere queste cose, preoccuparti degli schiavi e di te stesso.</div></article>
+<article class="section" id="s-19"><a class="ref" href="#s-19">19</a><div class="section-text">Se però vuoi qualcosa di ciò che è altrui, hai perduto ciò che è tuo. Questa è la natura della cosa: nulla si ottiene gratuitamente.</div></article>
+<article class="section" id="s-20"><a class="ref" href="#s-20">20</a><div class="section-text">E che c’è di sorprendente? Se vuoi essere console, devi vegliare, correre qua e là, baciare mani, consumarti davanti alle porte altrui, dire molte cose e farne molte indegne di un uomo libero, mandare doni a molti e regali quotidiani ad alcuni. E che cosa se ne ricava?</div></article>
+<article class="section" id="s-21"><a class="ref" href="#s-21">21</a><div class="section-text">Dodici fasci di verghe, sedere tre o quattro volte sul tribunale, offrire giochi nel circo e dare pranzi in cestini. Oppure qualcuno mi mostri che cosa vi sia oltre a questo.</div></article>
+<article class="section" id="s-22"><a class="ref" href="#s-22">22</a><div class="section-text">E per la libertà dalle passioni, per l’imperturbabilità, per dormire davvero quando dormi ed essere davvero sveglio quando sei sveglio, per non temere nulla e non essere in ansia per nulla, non vuoi spendere niente, non vuoi faticare per niente?</div></article>
+<article class="section" id="s-23"><a class="ref" href="#s-23">23</a><div class="section-text">Ma se, mentre ti occupi di queste cose, qualcosa di tuo va perduto o viene speso male, oppure un altro ottiene ciò che avresti dovuto ottenere tu, ti irriti subito per ciò che è accaduto?</div></article>
+<article class="section" id="s-24"><a class="ref" href="#s-24">24</a><div class="section-text">Non metterai a confronto che cosa ricevi in cambio di che cosa, quanto in cambio di quanto? Vuoi ottenere gratuitamente cose tanto grandi? E come sarebbe possibile?</div></article>
+<article class="section" id="s-25"><a class="ref" href="#s-25">25</a><div class="section-text">Un’attività non si concilia con un’altra. Non puoi prenderti cura delle cose esterne e insieme della tua facoltà direttiva. Se vuoi quelle, lascia questa; altrimenti non avrai né questa né quelle, trascinato in entrambe le direzioni. Se vuoi questa, devi lasciare quelle.</div></article>
+<article class="section" id="s-26"><a class="ref" href="#s-26">26</a><div class="section-text">L’olio si verserà, gli utensili andranno perduti; ma io resterò libero dalle passioni. Scoppierà un incendio mentre non ci sono e i libri andranno perduti; ma io userò le rappresentazioni secondo natura. «Ma non avrò da mangiare.»</div></article>
+<article class="section" id="s-27"><a class="ref" href="#s-27">27</a><div class="section-text">Se sono così disgraziato, morire è un porto. Questo è il porto di tutti, la morte; questo il rifugio. Per questo nulla di ciò che accade nella vita è insopportabile.</div></article>
+<article class="section" id="s-28"><a class="ref" href="#s-28">28</a><div class="section-text">Quando vuoi, sei uscito e non sei più soffocato dal fumo. Perché dunque sei in ansia, perché vegli la notte? Perché non consideri subito dove stanno il tuo bene e il tuo male e dici: «Entrambi dipendono da me; nessuno può togliermi il primo né impormi il secondo contro la mia volontà»?</div></article>
+<article class="section" id="s-29"><a class="ref" href="#s-29">29</a><div class="section-text">Perché dunque non mi sdraio e russo? Le cose mie sono al sicuro; delle cose altrui si occuperà chi le riceve, secondo come vengono date da colui che ne ha il potere.</div></article>
+<article class="section" id="s-30"><a class="ref" href="#s-30">30</a><div class="section-text">Chi sono io per volere che esse stiano in questo modo o in quell’altro? Mi è forse data la scelta su di esse? Qualcuno mi ha forse nominato loro amministratore? Mi basta ciò su cui ho potere. Queste cose devo renderle quanto migliori possibile; il resto sia come vuole il loro padrone.</div></article>
+<article class="section" id="s-31"><a class="ref" href="#s-31">31</a><div class="section-text">Chi tiene davanti agli occhi queste cose resta sveglio e si gira da una parte e dall’altra? Che cosa vuole o che cosa rimpiange? Patroclo, Antiloco o Menelao? Quando infatti ha mai ritenuto immortale uno dei suoi amici? Quando non ha avuto davanti agli occhi che domani o dopodomani dovrà morire o lui o l’amico?</div></article>
+<article class="section" id="s-32"><a class="ref" href="#s-32">32</a><div class="section-text">«Sì», dice, «ma pensavo che mi sarebbe sopravvissuto e avrebbe allevato mio figlio.» Eri dunque stolto e presumevi ciò che era incerto. Perché allora non accusi te stesso, invece di sederti a piangere come le ragazze?</div></article>
+<article class="section" id="s-33"><a class="ref" href="#s-33">33</a><div class="section-text">«Ma era lui a prepararmi da mangiare.» Perché era vivo, sciocco; ora non può più. Ma te lo preparerà Automedonte; e se muore anche Automedonte, ne troverai un altro.</div></article>
+<article class="section" id="s-34"><a class="ref" href="#s-34">34</a><div class="section-text">Se si rompe la pentola in cui ti si cuoceva la carne, devi forse morire di fame perché non hai più la pentola abituale? Non mandi a comprarne un’altra nuova?</div></article>
+<article class="section" id="s-35"><a class="ref" href="#s-35">35</a><div class="section-text">«Non potrebbe capitarmi male peggiore», dice. È questo dunque il tuo male? E invece di eliminare questo giudizio accusi tua madre perché non te lo predisse, così da poter soffrire continuamente fin da allora?</div></article>
+<article class="section" id="s-36"><a class="ref" href="#s-36">36</a><div class="section-text">Che cosa credete? Non avrà Omero composto apposta queste cose perché vedessimo che i più nobili, i più forti, i più ricchi e i più belli, se non possiedono i giudizi che devono avere, nulla impedisce che siano i più miseri e infelici?</div></article>
+</div>
+
+<nav class="chapter-nav chapter-nav-bottom"><a href="4-09.html">Diatriba precedente</a><a class="chapter-home" href="../index.html">Home</a><a href="4-11.html">Diatriba successiva</a></nav>

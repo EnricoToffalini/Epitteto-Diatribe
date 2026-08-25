@@ -1,0 +1,41 @@
+---
+title: "Diatriba III.25 — A quelli che abbandonano i propri propositi"
+lang: it
+pagetitle: "Diatriba III.25 — A quelli che abbandonano i propri propositi — Epitteto, Diatribe"
+title-prefix: ""
+description-meta: "Diatriba III.25: «A quelli che abbandonano i propri propositi». Le Diatribe di Epitteto raccolte da Arriano, in traduzione italiana."
+sidebar: it
+---
+
+<!--
+FILE GENERATO. NON MODIFICARE A MANO.
+
+Modificare invece:
+- translation/it/**.md      per il testo e i titoli italiani
+- data/intro.json           per le note introduttive delle home page
+- tools/site_config.py      per lingue, testi dell'interfaccia, URL
+- styles.css                per l'aspetto grafico
+
+Poi eseguire:
+    run.bat
+-->
+
+
+<div class="diatribe-meta">Libro III · 10 sezioni · <span class="canonical" title="Riferimento canonico">III 25</span></div>
+
+<nav class="chapter-nav"><a href="3-24.html">Diatriba precedente</a><a class="chapter-home" href="../index.html">Home</a><a href="3-26.html">Diatriba successiva</a></nav>
+
+<div class="section-list">
+<article class="section" id="s-1"><a class="ref" href="#s-1">1</a><div class="section-text">Esamina, tra le cose che ti eri proposto all’inizio, quali hai mantenuto e quali no; e come, ricordando le une, ti rallegri, mentre per le altre ti rammarichi. E, se è possibile, recupera anche quelle che hai perduto.</div></article>
+<article class="section" id="s-2"><a class="ref" href="#s-2">2</a><div class="section-text">Chi combatte la battaglia più grande non deve infatti tirarsi indietro, ma deve anche ricevere dei colpi.</div></article>
+<article class="section" id="s-3"><a class="ref" href="#s-3">3</a><div class="section-text">La gara che ci sta davanti non riguarda infatti la lotta o il pancrazio, dove tanto chi riesce quanto chi non riesce può essere uomo di grandissimo o di scarso valore e, per Zeus, può essere felicissimo o infelicissimo; qui la gara riguarda la buona sorte e la felicità stesse.</div></article>
+<article class="section" id="s-4"><a class="ref" href="#s-4">4</a><div class="section-text">E allora? Anche se qui ci siamo arresi, nessuno ci impedisce di tornare a combattere; e non bisogna aspettare altri quattro anni perché tornino i Giochi Olimpici. Appena ti sei ripreso, hai recuperato te stesso e vi metti lo stesso impegno, puoi tornare a combattere. E se ti arrendi di nuovo, puoi ricominciare di nuovo; e se una volta vinci, sei come chi non si è mai arreso.</div></article>
+<article class="section" id="s-5"><a class="ref" href="#s-5">5</a><div class="section-text">Bada soltanto che, per la forza dell’abitudine, tu non cominci a trovare perfino piacevole fare così; altrimenti finirai per andare in giro come un cattivo atleta, sconfitto in tutto il circuito delle gare, simile alle quaglie fuggite dal combattimento.</div></article>
+<article class="section" id="s-6"><a class="ref" href="#s-6">6</a><div class="section-text">«Mi vince la rappresentazione di una bella ragazza. E allora? Non sono forse stato vinto anche l’altro giorno? Mi viene voglia di biasimare qualcuno. Non l’ho forse già biasimato l’altro giorno?»</div></article>
+<article class="section" id="s-7"><a class="ref" href="#s-7">7</a><div class="section-text">Ci parli così come se ne fossi uscito senza danno. È come se uno dicesse al medico che gli vieta di fare il bagno: «Ma non ho forse fatto il bagno l’altro giorno?» E se il medico potesse rispondergli: «E allora, dopo il bagno, che cosa ti è successo? Non ti è venuta la febbre? Non ti è venuto mal di testa?»</div></article>
+<article class="section" id="s-8"><a class="ref" href="#s-8">8</a><div class="section-text">E tu, quando l’altro giorno hai biasimato qualcuno, non hai compiuto l’azione di un maligno, di un chiacchierone? Non hai nutrito questa tua disposizione aggiungendole le azioni che le sono proprie? E quando sei stato vinto dalla ragazza, te ne sei andato senza danno? Perché dunque mi parli di ciò che hai fatto l’altro giorno?</div></article>
+<article class="section" id="s-9"><a class="ref" href="#s-9">9</a><div class="section-text">Avresti dovuto, credo, ricordartene come gli schiavi ricordano le percosse, e astenerti dagli stessi errori.</div></article>
+<article class="section" id="s-10"><a class="ref" href="#s-10">10</a><div class="section-text">Ma non è la stessa cosa: là infatti è il dolore a produrre il ricordo; negli errori, invece, quale dolore, quale pena vi è? Quando mai ti sei abituato a fuggire l’agire male?</div></article>
+</div>
+
+<nav class="chapter-nav chapter-nav-bottom"><a href="3-24.html">Diatriba precedente</a><a class="chapter-home" href="../index.html">Home</a><a href="3-26.html">Diatriba successiva</a></nav>

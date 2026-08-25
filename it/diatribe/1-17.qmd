@@ -1,0 +1,60 @@
+---
+title: "Diatriba I.17 — Che la logica è necessaria"
+lang: it
+pagetitle: "Diatriba I.17 — Che la logica è necessaria — Epitteto, Diatribe"
+title-prefix: ""
+description-meta: "Diatriba I.17: «Che la logica è necessaria». Le Diatribe di Epitteto raccolte da Arriano, in traduzione italiana."
+sidebar: it
+---
+
+<!--
+FILE GENERATO. NON MODIFICARE A MANO.
+
+Modificare invece:
+- translation/it/**.md      per il testo e i titoli italiani
+- data/intro.json           per le note introduttive delle home page
+- tools/site_config.py      per lingue, testi dell'interfaccia, URL
+- styles.css                per l'aspetto grafico
+
+Poi eseguire:
+    run.bat
+-->
+
+
+<div class="diatribe-meta">Libro I · 29 sezioni · <span class="canonical" title="Riferimento canonico">I 17</span></div>
+
+<nav class="chapter-nav"><a href="1-16.html">Diatriba precedente</a><a class="chapter-home" href="../index.html">Home</a><a href="1-18.html">Diatriba successiva</a></nav>
+
+<div class="section-list">
+<article class="section" id="s-1"><a class="ref" href="#s-1">1</a><div class="section-text">Poiché la ragione è ciò che articola e mette a punto tutto il resto, e non deve essere essa stessa priva di articolazione, da che cosa sarà articolata?</div></article>
+<article class="section" id="s-2"><a class="ref" href="#s-2">2</a><div class="section-text">È chiaro infatti che lo sarà o da se stessa o da qualcos’altro. E quest’altro o sarà ragione, oppure sarà qualcosa di superiore alla ragione, il che è impossibile.</div></article>
+<article class="section" id="s-3"><a class="ref" href="#s-3">3</a><div class="section-text">Se è ragione, chi articolerà a sua volta quella? Se essa articola se stessa, può farlo anche questa. Se invece avremo bisogno di un’altra, il processo sarà infinito e senza termine.</div></article>
+<article class="section" id="s-4"><a class="ref" href="#s-4">4</a><div class="section-text">«Sì, ma è più urgente curare e occuparsi di cose simili.» Vuoi dunque sentir parlare di quelle cose? Ascolta.</div></article>
+<article class="section" id="s-5"><a class="ref" href="#s-5">5</a><div class="section-text">Ma se mi dici: «Non so se ragioni in modo vero o falso», e se dico qualcosa con un’espressione ambigua e mi dici: «Distingui», non ti sopporterò più, ma ti dirò:</div></article>
+<article class="section" id="s-6"><a class="ref" href="#s-6">6</a><div class="section-text">«Ma è più urgente». Per questo, credo, si mette la logica al primo posto, come, quando si misura il grano, si antepone l’esame della misura.</div></article>
+<article class="section" id="s-7"><a class="ref" href="#s-7">7</a><div class="section-text">Se infatti non determiniamo prima che cosa sia un moggio e non determiniamo prima che cosa sia una bilancia, come potremo ancora misurare o pesare qualcosa?</div></article>
+<article class="section" id="s-8"><a class="ref" href="#s-8">8</a><div class="section-text">E dunque qui, se non abbiamo compreso e precisato il criterio delle altre cose e ciò per mezzo di cui le altre vengono comprese, potremo forse precisare e comprendere qualcosa delle altre?</div></article>
+<article class="section" id="s-9"><a class="ref" href="#s-9">9</a><div class="section-text">E come sarebbe possibile? «Sì, ma il moggio è di legno e non produce nulla.»</div></article>
+<article class="section" id="s-10"><a class="ref" href="#s-10">10</a><div class="section-text">Ma serve a misurare il grano. «Anche la logica non produce nulla.» Su questo vedremo. Ma anche se uno lo concedesse, basta questo: essa distingue ed esamina le altre cose e, per così dire, le misura e le pesa.</div></article>
+<article class="section" id="s-11"><a class="ref" href="#s-11">11</a><div class="section-text">Chi dice queste cose? Soltanto Crisippo, Zenone e Cleante?</div></article>
+<article class="section" id="s-12"><a class="ref" href="#s-12">12</a><div class="section-text">Non lo dice anche Antistene? E chi ha scritto che il principio dell’educazione è l’esame dei nomi? Non lo dice anche Socrate? E di chi scrive Senofonte che cominciava dall’esame dei nomi, chiedendo che cosa significasse ciascuno?</div></article>
+<article class="section" id="s-13"><a class="ref" href="#s-13">13</a><div class="section-text">È forse questa la cosa grande e ammirevole: capire Crisippo o spiegarlo? E chi lo dice? Che cos’è dunque ammirevole?</div></article>
+<article class="section" id="s-14"><a class="ref" href="#s-14">14</a><div class="section-text">Comprendere la volontà della natura. E allora? La comprendi da te stesso? Di chi hai ancora bisogno? Se infatti è vero che tutti sbagliano involontariamente, e tu hai compreso la verità, è necessario che ormai tu agisca rettamente.</div></article>
+<article class="section" id="s-15"><a class="ref" href="#s-15">15</a><div class="section-text">«Ma, per Zeus, io non comprendo la volontà della natura.» Chi dunque la spiega? Dicono che sia Crisippo.</div></article>
+<article class="section" id="s-16"><a class="ref" href="#s-16">16</a><div class="section-text">Vado allora a cercare che cosa dice questo interprete della natura. Comincio a non capire ciò che dice e cerco chi me lo spieghi: «Guarda, esamina come si dice questo», come se fosse in latino.</div></article>
+<article class="section" id="s-17"><a class="ref" href="#s-17">17</a><div class="section-text">Che motivo ha dunque qui di inorgoglirsi chi lo spiega? Non lo avrebbe giustamente nemmeno Crisippo stesso, se si limitasse a spiegare la volontà della natura senza seguirla; quanto meno chi spiega lui!</div></article>
+<article class="section" id="s-18"><a class="ref" href="#s-18">18</a><div class="section-text">Non abbiamo infatti bisogno di Crisippo per se stesso, ma per poter seguire la natura. Né del sacrificatore per se stesso, ma perché per mezzo suo crediamo di comprendere il futuro e i segni dati dagli dèi; né delle viscere per se stesse,</div></article>
+<article class="section" id="s-19"><a class="ref" href="#s-19">19</a><div class="section-text">ma perché attraverso di esse vengono dati dei segni; e non ammiriamo il corvo o la cornacchia, ma Dio che dà segni attraverso di loro.</div></article>
+<article class="section" id="s-20"><a class="ref" href="#s-20">20</a><div class="section-text">Vado dunque da questo interprete e sacrificatore e gli dico: «Esamina per me le viscere: che cosa mi viene indicato?»</div></article>
+<article class="section" id="s-21"><a class="ref" href="#s-21">21</a><div class="section-text">Egli le prende, le apre e spiega: «Uomo, hai una scelta morale che per natura non può essere ostacolata né costretta. Questo è scritto qui, nelle viscere.</div></article>
+<article class="section" id="s-22"><a class="ref" href="#s-22">22</a><div class="section-text">Te lo mostrerò anzitutto nell’ambito dell’assenso. Può qualcuno impedirti di assentire al vero? Nessuno. Può qualcuno costringerti ad accogliere il falso?</div></article>
+<article class="section" id="s-23"><a class="ref" href="#s-23">23</a><div class="section-text">Nessuno. Vedi dunque che, in questo ambito, la tua facoltà di scelta morale non può essere ostacolata, costretta o impedita?</div></article>
+<article class="section" id="s-24"><a class="ref" href="#s-24">24</a><div class="section-text">Su, è forse diverso nell’ambito del desiderio e dell’impulso? Che cosa può vincere un impulso se non un altro impulso? E che cosa può vincere desiderio e avversione se non un altro desiderio e un’altra avversione?</div></article>
+<article class="section" id="s-25"><a class="ref" href="#s-25">25</a><div class="section-text">«Ma», dice, «se mi si mette davanti la paura della morte, questa mi costringe.» Non è ciò che ti viene messo davanti a costringerti, ma il fatto che ti sembra meglio fare una di quelle cose piuttosto che morire.</div></article>
+<article class="section" id="s-26"><a class="ref" href="#s-26">26</a><div class="section-text">Ancora una volta, dunque, è stato il tuo giudizio a costringerti: cioè è stata la scelta morale a costringere la scelta morale.</div></article>
+<article class="section" id="s-27"><a class="ref" href="#s-27">27</a><div class="section-text">Se infatti Dio avesse fatto quella parte propria che ci ha dato, staccandola da sé, in modo che potesse essere ostacolata o costretta da lui stesso o da qualcun altro, non sarebbe più Dio e non si prenderebbe cura di noi come deve.»</div></article>
+<article class="section" id="s-28"><a class="ref" href="#s-28">28</a><div class="section-text">«Questo», dice, «trovo nelle vittime sacrificali. Questo ti viene indicato: se vuoi, sei libero; se vuoi, non biasimerai nessuno, non accuserai nessuno; tutto avverrà secondo il tuo volere e insieme secondo quello di Dio.»</div></article>
+<article class="section" id="s-29"><a class="ref" href="#s-29">29</a><div class="section-text">Per questo responso vado da questo sacrificatore e filosofo, non perché ammiri lui per la sua interpretazione, ma ciò che interpreta.</div></article>
+</div>
+
+<nav class="chapter-nav chapter-nav-bottom"><a href="1-16.html">Diatriba precedente</a><a class="chapter-home" href="../index.html">Home</a><a href="1-18.html">Diatriba successiva</a></nav>

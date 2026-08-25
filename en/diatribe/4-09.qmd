@@ -1,0 +1,48 @@
+---
+title: "Discourse IV.9 — To a person who had been changed to a character of shamelessness"
+lang: en
+pagetitle: "Discourse IV.9 — To a person who had been changed to a character of shamelessness — Epictetus, Discourses"
+title-prefix: ""
+description-meta: "Discourse IV.9: “To a person who had been changed to a character of shamelessness”. The Discourses of Epictetus, in George Long’s English translation, with his notes."
+sidebar: en
+---
+
+<!--
+FILE GENERATO. NON MODIFICARE A MANO.
+
+Modificare invece:
+- translation/it/**.md      per il testo e i titoli italiani
+- data/intro.json           per le note introduttive delle home page
+- tools/site_config.py      per lingue, testi dell'interfaccia, URL
+- styles.css                per l'aspetto grafico
+
+Poi eseguire:
+    run.bat
+-->
+
+
+<div class="diatribe-meta">Book IV · 3 paragraphs · <span class="canonical" title="Canonical reference">IV 9</span></div>
+
+<div class="title-note">Note on the title<a class="note-ref" id="noteref-1" href="#note-1" role="doc-noteref" aria-label="note 1"><sup>1</sup></a></div>
+
+<nav class="chapter-nav"><a href="4-08.html">Previous discourse</a><a class="chapter-home" href="../index.html">Home</a><a href="4-10.html">Next discourse</a></nav>
+
+<div class="paragraph-list">
+<p>WHEN you see another man in the possession of power (magistracy), set against this the fact that you have not the want (desire) of power; when you see another rich, see what you possess in place of riches: for if you possess nothing in place of them, you are miserable; but if you have not the want of riches, know that you possess more than this man possesses and what is worth much more. Another man possesses a handsome woman (wife): you have the satisfaction of not desiring a handsome wife. Do these things appear to you to be small? And how much would these persons give, these very men who are rich, and in possession of power, and live with handsome women, to be able to despise riches, and power and these very women whom they love and enjoy? Do you not know then what is the thirst of a man who has a fever? He possesses that which is in no degree like the thirst of a man who is in health: for the man who is in health ceases to be thirsty after he has drunk; but the sick man being pleased for a short time has a nausea, he converts the drink into bile, vomits, is griped, and more thirsty. It is such a thing to have desire of riches and to possess riches, desire of power and to possess power, desire of a beautiful woman and to sleep with her: to this is added jealousy, fear of being deprived of the thing which you love, indecent words, indecent thoughts, unseemly acts.</p>
+<p>And what do I lose? you will say. My man, you were modest, and you are so no longer. Have you lost nothing? In place of Chrysippus and Zeno you read Aristides and Evenus;<a class="note-ref" id="noteref-2" href="#note-2" role="doc-noteref" aria-label="note 2"><sup>2</sup></a> have you lost nothing? In place of Socrates and Diogenes, you admire him who is able to corrupt and seduce most women. You wish to appear handsome and try to make yourself so, though you are not. You like to display splendid clothes that you may attract women; and if you find any fine oil (for the hair),<a class="note-ref" id="noteref-3" href="#note-3" role="doc-noteref" aria-label="note 3"><sup>3</sup></a> you imagine that you are happy. But formerly you did not think of any such thing, but only where there should be decent talk, a worthy man, and a generous conception. Therefore you slept like a man, walked forth like a man, wore a manly dress, and used to talk in a way becoming a good man; then do you say to me, I have lost nothing? So do men lose nothing more than coin? Is not modesty lost? Is not decent behaviour lost? is it that he who has lost these things has sustained no loss? Perhaps you think that not one of these things is a loss. But there was a time when you reckoned this the only loss and damage, and you were anxious that no man should disturb you from these (good) words and actions.</p>
+<p>Observe, you are disturbed from these good words and actions by nobody, but by yourself. Fight with yourself, restore yourself to decency, to modesty, to liberty. If any man ever told you this about me, that a person forces me to be an adulterer, to wear such a dress as yours, to perfume myself with oils, would you not have gone and with your own hand have killed the man who thus calumniated me? Now will you not help yourself? and how much easier is this help? There is no need to kill any man, nor to put him in chains, nor to treat him with contumely nor to enter the Forum (go to the courts of law), but it is only necessary for you to speak to yourself who will be most easily persuaded, with whom no man has more power of persuasion than yourself. First of all, condemn what you are doing, and then when you have condemned it, do not despair of yourself, and be not in the condition of those men of mean spirit, who, when they have once given in, surrender themselves completely and are carried away as if by a torrent. But see what the trainers of boys do. Has the boy fallen? Rise, they say, wrestle again till you are made strong. Do you also do something of the same kind: for be well assured that nothing is more tractable than the human soul. You must exercise the Will,<a class="note-ref" id="noteref-4" href="#note-4" role="doc-noteref" aria-label="note 4"><sup>4</sup></a>and the thing is done, it is set right: as on the other hand, only fall a nodding (be careless), and the thing is lost: for from within comes ruin and from within comes help. Then (you say) what good do I gain? And what greater good do you seek than this?<a class="note-ref" id="noteref-5" href="#note-5" role="doc-noteref" aria-label="note 5"><sup>5</sup></a> From a shameless man you will become a modest man, from a disorderly you will become an orderly man, from a faithless you will become a faithful man, from a man of unbridled habits a sober man. If you seek any thing more than this, go on doing what you are doing: not even a God can now help you.</p>
+</div>
+
+<section class="notes">
+<h2>Notes</h2>
+<ol class="note-list">
+<li class="note" id="note-1" role="doc-endnote"><p><q>They, who are desirous of taking refuge in Heathenism from the strictness of the Christian morality, will find no great consolation in reading this chapter of Epictetus.</q> Mrs. Carter.</p><a class="note-back" href="#noteref-1" aria-label="back to the text">&#8617;</a></li>
+<li class="note" id="note-2" role="doc-endnote"><p>Aristides was a Greek, but his period is not known. He was the author of a work named Milesiaca or Milesian stories. All that we know of the work is that it was of a loose description, amatory and licentious. It was translated into Latin by L. Cornelius Sisenna, a contemporary of the Dictator Sulla; and it is mentioned by Plutarch (Life of Crassus, c. 32), and several times by Ovid (<cite>Tristia ii. 413 etc.</cite>). Evenus was perhaps a poet. We know nothing of this Evenus, but we may conjecture from being here associated with Aristides what his character was.</p><a class="note-back" href="#noteref-2" aria-label="back to the text">&#8617;</a></li>
+<li class="note" id="note-3" role="doc-endnote"><p>See Schweig.’s note on the word <span class="foreign" lang="grc">μυραλειφίον</span>, which he has in his text. It should be <span class="foreign" lang="grc">μυραλοιφίον</span>, if the word exists.</p><a class="note-back" href="#noteref-3" aria-label="back to the text">&#8617;</a></li>
+<li class="note" id="note-4" role="doc-endnote"><p>The orginal is <span class="foreign" lang="grc">φελῆσαι δεῖ</span>. <span class="cit"><cite>Seneca (Ep. 80):</cite> <q lang="lat" class="foreign">Quid tibi opus est ut sis bonus? Velle.</q></span> Upton.</p>
+<p>The power of the Will is a fundamental principle with Epictetus. The will is strong in some, but very feeble in others; and sometimes, as experience seems to show, it is incapable of resisting the power of old habits.</p><a class="note-back" href="#noteref-4" aria-label="back to the text">&#8617;</a></li>
+<li class="note" id="note-5" role="doc-endnote"><p>Virtue is its own reward, said the Stoics. This is the meaning of Epictetus, and it is consistent with his principles that a man should live conformably to his nature, and so he will have all the happiness of which human nature is capable. Mrs. Carter has a note here, which I do not copy, and I hardly understand. It seems to refer to the Christian doctrine of a man being rewarded in a future life according to his works: but we have no evidence that Epictetus believed in a future life, and he therefore could not go further than to maintain that virtuous behaviour is the best thing in this short life, and will give a man the happiness which he can obtain in no other way.</p><a class="note-back" href="#noteref-5" aria-label="back to the text">&#8617;</a></li>
+</ol>
+</section>
+
+<nav class="chapter-nav chapter-nav-bottom"><a href="4-08.html">Previous discourse</a><a class="chapter-home" href="../index.html">Home</a><a href="4-10.html">Next discourse</a></nav>

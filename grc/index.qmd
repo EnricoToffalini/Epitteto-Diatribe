@@ -1,0 +1,146 @@
+---
+lang: grc
+pagetitle: "Ἐπικτήτου Διατριβαί — τὸ ἑλληνικὸν κείμενον (Schenkl, 1916)"
+title-prefix: ""
+description-meta: "Ἀρριανοῦ τῶν Ἐπικτήτου Διατριβῶν βιβλία τέσσαρα, κατὰ τὴν ἔκδοσιν Ἑινρίκου Schenkl (Teubner, 1916)."
+sidebar: grc
+format:
+  html:
+    include-in-header: seo-head.html
+---
+
+<!--
+FILE GENERATO. NON MODIFICARE A MANO.
+
+Modificare invece:
+- translation/it/**.md      per il testo e i titoli italiani
+- data/intro.json           per le note introduttive delle home page
+- tools/site_config.py      per lingue, testi dell'interfaccia, URL
+- styles.css                per l'aspetto grafico
+
+Poi eseguire:
+    run.bat
+-->
+
+
+<div class="site-note">
+<p>Ταῦτα τὰ τέσσαρα βιβλία τῶν Ἐπικτήτου διατριβῶν Ἀρριανὸς ὁ μαθητὴς ἀκροώμενος ἀνέγραψεν. τὸ δὲ ἑλληνικὸν κείμενον ἐκ τῆς ἐκδόσεως τοῦ Heinrich Schenkl (Teubner, 1916) λαμβάνεται, ἣν ἡ Perseus Digital Library παρέχει.</p>
+<p>τὸ δὲ κεφάλαιον τῆς διδασκαλίας τοῦτο· τῶν ὄντων τὰ μέν ἐστιν ἐφʼ ἡμῖν, τὰ δὲ οὐκ ἐφʼ ἡμῖν. ἐφʼ ἡμῖν μὲν ὑπόληψις, ὁρμή, ὄρεξις, ἔκκλισις· οὐκ ἐφʼ ἡμῖν δὲ σῶμα, κτῆσις, δόξαι, ἀρχαί (<i>Ἐγχειρίδιον</i> αʹ).</p>
+</div>
+
+<div class="site-usage">Αἱ τρεῖς ἐκδόσεις — ἡ Ἰταλική, ἡ Ἀγγλική, ἡ Ἑλληνική — τὰς αὐτὰς σελίδας ἔχουσιν· τὰ σημεῖα τὰ ἄνω μεταφέρει ἀπὸ τῆς ἑτέρας εἰς τὴν ἑτέραν ἐν τῇ αὐτῇ διατριβῇ.</div>
+
+<h2 id="book-1">Βιβλίον Αʹ</h2>
+
+<div class="chapter-grid">
+<a class="chapter-card" href="diatribe/1-01.html"><span class="chapter-number">Διατριβή αʹ</span><span class="chapter-title">περὶ τῶν ἐφʼ ἡμῖν καὶ οὐκ ἐφʼ ἡμῖν</span><span class="chapter-count">32 τμήματα</span></a>
+<a class="chapter-card" href="diatribe/1-02.html"><span class="chapter-number">Διατριβή βʹ</span><span class="chapter-title">πῶς ἄν τις σῴζοι τὸ κατὰ πρόσωπον ἐν παντί</span><span class="chapter-count">37 τμήματα</span></a>
+<a class="chapter-card" href="diatribe/1-03.html"><span class="chapter-number">Διατριβή γʹ</span><span class="chapter-title">πῶς ἄν τις ἀπὸ τοῦ τὸν θεὸν πατέρα εἶναι τῶν ἀνθρώπων ἐπὶ τὰ ἑξῆς ἐπέλθοι</span><span class="chapter-count">9 τμήματα</span></a>
+<a class="chapter-card" href="diatribe/1-04.html"><span class="chapter-number">Διατριβή δʹ</span><span class="chapter-title">περὶ προκοπῆς</span><span class="chapter-count">32 τμήματα</span></a>
+<a class="chapter-card" href="diatribe/1-05.html"><span class="chapter-number">Διατριβή εʹ</span><span class="chapter-title">πρὸς τοὺς Ἀκαδημαικούς</span><span class="chapter-count">10 τμήματα</span></a>
+<a class="chapter-card" href="diatribe/1-06.html"><span class="chapter-number">Διατριβή ϛʹ</span><span class="chapter-title">περὶ προνοίας</span><span class="chapter-count">43 τμήματα</span></a>
+<a class="chapter-card" href="diatribe/1-07.html"><span class="chapter-number">Διατριβή ζʹ</span><span class="chapter-title">περὶ τῆς χρείας τῶν μεταπιπτόντων καὶ ὑποθετικῶν καὶ τῶν ὁμοίων</span><span class="chapter-count">32 τμήματα</span></a>
+<a class="chapter-card" href="diatribe/1-08.html"><span class="chapter-number">Διατριβή ηʹ</span><span class="chapter-title">ὅτι αἱ δυνάμεις τοῖς ἀπαιδεύτοις οὐκ ἀσφαλεῖς</span><span class="chapter-count">16 τμήματα</span></a>
+<a class="chapter-card" href="diatribe/1-09.html"><span class="chapter-number">Διατριβή θʹ</span><span class="chapter-title">πῶς ἀπὸ τοῦ συγγενεῖς ἡμᾶς εἶναι τῷ θεῷ ἐπέλθοι ἄν τις ἐπὶ τὰ ἑξῆς</span><span class="chapter-count">34 τμήματα</span></a>
+<a class="chapter-card" href="diatribe/1-10.html"><span class="chapter-number">Διατριβή ιʹ</span><span class="chapter-title">πρὸς τοὺς περὶ τὰς ἐν Ῥώμῃ προαγωγὰς ἐσπουδακότας</span><span class="chapter-count">13 τμήματα</span></a>
+<a class="chapter-card" href="diatribe/1-11.html"><span class="chapter-number">Διατριβή ιαʹ</span><span class="chapter-title">περὶ φιλοστοργίας</span><span class="chapter-count">40 τμήματα</span></a>
+<a class="chapter-card" href="diatribe/1-12.html"><span class="chapter-number">Διατριβή ιβʹ</span><span class="chapter-title">περὶ εὐαρεστήσεως</span><span class="chapter-count">35 τμήματα</span></a>
+<a class="chapter-card" href="diatribe/1-13.html"><span class="chapter-number">Διατριβή ιγʹ</span><span class="chapter-title">πῶς ἕκαστα ἔστιν ποιεῖν ἀρεστῶς θεοῖς</span><span class="chapter-count">5 τμήματα</span></a>
+<a class="chapter-card" href="diatribe/1-14.html"><span class="chapter-number">Διατριβή ιδʹ</span><span class="chapter-title">ὅτι πάντας ἐφορᾷ τὸ θεῖον</span><span class="chapter-count">17 τμήματα</span></a>
+<a class="chapter-card" href="diatribe/1-15.html"><span class="chapter-number">Διατριβή ιεʹ</span><span class="chapter-title">τί ἐπαγγέλλεται φιλοσοφία</span><span class="chapter-count">8 τμήματα</span></a>
+<a class="chapter-card" href="diatribe/1-16.html"><span class="chapter-number">Διατριβή ιϛʹ</span><span class="chapter-title">περὶ προνοίας</span><span class="chapter-count">21 τμήματα</span></a>
+<a class="chapter-card" href="diatribe/1-17.html"><span class="chapter-number">Διατριβή ιζʹ</span><span class="chapter-title">ὅτι ἀναγκαῖα τὰ λογικά</span><span class="chapter-count">29 τμήματα</span></a>
+<a class="chapter-card" href="diatribe/1-18.html"><span class="chapter-number">Διατριβή ιηʹ</span><span class="chapter-title">ὅτι οὐ δεῖ χαλεπαίνειν τοῖς ἁμαρτανομένοις</span><span class="chapter-count">23 τμήματα</span></a>
+<a class="chapter-card" href="diatribe/1-19.html"><span class="chapter-number">Διατριβή ιθʹ</span><span class="chapter-title">πῶς ἔχειν δεῖ πρὸς τοὺς τυράννους</span><span class="chapter-count">29 τμήματα</span></a>
+<a class="chapter-card" href="diatribe/1-20.html"><span class="chapter-number">Διατριβή κʹ</span><span class="chapter-title">περὶ τοῦ λόγου πῶς αὑτοῦ θεωρητικός ἐστιν</span><span class="chapter-count">19 τμήματα</span></a>
+<a class="chapter-card" href="diatribe/1-21.html"><span class="chapter-number">Διατριβή καʹ</span><span class="chapter-title">πρὸς τοὺς θαυμάζεσθαι θέλοντας</span><span class="chapter-count">4 τμήματα</span></a>
+<a class="chapter-card" href="diatribe/1-22.html"><span class="chapter-number">Διατριβή κβʹ</span><span class="chapter-title">περὶ τῶν προλήψεων</span><span class="chapter-count">21 τμήματα</span></a>
+<a class="chapter-card" href="diatribe/1-23.html"><span class="chapter-number">Διατριβή κγʹ</span><span class="chapter-title">πρὸς Ἐπίκουρον</span><span class="chapter-count">10 τμήματα</span></a>
+<a class="chapter-card" href="diatribe/1-24.html"><span class="chapter-number">Διατριβή κδʹ</span><span class="chapter-title">πῶς πρὸς τὰς περιστάσεις ἀγωνιστέον</span><span class="chapter-count">20 τμήματα</span></a>
+<a class="chapter-card" href="diatribe/1-25.html"><span class="chapter-number">Διατριβή κεʹ</span><span class="chapter-title">πρὸς τὸ αὐτό</span><span class="chapter-count">33 τμήματα</span></a>
+<a class="chapter-card" href="diatribe/1-26.html"><span class="chapter-number">Διατριβή κϛʹ</span><span class="chapter-title">τίς ὁ βιωτικὸς νόμος</span><span class="chapter-count">18 τμήματα</span></a>
+<a class="chapter-card" href="diatribe/1-27.html"><span class="chapter-number">Διατριβή κζʹ</span><span class="chapter-title">ποσαχῶς αἱ φαντασίαι γίνονται καὶ τίνα πρόχειρα πρὸς αὐτὰς βοηθήματα παρασκευαστέον</span><span class="chapter-count">21 τμήματα</span></a>
+<a class="chapter-card" href="diatribe/1-28.html"><span class="chapter-number">Διατριβή κηʹ</span><span class="chapter-title">ὅτι οὐ δεῖ χαλεπαίνειν ἀνθρώποις καὶ τίνα τὰ μικρὰ καὶ μεγάλα ἐν ἀνθρώποις</span><span class="chapter-count">33 τμήματα</span></a>
+<a class="chapter-card" href="diatribe/1-29.html"><span class="chapter-number">Διατριβή κθʹ</span><span class="chapter-title">περὶ εὐσταθείας</span><span class="chapter-count">66 τμήματα</span></a>
+<a class="chapter-card" href="diatribe/1-30.html"><span class="chapter-number">Διατριβή λʹ</span><span class="chapter-title">τί δεῖ πρόχειρον ἔχειν ἐν ταῖς περιστάσεσιν</span><span class="chapter-count">7 τμήματα</span></a>
+</div>
+
+<h2 id="book-2">Βιβλίον Βʹ</h2>
+
+<div class="chapter-grid">
+<a class="chapter-card" href="diatribe/2-01.html"><span class="chapter-number">Διατριβή αʹ</span><span class="chapter-title">ὅτι οὐ μάχεται τὸ θαρρεῖν τῷ εὐλαβεῖσθαι</span><span class="chapter-count">40 τμήματα</span></a>
+<a class="chapter-card" href="diatribe/2-02.html"><span class="chapter-number">Διατριβή βʹ</span><span class="chapter-title">περὶ ἀταραξίας</span><span class="chapter-count">26 τμήματα</span></a>
+<a class="chapter-card" href="diatribe/2-03.html"><span class="chapter-number">Διατριβή γʹ</span><span class="chapter-title">πρὸς τοὺς συνιστάντας τινὰς τοῖς φιλοσόφοις</span><span class="chapter-count">5 τμήματα</span></a>
+<a class="chapter-card" href="diatribe/2-04.html"><span class="chapter-number">Διατριβή δʹ</span><span class="chapter-title">πρὸς τὸν ἐπὶ μοιχείᾳ ποτὲ κατειλημμένον</span><span class="chapter-count">11 τμήματα</span></a>
+<a class="chapter-card" href="diatribe/2-05.html"><span class="chapter-number">Διατριβή εʹ</span><span class="chapter-title">πῶς συνυπάρχει μεγαλοφροσύνη καὶ ἐπιμέλεια</span><span class="chapter-count">29 τμήματα</span></a>
+<a class="chapter-card" href="diatribe/2-06.html"><span class="chapter-number">Διατριβή ϛʹ</span><span class="chapter-title">περὶ ἀδιαφορίας</span><span class="chapter-count">27 τμήματα</span></a>
+<a class="chapter-card" href="diatribe/2-07.html"><span class="chapter-number">Διατριβή ζʹ</span><span class="chapter-title">πῶς μαντευτέον</span><span class="chapter-count">14 τμήματα</span></a>
+<a class="chapter-card" href="diatribe/2-08.html"><span class="chapter-number">Διατριβή ηʹ</span><span class="chapter-title">τίς οὐσία τοῦ ἀγαθοῦ</span><span class="chapter-count">29 τμήματα</span></a>
+<a class="chapter-card" href="diatribe/2-09.html"><span class="chapter-number">Διατριβή θʹ</span><span class="chapter-title">ὅτι οὐ δυνάμενοι τὴν ἀνθρώπου ἐπαγγελίαν πληρῶσαι τὴν φιλοσόφου προσλαμβάνομεν</span><span class="chapter-count">22 τμήματα</span></a>
+<a class="chapter-card" href="diatribe/2-10.html"><span class="chapter-number">Διατριβή ιʹ</span><span class="chapter-title">πῶς ἀπὸ τῶν ὀνομάτων τὰ καθήκοντα ἔστιν εὑρίσκειν</span><span class="chapter-count">30 τμήματα</span></a>
+<a class="chapter-card" href="diatribe/2-11.html"><span class="chapter-number">Διατριβή ιαʹ</span><span class="chapter-title">τίς ἀρχὴ φιλοσοφίας</span><span class="chapter-count">25 τμήματα</span></a>
+<a class="chapter-card" href="diatribe/2-12.html"><span class="chapter-number">Διατριβή ιβʹ</span><span class="chapter-title">περὶ τοῦ διαλέγεσθαι</span><span class="chapter-count">25 τμήματα</span></a>
+<a class="chapter-card" href="diatribe/2-13.html"><span class="chapter-number">Διατριβή ιγʹ</span><span class="chapter-title">περὶ τοῦ ἀγωνιᾶν</span><span class="chapter-count">26 τμήματα</span></a>
+<a class="chapter-card" href="diatribe/2-14.html"><span class="chapter-number">Διατριβή ιδʹ</span><span class="chapter-title">πρὸς Νάσωνα</span><span class="chapter-count">29 τμήματα</span></a>
+<a class="chapter-card" href="diatribe/2-15.html"><span class="chapter-number">Διατριβή ιεʹ</span><span class="chapter-title">πρὸς τοὺς σκληρῶς τισιν ὧν ἔκριναν ἐμμένοντας</span><span class="chapter-count">20 τμήματα</span></a>
+<a class="chapter-card" href="diatribe/2-16.html"><span class="chapter-number">Διατριβή ιϛʹ</span><span class="chapter-title">ὅτι οὐ μελετῶμεν χρῆσθαι τοῖς περὶ ἀγαθῶν καὶ κακῶν δόγμασιν</span><span class="chapter-count">47 τμήματα</span></a>
+<a class="chapter-card" href="diatribe/2-17.html"><span class="chapter-number">Διατριβή ιζʹ</span><span class="chapter-title">πῶς ἐφαρμοστέον τὰς προλήψεις τοῖς ἐπὶ μέρους</span><span class="chapter-count">40 τμήματα</span></a>
+<a class="chapter-card" href="diatribe/2-18.html"><span class="chapter-number">Διατριβή ιηʹ</span><span class="chapter-title">πῶς ἀγωνιστέον πρὸς τὰς φαντασίας</span><span class="chapter-count">32 τμήματα</span></a>
+<a class="chapter-card" href="diatribe/2-19.html"><span class="chapter-number">Διατριβή ιθʹ</span><span class="chapter-title">πρὸς τοὺς μέχρι λόγου μόνον ἀναλαμβάνοντας τὰ τῶν φιλοσόφων</span><span class="chapter-count">34 τμήματα</span></a>
+<a class="chapter-card" href="diatribe/2-20.html"><span class="chapter-number">Διατριβή κʹ</span><span class="chapter-title">πρὸς Ἐπικουρείους καὶ Ἀκαδημαικούς</span><span class="chapter-count">37 τμήματα</span></a>
+<a class="chapter-card" href="diatribe/2-21.html"><span class="chapter-number">Διατριβή καʹ</span><span class="chapter-title">περὶ ἀνομολογίας</span><span class="chapter-count">22 τμήματα</span></a>
+<a class="chapter-card" href="diatribe/2-22.html"><span class="chapter-number">Διατριβή κβʹ</span><span class="chapter-title">περὶ φιλίας</span><span class="chapter-count">37 τμήματα</span></a>
+<a class="chapter-card" href="diatribe/2-23.html"><span class="chapter-number">Διατριβή κγʹ</span><span class="chapter-title">περὶ τῆς τοῦ λέγειν δυνάμεως</span><span class="chapter-count">47 τμήματα</span></a>
+<a class="chapter-card" href="diatribe/2-24.html"><span class="chapter-number">Διατριβή κδʹ</span><span class="chapter-title">πρός τινα τῶν οὐκ ἠξιωμένων ὑπʼερ αὐτοῦ</span><span class="chapter-count">29 τμήματα</span></a>
+<a class="chapter-card" href="diatribe/2-25.html"><span class="chapter-number">Διατριβή κεʹ</span><span class="chapter-title">πῶς ἀναγκαῖα τὰ λογικά</span><span class="chapter-count">3 τμήματα</span></a>
+<a class="chapter-card" href="diatribe/2-26.html"><span class="chapter-number">Διατριβή κϛʹ</span><span class="chapter-title">τί τὸ ἴδιον τοῦ ἁμαρτήματος</span><span class="chapter-count">7 τμήματα</span></a>
+</div>
+
+<h2 id="book-3">Βιβλίον Γʹ</h2>
+
+<div class="chapter-grid">
+<a class="chapter-card" href="diatribe/3-01.html"><span class="chapter-number">Διατριβή αʹ</span><span class="chapter-title">περὶ καλλωπισμοῦ</span><span class="chapter-count">45 τμήματα</span></a>
+<a class="chapter-card" href="diatribe/3-02.html"><span class="chapter-number">Διατριβή βʹ</span><span class="chapter-title">περὶ τίνα ἀσκεῖσθαι δεῖ τὸν προκόψοντα καὶ ὅτι τῶν κυριωτάτων ἀμελοῦμεν</span><span class="chapter-count">18 τμήματα</span></a>
+<a class="chapter-card" href="diatribe/3-03.html"><span class="chapter-number">Διατριβή γʹ</span><span class="chapter-title">τίς ὕλη τοῦ ἀγαθοῦ καὶ πρὸς τί μάλιστʼ ἀσκητέον</span><span class="chapter-count">22 τμήματα</span></a>
+<a class="chapter-card" href="diatribe/3-04.html"><span class="chapter-number">Διατριβή δʹ</span><span class="chapter-title">πρὸς τὸν ἀκόσμως ἐν θεάτρῳ σπουδάσαντα</span><span class="chapter-count">12 τμήματα</span></a>
+<a class="chapter-card" href="diatribe/3-05.html"><span class="chapter-number">Διατριβή εʹ</span><span class="chapter-title">πρὸς τοὺς διὰ νόσον ἀπαλλαττομένους</span><span class="chapter-count">19 τμήματα</span></a>
+<a class="chapter-card" href="diatribe/3-06.html"><span class="chapter-number">Διατριβή ϛʹ</span><span class="chapter-title">σποράδην τινά</span><span class="chapter-count">10 τμήματα</span></a>
+<a class="chapter-card" href="diatribe/3-07.html"><span class="chapter-number">Διατριβή ζʹ</span><span class="chapter-title">πρὸς τὸν διορθωτὴν τῶν ἐλευθέρων πόλεων Ἐπικούρειον ὄντα</span><span class="chapter-count">36 τμήματα</span></a>
+<a class="chapter-card" href="diatribe/3-08.html"><span class="chapter-number">Διατριβή ηʹ</span><span class="chapter-title">πῶς πρὸς τὰς φαντασίας γυμναστέον</span><span class="chapter-count">7 τμήματα</span></a>
+<a class="chapter-card" href="diatribe/3-09.html"><span class="chapter-number">Διατριβή θʹ</span><span class="chapter-title">πρός τινα ῥήτορα ἀνιόντα εἰς Ῥώμην ἐπὶ δίκῃ</span><span class="chapter-count">22 τμήματα</span></a>
+<a class="chapter-card" href="diatribe/3-10.html"><span class="chapter-number">Διατριβή ιʹ</span><span class="chapter-title">πῶς φέρειν δεῖ τὰς νόσους</span><span class="chapter-count">20 τμήματα</span></a>
+<a class="chapter-card" href="diatribe/3-11.html"><span class="chapter-number">Διατριβή ιαʹ</span><span class="chapter-title">σποράδην τινά</span><span class="chapter-count">6 τμήματα</span></a>
+<a class="chapter-card" href="diatribe/3-12.html"><span class="chapter-number">Διατριβή ιβʹ</span><span class="chapter-title">περὶ ἀσκήσεως</span><span class="chapter-count">17 τμήματα</span></a>
+<a class="chapter-card" href="diatribe/3-13.html"><span class="chapter-number">Διατριβή ιγʹ</span><span class="chapter-title">τί ἐρημία καὶ ποῖος ἔρημος</span><span class="chapter-count">23 τμήματα</span></a>
+<a class="chapter-card" href="diatribe/3-14.html"><span class="chapter-number">Διατριβή ιδʹ</span><span class="chapter-title">σποράδην τινά</span><span class="chapter-count">14 τμήματα</span></a>
+<a class="chapter-card" href="diatribe/3-15.html"><span class="chapter-number">Διατριβή ιεʹ</span><span class="chapter-title">ὅτι δεῖ περιεσκεμμένως ἔρχεσθαι ἐφʼ ἕκαστα</span><span class="chapter-count">14 τμήματα</span></a>
+<a class="chapter-card" href="diatribe/3-16.html"><span class="chapter-number">Διατριβή ιϛʹ</span><span class="chapter-title">ὅτι εὐλαβῶς δεῖ συγκαθιέναι εἰς συμπεριφοράν</span><span class="chapter-count">16 τμήματα</span></a>
+<a class="chapter-card" href="diatribe/3-17.html"><span class="chapter-number">Διατριβή ιζʹ</span><span class="chapter-title">περὶ προνοίας</span><span class="chapter-count">9 τμήματα</span></a>
+<a class="chapter-card" href="diatribe/3-18.html"><span class="chapter-number">Διατριβή ιηʹ</span><span class="chapter-title">ὅτι οὐ δεῖ πρὸς τὰς ἀγγελίας ταράσσεσθαι</span><span class="chapter-count">9 τμήματα</span></a>
+<a class="chapter-card" href="diatribe/3-19.html"><span class="chapter-number">Διατριβή ιθʹ</span><span class="chapter-title">τίς στάσις ἰδιώτου καὶ φιλοσόφου</span><span class="chapter-count">6 τμήματα</span></a>
+<a class="chapter-card" href="diatribe/3-20.html"><span class="chapter-number">Διατριβή κʹ</span><span class="chapter-title">ὅτι ἀπὸ πάντων τῶν ἐκτὸς ἔστιν ὠφελεῖσθαι</span><span class="chapter-count">19 τμήματα</span></a>
+<a class="chapter-card" href="diatribe/3-21.html"><span class="chapter-number">Διατριβή καʹ</span><span class="chapter-title">πρὸς τοὺς εὐκόλως ἐπὶ τὸ σοφιστεύειν ἐρχομένους</span><span class="chapter-count">24 τμήματα</span></a>
+<a class="chapter-card" href="diatribe/3-22.html"><span class="chapter-number">Διατριβή κβʹ</span><span class="chapter-title">περὶ Κυνισμοῦ</span><span class="chapter-count">109 τμήματα</span></a>
+<a class="chapter-card" href="diatribe/3-23.html"><span class="chapter-number">Διατριβή κγʹ</span><span class="chapter-title">πρὸς τοὺς ἀναγιγνώσκοντας καὶ διαλεγομένους ἐπιδεικτικῶς</span><span class="chapter-count">38 τμήματα</span></a>
+<a class="chapter-card" href="diatribe/3-24.html"><span class="chapter-number">Διατριβή κδʹ</span><span class="chapter-title">περὶ τοῦ μὴ δεῖν προσπάσχειν τοῖς οὐκ ἐφʼ ἡμῖν</span><span class="chapter-count">118 τμήματα</span></a>
+<a class="chapter-card" href="diatribe/3-25.html"><span class="chapter-number">Διατριβή κεʹ</span><span class="chapter-title">πρὸς τοὺς ἀποπίπτοντας ὧν προέθεντο</span><span class="chapter-count">10 τμήματα</span></a>
+<a class="chapter-card" href="diatribe/3-26.html"><span class="chapter-number">Διατριβή κϛʹ</span><span class="chapter-title">πρὸς τοὺς τὴν ἀπορίαν δεδοικότας</span><span class="chapter-count">39 τμήματα</span></a>
+</div>
+
+<h2 id="book-4">Βιβλίον Δʹ</h2>
+
+<div class="chapter-grid">
+<a class="chapter-card" href="diatribe/4-01.html"><span class="chapter-number">Διατριβή αʹ</span><span class="chapter-title">περὶ ἐλευθερίας</span><span class="chapter-count">177 τμήματα</span></a>
+<a class="chapter-card" href="diatribe/4-02.html"><span class="chapter-number">Διατριβή βʹ</span><span class="chapter-title">περὶ συμπεριφορᾶς</span><span class="chapter-count">10 τμήματα</span></a>
+<a class="chapter-card" href="diatribe/4-03.html"><span class="chapter-number">Διατριβή γʹ</span><span class="chapter-title">τίνα τίνων ἀντικαταλλακτέον</span><span class="chapter-count">12 τμήματα</span></a>
+<a class="chapter-card" href="diatribe/4-04.html"><span class="chapter-number">Διατριβή δʹ</span><span class="chapter-title">πρὸς τοὺς περὶ τὸ ἐν ἡσυχίᾳ διάγειν ἐσπουδακότας</span><span class="chapter-count">48 τμήματα</span></a>
+<a class="chapter-card" href="diatribe/4-05.html"><span class="chapter-number">Διατριβή εʹ</span><span class="chapter-title">πρὸς τοὺς μαχίμους καὶ θηριώδεις</span><span class="chapter-count">37 τμήματα</span></a>
+<a class="chapter-card" href="diatribe/4-06.html"><span class="chapter-number">Διατριβή ϛʹ</span><span class="chapter-title">πρὸς τοὺς ἐπὶ τῷ ἐλεεῖσθαι ὀδυνωμένους</span><span class="chapter-count">38 τμήματα</span></a>
+<a class="chapter-card" href="diatribe/4-07.html"><span class="chapter-number">Διατριβή ζʹ</span><span class="chapter-title">περὶ ἀφοβίας</span><span class="chapter-count">41 τμήματα</span></a>
+<a class="chapter-card" href="diatribe/4-08.html"><span class="chapter-number">Διατριβή ηʹ</span><span class="chapter-title">πρὸς τοὺς ταχέως ἐπὶ τὸ σχῆμα τῶν φιλοσόφων ἐπιπηδῶντας</span><span class="chapter-count">43 τμήματα</span></a>
+<a class="chapter-card" href="diatribe/4-09.html"><span class="chapter-number">Διατριβή θʹ</span><span class="chapter-title">πρὸς τὸν εἰς ἀναισχυντίαν μεταβληθέντα</span><span class="chapter-count">18 τμήματα</span></a>
+<a class="chapter-card" href="diatribe/4-10.html"><span class="chapter-number">Διατριβή ιʹ</span><span class="chapter-title">τίνων δεῖ καταφρονεῖν καὶ πρὸς τίνα διαφέρεσθαι</span><span class="chapter-count">36 τμήματα</span></a>
+<a class="chapter-card" href="diatribe/4-11.html"><span class="chapter-number">Διατριβή ιαʹ</span><span class="chapter-title">περὶ καθαριότητος</span><span class="chapter-count">36 τμήματα</span></a>
+<a class="chapter-card" href="diatribe/4-12.html"><span class="chapter-number">Διατριβή ιβʹ</span><span class="chapter-title">περὶ προσοχῆς</span><span class="chapter-count">21 τμήματα</span></a>
+<a class="chapter-card" href="diatribe/4-13.html"><span class="chapter-number">Διατριβή ιγʹ</span><span class="chapter-title">πρὸς τοὺς εὐκόλως ἐκφέροντας τὰ αὑτῶν</span><span class="chapter-count">24 τμήματα</span></a>
+</div>

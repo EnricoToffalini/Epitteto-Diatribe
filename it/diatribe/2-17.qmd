@@ -1,0 +1,71 @@
+---
+title: "Diatriba II.17 — Come applicare le preconcezioni ai casi particolari"
+lang: it
+pagetitle: "Diatriba II.17 — Come applicare le preconcezioni ai casi particolari — Epitteto, Diatribe"
+title-prefix: ""
+description-meta: "Diatriba II.17: «Come applicare le preconcezioni ai casi particolari». Le Diatribe di Epitteto raccolte da Arriano, in traduzione italiana."
+sidebar: it
+---
+
+<!--
+FILE GENERATO. NON MODIFICARE A MANO.
+
+Modificare invece:
+- translation/it/**.md      per il testo e i titoli italiani
+- data/intro.json           per le note introduttive delle home page
+- tools/site_config.py      per lingue, testi dell'interfaccia, URL
+- styles.css                per l'aspetto grafico
+
+Poi eseguire:
+    run.bat
+-->
+
+
+<div class="diatribe-meta">Libro II · 40 sezioni · <span class="canonical" title="Riferimento canonico">II 17</span></div>
+
+<nav class="chapter-nav"><a href="2-16.html">Diatriba precedente</a><a class="chapter-home" href="../index.html">Home</a><a href="2-18.html">Diatriba successiva</a></nav>
+
+<div class="section-list">
+<article class="section" id="s-1"><a class="ref" href="#s-1">1</a><div class="section-text">Qual è il primo compito di chi si dedica alla filosofia? Liberarsi della presunzione: è infatti impossibile cominciare a imparare ciò che si crede già di sapere.</div></article>
+<article class="section" id="s-2"><a class="ref" href="#s-2">2</a><div class="section-text">Quanto a ciò che si deve o non si deve fare, al bene e al male, al bello e al brutto, arriviamo tutti dai filosofi discorrendone in lungo e in largo, lodando e biasimando, accusando e rimproverando, giudicando e distinguendo tra condotte belle e brutte.</div></article>
+<article class="section" id="s-3"><a class="ref" href="#s-3">3</a><div class="section-text">Ma per che cosa ci rivolgiamo ai filosofi? Per ciò che non crediamo di sapere. E che cos’è? Le dottrine. Vogliamo infatti imparare ciò che dicono i filosofi perché ci sembra raffinato e sottile; alcuni, poi, per ricavarne un guadagno.</div></article>
+<article class="section" id="s-4"><a class="ref" href="#s-4">4</a><div class="section-text">È dunque ridicolo credere di voler imparare una cosa e di impararne un’altra, o, in altri termini, di poter progredire in ciò che non si impara.</div></article>
+<article class="section" id="s-5"><a class="ref" href="#s-5">5</a><div class="section-text">A ingannare i più è proprio questo, lo stesso che ingannò anche il retore Teopompo, quando rimprovera perfino Platone perché vuole definire ogni cosa.</div></article>
+<article class="section" id="s-6"><a class="ref" href="#s-6">6</a><div class="section-text">Che cosa dice infatti? «Nessuno di noi, prima di te, diceva “bene” o “giusto”? Oppure pronunciavamo queste parole senza comprenderne il significato, emettendo suoni indistinti e vuoti?»</div></article>
+<article class="section" id="s-7"><a class="ref" href="#s-7">7</a><div class="section-text">Chi ti dice, Teopompo, che non avevamo nozioni naturali e prenozioni di ciascuna di queste cose? Ma non è possibile applicare le prenozioni agli oggetti appropriati senza averle articolate e senza essersi posto proprio questa domanda: quale oggetto va ricondotto a ciascuna di esse?</div></article>
+<article class="section" id="s-8"><a class="ref" href="#s-8">8</a><div class="section-text">Allora di’ cose simili anche contro i medici: chi di noi non parlava di qualcosa di sano o di malsano prima che nascesse Ippocrate? Oppure facevamo risuonare queste parole a vuoto?</div></article>
+<article class="section" id="s-9"><a class="ref" href="#s-9">9</a><div class="section-text">Abbiamo infatti anche una prenozione di ciò che è sano, ma non sappiamo applicarla. Per questo uno dice: «Tienilo a digiuno», un altro: «Dagli da mangiare»; uno dice: «Praticagli un salasso», un altro: «Applicagli le coppette». Qual è la causa? Non forse il fatto che non si sa applicare bene ai casi particolari la prenozione di ciò che è sano?</div></article>
+<article class="section" id="s-10"><a class="ref" href="#s-10">10</a><div class="section-text">Lo stesso vale qui, per le cose della vita. Chi di noi non parla di bene e male, di utile e dannoso? Chi di noi, infatti, non possiede una prenozione di ciascuna di queste cose? Ma è forse articolata e compiuta?</div></article>
+<article class="section" id="s-11"><a class="ref" href="#s-11">11</a><div class="section-text">Mostramelo. «Come posso mostrarlo?» Applicala bene ai casi particolari. Per esempio, Platone riconduce le definizioni alla prenozione dell’utile, tu invece a quella dell’inutile.</div></article>
+<article class="section" id="s-12"><a class="ref" href="#s-12">12</a><div class="section-text">È dunque possibile che abbiate ragione entrambi? Come potrebbe? E alla ricchezza, forse, uno non applica la prenozione del bene e un altro no? E così al piacere, alla salute?</div></article>
+<article class="section" id="s-13"><a class="ref" href="#s-13">13</a><div class="section-text">In generale, se tutti noi che usiamo queste parole conosciamo davvero che cosa significhi ciascuna e non abbiamo bisogno di alcun lavoro per articolare le prenozioni, perché siamo in disaccordo, perché combattiamo, perché ci biasimiamo a vicenda?</div></article>
+<article class="section" id="s-14"><a class="ref" href="#s-14">14</a><div class="section-text">E perché dovrei ora addurre e ricordare la lotta che c’è tra noi? Se tu stesso applichi bene le prenozioni, perché la tua vita scorre male, perché incontri impedimenti?</div></article>
+<article class="section" id="s-15"><a class="ref" href="#s-15">15</a><div class="section-text">Lasciamo per ora il secondo ambito, quello degli impulsi e dell’esercizio accurato dei doveri che li riguarda. Lasciamo anche il terzo, quello degli assensi.</div></article>
+<article class="section" id="s-16"><a class="ref" href="#s-16">16</a><div class="section-text">Ti concedo tutto questo. Fermiamoci al primo, che fornisce una prova quasi tangibile del fatto che non applichiamo bene le prenozioni.</div></article>
+<article class="section" id="s-17"><a class="ref" href="#s-17">17</a><div class="section-text">Ora tu desideri ciò che è possibile e ciò che è possibile per te? Perché allora incontri impedimenti? Perché la tua vita scorre male? Non eviti forse ciò che è inevitabile? Perché allora vi incappi, perché sei infelice? Perché, quando vuoi qualcosa, non accade, e quando non la vuoi, accade?</div></article>
+<article class="section" id="s-18"><a class="ref" href="#s-18">18</a><div class="section-text">Questa è infatti la prova più grande che la vita scorre male e che si è infelici: voglio qualcosa e non accade; che cosa c’è di più misero di me? Non voglio qualcosa e accade; che cosa c’è di più misero di me?</div></article>
+<article class="section" id="s-19"><a class="ref" href="#s-19">19</a><div class="section-text">Medea, non riuscendo a sopportare proprio questo, arrivò a uccidere i figli. Almeno sotto questo aspetto, con grandezza d’animo: aveva infatti la rappresentazione che occorre avere di che cosa significhi per qualcuno non ottenere ciò che vuole.</div></article>
+<article class="section" id="s-20"><a class="ref" href="#s-20">20</a><div class="section-text">«Così mi vendicherò di chi mi ha fatto torto e mi ha oltraggiata.» E che vantaggio ne ricavo, se lui si trova in questa condizione? «Come si può fare, allora? Uccido i figli. Ma punirò anche me stessa.» E che m’importa?</div></article>
+<article class="section" id="s-21"><a class="ref" href="#s-21">21</a><div class="section-text">Questa è la caduta di un’anima dotata di grande vigore. Non sapeva infatti dove risieda il poter fare ciò che vogliamo: che non bisogna ottenerlo dall’esterno, né spostando e riordinando le cose.</div></article>
+<article class="section" id="s-22"><a class="ref" href="#s-22">22</a><div class="section-text">Non desiderare quell’uomo, e nulla di ciò che vuoi mancherà di accadere. Non pretendere a ogni costo che viva con te, non desiderare di restare a Corinto e, in generale, non desiderare altro da ciò che Dio vuole. E chi potrà ostacolarti, chi costringerti? Non più di quanto possa farlo con Zeus.</div></article>
+<article class="section" id="s-23"><a class="ref" href="#s-23">23</a><div class="section-text">Quando hai una guida simile e vuoi e desideri insieme con lui, perché temi ancora di fallire?</div></article>
+<article class="section" id="s-24"><a class="ref" href="#s-24">24</a><div class="section-text">Affida il tuo desiderio e la tua avversione alla povertà e alla ricchezza: fallirai nel desiderio e incapperai in ciò che avversi. Affidali alla salute: sarai infelice; alle cariche, agli onori, alla patria, agli amici, ai figli, in generale a una qualsiasi delle cose estranee alla scelta morale. Affidali invece a Zeus e agli altri dèi;</div></article>
+<article class="section" id="s-25"><a class="ref" href="#s-25">25</a><div class="section-text">consegnali a loro, lascia che siano loro a governarli, che siano schierati dalla loro parte: e in che modo, allora, la tua vita potrà ancora scorrere male?</div></article>
+<article class="section" id="s-26"><a class="ref" href="#s-26">26</a><div class="section-text">Ma se provi invidia, miserabile, compatisci, sei geloso, tremi e non passa un solo giorno senza che tu pianga te stesso e gli dèi, perché continui a dire di essere educato?</div></article>
+<article class="section" id="s-27"><a class="ref" href="#s-27">27</a><div class="section-text">Quale educazione, uomo? Perché ti sei esercitato nei sillogismi, negli argomenti che mutano di significato? Non vuoi, se è possibile, disimparare tutto questo e ricominciare da capo, riconoscendo che finora non hai neppure toccato la questione,</div></article>
+<article class="section" id="s-28"><a class="ref" href="#s-28">28</a><div class="section-text">e poi, partendo da qui, costruire sopra tutto il resto: come fare in modo che nulla accada contro la tua volontà e che nulla di ciò che vuoi manchi di accadere?</div></article>
+<article class="section" id="s-29"><a class="ref" href="#s-29">29</a><div class="section-text">Datemi un solo giovane che sia venuto a scuola con questo proposito, che si sia fatto atleta di questa impresa e dica: «Per me tutto il resto se ne vada pure; mi basta che un giorno mi sia possibile vivere senza impedimenti e senza dolore, tendere il collo di fronte agli eventi da uomo libero e guardare il cielo da amico di Dio, senza temere nulla di ciò che può accadere». Mostratemene uno così, perché io possa dirgli:</div></article>
+<article class="section" id="s-30"><a class="ref" href="#s-30">30</a><div class="section-text">«Vieni, giovane, a ciò che è tuo: a te è destinato adornare la filosofia; tuoi sono questi beni, tuoi questi libri, tuoi questi discorsi.»</div></article>
+<article class="section" id="s-31"><a class="ref" href="#s-31">31</a><div class="section-text">Poi, quando avrà lavorato e lottato fino a padroneggiare questo ambito, torni da me e mi dica: «Voglio essere libero dalle passioni e imperturbabile; ma voglio anche, da uomo pio, filosofo e diligente, sapere quale sia il mio dovere verso gli dèi, verso i genitori, verso i fratelli, verso la patria, verso gli stranieri.»</div></article>
+<article class="section" id="s-32"><a class="ref" href="#s-32">32</a><div class="section-text">Vieni anche al secondo ambito: anche questo è tuo.</div></article>
+<article class="section" id="s-33"><a class="ref" href="#s-33">33</a><div class="section-text">«Ma ormai mi sono esercitato a fondo anche nel secondo ambito. Vorrei però essere sicuro e incrollabile, non soltanto da sveglio, ma anche dormendo, ubriaco e in preda alla malinconia.» Tu sei un dio, uomo, tu hai grandi ambizioni.</div></article>
+<article class="section" id="s-34"><a class="ref" href="#s-34">34</a><div class="section-text">«No; voglio sapere che cosa dice Crisippo nei trattati sul Mentitore.» Non vuoi impiccarti con un proposito simile, disgraziato? E che vantaggio ne avrai? Leggerai tutto piangendo e lo riferirai agli altri tremando.</div></article>
+<article class="section" id="s-35"><a class="ref" href="#s-35">35</a><div class="section-text">È proprio ciò che fate anche voi. «Vuoi che ti legga qualcosa, fratello?» «E tu a me.» «Scrivi magnificamente, uomo.» «E tu splendidamente nello stile di Senofonte; tu in quello di Platone,</div></article>
+<article class="section" id="s-36"><a class="ref" href="#s-36">36</a><div class="section-text">tu in quello di Antistene.» Poi, dopo esservi raccontati a vicenda i vostri sogni, tornate di nuovo alle stesse cose: desiderate allo stesso modo, provate la stessa avversione, avete gli stessi impulsi, gli stessi propositi e le stesse intenzioni, fate le stesse preghiere, vi affannate per le stesse cose. E poi non cercate neppure qualcuno che ve lo ricordi,</div></article>
+<article class="section" id="s-37"><a class="ref" href="#s-37">37</a><div class="section-text">anzi vi irritate se sentite dire queste cose. Poi dite: «Vecchio senza affetto: quando me ne andavo non ha pianto e non ha detto: “Figlio mio, verso quale situazione te ne vai! Se tornerai sano e salvo, accenderò delle lampade.”» Sarebbe questo il comportamento di chi prova affetto?</div></article>
+<article class="section" id="s-38"><a class="ref" href="#s-38">38</a><div class="section-text">Sarà davvero un gran bene se uno come te tornerà sano e salvo, e degno di lampade. Perché tu, naturalmente, devi essere immortale e immune dalle malattie.</div></article>
+<article class="section" id="s-39"><a class="ref" href="#s-39">39</a><div class="section-text">Bisogna dunque, come dico, liberarci di questa presunzione di sapere qualcosa di ciò che è utile e accostarci al ragionamento come ci accostiamo alla geometria e alla musica;</div></article>
+<article class="section" id="s-40"><a class="ref" href="#s-40">40</a><div class="section-text">altrimenti non saremo neppure vicini a progredire, anche se passeremo in rassegna tutte le introduzioni e tutti i trattati di Crisippo, insieme con quelli di Antipatro e di Archedemo.</div></article>
+</div>
+
+<nav class="chapter-nav chapter-nav-bottom"><a href="2-16.html">Diatriba precedente</a><a class="chapter-home" href="../index.html">Home</a><a href="2-18.html">Diatriba successiva</a></nav>

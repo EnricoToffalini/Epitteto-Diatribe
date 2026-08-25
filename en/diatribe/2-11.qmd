@@ -1,0 +1,46 @@
+---
+title: "Discourse II.11 — What the beginning of philosophy is"
+lang: en
+pagetitle: "Discourse II.11 — What the beginning of philosophy is — Epictetus, Discourses"
+title-prefix: ""
+description-meta: "Discourse II.11: “What the beginning of philosophy is”. The Discourses of Epictetus, in George Long’s English translation, with his notes."
+sidebar: en
+---
+
+<!--
+FILE GENERATO. NON MODIFICARE A MANO.
+
+Modificare invece:
+- translation/it/**.md      per il testo e i titoli italiani
+- data/intro.json           per le note introduttive delle home page
+- tools/site_config.py      per lingue, testi dell'interfaccia, URL
+- styles.css                per l'aspetto grafico
+
+Poi eseguire:
+    run.bat
+-->
+
+
+<div class="diatribe-meta">Book II · 3 paragraphs · <span class="canonical" title="Canonical reference">II 11</span></div>
+
+<nav class="chapter-nav"><a href="2-10.html">Previous discourse</a><a class="chapter-home" href="../index.html">Home</a><a href="2-12.html">Next discourse</a></nav>
+
+<div class="paragraph-list">
+<p>THE beginning of philosophy to him at least who enters on it in the right way and by the door, is a consciousness of his own weakness and inability about necessary things. For we come into the world with no natural notion of a right angled triangle, or of a diesis (a quarter tone), or of a half tone; but we learn each of these things by a certain transmission according to art; and for this reason those who do not know them, do not think that they know them. But as to good and evil, and beautiful and ugly, and becoming and unbecoming, and happiness and misfortune, and proper and improper, and what we ought to do and what we ought not to do, who ever came into the world without having an innate idea of them? Wherefore we all use these names, and we endeavour to fit the preconceptions<a class="note-ref" id="noteref-1" href="#note-1" role="doc-noteref" aria-label="note 1"><sup>1</sup></a> to the several cases (things) thus: he has done well, he has not done well; he has done as he ought, not as he ought; he has been unfortunate, he has been fortunate; he is unjust, he is just: who does not use these names? who among us defers the use of them till he has learned them, as he defers the use of the words about lines (geometrical figures) or sounds? And the cause of this is that we come into the world already taught as it were by nature some things on this matter (<span class="foreign" lang="grc">τόπον</span>), and proceeding from these we have added to them self—conceit (<span class="foreign" lang="grc">οἴησιν</span>).<a class="note-ref" id="noteref-2" href="#note-2" role="doc-noteref" aria-label="note 2"><sup>2</sup></a> For why, a man says, do I not know the beautiful and the ugly? Have I not the notion of it? You have. Do I not adapt it to particulars? You do. Do I not then adapt it properly? In that lies the whole question; and conceit is added here. For beginning from these things which are admitted men proceed to that which is matter of dispute by means of unsuitable adaptation; for if they possessed this power of adaptation in addition to those things, what would hinder them from being perfect? But now since you think that you properly adapt the preconceptions to the particulars, tell me whence you derive this (assume that you do so). Because I think so. But it does not seem so to another, and he thinks that he also makes a proper adaptation; or does he not think so? He does think so. Is it possible then that both of you can properly apply the preconceptions to things about which you have contrary opinions? It is not possible. Can you then show us anything better towards adapting the preconceptions beyond your thinking that you do? Does the madman do any other things than the things which seem to him right? Is then this criterion sufficient for him also? It is not sufficient. Come then to something which is superior to seeming (<span class="foreign" lang="grc">τοῦ δοκεῖν</span>). What is this?</p>
+<p>Observe, this is the beginning of philosophy, a perception of the disagreement of men with one another, and an inquiry into the cause of the disagreement, and a condemnation and distrust of that which only <q>seems</q>, and a certain investigation of that which <q>seems</q> whether it <q>seems</q> rightly, and a discovery of some rule (<span class="foreign" lang="grc">κανόνος</span>), as we have discovered a balance in the determination of weights, and a carpenter’s rule (or square) in the case of straight and crooked things.—This is the beginning of philosophy. Must we say that all things are right which seem so to all?<a class="note-ref" id="noteref-3" href="#note-3" role="doc-noteref" aria-label="note 3"><sup>3</sup></a> And how is it possible that contradictions can be right?—Not all then, but all which seem to us to be right.—How more to you than those which seem right to the Syrians? why more than what seem right to the Egyptians? why more than what seems right to me or to any other man? Not at all more. What then <q>seems</q> to every man is not sufficient for determining what <q>is.</q> for neither in the case of weights or measures are we satisfied with the bare appearance, but in each case we have discovered a certain rule. In this matter then is there no rule superior to what ’seems’? And how is it possible that the most necessary things among men should have no sign (mark), and be incapable of being discovered? There is then some rule. And why then do we not seek the rule and discover it, and afterwards use it without varying from it, not even stretching out the finger without it?<a class="note-ref" id="noteref-4" href="#note-4" role="doc-noteref" aria-label="note 4"><sup>4</sup></a> For this, I think, is that which when it is discovered cures of their madness those who use mere <q>seeming</q> as a measure, and misuse it; so that for the future proceeding from certain things (principles) known and made clear we may use in the case of particular things the preconceptions which are distinctly fixed.</p>
+<p>What is the matter presented to us about which we are inquiring? Pleasure (for example). Subject it to the rule, throw it into the balance. Ought the good to be such a thing that it is fit that we have confidence in it? Yes. And in which we ought to confide? It ought to be. Is it fit to trust to any thing which is insecure? No. Is then pleasure any thing secure? No. Take it Then and throw it out of the scale, and drive it far away from the place of good things. But if you are not sharp-sighted, and one balance is not enough for you, bring another. Is it fit to be elated over what is good? Yes. Is it proper then to be elated over present pleasure? See that you do not say that it is proper; but if you do, I shall then not think you worthy even of the balance.<a class="note-ref" id="noteref-5" href="#note-5" role="doc-noteref" aria-label="note 5"><sup>5</sup></a> Thus things are tested and weighed when the rules are ready. And to philosophize is this, to examine and confirm the rules; and then to use them when they are known is the act of a wise and good man.<a class="note-ref" id="noteref-6" href="#note-6" role="doc-noteref" aria-label="note 6"><sup>6</sup></a></p>
+</div>
+
+<section class="notes">
+<h2>Notes</h2>
+<ol class="note-list">
+<li class="note" id="note-1" role="doc-endnote"><p>See i. e. 2.</p><a class="note-back" href="#noteref-1" aria-label="back to the text">&#8617;</a></li>
+<li class="note" id="note-2" role="doc-endnote"><p>See Cicero’s use of <span class="foreign" lang="lat">opinatio</span> (Tusc. iv. 11).</p><a class="note-back" href="#noteref-2" aria-label="back to the text">&#8617;</a></li>
+<li class="note" id="note-3" role="doc-endnote"><p>See Schweig.’s note.</p><a class="note-back" href="#noteref-3" aria-label="back to the text">&#8617;</a></li>
+<li class="note" id="note-4" role="doc-endnote"><p>Doing nothing without the rule. This is a Greek proverb, used also by Persius, Sat. v. 119; compare Cicero, de Fin. iii. 17; and Antoninus, ii 16.</p><a class="note-back" href="#noteref-4" aria-label="back to the text">&#8617;</a></li>
+<li class="note" id="note-5" role="doc-endnote"><p>That is, so far shall I consider you from being able to judge rightly of things without a balance that I shall understand that not even with the aid of a balance can you do it, that you cannot even use a balance, and consequently that you are not worth a single word from me. Schweig.</p><a class="note-back" href="#noteref-5" aria-label="back to the text">&#8617;</a></li>
+<li class="note" id="note-6" role="doc-endnote"><p>This is a just conclusion. We must fix the canons or rules by which things are tried; and then the rules may be applied by the wise and good to all cases.</p><a class="note-back" href="#noteref-6" aria-label="back to the text">&#8617;</a></li>
+</ol>
+</section>
+
+<nav class="chapter-nav chapter-nav-bottom"><a href="2-10.html">Previous discourse</a><a class="chapter-home" href="../index.html">Home</a><a href="2-12.html">Next discourse</a></nav>

@@ -1,0 +1,40 @@
+---
+title: "Diatriba III.17 — Sulla provvidenza"
+lang: it
+pagetitle: "Diatriba III.17 — Sulla provvidenza — Epitteto, Diatribe"
+title-prefix: ""
+description-meta: "Diatriba III.17: «Sulla provvidenza». Le Diatribe di Epitteto raccolte da Arriano, in traduzione italiana."
+sidebar: it
+---
+
+<!--
+FILE GENERATO. NON MODIFICARE A MANO.
+
+Modificare invece:
+- translation/it/**.md      per il testo e i titoli italiani
+- data/intro.json           per le note introduttive delle home page
+- tools/site_config.py      per lingue, testi dell'interfaccia, URL
+- styles.css                per l'aspetto grafico
+
+Poi eseguire:
+    run.bat
+-->
+
+
+<div class="diatribe-meta">Libro III · 9 sezioni · <span class="canonical" title="Riferimento canonico">III 17</span></div>
+
+<nav class="chapter-nav"><a href="3-16.html">Diatriba precedente</a><a class="chapter-home" href="../index.html">Home</a><a href="3-18.html">Diatriba successiva</a></nav>
+
+<div class="section-list">
+<article class="section" id="s-1"><a class="ref" href="#s-1">1</a><div class="section-text">Quando accusi la provvidenza, torna a considerare la cosa e riconoscerai che è avvenuta secondo ragione.</div></article>
+<article class="section" id="s-2"><a class="ref" href="#s-2">2</a><div class="section-text">«Sì, ma l’ingiusto ha di più.» In che cosa? Nel denaro. In questo infatti è superiore a te, perché adula, non ha vergogna, veglia di notte. Che cosa c’è di sorprendente?</div></article>
+<article class="section" id="s-3"><a class="ref" href="#s-3">3</a><div class="section-text">Guarda invece se ha più di te quanto a lealtà, quanto a rispetto di sé. Non lo troverai. Ma là dove sei tu a essere migliore, là scoprirai di avere di più.</div></article>
+<article class="section" id="s-4"><a class="ref" href="#s-4">4</a><div class="section-text">Anch’io una volta dissi a uno che si indignava perché Filostorgo aveva successo: «Vorresti andare a letto con Sura?» — «Non venga mai quel giorno», disse.</div></article>
+<article class="section" id="s-5"><a class="ref" href="#s-5">5</a><div class="section-text">«Perché dunque ti indigni se riceve qualcosa in cambio di ciò che vende? E come puoi considerare felice chi ottiene quelle cose mediante ciò che tu scongiuri di dover fare? O quale male compie la provvidenza, se dà le cose migliori ai migliori? Non è forse meglio essere rispettosi di sé che ricchi?» Lo ammise. «Perché dunque ti indigni, uomo, se possiedi ciò che è migliore?»</div></article>
+<article class="section" id="s-6"><a class="ref" href="#s-6">6</a><div class="section-text">Ricordate dunque sempre e tenete a portata di mano questo principio: è una legge naturale che chi è migliore abbia più di chi è peggiore proprio nell’ambito in cui è migliore; e non vi indignerete mai.</div></article>
+<article class="section" id="s-7"><a class="ref" href="#s-7">7</a><div class="section-text">«Ma mia moglie mi tratta male.» Bene. Se qualcuno ti chiede che cosa è accaduto, di’: «Mia moglie mi tratta male». Nient’altro, dunque?</div></article>
+<article class="section" id="s-8"><a class="ref" href="#s-8">8</a><div class="section-text">Nient’altro. «Mio padre non mi dà nulla.» … Ma che questo sia un male, bisogna aggiungerlo da sé e aggiungerlo falsamente.</div></article>
+<article class="section" id="s-9"><a class="ref" href="#s-9">9</a><div class="section-text">Per questo non bisogna eliminare la povertà, ma il giudizio che abbiamo su di essa; e così vivremo serenamente.</div></article>
+</div>
+
+<nav class="chapter-nav chapter-nav-bottom"><a href="3-16.html">Diatriba precedente</a><a class="chapter-home" href="../index.html">Home</a><a href="3-18.html">Diatriba successiva</a></nav>

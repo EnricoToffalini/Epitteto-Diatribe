@@ -1,0 +1,63 @@
+---
+title: "Diatriba I.4 — Sul progresso"
+lang: it
+pagetitle: "Diatriba I.4 — Sul progresso — Epitteto, Diatribe"
+title-prefix: ""
+description-meta: "Diatriba I.4: «Sul progresso». Le Diatribe di Epitteto raccolte da Arriano, in traduzione italiana."
+sidebar: it
+---
+
+<!--
+FILE GENERATO. NON MODIFICARE A MANO.
+
+Modificare invece:
+- translation/it/**.md      per il testo e i titoli italiani
+- data/intro.json           per le note introduttive delle home page
+- tools/site_config.py      per lingue, testi dell'interfaccia, URL
+- styles.css                per l'aspetto grafico
+
+Poi eseguire:
+    run.bat
+-->
+
+
+<div class="diatribe-meta">Libro I · 32 sezioni · <span class="canonical" title="Riferimento canonico">I 4</span></div>
+
+<nav class="chapter-nav"><a href="1-03.html">Diatriba precedente</a><a class="chapter-home" href="../index.html">Home</a><a href="1-05.html">Diatriba successiva</a></nav>
+
+<div class="section-list">
+<article class="section" id="s-1"><a class="ref" href="#s-1">1</a><div class="section-text">Chi progredisce ha imparato dai filosofi che il desiderio è desiderio dei beni e l’avversione è avversione per i mali; e ha imparato anche che serenità e libertà dalle passioni non si ottengono altrimenti se non evitando, nel desiderio, di fallire ciò che si desidera e, nell’avversione, di incorrere in ciò che si vuole evitare. Perciò ha eliminato del tutto il desiderio e lo ha rimandato, mentre usa l’avversione soltanto verso ciò che dipende dalla scelta morale.</div></article>
+<article class="section" id="s-2"><a class="ref" href="#s-2">2</a><div class="section-text">Se infatti cerca di evitare qualcosa che non dipende dalla scelta morale, sa che prima o poi incorrerà proprio in qualcosa che vuole evitare e sarà infelice.</div></article>
+<article class="section" id="s-3"><a class="ref" href="#s-3">3</a><div class="section-text">Se dunque la virtù promette di produrre felicità, libertà dalle passioni e serenità, necessariamente anche il progresso verso di essa è progresso verso ciascuna di queste cose.</div></article>
+<article class="section" id="s-4"><a class="ref" href="#s-4">4</a><div class="section-text">Infatti, qualunque sia il fine a cui conduce la perfezione di una cosa, il progresso consiste sempre nell’avvicinarsi a quel fine.</div></article>
+<article class="section" id="s-5"><a class="ref" href="#s-5">5</a><div class="section-text">Come mai dunque riconosciamo che la virtù produce qualcosa del genere, e poi cerchiamo e mostriamo il progresso in tutt’altro? Qual è il risultato della virtù?</div></article>
+<article class="section" id="s-6"><a class="ref" href="#s-6">6</a><div class="section-text">La serenità. Chi è dunque che progredisce? Quello che ha letto molti trattati di Crisippo?</div></article>
+<article class="section" id="s-7"><a class="ref" href="#s-7">7</a><div class="section-text">Forse la virtù consiste nell’aver compreso Crisippo? Se fosse così, il progresso non sarebbe evidentemente altro che comprendere molte cose di Crisippo.</div></article>
+<article class="section" id="s-8"><a class="ref" href="#s-8">8</a><div class="section-text">Ma ora riconosciamo che la virtù produce una cosa, e dichiariamo che l’avvicinamento ad essa, cioè il progresso, consiste in un’altra.</div></article>
+<article class="section" id="s-9"><a class="ref" href="#s-9">9</a><div class="section-text">«Costui», si dice, «ormai riesce a leggere Crisippo anche da solo.» Bene, per gli dèi, stai progredendo, uomo! Ma quale progresso?</div></article>
+<article class="section" id="s-10"><a class="ref" href="#s-10">10</a><div class="section-text">Perché lo prendi in giro? Perché lo allontani dalla consapevolezza dei propri mali? Non vuoi mostrargli quale sia il risultato della virtù, perché impari dove cercare il progresso?</div></article>
+<article class="section" id="s-11"><a class="ref" href="#s-11">11</a><div class="section-text">Cercalo là, infelice, dove sta il tuo compito. E dov’è il tuo compito? Nel desiderio e nell’avversione, perché tu non fallisca ciò che desideri e non incorra in ciò che vuoi evitare; negli impulsi ad agire e a non agire, perché tu non sbagli; nell’assenso e nella sospensione dell’assenso, perché tu non venga ingannato.</div></article>
+<article class="section" id="s-12"><a class="ref" href="#s-12">12</a><div class="section-text">I primi sono gli ambiti principali e più necessari. Ma se, tremando e lamentandoti, cerchi di non incorrere in ciò che vuoi evitare, in che modo stai progredendo?</div></article>
+<article class="section" id="s-13"><a class="ref" href="#s-13">13</a><div class="section-text">Mostrami dunque qui il tuo progresso. Se stessi parlando con un atleta, direi: «Mostrami le spalle»; e quello rispondesse: «Guarda i miei manubri.» Tu e i tuoi manubri vedetevela tra voi: io voglio vedere il risultato dei manubri.</div></article>
+<article class="section" id="s-14"><a class="ref" href="#s-14">14</a><div class="section-text">«Prendi il trattato sull’impulso e guarda come l’ho studiato.» Schiavo, non è questo che cerco, ma come ti muovi verso e come ti ritrai, come desideri e come provi avversione, come ti applichi, come dai assenso e come ti prepari: se in accordo con la natura oppure no.</div></article>
+<article class="section" id="s-15"><a class="ref" href="#s-15">15</a><div class="section-text">Se è in accordo con la natura, mostrami questo e ti dirò che stai progredendo; se non lo è, vattene, e non limitarti a spiegare libri: scrivine anche tu di simili.</div></article>
+<article class="section" id="s-16"><a class="ref" href="#s-16">16</a><div class="section-text">E che vantaggio ne ricavi? Non sai che l’intero libro vale cinque denari? Ti sembra dunque che chi lo spiega valga più di cinque denari?</div></article>
+<article class="section" id="s-17"><a class="ref" href="#s-17">17</a><div class="section-text">Non cercate dunque mai da una parte il compito e da un’altra il progresso.</div></article>
+<article class="section" id="s-18"><a class="ref" href="#s-18">18</a><div class="section-text">Dov’è dunque il progresso? Se qualcuno di voi, distaccandosi dalle cose esterne, si è rivolto alla propria scelta morale per lavorarvi e perfezionarla, così da renderla conforme alla natura, elevata, libera, non soggetta a impedimenti né ostacoli, fedele e rispettosa;</div></article>
+<article class="section" id="s-19"><a class="ref" href="#s-19">19</a><div class="section-text">e ha imparato che chi desidera o fugge ciò che non dipende da lui non può essere né fedele né libero, ma necessariamente cambia e viene trascinato qua e là insieme a quelle cose, ed è anche costretto a sottomettersi agli altri, a quelli che hanno il potere di procurargliele o impedirgliele;</div></article>
+<article class="section" id="s-20"><a class="ref" href="#s-20">20</a><div class="section-text">e poi, alzandosi al mattino, osserva e custodisce questi principi, si lava da uomo fedele, mangia da uomo rispettoso e, in ogni materia che di volta in volta gli si presenta, esercita i principi fondamentali come il corridore esercita la corsa e chi educa la voce esercita la voce;</div></article>
+<article class="section" id="s-21"><a class="ref" href="#s-21">21</a><div class="section-text">questo è colui che progredisce davvero, e questo è colui che non ha viaggiato invano.</div></article>
+<article class="section" id="s-22"><a class="ref" href="#s-22">22</a><div class="section-text">Se invece ha concentrato i suoi sforzi sull’abilità nei libri, esercita soltanto quella ed è partito proprio per questo, gli dico di tornarsene subito a casa e di non trascurare le cose di là;</div></article>
+<article class="section" id="s-23"><a class="ref" href="#s-23">23</a><div class="section-text">perché ciò per cui è partito non vale nulla. Ciò che conta è esercitarsi a eliminare dalla propria vita lamenti e gemiti, il «povero me» e il «me infelice», la sventura e l’insuccesso, e imparare</div></article>
+<article class="section" id="s-24"><a class="ref" href="#s-24">24</a><div class="section-text">che cosa siano la morte, l’esilio, la prigione, la cicuta, così da poter dire in carcere: «Caro Critone, se così piace agli dèi, così sia», e non invece: «Povero me, un vecchio! Per questo ho conservato fino a oggi i miei capelli bianchi?»</div></article>
+<article class="section" id="s-25"><a class="ref" href="#s-25">25</a><div class="section-text">Chi dice queste cose? Pensate che vi nominerò qualcuno di oscuro e di umile condizione? Non le dice Priamo? Non le dice Edipo? Anzi, quanti re le dicono!</div></article>
+<article class="section" id="s-26"><a class="ref" href="#s-26">26</a><div class="section-text">Che altro sono infatti le tragedie, se non le passioni di uomini che attribuiscono grande valore alle cose esterne, rappresentate in questo genere di versi?</div></article>
+<article class="section" id="s-27"><a class="ref" href="#s-27">27</a><div class="section-text">Se davvero bisognasse essere ingannati per imparare che nessuna delle cose esterne e che non dipendono dalla scelta morale ha a che fare con noi, io vorrei proprio quell’inganno grazie al quale potrei vivere sereno e imperturbato; quanto a voi, vedete voi che cosa preferite.</div></article>
+<article class="section" id="s-28"><a class="ref" href="#s-28">28</a><div class="section-text">Che cosa ci offre dunque Crisippo? «Perché tu sappia», dice, «che non sono false le cose da cui nasce la serenità e deriva la libertà dalle passioni,</div></article>
+<article class="section" id="s-29"><a class="ref" href="#s-29">29</a><div class="section-text">prendi i miei libri e vedrai quanto siano … e conformi alla natura le cose che mi rendono libero dalle passioni.» Oh, che grande fortuna! Oh, che grande benefattore colui che indica la via!</div></article>
+<article class="section" id="s-30"><a class="ref" href="#s-30">30</a><div class="section-text">Eppure a Trittolemo tutti gli uomini hanno eretto santuari e altari,</div></article>
+<article class="section" id="s-31"><a class="ref" href="#s-31">31</a><div class="section-text">perché ci ha dato gli alimenti coltivati; ma a colui che ha scoperto la verità, l’ha portata alla luce e l’ha diffusa fra tutti gli uomini, non la verità sul semplice vivere, ma quella sul vivere bene, chi di voi per questo ha innalzato un altare o un tempio, ha dedicato una statua o rende culto a Dio?</div></article>
+<article class="section" id="s-32"><a class="ref" href="#s-32">32</a><div class="section-text">Perché gli dèi ci hanno dato la vite o il grano offriamo sacrifici; ma perché hanno prodotto nella mente umana un frutto tale da permetterci di conoscere la verità sulla felicità, per questo non dovremmo ringraziare Dio?</div></article>
+</div>
+
+<nav class="chapter-nav chapter-nav-bottom"><a href="1-03.html">Diatriba precedente</a><a class="chapter-home" href="../index.html">Home</a><a href="1-05.html">Diatriba successiva</a></nav>

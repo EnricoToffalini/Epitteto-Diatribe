@@ -1,0 +1,51 @@
+---
+title: "Διατριβὴ Αʹ.κδʹ — πῶς πρὸς τὰς περιστάσεις ἀγωνιστέον"
+lang: grc
+pagetitle: "Διατριβὴ Αʹ.κδʹ — πῶς πρὸς τὰς περιστάσεις ἀγωνιστέον — Ἐπικτήτου Διατριβαί"
+title-prefix: ""
+description-meta: "Διατριβὴ Αʹ.κδʹ· «πῶς πρὸς τὰς περιστάσεις ἀγωνιστέον». Ἀρριανοῦ τῶν Ἐπικτήτου Διατριβῶν, τὸ ἑλληνικὸν κείμενον."
+sidebar: grc
+---
+
+<!--
+FILE GENERATO. NON MODIFICARE A MANO.
+
+Modificare invece:
+- translation/it/**.md      per il testo e i titoli italiani
+- data/intro.json           per le note introduttive delle home page
+- tools/site_config.py      per lingue, testi dell'interfaccia, URL
+- styles.css                per l'aspetto grafico
+
+Poi eseguire:
+    run.bat
+-->
+
+
+<div class="diatribe-meta">Βιβλίον Αʹ · 20 τμήματα · <span class="canonical" title="Παραπομπή">I 24</span></div>
+
+<nav class="chapter-nav"><a href="1-23.html">ἡ προτέρα διατριβή</a><a class="chapter-home" href="../index.html">Ἀρχή</a><a href="1-25.html">ἡ ἑπομένη διατριβή</a></nav>
+
+<div class="section-list">
+<article class="section" id="s-1"><a class="ref" href="#s-1">1</a><div class="section-text" lang="grc">αἱ περιστάσεις εἰσὶν αἱ τοὺς ἄνδρας δεικνύουσαι. λοιπὸν ὅταν ἐμπέσῃ περίστασις, μέμνησο ὅτι ὁ θεός σε ὡς ἀλείπτης τραχεῖ νεανίσκῳ συμβέβληκεν. —</div></article>
+<article class="section" id="s-2"><a class="ref" href="#s-2">2</a><div class="section-text" lang="grc">ἵνα τί; φησίν. — ἵνα Ὀλυμπιονίκης γένῃ· δίχα δʼ ἱδρῶτος οὐ γίγνεται. ἐμοὶ μὲν οὐδεὶς δοκεῖ κρείσσονα ἐσχηκέναι περίστασιν ἧς σὺ ἔσχηκας, ἂν θέλῃς ὡς ἀθλητὴς νεανίσκῳ χρῆσθαι.</div></article>
+<article class="section" id="s-3"><a class="ref" href="#s-3">3</a><div class="section-text" lang="grc">καὶ νῦν ἡμεῖς γε εἰς τὴν Ῥώμην κατάσκοπον πέμπομεν. οὐδεὶς δὲ δειλὸν κατάσκοπον πέμπει, ἵνʼ, ἂν μόνον ἀκούσῃ ψόφου καὶ σκιάν ποθεν ἴδῃ, τρέχων ἔλθῃ τεταραγμένος καὶ λέγων ἤδη παρεῖναι τοὺς πολεμίους.</div></article>
+<article class="section" id="s-4"><a class="ref" href="#s-4">4</a><div class="section-text" lang="grc">οὕτως νῦν καὶ σὺ ἂν ἐλθὼν ἡμῖν εἴπῃς <q>φοβερὰ τὰ ἐν Ῥώμῃ πράγματα, δεινόν ἐστι θάνατος, δεινόν ἐστι φυγή, δεινὸν λοιδορία, δεινὸν πενία· φεύγετε ἄνδρες, πάρεισιν οἱ πολέμιοι,</q></div></article>
+<article class="section" id="s-5"><a class="ref" href="#s-5">5</a><div class="section-text" lang="grc">ἐροῦμέν σοι <q>ἄπελθε, σεαυτῷ μαντεύου· ἡμεῖς τοῦτο μόνον ἡμάρτομεν, ὅτι τοιοῦτον κατάσκοπον ἐπέμπομεν.</q></div></article>
+<article class="section" id="s-6"><a class="ref" href="#s-6">6</a><div class="section-text" lang="grc">πρὸ σοῦ κατάσκοπος ἀποσταλεὶς Διογένης ἄλλα ἡμῖν ἀπήγγελκεν. λέγει ὅτι ὁ θάνατος οὐκ ἔστι κακόν, οὐδὲ γὰρ αἰσχρόν· λέγει ὅτι ἀδοξία ψόφος ἐστὶ μαινομένων ἀνθρώπων.</div></article>
+<article class="section" id="s-7"><a class="ref" href="#s-7">7</a><div class="section-text" lang="grc">οἷα δὲ περὶ πόνου, οἷα δὲ περὶ ἡδονῆς, οἷα περὶ πενίας εἴρηκεν οὗτος ὁ κατάσκοπος. τὸ δὲ γυμν<span class="ed-del">[ασι]</span>ὸν εἶναι λέγει ὅτι κρεῖσσόν ἐστι πάσης περιπορφύρου· τὸ δʼ ἐπʼ ἀστρώτῳ πέδῳ καθεύδειν λέγει ὅτι μαλακωτάτη κοίτη ἐστίν.</div></article>
+<article class="section" id="s-8"><a class="ref" href="#s-8">8</a><div class="section-text" lang="grc">καὶ ἀπόδειξιν φέρει περὶ ἑκάστου τὸ θάρσος τὸ αὑτοῦ, τὴν ἀταραξίαν, τὴν ἐλευθερίαν, εἶτα καὶ τὸ σωμάτιον στίλβον καὶ συνεστραμμένον.</div></article>
+<article class="section" id="s-9"><a class="ref" href="#s-9">9</a><div class="section-text" lang="grc"><q>οὐδείς,</q> φησίν, <q>πολέμιος ἐγγύς ἐστιν· πάντα εἰρήνης γέμει.</q> πῶς, ὦ Διόγενες; <q>ἰδού,</q> φησίν, <q>μή τι βέβλημαι, μή τι τέτρωμαι, μή τινα πέφευγα;</q></div></article>
+<article class="section" id="s-10"><a class="ref" href="#s-10">10</a><div class="section-text" lang="grc">τοῦτʼ ἔστιν οἷος δεῖ κατάσκοπος, σὺ δʼ ἡμῖν ἐλθὼν ἄλλα ἐξ ἄλλων λέγεις. οὐκ ἀπελεύσῃ πάλιν καὶ ὄψει ἀκριβέστερον δίχα τῆς δειλίας;</div></article>
+<article class="section" id="s-11"><a class="ref" href="#s-11">11</a><div class="section-text" lang="grc">τί οὖν ποιήσω;— τί ποιεῖς, ἐκ πλοίου ὅταν ἐξίῃς; μή τι τὸ πηδάλιον αἴρεις, μή τι τὰς κώπας; τί οὖν αἴρεις; τὰ σά, τὴν λήκυθον, τὴν πήραν. καὶ νῦν ἂν ᾖς μεμνημένος τῶν σῶν, οὐδέποτε τῶν ἀλλοτρίων ἀντιποιήσῃ.</div></article>
+<article class="section" id="s-12"><a class="ref" href="#s-12">12</a><div class="section-text" lang="grc">λέγει σοι <q>θὲς τὴν πλατύσημον·</q> ἰδοὺ στενόσημος. <q>θὲς καὶ ταύτην·</q> ἰδοὺ ἱμάτιον μόνον. <q>θὲς τὸ ἱμάτιον·</q></div></article>
+<article class="section" id="s-13"><a class="ref" href="#s-13">13</a><div class="section-text" lang="grc"><q> ἰδοὺ γυμνός.</q> <q>ἀλλὰ φθόνον μοι κινεῖς.</q> λάβε τοίνυν ὅλον τὸ σωμάτιον. ᾧ δύναμαι ῥῖψαι τὸ σωμάτιον, ἔτι τοῦτον φοβοῦμαι;</div></article>
+<article class="section" id="s-14"><a class="ref" href="#s-14">14</a><div class="section-text" lang="grc">ἀλλὰ κληρονόμον μʼ οὐκ ἀπολείψει. τί οὖν; ἐπελαθόμην ὅτι τούτων οὐδὲν ἐμὸν ἦν; πῶς οὖν ἐμὰ αὐτὰ λέγομεν; ὡς τὸν κράβαττον ἐν τῷ πανδοκείῳ. ἂν οὖν ὁ πανδοκεὺς ἀποθανὼν ἀπολίπῃ σοι τοὺς κραβάττους· ἂν δʼ ἄλλῳ, ἐκεῖνος ἕξει, σὺ δʼ ἄλλον ζητήσεις·</div></article>
+<article class="section" id="s-15"><a class="ref" href="#s-15">15</a><div class="section-text" lang="grc">ἂν οὖν μὴ εὕρῃς, χαμαὶ κοιμήσῃ μόνον θαρρῶν καὶ ῥέγκων καὶ μεμνημένος ὅτι ἐν τοῖς πλουσίοις καὶ βασιλεῦσι καὶ τυράννοις αἱ τραγῳδίαι τόπον ἔχουσιν, οὐδεὶς δὲ πένης τραγῳδίαν συμπληροῖ εἰ μὴ ὡς χορευτής.</div></article>
+<article class="section" id="s-16"><a class="ref" href="#s-16">16</a><div class="section-text" lang="grc">οἱ δὲ βασιλεῖς ἄρχονται μὲν ἀπʼ ἀγαθῶν· <q>στέψατε δώματα·</q> εἶτα περὶ τρίτον ἢ τέταρτον μέρος· <q>ἰὼ Κιθαιρών, τί μʼ ἐδέχου;</q> ἀνδράποδον, ποῦ οἱ στέφανοι, ποῦ τὸ διάδημα;</div></article>
+<article class="section" id="s-17"><a class="ref" href="#s-17">17</a><div class="section-text" lang="grc">οὐδέν σε ὠφελοῦσιν οἱ δορυφόροι;</div></article>
+<article class="section" id="s-18"><a class="ref" href="#s-18">18</a><div class="section-text" lang="grc">ὅταν οὖν ἐκείνων τινὶ προσίῃς, τούτων μέμνησο, ὅτι τραγῳδῷ προσέρχῃ, οὐ τῷ ὑποκριτῇ, ἀλλʼ αὐτῷ τῷ Οἰδίποδι.</div></article>
+<article class="section" id="s-19"><a class="ref" href="#s-19">19</a><div class="section-text" lang="grc"><q>ἀλλὰ μακάριος ὁ δεῖνα· μετὰ πολλῶν γὰρ περιπατεῖ.</q> κἀγὼ συγκατατάττω ἐμαυτὸν σὺν τοῖς πολλοῖς καὶ μετὰ πολλῶν περιπατῶ.</div></article>
+<article class="section" id="s-20"><a class="ref" href="#s-20">20</a><div class="section-text" lang="grc">τὸ δὲ κεφάλαιον· μέμνησο ὅτι ἡ θύρα ἤνοικται. μὴ γίνου τῶν παιδίων δειλότερος, ἀλλʼ ὡς ἐκεῖνα, ὅταν αὐτοῖς μὴ ἀρέσκῃ τὸ πρᾶγμα, λέγει <q>οὐκέτι παίξω,</q> καὶ σύ, ὅταν σοι φαίνηταί τινα εἶναι τοιαῦτα, εἰπὼν <q>οὐκέτι παίξω</q> ἀπαλλάσσου, μένων δὲ μὴ θρήνει.</div></article>
+</div>
+
+<nav class="chapter-nav chapter-nav-bottom"><a href="1-23.html">ἡ προτέρα διατριβή</a><a class="chapter-home" href="../index.html">Ἀρχή</a><a href="1-25.html">ἡ ἑπομένη διατριβή</a></nav>

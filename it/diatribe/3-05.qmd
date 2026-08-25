@@ -1,0 +1,50 @@
+---
+title: "Diatriba III.5 — A quelli che tornano a casa a causa della malattia"
+lang: it
+pagetitle: "Diatriba III.5 — A quelli che tornano a casa a causa della malattia — Epitteto, Diatribe"
+title-prefix: ""
+description-meta: "Diatriba III.5: «A quelli che tornano a casa a causa della malattia». Le Diatribe di Epitteto raccolte da Arriano, in traduzione italiana."
+sidebar: it
+---
+
+<!--
+FILE GENERATO. NON MODIFICARE A MANO.
+
+Modificare invece:
+- translation/it/**.md      per il testo e i titoli italiani
+- data/intro.json           per le note introduttive delle home page
+- tools/site_config.py      per lingue, testi dell'interfaccia, URL
+- styles.css                per l'aspetto grafico
+
+Poi eseguire:
+    run.bat
+-->
+
+
+<div class="diatribe-meta">Libro III · 19 sezioni · <span class="canonical" title="Riferimento canonico">III 5</span></div>
+
+<nav class="chapter-nav"><a href="3-04.html">Diatriba precedente</a><a class="chapter-home" href="../index.html">Home</a><a href="3-06.html">Diatriba successiva</a></nav>
+
+<div class="section-list">
+<article class="section" id="s-1"><a class="ref" href="#s-1">1</a><div class="section-text">«Sono malato qui», dice, «e voglio tornare a casa.»</div></article>
+<article class="section" id="s-2"><a class="ref" href="#s-2">2</a><div class="section-text">— E a casa eri forse immune dalle malattie? Non esamini se qui stai facendo qualcosa che giovi alla tua scelta morale, perché venga corretta? Se infatti non concludi nulla, sei venuto fin qui inutilmente.</div></article>
+<article class="section" id="s-3"><a class="ref" href="#s-3">3</a><div class="section-text">Vattene, occupati delle cose di casa. Se il tuo principio direttivo non può raggiungere una condizione conforme a natura, ci riuscirà almeno il campicello; aumenterai il tuo gruzzoletto, assisterai tuo padre nella vecchiaia, frequenterai la piazza, ricoprirai cariche: cattivo come sei, farai male qualunque cosa venga dopo.</div></article>
+<article class="section" id="s-4"><a class="ref" href="#s-4">4</a><div class="section-text">Se invece ti rendi conto che stai eliminando alcuni cattivi giudizi e ne assumi altri al loro posto, e hai spostato il tuo punto d’appoggio dalle cose che non dipendono dalla scelta morale a quelle che ne dipendono, e se mai dici «Ahimè!», non lo dici per tuo padre o tuo fratello, ma per te stesso, metti ancora in conto la malattia?</div></article>
+<article class="section" id="s-5"><a class="ref" href="#s-5">5</a><div class="section-text">Non sai che la malattia e la morte devono coglierci mentre stiamo facendo qualcosa? Colgono il contadino mentre coltiva, il marinaio mentre naviga.</div></article>
+<article class="section" id="s-6"><a class="ref" href="#s-6">6</a><div class="section-text">Tu che cosa vuoi essere colto a fare? Perché dovranno pure coglierti mentre fai qualcosa. Se hai qualcosa di meglio da fare quando ti coglieranno, fai quello.</div></article>
+<article class="section" id="s-7"><a class="ref" href="#s-7">7</a><div class="section-text">Quanto a me, possa la morte cogliermi mentre non mi occupo d’altro che della mia scelta morale, perché io sia libero dalle passioni, non impedito, non costretto, libero.</div></article>
+<article class="section" id="s-8"><a class="ref" href="#s-8">8</a><div class="section-text">Vorrei essere trovato mentre mi esercito in queste cose, così da poter dire a Dio: «Ho forse trasgredito qualche tuo comando? Ho forse usato per altri fini i mezzi che mi hai dato? Ho usato diversamente i sensi o le prenozioni? Ti ho mai mosso qualche accusa?</div></article>
+<article class="section" id="s-9"><a class="ref" href="#s-9">9</a><div class="section-text">Ho mai biasimato il tuo governo? Mi sono ammalato quando hai voluto tu; anche gli altri, certo, ma io volontariamente. Sono diventato povero perché tu lo volevi, ma con gioia. Non ho ricoperto cariche perché tu non lo hai voluto; e non ho mai desiderato una carica. Mi hai mai visto per questo più cupo? Non mi sono forse sempre presentato a te con il volto sereno, pronto a qualunque ordine o segnale?</div></article>
+<article class="section" id="s-10"><a class="ref" href="#s-10">10</a><div class="section-text">Ora vuoi che lasci la festa: me ne vado. Ti rendo ogni grazie, perché mi hai ritenuto degno di partecipare alla festa insieme a te, di vedere le tue opere e di comprendere con te il tuo governo.»</div></article>
+<article class="section" id="s-11"><a class="ref" href="#s-11">11</a><div class="section-text">Possa la morte cogliermi mentre penso queste cose, le scrivo, le leggo.</div></article>
+<article class="section" id="s-12"><a class="ref" href="#s-12">12</a><div class="section-text">«Ma mia madre, quando sono malato, non mi terrà la testa.» — Va’ dunque da tua madre: meriti di essere malato mentre qualcuno ti tiene la testa.</div></article>
+<article class="section" id="s-13"><a class="ref" href="#s-13">13</a><div class="section-text">«Ma a casa stavo disteso su un bel lettino.» — Va’ dunque al tuo lettino; del resto, anche quando stai bene meriti di stare disteso su un lettino simile. Non perdere dunque ciò che puoi fare laggiù.</div></article>
+<article class="section" id="s-14"><a class="ref" href="#s-14">14</a><div class="section-text">Ma che cosa dice Socrate? «Come uno gode nel rendere migliore il proprio campo e un altro il proprio cavallo, così io ogni giorno godo nel vedere me stesso diventare migliore.»</div></article>
+<article class="section" id="s-15"><a class="ref" href="#s-15">15</a><div class="section-text">— Migliore in che cosa? Forse nelle paroline? — Uomo, non dire sciocchezze. — Forse nelle dottrinucole? — Ma che fai? —</div></article>
+<article class="section" id="s-16"><a class="ref" href="#s-16">16</a><div class="section-text">Eppure non vedo di che cos’altro si occupino i filosofi. — Ti sembra dunque cosa da nulla non accusare mai nessuno, né Dio né uomo; non biasimare nessuno; uscire e rientrare sempre con lo stesso volto?</div></article>
+<article class="section" id="s-17"><a class="ref" href="#s-17">17</a><div class="section-text">Queste erano le cose che Socrate sapeva, eppure non disse mai di sapere qualcosa o di insegnarla. Se qualcuno gli chiedeva paroline o dottrinucole, lo mandava da Protagora o da Ippia. Anche se uno fosse venuto a cercare ortaggi, lo avrebbe mandato dal giardiniere. Chi di voi ha dunque questo proposito?</div></article>
+<article class="section" id="s-18"><a class="ref" href="#s-18">18</a><div class="section-text">Se infatti lo aveste, sareste malati volentieri, soffrireste volentieri la fame e morireste volentieri.</div></article>
+<article class="section" id="s-19"><a class="ref" href="#s-19">19</a><div class="section-text">Se qualcuno di voi si è innamorato di una bella ragazza, sa che dico il vero.</div></article>
+</div>
+
+<nav class="chapter-nav chapter-nav-bottom"><a href="3-04.html">Diatriba precedente</a><a class="chapter-home" href="../index.html">Home</a><a href="3-06.html">Diatriba successiva</a></nav>

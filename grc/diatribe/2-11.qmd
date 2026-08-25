@@ -1,0 +1,56 @@
+---
+title: "Διατριβὴ Βʹ.ιαʹ — τίς ἀρχὴ φιλοσοφίας"
+lang: grc
+pagetitle: "Διατριβὴ Βʹ.ιαʹ — τίς ἀρχὴ φιλοσοφίας — Ἐπικτήτου Διατριβαί"
+title-prefix: ""
+description-meta: "Διατριβὴ Βʹ.ιαʹ· «τίς ἀρχὴ φιλοσοφίας». Ἀρριανοῦ τῶν Ἐπικτήτου Διατριβῶν, τὸ ἑλληνικὸν κείμενον."
+sidebar: grc
+---
+
+<!--
+FILE GENERATO. NON MODIFICARE A MANO.
+
+Modificare invece:
+- translation/it/**.md      per il testo e i titoli italiani
+- data/intro.json           per le note introduttive delle home page
+- tools/site_config.py      per lingue, testi dell'interfaccia, URL
+- styles.css                per l'aspetto grafico
+
+Poi eseguire:
+    run.bat
+-->
+
+
+<div class="diatribe-meta">Βιβλίον Βʹ · 25 τμήματα · <span class="canonical" title="Παραπομπή">II 11</span></div>
+
+<nav class="chapter-nav"><a href="2-10.html">ἡ προτέρα διατριβή</a><a class="chapter-home" href="../index.html">Ἀρχή</a><a href="2-12.html">ἡ ἑπομένη διατριβή</a></nav>
+
+<div class="section-list">
+<article class="section" id="s-1"><a class="ref" href="#s-1">1</a><div class="section-text" lang="grc">ἀρχὴ φιλοσοφίας παρά γε τοῖς ὡς δεῖ καὶ κατὰ θύραν ἁπτομένοις αὐτῆς συναίσθησις τῆς αὑτοῦ ἀσθενείας καὶ ἀδυναμίας περὶ τὰ ἀναγκαῖα.</div></article>
+<article class="section" id="s-2"><a class="ref" href="#s-2">2</a><div class="section-text" lang="grc">ὀρθογωνίου μὲν γὰρ τριγώνου ἢ διέσεως ἡμιτονίου οὐδεμίαν φύσει ἔννοιαν ἥκομεν ἔχοντες, ἀλλʼ ἔκ τινος τεχνικῆς παραλήψεως διδασκόμεθα ἕκαστον αὐτῶν καὶ διὰ τοῦτο οἱ μὴ εἰδότες αὐτὰ οὐδʼ οἴονται εἰδέναι.</div></article>
+<article class="section" id="s-3"><a class="ref" href="#s-3">3</a><div class="section-text" lang="grc">ἀγαθοῦ δὲ καὶ κακοῦ καὶ καλοῦ καὶ αἰσχροῦ καὶ πρέποντος καὶ ἀπρεποῦς καὶ εὐδαιμονίας καὶ προσήκοντος καὶ ἐπιβάλλοντος καὶ ὅ τι δεῖ ποιῆσαι καὶ ὅ τι οὐ δεῖ ποιῆσαι τίς οὐκ ἔχων ἔμφυτον ἔννοιαν ἐλήλυθεν;</div></article>
+<article class="section" id="s-4"><a class="ref" href="#s-4">4</a><div class="section-text" lang="grc">διὰ τοῦτο πάντες χρώμεθα τοῖς ὀνόμασιν καὶ ἐφαρμόζειν πειρώμεθα τὰς προλήψεις ταῖς ἐπὶ μέρους οὐσίαις.</div></article>
+<article class="section" id="s-5"><a class="ref" href="#s-5">5</a><div class="section-text" lang="grc">καλῶς ἐποίησεν, δεόντως, οὐ δεόντως· ἠτύχησεν, εὐτύχησεν· ἄδικός ἐστιν, δίκαιός ἐστιν. τίς ἡμῶν φείδεται τούτων τῶν ὀνομάτων; τίς ἡμῶν ἀναβάλλεται τὴν χρῆσιν αὐτῶν μέχρι μάθῃ καθάπερ τῶν περὶ τὰς γραμμὰς ἢ τοὺς φθόγγους οἱ οὐκ εἰδότες;</div></article>
+<article class="section" id="s-6"><a class="ref" href="#s-6">6</a><div class="section-text" lang="grc">τούτου δʼ αἴτιον τὸ ἥκειν ἤδη τινὰ ὑπὸ τῆς φύσεως κατὰ τὸν τόπον ὥσπερ δεδιδαγμένους, ἀφʼ ὧν ὁρμώμενοι καὶ τὴν οἴησιν προσειλήφαμεν.</div></article>
+<article class="section" id="s-7"><a class="ref" href="#s-7">7</a><div class="section-text" lang="grc">—<span class="ed-sic">διὰ</span> γάρ, φησίν, οὐκ οἶδα ἐγὼ τὸ καλὸν καὶ τὸ αἰσχρόν; οὐκ ἔχω ἔννοιαν αὐτοῦ; — ἔχεις. — οὐκ ἐφαρμόζω τοῖς ἐπὶ μέρους; — ἐφαρμόζεις. — οὐ καλῶς οὖν ἐφαρμόζω;</div></article>
+<article class="section" id="s-8"><a class="ref" href="#s-8">8</a><div class="section-text" lang="grc">— ἐνταῦθά ἐστι τὸ ζήτημα πᾶν καὶ οἴησις ἐνταῦθα προσγίνεται. ἀφʼ ὁμολογουμένων γὰρ ὁρμώμενοι τούτων ἐπὶ τὸ ἀμφισβητούμενον προάγουσιν ὑπὸ τῆς ἀκαταλλήλου ἐφαρμογῆς.</div></article>
+<article class="section" id="s-9"><a class="ref" href="#s-9">9</a><div class="section-text" lang="grc">ὡς εἴ γε καὶ τοῦτο ἔτι πρὸς ἐκείνοις ἐκέκτηντο, τί ἐκώλυεν αὐτοὺς εἶναι τελείους;</div></article>
+<article class="section" id="s-10"><a class="ref" href="#s-10">10</a><div class="section-text" lang="grc">νῦν δʼ ἐπεὶ δοκεῖς ὅτι καὶ καταλλήλως ἐφαρμόζεις τὰς προλήψεις τοῖς ἐπὶ μέρους, εἰπέ μοι, πόθεν τοῦτο λαμβάνεις; — ὅτι δοκεῖ μοι. — τουτὶ οὖν ᾧτινι οὐ δοκεῖ, καὶ οἴεται καὶ αὐτὸς ἐφαρμόζειν καλῶς· ἢ οὐκ οἴεται;</div></article>
+<article class="section" id="s-11"><a class="ref" href="#s-11">11</a><div class="section-text" lang="grc">— οἴεται. — δύνασθε οὖν περὶ ὧν τὰ μαχόμενα δοξάζετε ἀμφότεροι καταλλήλως ἐφαρμόζειν τὰς προλήψεις;</div></article>
+<article class="section" id="s-12"><a class="ref" href="#s-12">12</a><div class="section-text" lang="grc">— οὐ δυνάμεθα. — ἔχεις οὖν δεῖξαί τι ἡμῖν πρὸς τὸ αὐτὰς ἐφαρμόζειν ἄμεινον ἀνωτέρω τοῦ δοκεῖν σοι; ὁ δὲ μαινόμενος ἄλλα τινὰ ποιεῖ ἢ τὰ δοκοῦντά οἱ καλά; κἀκείνῳ οὖν ἀρκεῖ τοῦτο τὸ κριτήριον; — οὐκ ἀρκεῖ. — ἐλθὼν οὖν ἐπί τι ἀνωτέρω τοῦ δοκεῖν τί τοῦτό <span class="ed-sic">ἐστιν</span></div></article>
+<article class="section" id="s-13"><a class="ref" href="#s-13">13</a><div class="section-text" lang="grc">ἴδʼ ἀρχὴ φιλοσοφίας· αἴσθησις μάχης τῆς πρὸς ἀλλήλους τῶν ἀνθρώπων καὶ ζήτησις τοῦ παρʼ ὃ γίνεται ἡ μάχη καὶ κατάγνωσις καὶ ἀπιστία πρὸς τὸ ψιλῶς δοκοῦν, ἔρευνα δέ τις περὶ τὸ δοκοῦν εἰ ὀρθῶς δοκεῖ καὶ εὕρεσις κανόνος τινός, οἷον ἐπὶ βαρῶν τὸν ζυγὸν εὕρομεν, οἷον ἐπὶ εὐθέων καὶ στρεβλῶν τὴν στάθμην.</div></article>
+<article class="section" id="s-14"><a class="ref" href="#s-14">14</a><div class="section-text" lang="grc">— τοῦτʼ ἔστιν ἀρχὴ φιλοσοφίας; πάντα καλῶς ἔχει τὰ δοκοῦντα ἅπασι; — καὶ πῶς δυνατὸν τὰ μαχόμενα καλῶς ἔχειν; οὐκοῦν οὐ πάντα, ἀλλὰ τὰ ἡμῖν δοκοῦντα.</div></article>
+<article class="section" id="s-15"><a class="ref" href="#s-15">15</a><div class="section-text" lang="grc">τί μᾶλλον ἢ τὰ Σύροις, τί μᾶλλον ἢ τὰ Αἰγυπτίοις, τί μᾶλλον ἢ τὰ ἐμοὶ φαινόμενα ἢ τὰ τῷ δεῖνι; — οὐδὲν μᾶλλον. — οὐκ ἄρα ἀρκεῖ τὸ δοκοῦν ἑκάστῳ πρὸς τὸ εἶναι· οὐδὲ γὰρ ἐπὶ βαρῶν ἢ μέτρων ψιλῇ τῇ ἐμφάσει ἀρκούμεθα, ἀλλὰ κανόνα τινὰ ἐφʼ ἑκάστου εὕρομεν.</div></article>
+<article class="section" id="s-16"><a class="ref" href="#s-16">16</a><div class="section-text" lang="grc">ἐνταῦθʼ οὖν οὐδεὶς κανὼν ἀνωτέρω τοῦ δοκεῖν; καὶ πῶς οἷόν τε ἀτέκμαρτα εἶναι καὶ ἀνεύρετα τὰ ἀναγκαιότατα ἐν ἀνθρώποις; — ἔστιν οὖν.</div></article>
+<article class="section" id="s-17"><a class="ref" href="#s-17">17</a><div class="section-text" lang="grc">— καὶ διὰ τί οὐ ζητοῦμεν αὐτὸν καὶ ἀνευρίσκομεν καὶ ἀνευρόντες λοιπὸν ἀπαραβάτως χρώμεθα δίχα αὐτοῦ μηδὲ τὸν δάκτυλον ἐκτείνοντες;</div></article>
+<article class="section" id="s-18"><a class="ref" href="#s-18">18</a><div class="section-text" lang="grc">τοῦτο γάρ, οἶμαι, ἐστὶν ὃ εὑρεθὲν ἀπαλλάσσει μανίας τοὺς μόνῳ τῷ δοκεῖν μέτρῳ πάντων χρωμένους, ἵνα λοιπὸν ἀπό τινων γνωρίμων καὶ διευκρινημένων ὁρμώμενοι χρώμεθα ἐπὶ τῶν ἐπὶ μέρους διηρθρωμέναις ταῖς προλήψεσι.</div></article>
+<article class="section" id="s-19"><a class="ref" href="#s-19">19</a><div class="section-text" lang="grc">τίς ὑποπέπτωκεν οὐσία περὶ ἧς ζητοῦμεν;— ἡδονή.</div></article>
+<article class="section" id="s-20"><a class="ref" href="#s-20">20</a><div class="section-text" lang="grc">— ὕπαγε αὐτὴν τῷ κανόνι, βάλε εἰς τὸν ζυγόν. τὸ ἀγαθὸν δεῖ εἶναι τοιοῦτον, ἐφʼ ᾧ θαρρεῖν ἄξιον καὶ ᾧ πεποιθέναι; — δεῖ. — ἀβεβαίῳ οὖν τινι θαρρεῖν ἄξιον;</div></article>
+<article class="section" id="s-21"><a class="ref" href="#s-21">21</a><div class="section-text" lang="grc">— οὔ. — μή τι οὖν βέβαιον ἡ ἡδονή; — οὔ. — ἆρον οὖν καὶ βάλε ἔξω ἐκ τοῦ ζυγοῦ καὶ ἀπέλασον τῆς χώρας τῶν ἀγαθῶν μακράν.</div></article>
+<article class="section" id="s-22"><a class="ref" href="#s-22">22</a><div class="section-text" lang="grc">εἰ δʼ οὐκ ὀξυβλεπτεῖς καὶ ἕν σοι ζυγὸν οὐκ ἀρκεῖ, φέρε ἄλλο. ἐπὶ τῷ ἀγαθῷ ἄξιον ἐπαίρεσθαι; — ναί. — ἐφʼ ἡδονῇ οὖν παρούσῃ ἄξιον ἐπαίρεσθαι; βλέπε μὴ εἴπῃς ὅτι ἄξιον· εἰ δὲ μή, οὐκέτι σε οὐδὲ τοῦ ζυγοῦ ἄξιον ἡγήσομαι.</div></article>
+<article class="section" id="s-23"><a class="ref" href="#s-23">23</a><div class="section-text" lang="grc">οὕτως κρίνεται τὰ πράγματα καὶ ἵσταται τῶν κανόνων ἡτοιμασμένων·</div></article>
+<article class="section" id="s-24"><a class="ref" href="#s-24">24</a><div class="section-text" lang="grc">καὶ τὸ φιλοσοφεῖν τοῦτό ἐστιν, ἐπισκέπτεσθαι καὶ βεβαιοῦν τοὺς κανόνας,</div></article>
+<article class="section" id="s-25"><a class="ref" href="#s-25">25</a><div class="section-text" lang="grc">τὸ δʼ ἤδη χρῆσθαι τοῖς ἐγνωσμένοις τοῦτο τοῦ καλοῦ καὶ ἀγαθοῦ ἔργον ἐστίν.</div></article>
+</div>
+
+<nav class="chapter-nav chapter-nav-bottom"><a href="2-10.html">ἡ προτέρα διατριβή</a><a class="chapter-home" href="../index.html">Ἀρχή</a><a href="2-12.html">ἡ ἑπομένη διατριβή</a></nav>

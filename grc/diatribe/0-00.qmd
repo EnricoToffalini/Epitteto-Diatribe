@@ -1,0 +1,39 @@
+---
+title: "Ἀρριανοῦ ἐπιστολή — Ἀρριανὸς Λουκίῳ Γελλίῳ χαίρειν"
+lang: grc
+pagetitle: "Ἀρριανοῦ ἐπιστολή — Ἀρριανὸς Λουκίῳ Γελλίῳ χαίρειν — Ἐπικτήτου Διατριβαί"
+title-prefix: ""
+description-meta: "Ἀρριανοῦ ἐπιστολή· «Ἀρριανὸς Λουκίῳ Γελλίῳ χαίρειν». Ἀρριανοῦ τῶν Ἐπικτήτου Διατριβῶν, τὸ ἑλληνικὸν κείμενον."
+sidebar: grc
+---
+
+<!--
+FILE GENERATO. NON MODIFICARE A MANO.
+
+Modificare invece:
+- translation/it/**.md      per il testo e i titoli italiani
+- data/intro.json           per le note introduttive delle home page
+- tools/site_config.py      per lingue, testi dell'interfaccia, URL
+- styles.css                per l'aspetto grafico
+
+Poi eseguire:
+    run.bat
+-->
+
+
+<div class="diatribe-meta">8 τμήματα</div>
+
+<nav class="chapter-nav"><span></span><a class="chapter-home" href="../index.html">Ἀρχή</a><a href="1-01.html">ἡ ἑπομένη διατριβή</a></nav>
+
+<div class="section-list">
+<article class="section" id="s-1"><a class="ref" href="#s-1">1</a><div class="section-text" lang="grc">οὔτε συνέγραψα ἐγὼ τοὺς Ἐπικτήτου λόγους οὕτως ὅπως ἄν τις συγγράψειε τὰ τοιαῦτα οὔτε ἐξήνεγκα εἰς ἀνθρώπους αὐτός, ὅς γε οὐδὲ συγγράψαι φημί.</div></article>
+<article class="section" id="s-2"><a class="ref" href="#s-2">2</a><div class="section-text" lang="grc">ὅσα δὲ ἤκουον αὐτοῦ λέγοντος, ταῦτα αὐτὰ ἐπειράθην αὐτοῖς ὀνόμασιν ὡς οἷόν τε ἦν γραψάμενος ὑπομνήματα εἰς ὕστερον ἐμαυτῷ διαφυλάξαι τῆς ἐκείνου διανοίας καὶ παρρησίας.</div></article>
+<article class="section" id="s-3"><a class="ref" href="#s-3">3</a><div class="section-text" lang="grc">ἔστι δὴ τοιαῦτα ὥσπερ εἰκὸς ὁποῖα ἄν τις αὐτόθεν ὁρμηθεὶς εἴποι πρὸς ἕτερον, οὐχ ὁποῖα ἂν ἐπὶ τῷ ὕστερον ἐντυγχάνειν τινὰς αὐτοῖς συγγράφοι.</div></article>
+<article class="section" id="s-4"><a class="ref" href="#s-4">4</a><div class="section-text" lang="grc">τοιαῦτα δʼ ὄντα οὐκ οἶδα ὅπως οὔτε ἑκόντος ἐμοῦ οὔτε εἰδότος ἐξέπεσεν εἰς ἀνθρώπους.</div></article>
+<article class="section" id="s-5"><a class="ref" href="#s-5">5</a><div class="section-text" lang="grc">ἀλλʼ ἐμοί γε οὐ πολὺς λόγος, εἰ οὐχ ἱκανὸς φανοῦμαι συγγράφειν, Ἐπικτήτῳ τε οὐδʼ ὀλίγος, εἰ καταφρονήσει τις αὐτοῦ τῶν λόγων, ἐπεὶ καὶ λέγων αὐτοὺς οὐδενὸς ἄλλου δῆλος ἦν ἐφιέμενος ὅτι μὴ κινῆσαι τὰς γνώμας τῶν ἀκουόντων πρὸς τὰ βέλτιστα.</div></article>
+<article class="section" id="s-6"><a class="ref" href="#s-6">6</a><div class="section-text" lang="grc">εἰ μὲν δὴ τοῦτό γε αὐτὸ διαπράττοιντο οἱ λόγοι οὗτοι, ἔχοι<span class="ed-add">&lang;εν&rang;</span> ἂν οἶμαι ὅπερ χρὴ ἔχειν τοὺς τῶν φιλοσόφων λόγους·</div></article>
+<article class="section" id="s-7"><a class="ref" href="#s-7">7</a><div class="section-text" lang="grc">εἰ δὲ μή, ἀλλʼ ἐκεῖνο ἴστωσαν οἱ ἐντυγχάνοντες ὅτι, αὐτὸς ὁπότε ἔλεγεν αὐτούς, ἀνάγκη ἦν τοῦτο πάσχειν τὸν ἀκροώμενον αὐτῶν ὅπερ ἐκεῖνος αὐτὸν παθεῖν ἠβούλετο.</div></article>
+<article class="section" id="s-8"><a class="ref" href="#s-8">8</a><div class="section-text" lang="grc">εἰ δʼ οἱ λόγοι αὐτοὶ ἐφʼ αὑτῶν τοῦτο οὐ διαπράττονται, τυχὸν μὲν ἐγὼ αἴτιος, τυχὸν δὲ καὶ ἀνάγκη οὕτως ἔχειν. ἔρρωσο.</div></article>
+</div>
+
+<nav class="chapter-nav chapter-nav-bottom"><span></span><a class="chapter-home" href="../index.html">Ἀρχή</a><a href="1-01.html">ἡ ἑπομένη διατριβή</a></nav>

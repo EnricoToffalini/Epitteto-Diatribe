@@ -1,0 +1,61 @@
+---
+title: "Diatriba II.10 — Come si possono ricavare i doveri dai nomi"
+lang: it
+pagetitle: "Diatriba II.10 — Come si possono ricavare i doveri dai nomi — Epitteto, Diatribe"
+title-prefix: ""
+description-meta: "Diatriba II.10: «Come si possono ricavare i doveri dai nomi». Le Diatribe di Epitteto raccolte da Arriano, in traduzione italiana."
+sidebar: it
+---
+
+<!--
+FILE GENERATO. NON MODIFICARE A MANO.
+
+Modificare invece:
+- translation/it/**.md      per il testo e i titoli italiani
+- data/intro.json           per le note introduttive delle home page
+- tools/site_config.py      per lingue, testi dell'interfaccia, URL
+- styles.css                per l'aspetto grafico
+
+Poi eseguire:
+    run.bat
+-->
+
+
+<div class="diatribe-meta">Libro II · 30 sezioni · <span class="canonical" title="Riferimento canonico">II 10</span></div>
+
+<nav class="chapter-nav"><a href="2-09.html">Diatriba precedente</a><a class="chapter-home" href="../index.html">Home</a><a href="2-11.html">Diatriba successiva</a></nav>
+
+<div class="section-list">
+<article class="section" id="s-1"><a class="ref" href="#s-1">1</a><div class="section-text">Considera chi sei. Anzitutto un uomo: cioè un essere che non ha nulla di più sovrano della scelta morale, ma tiene tutto il resto subordinato ad essa, mentre essa stessa è libera da schiavitù e da soggezione.</div></article>
+<article class="section" id="s-2"><a class="ref" href="#s-2">2</a><div class="section-text">Considera dunque da quali esseri sei separato dalla ragione. Sei separato dalle belve, sei separato dalle pecore.</div></article>
+<article class="section" id="s-3"><a class="ref" href="#s-3">3</a><div class="section-text">Inoltre sei cittadino del cosmo e parte di esso, non una delle parti subordinate, ma una delle principali; sei infatti capace di comprendere il governo divino e di riflettere su ciò che ne consegue.</div></article>
+<article class="section" id="s-4"><a class="ref" href="#s-4">4</a><div class="section-text">Che cosa comporta dunque essere cittadino? Non avere alcun interesse privato, non deliberare su nulla come se fossi separato dal tutto, ma come la mano o il piede, se avessero ragione e comprendessero la costituzione naturale, non avrebbero mai impulso o desiderio se non riferendosi al tutto.</div></article>
+<article class="section" id="s-5"><a class="ref" href="#s-5">5</a><div class="section-text">Per questo i filosofi dicono bene che, se l’uomo buono e virtuoso conoscesse in anticipo ciò che deve accadere, collaborerebbe anche con l’ammalarsi, il morire e l’essere mutilato, comprendendo che questo gli viene assegnato dall’ordine dell’universo e che il tutto ha maggiore autorità della parte e la città del cittadino.</div></article>
+<article class="section" id="s-6"><a class="ref" href="#s-6">6</a><div class="section-text">Ma poiché non conosciamo in anticipo ciò che accadrà, conviene attenerci alle cose naturalmente più adatte a essere scelte, perché anche per questo siamo fatti.</div></article>
+<article class="section" id="s-7"><a class="ref" href="#s-7">7</a><div class="section-text">Dopo questo ricordati che sei figlio. Che cosa comporta questo ruolo? Considerare del padre tutto ciò che è proprio, obbedirgli in tutto, non biasimarlo mai davanti a nessuno né dirgli o fargli nulla di dannoso, cedergli e lasciargli il passo in ogni cosa, collaborando per quanto puoi. Poi sappi che sei anche fratello.</div></article>
+<article class="section" id="s-8"><a class="ref" href="#s-8">8</a><div class="section-text">Anche a questo ruolo si devono concessione, docilità e parole benevole; non rivendicare mai contro tuo fratello alcuna delle cose che non dipendono dalla scelta morale, ma cedergliele volentieri, così da avere di più nelle cose che dipendono dalla scelta morale.</div></article>
+<article class="section" id="s-9"><a class="ref" href="#s-9">9</a><div class="section-text">Guarda infatti che cosa significa acquistare, magari in cambio di una lattuga e di un seggio, una buona disposizione d’animo: quanto grande è il guadagno.</div></article>
+<article class="section" id="s-10"><a class="ref" href="#s-10">10</a><div class="section-text">Dopo queste cose, se sei consigliere di una città, ricordati che sei consigliere; se giovane, che sei giovane; se vecchio, che sei vecchio; se padre, che sei padre.</div></article>
+<article class="section" id="s-11"><a class="ref" href="#s-11">11</a><div class="section-text">Ognuno di questi nomi, infatti, ogni volta che entra nella riflessione, traccia i compiti che gli sono propri.</div></article>
+<article class="section" id="s-12"><a class="ref" href="#s-12">12</a><div class="section-text">Se poi te ne vai e biasimi tuo fratello, ti dico: hai dimenticato chi sei e quale nome porti.</div></article>
+<article class="section" id="s-13"><a class="ref" href="#s-13">13</a><div class="section-text">Se fossi fabbro e usassi il martello in altro modo, avresti dimenticato il fabbro; ma se dimentichi il fratello e da fratello diventi nemico, ti sembrerà di non aver scambiato una cosa con un’altra?</div></article>
+<article class="section" id="s-14"><a class="ref" href="#s-14">14</a><div class="section-text">E se invece di uomo, animale mite e socievole, sei diventato una belva dannosa, insidiosa e mordace, non hai perduto nulla? Devi forse perdere una moneta per subire un danno? La perdita di nient’altro danneggia l’uomo?</div></article>
+<article class="section" id="s-15"><a class="ref" href="#s-15">15</a><div class="section-text">Se perdessi la grammatica o la musica, considereresti un danno la perdita di esse; se perdi senso del pudore, compostezza e mitezza, ritieni che non sia nulla?</div></article>
+<article class="section" id="s-16"><a class="ref" href="#s-16">16</a><div class="section-text">Eppure quelle si perdono per una causa esterna e non dipendente dalla scelta morale, queste per causa nostra; e quelle né è bello possederle né è vergognoso perderle, mentre non possedere e perdere queste è insieme vergognoso, biasimevole e una disgrazia. Che cosa perde chi assume il ruolo passivo in un rapporto sessuale?</div></article>
+<article class="section" id="s-17"><a class="ref" href="#s-17">17</a><div class="section-text">L’uomo. E chi fa questo a un altro? Molte altre cose; e non meno dell’altro perde anch’egli l’uomo. Che cosa perde l’adultero?</div></article>
+<article class="section" id="s-18"><a class="ref" href="#s-18">18</a><div class="section-text">L’uomo rispettoso, il continente, il decoroso, il cittadino, il vicino. Che cosa perde chi si adira? Qualcos’altro. Chi ha paura?</div></article>
+<article class="section" id="s-19"><a class="ref" href="#s-19">19</a><div class="section-text">Qualcos’altro. Nessuno è cattivo senza perdita e danno. Se dunque cerchi il danno nella moneta, tutti costoro sono indenni, senza danno, e magari persino avvantaggiati e in guadagno, quando da qualcuna di queste azioni ricavano una moneta.</div></article>
+<article class="section" id="s-20"><a class="ref" href="#s-20">20</a><div class="section-text">Ma bada: se riconduci tutto a una monetina, neppure chi perde il naso sarà danneggiato, secondo te. «Sì», dice, «perché il corpo è mutilato.»</div></article>
+<article class="section" id="s-21"><a class="ref" href="#s-21">21</a><div class="section-text">Su, e chi perde proprio l’olfatto non perde nulla? Non esiste dunque alcuna facoltà dell’anima il cui possesso giovi e la cui perdita danneggi?</div></article>
+<article class="section" id="s-22"><a class="ref" href="#s-22">22</a><div class="section-text">«Quale facoltà intendi?» Non abbiamo per natura un senso del pudore? «Sì.» Chi lo perde non è danneggiato? Non è privato di nulla? Non perde nulla di ciò che gli appartiene?</div></article>
+<article class="section" id="s-23"><a class="ref" href="#s-23">23</a><div class="section-text">Non abbiamo per natura qualcosa di fedele, qualcosa di affettuoso, qualcosa di portato a giovare, qualcosa di capace di sopportarci a vicenda? Chi dunque lascia che se stesso subisca danno in queste cose resterà illeso e senza danno?</div></article>
+<article class="section" id="s-24"><a class="ref" href="#s-24">24</a><div class="section-text">«E allora? Non devo danneggiare chi mi ha danneggiato?» Anzitutto guarda che cos’è il danno e ricordati di ciò che hai udito dai filosofi.</div></article>
+<article class="section" id="s-25"><a class="ref" href="#s-25">25</a><div class="section-text">Se infatti il bene è nella scelta morale e così anche il male nella scelta morale, bada che ciò che dici non equivalga a questo: «E allora?</div></article>
+<article class="section" id="s-26"><a class="ref" href="#s-26">26</a><div class="section-text">Poiché quello ha danneggiato se stesso commettendo un’ingiustizia contro di me, non dovrei anch’io danneggiare me stesso commettendo un’ingiustizia contro di lui?»</div></article>
+<article class="section" id="s-27"><a class="ref" href="#s-27">27</a><div class="section-text">Perché dunque non ce la rappresentiamo così, ma dove c’è una menomazione del corpo o dei beni, lì vediamo il danno, mentre dove riguarda la scelta morale non vediamo alcun danno?</div></article>
+<article class="section" id="s-28"><a class="ref" href="#s-28">28</a><div class="section-text">Infatti chi è ingannato o commette ingiustizia non sente dolore alla testa, all’occhio o all’anca, né perde il campo.</div></article>
+<article class="section" id="s-29"><a class="ref" href="#s-29">29</a><div class="section-text">E noi non vogliamo altro che queste cose; se invece avremo la scelta morale rispettosa e fedele oppure spudorata e infedele, non ce ne importa quasi per nulla, se non a scuola, finché facciamo discorsetti.</div></article>
+<article class="section" id="s-30"><a class="ref" href="#s-30">30</a><div class="section-text">Perciò progrediamo fino ai discorsetti, ma fuori di essi neppure di un minimo.</div></article>
+</div>
+
+<nav class="chapter-nav chapter-nav-bottom"><a href="2-09.html">Diatriba precedente</a><a class="chapter-home" href="../index.html">Home</a><a href="2-11.html">Diatriba successiva</a></nav>

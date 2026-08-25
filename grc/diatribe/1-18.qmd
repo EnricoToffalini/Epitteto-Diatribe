@@ -1,0 +1,54 @@
+---
+title: "Διατριβὴ Αʹ.ιηʹ — ὅτι οὐ δεῖ χαλεπαίνειν τοῖς ἁμαρτανομένοις"
+lang: grc
+pagetitle: "Διατριβὴ Αʹ.ιηʹ — ὅτι οὐ δεῖ χαλεπαίνειν τοῖς ἁμαρτανομένοις — Ἐπικτήτου Διατριβαί"
+title-prefix: ""
+description-meta: "Διατριβὴ Αʹ.ιηʹ· «ὅτι οὐ δεῖ χαλεπαίνειν τοῖς ἁμαρτανομένοις». Ἀρριανοῦ τῶν Ἐπικτήτου Διατριβῶν, τὸ ἑλληνικὸν κείμενον."
+sidebar: grc
+---
+
+<!--
+FILE GENERATO. NON MODIFICARE A MANO.
+
+Modificare invece:
+- translation/it/**.md      per il testo e i titoli italiani
+- data/intro.json           per le note introduttive delle home page
+- tools/site_config.py      per lingue, testi dell'interfaccia, URL
+- styles.css                per l'aspetto grafico
+
+Poi eseguire:
+    run.bat
+-->
+
+
+<div class="diatribe-meta">Βιβλίον Αʹ · 23 τμήματα · <span class="canonical" title="Παραπομπή">I 18</span></div>
+
+<nav class="chapter-nav"><a href="1-17.html">ἡ προτέρα διατριβή</a><a class="chapter-home" href="../index.html">Ἀρχή</a><a href="1-19.html">ἡ ἑπομένη διατριβή</a></nav>
+
+<div class="section-list">
+<article class="section" id="s-1"><a class="ref" href="#s-1">1</a><div class="section-text" lang="grc">εἰ ἀληθές ἐστι τὸ ὑπὸ τῶν φιλοσόφων λεγόμενον ὅτι πᾶσιν ἀνθρώποις μία ἀρχὴ καθάπερ τοῦ συγκαταθέσθαι τὸ παθεῖν ὅτι ὑπάρχει καὶ τοῦ ἀνανεῦσαι τὸ παθεῖν ὅτι οὐχ ὑπάρχει καὶ νὴ Δία τοῦ ἐπισχεῖν τὸ παθεῖν ὅτι ἄδηλόν ἐστιν,</div></article>
+<article class="section" id="s-2"><a class="ref" href="#s-2">2</a><div class="section-text" lang="grc">οὕτως καὶ τοῦ ὁρμῆσαι ἐπί τι τὸ παθεῖν ὅτι ἐμοὶ συμφέρει, ἀμήχανον δʼ ἄλλο μὲν κρίνειν τὸ συμφέρον, ἄλλου δʼ ὀρέγεσθαι καὶ ἄλλο μὲν κρίνειν καθῆκον, ἐπʼ ἄλλο δὲ ὁρμᾶν, τί ἔτι τοῖς πολλοῖς χαλεπαίνομεν;</div></article>
+<article class="section" id="s-3"><a class="ref" href="#s-3">3</a><div class="section-text" lang="grc">— κλέπται, φησίν, εἰσὶ καὶ λωποδύται. — τί ἐστι τὸ κλέπται καὶ λωποδύται; πεπλάνηνται περὶ ἀγαθῶν καὶ κακῶν. χαλεπαίνειν οὖν δεῖ αὐτοῖς ἢ ἐλεεῖν αὐτούς;</div></article>
+<article class="section" id="s-4"><a class="ref" href="#s-4">4</a><div class="section-text" lang="grc">ἀλλὰ δεῖξον τὴν πλάνην καὶ ὄψει πῶς ἀφίστανται τῶν ἁμαρτημάτων. ἂν δὲ μὴ βλέπωσιν, οὐδὲν ἔχουσιν ἀνώτερον τοῦ δοκοῦντος αὐτοῖς.</div></article>
+<article class="section" id="s-5"><a class="ref" href="#s-5">5</a><div class="section-text" lang="grc">τοῦτον οὖν τὸν λῃστὴν καὶ τοῦτον τὸν μοιχὸν οὐκ ἔδει ἀπολωλέναι;</div></article>
+<article class="section" id="s-6"><a class="ref" href="#s-6">6</a><div class="section-text" lang="grc">— μηδαμῶς, ἀλλʼ ἐκεῖνο μᾶλλον <q>τοῦτον τὸν πεπλανημένον καὶ ἐξηπατημένον περὶ τῶν μεγίστων καὶ ἀποτετυφλωμένον οὐ τὴν ὄψιν τὴν διακριτικὴν τῶν λευκῶν καὶ μελάνων, ἀλλὰ τὴν γνώμην τὴν διακριτικὴν τῶν ἀγαθῶν καὶ τῶν κακῶν μὴ ἀπολλύναι;</q></div></article>
+<article class="section" id="s-7"><a class="ref" href="#s-7">7</a><div class="section-text" lang="grc">κἂν οὕτως λέγῃς, γνώσῃ πῶς ἀπάνθρωπόν ἐστιν ὃ λέγεις καὶ ὅτι ἐκείνῳ ὅμοιον <q>τοῦτον οὖν τὸν τυφλὸν μὴ ἀπολλύναι καὶ τὸν κωφόν;</q></div></article>
+<article class="section" id="s-8"><a class="ref" href="#s-8">8</a><div class="section-text" lang="grc">εἰ γὰρ μεγίστη βλάβη ἡ τῶν μεγίστων ἀπώλειά ἐστιν, μέγιστον δʼ ἐν ἑκάστῳ προαίρεσις οἵα δεῖ καὶ τούτου στέρεταί τις, τί ἔτι χαλεπαίνεις αὐτῷ;</div></article>
+<article class="section" id="s-9"><a class="ref" href="#s-9">9</a><div class="section-text" lang="grc">ἄνθρωπε, εἰ σὲ δεῖ παρὰ φύσιν ἐπὶ τοῖς ἀλλοτρίοις κακοῖς διατίθεσθαι, ἐλέει αὐτὸν μᾶλλον ἢ μίσει· ἄφες τοῦτο τὸ προσκοπτικὸν καὶ μισητικόν·</div></article>
+<article class="section" id="s-10"><a class="ref" href="#s-10">10</a><div class="section-text" lang="grc">μὴ ἐ̣<span class="ed-gap" title="lacuna">&hellip;</span>π̣ῃς τὰς φωνὰς ταύτας ἃς οἱ πολλοὶ τῶν φ<span class="ed-gap" title="lacuna">&hellip;</span>των <q>τούτους οὖν τοὺς καταράτους καὶ μιαροὺς <span class="ed-gap" title="lacuna">&hellip;</span></q> ἔστω· σὺ πῶς ποτʼ ἀπεσοφώθης ἄφνω<span class="ed-gap" title="lacuna">&hellip;</span>ν̣.</div></article>
+<article class="section" id="s-11"><a class="ref" href="#s-11">11</a><div class="section-text" lang="grc">ἀ̣λ̣λ̣ω̣ς̣ χαλεπὸς εἶ. διὰ τί οὖν χαλεπαίνομεν; ὅτι τὰς ὕλας θαυμάζομεν, ὧν ἡμᾶς ἀφαιροῦνται. ἐπεί τοι μὴ θαύμαζέ σου τὰ ἱμάτια καὶ τῷ κλέπτῃ οὐ χαλεπαίνεις· μὴ θαύμαζε τὸ κάλλος τῆς γυναικὸς καὶ τῷ μοιχῷ οὐ χαλεπαίνεις.</div></article>
+<article class="section" id="s-12"><a class="ref" href="#s-12">12</a><div class="section-text" lang="grc">γνῶθι ὅτι κλέπτης καὶ μοιχὸς ἐν τοῖς σοῖς τόπον οὐκ ἔχει, ἐν δὲ τοῖς ἀλλοτρίοις καὶ τοῖς οὐκ ἐπὶ σοί. ταῦτα ἂν ἀφῇς καὶ παρὰ μηδὲν ἡγήσῃ, τίνι ἔτι χαλεπαίνεις; μέχρι δʼ ἂν ταῦτα θαυμάζῃς, σεαυτῷ χαλέπαινε μᾶλλον ἢ ἐκείνοις. σκόπει γάρ·</div></article>
+<article class="section" id="s-13"><a class="ref" href="#s-13">13</a><div class="section-text" lang="grc">ἔχεις καλὰ ἱμάτια, ὁ γείτων σου οὐκ ἔχει· θυρίδα ἔχεις, θέλεις αὐτὰ ψῦξαι. οὐκ οἶδεν ἐκεῖνος τί τὸ ἀγαθόν ἐστι τοῦ ἀνθρώπου, ἀλλὰ φαντάζεται ὅτι τὸ ἔχειν καλὰ ἱμάτια, τοῦτο ὃ καὶ σὺ φαντάζῃ.</div></article>
+<article class="section" id="s-14"><a class="ref" href="#s-14">14</a><div class="section-text" lang="grc">εἶτα μὴ ἔλθῃ καὶ ἄρῃ αὐτά; ἀλλὰ σὺ πλακοῦντα δεικνύων ἀνθρώποις λίχνοις καὶ μόνος αὐτὸν καταπίνων οὐ θέλεις ἵνα αὐτὸν ἁρπάσωσι; μὴ ἐρέθιζε αὐτούς, θυρίδα μὴ ἔχε, μὴ ψῦχέ σου τὰ ἱμάτια.</div></article>
+<article class="section" id="s-15"><a class="ref" href="#s-15">15</a><div class="section-text" lang="grc">κἀγὼ πρῴην σιδηροῦν λύχνον ἔχων παρὰ τοῖς θεοῖς ἀκούσας ψόφον τῆς θυρίδος κατέδραμον. εὗρον ἡρπασμένον τὸν λύχνον. ἐπελογισάμην, ὅτι ἔπαθέν τι ὁ ἄρας οὐκ ἀπίθανον. τί οὖν; αὔριον, φημί, ὀστράκινον εὑρήσεις.</div></article>
+<article class="section" id="s-16"><a class="ref" href="#s-16">16</a><div class="section-text" lang="grc">ἐκεῖνα γὰρ ἀπολλύει, ἃ ἔχει. <q>ἀπώλεσά μου τὸ ἱμάτιον.</q> εἶχες γὰρ ἱμάτιον. <q>ἀλγῶ τὴν κεφαλήν.</q> μή τι κέρατα ἀλγεῖς; τί οὖν ἀγανακτεῖς; τούτων γὰρ αἱ ἀπώλειαι, τούτων οἱ πόνοι, ὧν καὶ αἱ κτήσεις.</div></article>
+<article class="section" id="s-17"><a class="ref" href="#s-17">17</a><div class="section-text" lang="grc"><q>ἀλλʼ ὁ τύραννος δήσει.</q> τί; τὸ σκέλος. <q>ἀλλʼ ἀφελεῖ.</q> τί; τὸν τράχηλον. τί οὖν οὐ δήσει οὐδʼ ἀφελεῖ; τὴν προαίρεσιν. διὰ τοῦτο παρήγγελλον οἱ παλαιοὶ τὸ Γνῶθι σαυτόν.</div></article>
+<article class="section" id="s-18"><a class="ref" href="#s-18">18</a><div class="section-text" lang="grc">τί οὖν; ἔδει νὴ τοὺς θεοὺς μελετᾶν ἐπὶ τῶν μικρῶν καὶ ἀπʼ ἐκείνων ἀρχομένους διαβαίνειν ἐπὶ τὰ μείζω.</div></article>
+<article class="section" id="s-19"><a class="ref" href="#s-19">19</a><div class="section-text" lang="grc"><q>κεφαλὴν ἀλγῶ.</q> <q>οἴμοι</q> μὴ λέγε. <q>ὠτίον ἀλγῶ.</q> <q>οἴμοι</q> μὴ λέγε. καὶ οὐ λέγω ὅτι οὐ δέδοται στενάξαι, ἀλλὰ ἔσωθεν μὴ στενάξῃς. μηδʼ ἂν βραδέως τὸν ἐπίδεσμον ὁ παῖς φέρῃ, κραύγαζε καὶ σπῶ καὶ λέγε <q>πάντες με μισοῦσιν.</q> τίς γὰρ μὴ μισήσῃ τὸν τοιοῦτον;</div></article>
+<article class="section" id="s-20"><a class="ref" href="#s-20">20</a><div class="section-text" lang="grc">τούτοις τὸ λοιπὸν πεποιθὼς τοῖς δόγμασιν ὀρθὸς περιπάτει, ἐλεύθερος, οὐχὶ τῷ μεγέθει πεποιθὼς τοῦ σώματος ὥσπερ ἀθλητής· οὐ γὰρ <span class="ed-sic">ὡς</span> ὄνον ἀήττητον εἶναι.</div></article>
+<article class="section" id="s-21"><a class="ref" href="#s-21">21</a><div class="section-text" lang="grc">τίς οὖν ὁ ἀήττητος; ὃν οὐκ ἐξίστησιν οὐδὲν τῶν ἀπροαιρέτων. εἶτα λοιπὸν ἑκάστην τῶν περιστάσεων ἐπερχόμενος καταμανθάνω ὡς ἐπὶ τοῦ ἀθλητοῦ. <q>οὗτος ἐξεβίασε τὸν πρῶτον κλῆρον. τί οὖν τὸν δεύτερον; τί δʼ ἂν καῦμα ᾖ; </q></div></article>
+<article class="section" id="s-22"><a class="ref" href="#s-22">22</a><div class="section-text" lang="grc"><q> τί δʼ ἐν Ὀλυμπίᾳ;</q> καὶ ἐνταῦθα ὡσαύτως. ἂν ἀργυρίδιον προβάλῃς, καταφρονήσει. τί οὖν ἂν κορασίδιον; τί οὖν ἂν ἐν σκότῳ; τί οὖν ἂν δοξάριον; τί οὖν ἂν λοιδορίαν; τί οὖν ἂν ἔπαινον; τί δʼ ἂν θάνατον;</div></article>
+<article class="section" id="s-23"><a class="ref" href="#s-23">23</a><div class="section-text" lang="grc">δύναται ταῦτα πάντα νικῆσαι. τί οὖν ἂν καῦμα ᾖ, τοῦτό ἐστι· τί, ἂν οἰνωμένος ᾖ; τί ἂν μελαγχολῶν; τί ἐν ὕπνοις; οὗτός μοί ἐστιν ὁ ἀνίκητος ἀθλητής.</div></article>
+</div>
+
+<nav class="chapter-nav chapter-nav-bottom"><a href="1-17.html">ἡ προτέρα διατριβή</a><a class="chapter-home" href="../index.html">Ἀρχή</a><a href="1-19.html">ἡ ἑπομένη διατριβή</a></nav>

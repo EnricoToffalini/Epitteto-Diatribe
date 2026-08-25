@@ -1,0 +1,41 @@
+---
+title: "Diatriba I.23 — Contro Epicuro"
+lang: it
+pagetitle: "Diatriba I.23 — Contro Epicuro — Epitteto, Diatribe"
+title-prefix: ""
+description-meta: "Diatriba I.23: «Contro Epicuro». Le Diatribe di Epitteto raccolte da Arriano, in traduzione italiana."
+sidebar: it
+---
+
+<!--
+FILE GENERATO. NON MODIFICARE A MANO.
+
+Modificare invece:
+- translation/it/**.md      per il testo e i titoli italiani
+- data/intro.json           per le note introduttive delle home page
+- tools/site_config.py      per lingue, testi dell'interfaccia, URL
+- styles.css                per l'aspetto grafico
+
+Poi eseguire:
+    run.bat
+-->
+
+
+<div class="diatribe-meta">Libro I · 10 sezioni · <span class="canonical" title="Riferimento canonico">I 23</span></div>
+
+<nav class="chapter-nav"><a href="1-22.html">Diatriba precedente</a><a class="chapter-home" href="../index.html">Home</a><a href="1-24.html">Diatriba successiva</a></nav>
+
+<div class="section-list">
+<article class="section" id="s-1"><a class="ref" href="#s-1">1</a><div class="section-text">Anche Epicuro riconosce che per natura siamo esseri sociali; ma, una volta posto il nostro bene nel guscio, non può più dire nient’altro.</div></article>
+<article class="section" id="s-2"><a class="ref" href="#s-2">2</a><div class="section-text">D’altra parte tiene fermamente anche a questo: che non bisogna né ammirare né approvare nulla che sia separato dall’essenza del bene; e fa bene a tenerlo fermo.</div></article>
+<article class="section" id="s-3"><a class="ref" href="#s-3">3</a><div class="section-text">Come potremmo dunque preoccuparci degli altri, se non ci fosse in noi per natura affetto per i figli? Perché sconsigli al saggio di allevare figli? Che cosa temi, che per causa loro cada nel dolore?</div></article>
+<article class="section" id="s-4"><a class="ref" href="#s-4">4</a><div class="section-text">Ci cade forse per il topo che vive in casa? Che gli importa se un topolino lì dentro si mette a piangere?</div></article>
+<article class="section" id="s-5"><a class="ref" href="#s-5">5</a><div class="section-text">Ma sa che, una volta nato un bambino, non dipende più da noi non amarlo e non prenderci cura di lui.</div></article>
+<article class="section" id="s-6"><a class="ref" href="#s-6">6</a><div class="section-text">Per questo dice che chi ha senno non si occuperà neppure di politica: sa infatti che cosa deve fare chi si occupa della vita pubblica. Del resto, se hai intenzione di vivere tra gli uomini come in mezzo alle mosche, che cosa te lo impedisce?</div></article>
+<article class="section" id="s-7"><a class="ref" href="#s-7">7</a><div class="section-text">E tuttavia, pur sapendo queste cose, osa dire che non dobbiamo allevare figli. Ma una pecora non abbandona il proprio piccolo, né un lupo; e l’uomo lo abbandona?</div></article>
+<article class="section" id="s-8"><a class="ref" href="#s-8">8</a><div class="section-text">Che cosa vuoi? Che siamo sciocchi come le pecore? Neppure loro abbandonano i piccoli. Feroci come i lupi? Neppure loro li abbandonano.</div></article>
+<article class="section" id="s-9"><a class="ref" href="#s-9">9</a><div class="section-text">Su, chi ti dà retta, se vede il proprio bambino caduto a terra che piange?</div></article>
+<article class="section" id="s-10"><a class="ref" href="#s-10">10</a><div class="section-text">Io credo che, anche se tua madre e tuo padre avessero saputo da un oracolo che un giorno avresti detto queste cose, non ti avrebbero abbandonato.</div></article>
+</div>
+
+<nav class="chapter-nav chapter-nav-bottom"><a href="1-22.html">Diatriba precedente</a><a class="chapter-home" href="../index.html">Home</a><a href="1-24.html">Diatriba successiva</a></nav>

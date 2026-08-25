@@ -1,0 +1,50 @@
+---
+title: "Discourse I.27 — In how many ways appearances exist, and what aids we should provide against them"
+lang: en
+pagetitle: "Discourse I.27 — In how many ways appearances exist, and what aids we should provide against them — Epictetus, Discourses"
+title-prefix: ""
+description-meta: "Discourse I.27: “In how many ways appearances exist, and what aids we should provide against them”. The Discourses of Epictetus, in George Long’s English translation, with his notes."
+sidebar: en
+---
+
+<!--
+FILE GENERATO. NON MODIFICARE A MANO.
+
+Modificare invece:
+- translation/it/**.md      per il testo e i titoli italiani
+- data/intro.json           per le note introduttive delle home page
+- tools/site_config.py      per lingue, testi dell'interfaccia, URL
+- styles.css                per l'aspetto grafico
+
+Poi eseguire:
+    run.bat
+-->
+
+
+<div class="diatribe-meta">Book I · 4 paragraphs · <span class="canonical" title="Canonical reference">I 27</span></div>
+
+<nav class="chapter-nav"><a href="1-26.html">Previous discourse</a><a class="chapter-home" href="../index.html">Home</a><a href="1-28.html">Next discourse</a></nav>
+
+<div class="paragraph-list">
+<p>APPEARANCES are to us in four ways: for either things appear as they are; or they are not, and do not even appear to be; or they are, and do not appear to be; or they are not, and yet appear to be. Further, in all these cases to form a right judgment (to hit the mark) is the office of an educated man. But whatever it is that annoys (troubles) us, to that we ought to apply a remedy. If the sophisms of Pyrrho<a class="note-ref" id="noteref-1" href="#note-1" role="doc-noteref" aria-label="note 1"><sup>1</sup></a> and of the Academics are what annoys (troubles), we must apply the remedy to them. If it is the persuasion of appearances, by which some things appear to be good, when they are not good, let us seek a remedy for this. If it is habit which annoys us, we must try to seek aid against habit. What aid then can we find against habit? The contrary habit. You hear the ignorant say: <q>That unfortunate person is dead: his father and mother are overpowered with sorrow;<a class="note-ref" id="noteref-2" href="#note-2" role="doc-noteref" aria-label="note 2"><sup>2</sup></a> he was cut off by an untimely death and in a foreign land.</q> Hear the contrary way of speaking: Tear yourself from these expressions: oppose to one habit the contrary habit; to sophistry oppose reason, and the exercise and discipline of reason; against persuasive (deceitful) appearances we ought to have manifest praecognitions (<span class="foreign" lang="grc">προλήψεις</span>) cleared of all impurities and ready to hand.</p>
+<p>When death appears an evil, we ought to have this rule in readiness, that it is fit to avoid evil things, and that death is a necessary thing. For what shall I do, and where shall I escape it? Suppose that I am not Sarpedon,<a class="note-ref" id="noteref-3" href="#note-3" role="doc-noteref" aria-label="note 3"><sup>3</sup></a> the son of Zeus, nor able to speak in this noble way: I will go and I am resolved either to behave bravely myself or to give to another the opportunity of doing so; if I cannot succeed in doing any thing myself, I will not grudge another the doing of something noble.—Suppose that it is above our power to act thus; is it not in our power to reason thus? Tell me where I can escape death: discover for me the country, show me the men to whom I must go, whom death does not visit. Discover to me a charm against death. If I have not one, what do you wish me to do? I cannot escape from death. Shall I not escape from the fear of death, but shall I die lamenting and trembling? For the origin of perturbation is this, to wish for something, and that this should not happen. Therefore if I am able to change externals according to my wish, I change them; but if I can not, I am ready to tear out the eyes of him who hinders me. For the nature of man is not to endure to be deprived of the good, and not to endure the falling into the evil. Then at last, when I am neither able to change circumstances nor to tear out the eyes of him who hinders me, I sit down and groan, and abuse whom I can, Zeus and the rest of the gods. For if they do not care for me, what are they to me?—Yes, but you will be an impious man.—In what respect then will it be worse for me than it is now?—To sum up, remember this that unless piety and your interest be in the same thing, piety cannot be maintained in any man. Do not these things seem necessary (true)?</p>
+<p>Let the followers of Pyrrho and the Academics come and make their objections. For I, as to my part, have no leisure for these disputes, nor am I able to undertake the defence of common consent (opinion).<a class="note-ref" id="noteref-4" href="#note-4" role="doc-noteref" aria-label="note 4"><sup>4</sup></a> If I had a suit even about a bit of land, I would call in another to defend my interests. With what evidence then am I satisfied? With that which belongs to the matter in hand.<a class="note-ref" id="noteref-5" href="#note-5" role="doc-noteref" aria-label="note 5"><sup>5</sup></a> How indeed perception is effected, whether through the whole body or any part, perhaps I cannot explain: for both opinions perplex me. But that you and I are not the same, I know with perfect certainty. How do you know it? When I intend to swallow any thing, I never carry it to your mouth, but to my own. When I intend to take bread, I never lay hold of a broom, but I always go to the bread as to a mark.<a class="note-ref" id="noteref-6" href="#note-6" role="doc-noteref" aria-label="note 6"><sup>6</sup></a> And you yourselves (the Pyrrhonists), who take away the evidence of the senses, do you act otherwise? Who among you, when he intended to enter a bath, ever went into a mill?</p>
+<p>What then? Ought we not with all our power to hold to this also, the maintaining of general opinion,<a class="note-ref" id="noteref-7" href="#note-7" role="doc-noteref" aria-label="note 7"><sup>7</sup></a> and fortifying ourselves against the arguments which are directed against it? Who denies that we ought to do this? Well, he should do it who is able, who has leisure for it; but as to him who trembles and is perturbed and is inwardly broken in heart (spirit), he must employ his time better on something else.</p>
+</div>
+
+<section class="notes">
+<h2>Notes</h2>
+<ol class="note-list">
+<li class="note" id="note-1" role="doc-endnote"><p>Pyrrho was a native of Elis, in the PeloponnesusIliad. He is said to have accompanied Alexander the Great in his Asiatic expedition (Diogenes Laertius, ix. 61). The time of his birth is not stated, but it is said that he lived to the age of ninety.</p> 
+<p>See Levin’s Six Lectures, 1871. Lecture II., On the Pyrrhonian Ethic; Lecture III., On the grounds of Scepticism.</p><a class="note-back" href="#noteref-1" aria-label="back to the text">&#8617;</a></li>
+<li class="note" id="note-2" role="doc-endnote"><p><span class="foreign" lang="grc">ἀπώλετο</span> does not mean that the father is dead, and that the mother is dead. They survive and lament. Compare <span class="cit"><cite>Euripides, Alcestis, v. 825:</cite> <span class="verse-quote" lang="grc" class="foreign"><span class="l">ἀπωλόμεσθα πάντες, οὐ κείνη μόν</span></span></span></p><a class="note-back" href="#noteref-2" aria-label="back to the text">&#8617;</a></li>
+<li class="note" id="note-3" role="doc-endnote"><p>Homer, xii. v. 328: <q lang="grc" class="foreign">ἴομεν, ἠὲ τῳ εὐχος ὀρέξομεν ἦέ τις ἡμῖν</q>.</p><a class="note-back" href="#noteref-3" aria-label="back to the text">&#8617;</a></li>
+<li class="note" id="note-4" role="doc-endnote"><p><q>This means, the received opinion about the knowledge and certainty of things, which knowledge and certainty the Sceptic philosophers attack by taking away general assent or consent</q> (Wolf). Lord Shaftesbury accepts this explanation. See also Schweig.’s note.</p><a class="note-back" href="#noteref-4" aria-label="back to the text">&#8617;</a></li>
+<li class="note" id="note-5" role="doc-endnote"><p><q>The chief question which was debated between the Pyrrhonists and the Academics on one side, and the Stoics on the other, was this, whether there is a criterion of truth; and in the first place, the question is about the evidence of the senses, or the certainty of truth in those things which are perceived by the senses.</q>—Schweighaeuser.</p> 
+<p>The strength of the Stoic system was that <q>it furnishes a groundwork of common sense, and the universal belief of mankind, on which to found sufficient certitude for the requirements of life: on the other hand, the real question of knowledge, in the philosophical sense of the word, was abandoned.</q> Levin’s Six Lectures, p. 70.</p><a class="note-back" href="#noteref-5" aria-label="back to the text">&#8617;</a></li>
+<li class="note" id="note-6" role="doc-endnote"><p><span class="foreign" lang="grc">ὡς πρὸς σκοπόν</span>, Schweighaeuser’s emendation in place of <span class="foreign" lang="grc">ὡς προκόπτων</span>.</p><a class="note-back" href="#noteref-6" aria-label="back to the text">&#8617;</a></li>
+<li class="note" id="note-7" role="doc-endnote"><p>For the word <span class="foreign" lang="grc">συνήθειαν</span>, which occurs in s. 20, Schweighaeuser suggests <span class="foreign" lang="grc">ἀλήθειαν</span> here, and translates it by <q lang="lat" class="foreign">veritas.</q> See his notes on this chapter, s. 15 and s. 20.</p><a class="note-back" href="#noteref-7" aria-label="back to the text">&#8617;</a></li>
+</ol>
+</section>
+
+<nav class="chapter-nav chapter-nav-bottom"><a href="1-26.html">Previous discourse</a><a class="chapter-home" href="../index.html">Home</a><a href="1-28.html">Next discourse</a></nav>

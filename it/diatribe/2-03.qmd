@@ -1,0 +1,36 @@
+---
+title: "Diatriba II.3 — A quelli che raccomandano qualcuno ai filosofi"
+lang: it
+pagetitle: "Diatriba II.3 — A quelli che raccomandano qualcuno ai filosofi — Epitteto, Diatribe"
+title-prefix: ""
+description-meta: "Diatriba II.3: «A quelli che raccomandano qualcuno ai filosofi». Le Diatribe di Epitteto raccolte da Arriano, in traduzione italiana."
+sidebar: it
+---
+
+<!--
+FILE GENERATO. NON MODIFICARE A MANO.
+
+Modificare invece:
+- translation/it/**.md      per il testo e i titoli italiani
+- data/intro.json           per le note introduttive delle home page
+- tools/site_config.py      per lingue, testi dell'interfaccia, URL
+- styles.css                per l'aspetto grafico
+
+Poi eseguire:
+    run.bat
+-->
+
+
+<div class="diatribe-meta">Libro II · 5 sezioni · <span class="canonical" title="Riferimento canonico">II 3</span></div>
+
+<nav class="chapter-nav"><a href="2-02.html">Diatriba precedente</a><a class="chapter-home" href="../index.html">Home</a><a href="2-04.html">Diatriba successiva</a></nav>
+
+<div class="section-list">
+<article class="section" id="s-1"><a class="ref" href="#s-1">1</a><div class="section-text">Diceva bene Diogene a chi gli chiedeva una lettera di raccomandazione: «Che sei un uomo, lo saprà appena ti vedrà; se poi sei buono o cattivo, se sa distinguere per esperienza i buoni dai cattivi, lo saprà; se invece non lo sa, non lo saprà neppure se gli scrivo diecimila volte.»</div></article>
+<article class="section" id="s-2"><a class="ref" href="#s-2">2</a><div class="section-text">È come se una dracma chiedesse di essere raccomandata a qualcuno perché la esamini. Se sa riconoscere l’argento, sarai tu stessa a raccomandarti.</div></article>
+<article class="section" id="s-3"><a class="ref" href="#s-3">3</a><div class="section-text">Dovremmo dunque possedere anche nella vita qualcosa di simile a ciò che si possiede per il denaro, così da poter dire, come chi sa riconoscere le monete: «Portami la dracma che vuoi e la distinguerò.»</div></article>
+<article class="section" id="s-4"><a class="ref" href="#s-4">4</a><div class="section-text">Per i sillogismi invece posso dire: «Portami quello che vuoi e ti distinguerò chi sa analizzarlo da chi non sa farlo.» Perché? Perché so analizzare i sillogismi: possiedo la capacità che deve avere chi sa riconoscere quelli che operano correttamente con i sillogismi.</div></article>
+<article class="section" id="s-5"><a class="ref" href="#s-5">5</a><div class="section-text">Ma nella vita che cosa faccio? Ora dico che una cosa è buona, ora che è cattiva. Qual è la causa? Il contrario di ciò che accade con i sillogismi: ignoranza e inesperienza.</div></article>
+</div>
+
+<nav class="chapter-nav chapter-nav-bottom"><a href="2-02.html">Diatriba precedente</a><a class="chapter-home" href="../index.html">Home</a><a href="2-04.html">Diatriba successiva</a></nav>

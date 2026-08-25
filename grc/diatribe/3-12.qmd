@@ -1,0 +1,48 @@
+---
+title: "Διατριβὴ Γʹ.ιβʹ — περὶ ἀσκήσεως"
+lang: grc
+pagetitle: "Διατριβὴ Γʹ.ιβʹ — περὶ ἀσκήσεως — Ἐπικτήτου Διατριβαί"
+title-prefix: ""
+description-meta: "Διατριβὴ Γʹ.ιβʹ· «περὶ ἀσκήσεως». Ἀρριανοῦ τῶν Ἐπικτήτου Διατριβῶν, τὸ ἑλληνικὸν κείμενον."
+sidebar: grc
+---
+
+<!--
+FILE GENERATO. NON MODIFICARE A MANO.
+
+Modificare invece:
+- translation/it/**.md      per il testo e i titoli italiani
+- data/intro.json           per le note introduttive delle home page
+- tools/site_config.py      per lingue, testi dell'interfaccia, URL
+- styles.css                per l'aspetto grafico
+
+Poi eseguire:
+    run.bat
+-->
+
+
+<div class="diatribe-meta">Βιβλίον Γʹ · 17 τμήματα · <span class="canonical" title="Παραπομπή">III 12</span></div>
+
+<nav class="chapter-nav"><a href="3-11.html">ἡ προτέρα διατριβή</a><a class="chapter-home" href="../index.html">Ἀρχή</a><a href="3-13.html">ἡ ἑπομένη διατριβή</a></nav>
+
+<div class="section-list">
+<article class="section" id="s-1"><a class="ref" href="#s-1">1</a><div class="section-text" lang="grc">τὰς ἀσκήσεις οὐ δεῖ διὰ τῶν παρὰ φύσιν καὶ παραδόξων ποιεῖσθαι, ἐπεί τοι τῶν θαυματοποιῶν οὐδὲν διοίσομεν οἱ λέγοντες φιλοσοφεῖν.</div></article>
+<article class="section" id="s-2"><a class="ref" href="#s-2">2</a><div class="section-text" lang="grc">δύσκολον γάρ ἐστι καὶ τὸ ἐπὶ σχοινίου περιπατεῖν καὶ οὐ μόνον δύσκολον, ἀλλὰ καὶ ἐπικίνδυνον. τούτου ἕνεκα δεῖ καὶ ἡμᾶς μελετᾶν ἐπὶ σχοινίου περιπατεῖν ἢ φοίνικα ἱστάνειν ἢ ἀνδριάντας περιλαμβάνειν;</div></article>
+<article class="section" id="s-3"><a class="ref" href="#s-3">3</a><div class="section-text" lang="grc">οὐδαμῶς. οὐκ ἔστι τὸ δύσκολον πᾶν καὶ ἐπικίνδυνον ἐπιτήδειον πρὸς ἄσκησιν, ἀλλὰ τὸ πρόσφορον τῷ προκειμένῳ ἐκπονηθῆναι.</div></article>
+<article class="section" id="s-4"><a class="ref" href="#s-4">4</a><div class="section-text" lang="grc">τί δʼ ἐστὶ τὸ προκείμενον ἐκπονηθῆναι; ὀρέξει καὶ ἐκκλίσει ἀκωλύτως ἀναστρέφεσθαι. τοῦτο δὲ τί ἐστιν, μήτε ὀρεγόμενον ἀποτυγχάνειν μήτʼ ἐκκλίνοντα περιπίπτειν. πρὸς τοῦτο οὖν καὶ τὴν ἄσκησιν ῥέπειν δεῖ.</div></article>
+<article class="section" id="s-5"><a class="ref" href="#s-5">5</a><div class="section-text" lang="grc">ἐπεὶ γὰρ οὐκ ἔστιν ἀναπότευκτον σχεῖν τὴν ὄρεξιν καὶ τὴν ἔκκλισιν ἀπερίπτωτον ἄνευ μεγάλης καὶ συνεχοῦς ἀσκήσεως, ἴσθι ὅτι, ἐὰν ἔξω ἐάσῃς ἀποστρέφεσθαι αὐτὴν ἐπὶ τὰ ἀπροαίρετα, οὔτε τὴν ὄρεξιν ἐπιτευκτικὴν ἕξεις οὔτε τὴν ἔκκλισιν ἀπερίπτωτον.</div></article>
+<article class="section" id="s-6"><a class="ref" href="#s-6">6</a><div class="section-text" lang="grc">καὶ ἐπεὶ τὸ ἔθος ἰσχυρὸν προηγῆται πρὸς μόνα ταῦτα εἰθισμένων ἡμῶν χρῆσθαι ὀρέξει καὶ ἐκκλίσει, δεῖ τῷ ἔθει τούτῳ ἐναντίον ἔθος ἀντιθεῖναι καὶ ὅπου ὁ πολὺς ὄλισθος τῶν φαντασιῶν, ἐκεῖ ἀντιτιθέναι τὸ ἀσκητικόν.</div></article>
+<article class="section" id="s-7"><a class="ref" href="#s-7">7</a><div class="section-text" lang="grc">Ἑτεροκλινῶς ἔχω πρὸς ἡδονήν· ἀνατοιχήσω ἐπὶ τὸ ἐναντίον ὑπὲρ τὸ μέτρον τῆς ἀσκήσεως ἕνεκα. ἐκκλιτικῶς ἔχω πόνου· τρίψω μου καὶ γυμνάσω πρὸς τοῦτο τὰς φαντασίας ὑπὲρ τοῦ ἀποστῆναι τὴν ἔκκλισιν ἀπὸ παντὸς τοῦ τοιούτου.</div></article>
+<article class="section" id="s-8"><a class="ref" href="#s-8">8</a><div class="section-text" lang="grc">τίς γάρ ἐστιν ἀσκητής; ὁ μελετῶν ὀρέξει μὲν μὴ χρῆσθαι, ἐκκλίσει δὲ πρὸς μόνα τὰ προαιρετικὰ χρῆσθαι καὶ μελετῶν μᾶλλον ἐν τοῖς δυσκαταπονήτοις. καθʼ ὃ καὶ ἄλλῳ πρὸς ἄλλα μᾶλλον ἀσκητέον.</div></article>
+<article class="section" id="s-9"><a class="ref" href="#s-9">9</a><div class="section-text" lang="grc">τί οὖν ὧδε ποιεῖ τὸ φοίνικα στῆσαι ἢ τὸ στέγην δερματίνην καὶ ὅλμον καὶ ὕπερον περιφέρειν;</div></article>
+<article class="section" id="s-10"><a class="ref" href="#s-10">10</a><div class="section-text" lang="grc">ἄνθρωπε, ἄσκησον, εἰ γοργὸς εἶ, λοιδορούμενος ἀνέχεσθαι, ἀτιμασθεὶς μὴ ἀχθεσθῆναι. εἶθʼ οὕτως προ<span class="ed-del">[σ]</span>βήσῃ, ἵνα, κἂν πλήξῃ σέ τις, εἴπῃς αὐτὸς πρὸς αὑτὸν ὅτι <q>δόξον ἀνδριάντα περιειληφέναι.</q></div></article>
+<article class="section" id="s-11"><a class="ref" href="#s-11">11</a><div class="section-text" lang="grc">εἶτα καὶ οἰναρίῳ κομψῶς χρῆσθαι, μὴ εἰς τὸ πολὺ πίνειν (καὶ γὰρ περὶ τοῦτο ἐπαρίστεροι ἀσκηταί εἰσιν), ἀλλὰ πρῶτον εἰς τὸ ἀποσχέσθαι, καὶ κορασιδίου ἀπέχεσθαι καὶ πλακουνταρίου. εἶτά ποτε ὑπὲρ δοκιμασίας, εἰ ἄρα, καθήσεις εὐκαίρως αὐτὸς σαυτὸν ὑπὲρ τοῦ γνῶναι, εἰ ὁμοίως ἡττῶσίν σε αἱ φαντασίαι.</div></article>
+<article class="section" id="s-12"><a class="ref" href="#s-12">12</a><div class="section-text" lang="grc">τὰ πρῶτα δὲ φεῦγε μακρὰν ἀπὸ τῶν ἰσχυροτέρων. ἄνισος ἡ μάχη κορασιδίῳ κομψῷ πρὸς νέον ἀρχόμενον φιλοσοφεῖν· χύτρα, φασί, καὶ πέτρα οὐ συμφωνεῖ.</div></article>
+<article class="section" id="s-13"><a class="ref" href="#s-13">13</a><div class="section-text" lang="grc">μετὰ τὴν ὄρεξιν καὶ τὴν ἔκκλισιν δεύτερος τ<span class="ed-del">[ρ]</span>όπος ὁ περὶ τὴν ὁρμὴν καὶ ἀφορμήν· <span class="ed-add">&lang;ἵνʼ&rang;</span> εὐπειθὴς τῷ λόγῳ, ἵνα μὴ παρὰ καιρόν, μὴ παρὰ τόπον, μὴ παρὰ ἄλλην τινὰ τοιαύτην <span class="ed-del">[ἀ]</span>συμμετρίαν.</div></article>
+<article class="section" id="s-14"><a class="ref" href="#s-14">14</a><div class="section-text" lang="grc">τρίτος ὁ περὶ τὰς συγκαταθέσεις, ὁ πρὸς τὰ πιθανὰ καὶ ἑλκυστικά.</div></article>
+<article class="section" id="s-15"><a class="ref" href="#s-15">15</a><div class="section-text" lang="grc">ὡς γὰρ ὁ Σωκράτης ἔλεγεν ἀνεξέταστον βίον μὴ ζῆν, οὕτως ἀνεξέταστον φαντασίαν μὴ παραδέχεσθαι, ἀλλὰ λέγειν <q>ἔκδεξαι, ἄφες ἴδω, τίς εἶ καὶ πόθεν ἔρχῃ,</q> ὡς οἱ νυκτοφύλακες <q>δεῖξόν μοι τὰ συνθήματα.</q> <q>ἔχεις τὸ παρὰ τῆς φύσεως σύμβολον, ὃ δεῖ τὴν παραδεχθησομένην ἔχειν φαντασίαν;</q></div></article>
+<article class="section" id="s-16"><a class="ref" href="#s-16">16</a><div class="section-text" lang="grc">καὶ λοιπὸν ὅσα τῷ σώματι προσάγεται ὑπὸ τῶν γυμναζόντων αὐτό, ἂν μὲν ὧδέ που ῥέπῃ πρὸς ὄρεξιν καὶ ἔκκλισιν, εἴη ἂν καὶ αὐτὰ ἀσκητικά· ἂν δὲ πρὸς ἐπίδειξιν, ἔξω νενευκότος ἐστὶ καὶ ἄλλο τι θηρωμένου καὶ θεατὰς ζητοῦντος τοὺς ἐροῦντας <q>ὦ<span class="ed-del">[ς]</span> μεγάλου ἀνθρώπου.</q></div></article>
+<article class="section" id="s-17"><a class="ref" href="#s-17">17</a><div class="section-text" lang="grc">διὰ τοῦτο καλῶς ὁ Ἀπολλώνιος ἔλεγεν ὅτι <q>ὅταν θέλῃς σαυτῷ ἀσκῆσαι, διψῶν ποτε καύματος ἐφέλκυσαι βρόγχον ψυχροῦ καὶ ἔκπτυσον καὶ μηδενὶ εἴπῃς.</q></div></article>
+</div>
+
+<nav class="chapter-nav chapter-nav-bottom"><a href="3-11.html">ἡ προτέρα διατριβή</a><a class="chapter-home" href="../index.html">Ἀρχή</a><a href="3-13.html">ἡ ἑπομένη διατριβή</a></nav>

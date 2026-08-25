@@ -1,0 +1,38 @@
+---
+title: "Diatriba I.30 — Che cosa bisogna avere pronto nelle circostanze difficili"
+lang: it
+pagetitle: "Diatriba I.30 — Che cosa bisogna avere pronto nelle circostanze difficili — Epitteto, Diatribe"
+title-prefix: ""
+description-meta: "Diatriba I.30: «Che cosa bisogna avere pronto nelle circostanze difficili». Le Diatribe di Epitteto raccolte da Arriano, in traduzione italiana."
+sidebar: it
+---
+
+<!--
+FILE GENERATO. NON MODIFICARE A MANO.
+
+Modificare invece:
+- translation/it/**.md      per il testo e i titoli italiani
+- data/intro.json           per le note introduttive delle home page
+- tools/site_config.py      per lingue, testi dell'interfaccia, URL
+- styles.css                per l'aspetto grafico
+
+Poi eseguire:
+    run.bat
+-->
+
+
+<div class="diatribe-meta">Libro I · 7 sezioni · <span class="canonical" title="Riferimento canonico">I 30</span></div>
+
+<nav class="chapter-nav"><a href="1-29.html">Diatriba precedente</a><a class="chapter-home" href="../index.html">Home</a><a href="2-01.html">Diatriba successiva</a></nav>
+
+<div class="section-list">
+<article class="section" id="s-1"><a class="ref" href="#s-1">1</a><div class="section-text">Quando entri da uno di quelli che stanno in alto, ricordati che anche un altro, dall’alto, guarda ciò che accade e che devi cercare di piacere più a lui che a costui.</div></article>
+<article class="section" id="s-2"><a class="ref" href="#s-2">2</a><div class="section-text">Egli dunque ti domanda: «Che cosa dicevi a scuola dell’esilio, della prigione, delle catene, della morte e della cattiva reputazione?» «Che sono cose indifferenti.»</div></article>
+<article class="section" id="s-3"><a class="ref" href="#s-3">3</a><div class="section-text">«E ora come le chiami? Sono forse cambiate?» «No.» «Sei cambiato tu?» «No.» «Di’ dunque quali sono le cose indifferenti.» «Quelle che non dipendono dalla scelta morale.» «Di’ anche il resto.»</div></article>
+<article class="section" id="s-4"><a class="ref" href="#s-4">4</a><div class="section-text">«Le cose che non dipendono dalla scelta morale non mi riguardano.» «Di’ anche quali vi sembravano essere i beni.» «Una scelta morale quale dev’essere e l’uso delle rappresentazioni.» «E quale il fine?» «Seguire te.»</div></article>
+<article class="section" id="s-5"><a class="ref" href="#s-5">5</a><div class="section-text">«Dici queste cose anche adesso?» «Le stesse anche adesso.» «Entra dunque ormai con fiducia, ricordandoti di queste cose, e vedrai che cosa significa essere un giovane esercitato in ciò che occorre, in mezzo a uomini inesperti.»</div></article>
+<article class="section" id="s-6"><a class="ref" href="#s-6">6</a><div class="section-text">Io, per gli dèi, immagino che proverai qualcosa del genere: «Perché mai ci siamo preparati con tante e così grandi cose per un nulla?»</div></article>
+<article class="section" id="s-7"><a class="ref" href="#s-7">7</a><div class="section-text">«Questo era il potere? Questi gli atri, gli addetti alle camere, le guardie con la spada? Per questo ascoltavo tanti discorsi? Tutto questo non era nulla, e io mi preparavo come se fosse qualcosa di grande.»</div></article>
+</div>
+
+<nav class="chapter-nav chapter-nav-bottom"><a href="1-29.html">Diatriba precedente</a><a class="chapter-home" href="../index.html">Home</a><a href="2-01.html">Diatriba successiva</a></nav>

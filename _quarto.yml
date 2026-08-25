@@ -1,0 +1,899 @@
+# FILE GENERATO. NON MODIFICARE A MANO.
+# Modificare tools/site_config.py ed eseguire run.bat.
+project:
+  type: website
+  output-dir: docs
+  post-render: tools/4_finalize_seo.py
+  # Only the generated pages: without this Quarto would also publish the
+  # translator's Markdown files under translation/ and the README.
+  render:
+    - "index.qmd"
+    - "it/**/*.qmd"
+    - "en/**/*.qmd"
+    - "grc/**/*.qmd"
+  resources:
+    - .nojekyll
+    - assets
+
+website:
+  title: "Epitteto · Diatribe"
+  site-url: https://enricotoffalini.github.io/Epitteto-Diatribe/
+  search: false
+  page-navigation: false
+  navbar:
+    left:
+      - text: "Lettera di Arriano"
+        href: it/diatribe/0-00.qmd
+      - text: "Libro I"
+        menu:
+          - text: "1 · Su ciò che dipende da noi e ciò che non dipende da noi"
+            href: it/diatribe/1-01.qmd
+          - text: "2 · Come mantenere in ogni circostanza ciò che si addice al proprio ruolo"
+            href: it/diatribe/1-02.qmd
+          - text: "3 · Come procedere dal principio che Dio è padre degli uomini alle conseguenze"
+            href: it/diatribe/1-03.qmd
+          - text: "4 · Sul progresso"
+            href: it/diatribe/1-04.qmd
+          - text: "5 · Contro gli Accademici"
+            href: it/diatribe/1-05.qmd
+          - text: "6 · Sulla Provvidenza"
+            href: it/diatribe/1-06.qmd
+          - text: "7 · Sull’uso degli argomenti mutevoli, ipotetici e simili"
+            href: it/diatribe/1-07.qmd
+          - text: "8 · Che le capacità non sono sicure per chi è privo di educazione"
+            href: it/diatribe/1-08.qmd
+          - text: "9 · Come procedere dalla nostra parentela con Dio alle conseguenze"
+            href: it/diatribe/1-09.qmd
+          - text: "10 · Contro quelli che si affannano per gli avanzamenti a Roma"
+            href: it/diatribe/1-10.qmd
+          - text: "11 · Sull'affetto familiare"
+            href: it/diatribe/1-11.qmd
+          - text: "12 · Sull'accettare di buon grado"
+            href: it/diatribe/1-12.qmd
+          - text: "13 · Come fare ogni cosa in modo gradito agli dèi"
+            href: it/diatribe/1-13.qmd
+          - text: "14 · Che la divinità veglia su tutti"
+            href: it/diatribe/1-14.qmd
+          - text: "15 · Che cosa promette la filosofia"
+            href: it/diatribe/1-15.qmd
+          - text: "16 · Sulla Provvidenza"
+            href: it/diatribe/1-16.qmd
+          - text: "17 · Che la logica è necessaria"
+            href: it/diatribe/1-17.qmd
+          - text: "18 · Che non bisogna adirarsi con chi sbaglia"
+            href: it/diatribe/1-18.qmd
+          - text: "19 · Come bisogna comportarsi verso i tiranni"
+            href: it/diatribe/1-19.qmd
+          - text: "20 · Sulla ragione e su come contempla se stessa"
+            href: it/diatribe/1-20.qmd
+          - text: "21 · Contro quelli che vogliono essere ammirati"
+            href: it/diatribe/1-21.qmd
+          - text: "22 · Sulle preconcezioni"
+            href: it/diatribe/1-22.qmd
+          - text: "23 · Contro Epicuro"
+            href: it/diatribe/1-23.qmd
+          - text: "24 · Come bisogna lottare contro le circostanze"
+            href: it/diatribe/1-24.qmd
+          - text: "25 · Sullo stesso argomento"
+            href: it/diatribe/1-25.qmd
+          - text: "26 · Qual è la legge della vita"
+            href: it/diatribe/1-26.qmd
+          - text: "27 · In quanti modi si presentano le rappresentazioni e quali aiuti bisogna preparare contro di esse"
+            href: it/diatribe/1-27.qmd
+          - text: "28 · Che non bisogna adirarsi con gli uomini e quali sono le cose piccole e grandi fra gli uomini"
+            href: it/diatribe/1-28.qmd
+          - text: "29 · Sulla fermezza"
+            href: it/diatribe/1-29.qmd
+          - text: "30 · Che cosa bisogna avere pronto nelle circostanze difficili"
+            href: it/diatribe/1-30.qmd
+      - text: "Libro II"
+        menu:
+          - text: "1 · Che la fiducia non è incompatibile con la cautela"
+            href: it/diatribe/2-01.qmd
+          - text: "2 · Sulla tranquillità"
+            href: it/diatribe/2-02.qmd
+          - text: "3 · A quelli che raccomandano qualcuno ai filosofi"
+            href: it/diatribe/2-03.qmd
+          - text: "4 · Contro uno che una volta era stato sorpreso in adulterio"
+            href: it/diatribe/2-04.qmd
+          - text: "5 · Come possono coesistere magnanimità e cura"
+            href: it/diatribe/2-05.qmd
+          - text: "6 · Sull’indifferenza"
+            href: it/diatribe/2-06.qmd
+          - text: "7 · Come si deve ricorrere alla divinazione"
+            href: it/diatribe/2-07.qmd
+          - text: "8 · Qual è l’essenza del bene"
+            href: it/diatribe/2-08.qmd
+          - text: "9 · Che, non riuscendo ad adempiere ciò che comporta essere uomo, assumiamo il ruolo del filosofo"
+            href: it/diatribe/2-09.qmd
+          - text: "10 · Come si possono ricavare i doveri dai nomi"
+            href: it/diatribe/2-10.qmd
+          - text: "11 · Qual è l’inizio della filosofia"
+            href: it/diatribe/2-11.qmd
+          - text: "12 · Sul discutere"
+            href: it/diatribe/2-12.qmd
+          - text: "13 · Sull’ansia"
+            href: it/diatribe/2-13.qmd
+          - text: "14 · A Nasone"
+            href: it/diatribe/2-14.qmd
+          - text: "15 · Contro quelli che persistono ostinatamente nelle proprie decisioni"
+            href: it/diatribe/2-15.qmd
+          - text: "16 · Che non ci esercitiamo a usare i giudizi sul bene e sul male"
+            href: it/diatribe/2-16.qmd
+          - text: "17 · Come applicare le preconcezioni ai casi particolari"
+            href: it/diatribe/2-17.qmd
+          - text: "18 · Come lottare contro le rappresentazioni"
+            href: it/diatribe/2-18.qmd
+          - text: "19 · Contro coloro che accolgono le dottrine dei filosofi soltanto a parole"
+            href: it/diatribe/2-19.qmd
+          - text: "20 · Contro gli Epicurei e gli Accademici"
+            href: it/diatribe/2-20.qmd
+          - text: "21 · Sull’incoerenza"
+            href: it/diatribe/2-21.qmd
+          - text: "22 · Sull’amicizia"
+            href: it/diatribe/2-22.qmd
+          - text: "23 · Sulla capacità di parlare"
+            href: it/diatribe/2-23.qmd
+          - text: "24 · A uno di quelli che egli non riteneva degni"
+            href: it/diatribe/2-24.qmd
+          - text: "25 · Perché la logica è necessaria"
+            href: it/diatribe/2-25.qmd
+          - text: "26 · Che cosa è proprio dell’errore"
+            href: it/diatribe/2-26.qmd
+      - text: "Libro III"
+        menu:
+          - text: "1 · Sull’ornamento personale"
+            href: it/diatribe/3-01.qmd
+          - text: "2 · In che cosa deve esercitarsi chi vuole progredire e che trascuriamo le cose più importanti"
+            href: it/diatribe/3-02.qmd
+          - text: "3 · Qual è la materia dell'uomo buono e in che cosa bisogna soprattutto esercitarsi"
+            href: it/diatribe/3-03.qmd
+          - text: "4 · A uno che parteggiò in modo sconveniente a teatro"
+            href: it/diatribe/3-04.qmd
+          - text: "5 · A quelli che tornano a casa a causa della malattia"
+            href: it/diatribe/3-05.qmd
+          - text: "6 · Alcune osservazioni sparse"
+            href: it/diatribe/3-06.qmd
+          - text: "7 · A un amministratore delle città libere, che era epicureo"
+            href: it/diatribe/3-07.qmd
+          - text: "8 · Come esercitarsi di fronte alle rappresentazioni"
+            href: it/diatribe/3-08.qmd
+          - text: "9 · A un retore che saliva a Roma per una causa"
+            href: it/diatribe/3-09.qmd
+          - text: "10 · Come bisogna sopportare le malattie"
+            href: it/diatribe/3-10.qmd
+          - text: "11 · Alcune osservazioni sparse"
+            href: it/diatribe/3-11.qmd
+          - text: "12 · Sull'esercizio"
+            href: it/diatribe/3-12.qmd
+          - text: "13 · Che cos'è la solitudine e chi è solo"
+            href: it/diatribe/3-13.qmd
+          - text: "14 · Alcune osservazioni sparse"
+            href: it/diatribe/3-14.qmd
+          - text: "15 · Che bisogna affrontare ogni cosa con circospezione"
+            href: it/diatribe/3-15.qmd
+          - text: "16 · Che bisogna entrare con cautela nella familiarità con gli altri"
+            href: it/diatribe/3-16.qmd
+          - text: "17 · Sulla provvidenza"
+            href: it/diatribe/3-17.qmd
+          - text: "18 · Che non bisogna turbarsi per le notizie"
+            href: it/diatribe/3-18.qmd
+          - text: "19 · Qual è l'atteggiamento dell'uomo comune e del filosofo"
+            href: it/diatribe/3-19.qmd
+          - text: "20 · Che si può trarre vantaggio da tutte le cose esterne"
+            href: it/diatribe/3-20.qmd
+          - text: "21 · Contro quelli che si accingono troppo facilmente a fare i sofisti"
+            href: it/diatribe/3-21.qmd
+          - text: "22 · Sul cinismo"
+            href: it/diatribe/3-22.qmd
+          - text: "23 · A quelli che leggono e discutono per ostentazione"
+            href: it/diatribe/3-23.qmd
+          - text: "24 · Che non bisogna attaccarsi alle cose che non dipendono da noi"
+            href: it/diatribe/3-24.qmd
+          - text: "25 · A quelli che abbandonano i propri propositi"
+            href: it/diatribe/3-25.qmd
+          - text: "26 · A quelli che temono di restare senza il necessario"
+            href: it/diatribe/3-26.qmd
+      - text: "Libro IV"
+        menu:
+          - text: "1 · Sulla libertà"
+            href: it/diatribe/4-01.qmd
+          - text: "2 · Sulla frequentazione"
+            href: it/diatribe/4-02.qmd
+          - text: "3 · Quali cose bisogna scambiare con quali altre"
+            href: it/diatribe/4-03.qmd
+          - text: "4 · A quelli che desiderano vivere in tranquillità"
+            href: it/diatribe/4-04.qmd
+          - text: "5 · Contro i litigiosi e feroci"
+            href: it/diatribe/4-05.qmd
+          - text: "6 · A quelli che si affliggono perché vengono compatiti"
+            href: it/diatribe/4-06.qmd
+          - text: "7 · Sulla libertà dalla paura"
+            href: it/diatribe/4-07.qmd
+          - text: "8 · Contro quelli che si affrettano ad assumere l'aspetto dei filosofi"
+            href: it/diatribe/4-08.qmd
+          - text: "9 · A uno che era passato alla spudoratezza"
+            href: it/diatribe/4-09.qmd
+          - text: "10 · Quali cose bisogna disprezzare e a quali dare importanza"
+            href: it/diatribe/4-10.qmd
+          - text: "11 · Sulla purezza"
+            href: it/diatribe/4-11.qmd
+          - text: "12 · Sull'attenzione"
+            href: it/diatribe/4-12.qmd
+          - text: "13 · A quelli che rivelano facilmente i fatti propri"
+            href: it/diatribe/4-13.qmd
+      - text: "Fonti e crediti"
+        href: it/credits.qmd
+    right:
+      - text: '[Italiano]{.ep-lang data-lang="it"}'
+        href: it/index.qmd
+      - text: '[English]{.ep-lang data-lang="en"}'
+        href: en/index.qmd
+      - text: '[Ἑλληνιστί]{.ep-lang data-lang="grc"}'
+        href: grc/index.qmd
+  sidebar:
+    - id: it
+      style: docked
+      collapse-level: 1
+      contents:
+        - text: '[Italiano]{.ep-lang data-lang="it"}'
+          href: it/index.qmd
+        - text: '[English]{.ep-lang data-lang="en"}'
+          href: en/index.qmd
+        - text: '[Ἑλληνιστί]{.ep-lang data-lang="grc"}'
+          href: grc/index.qmd
+        - text: "---"
+        - text: "Home"
+          href: it/index.qmd
+        - text: "Lettera di Arriano"
+          href: it/diatribe/0-00.qmd
+        - text: "---"
+        - section: "Libro I"
+          contents:
+            - text: "1 · Su ciò che dipende da noi e ciò che non dipende da noi"
+              href: it/diatribe/1-01.qmd
+            - text: "2 · Come mantenere in ogni circostanza ciò che si addice al proprio ruolo"
+              href: it/diatribe/1-02.qmd
+            - text: "3 · Come procedere dal principio che Dio è padre degli uomini alle conseguenze"
+              href: it/diatribe/1-03.qmd
+            - text: "4 · Sul progresso"
+              href: it/diatribe/1-04.qmd
+            - text: "5 · Contro gli Accademici"
+              href: it/diatribe/1-05.qmd
+            - text: "6 · Sulla Provvidenza"
+              href: it/diatribe/1-06.qmd
+            - text: "7 · Sull’uso degli argomenti mutevoli, ipotetici e simili"
+              href: it/diatribe/1-07.qmd
+            - text: "8 · Che le capacità non sono sicure per chi è privo di educazione"
+              href: it/diatribe/1-08.qmd
+            - text: "9 · Come procedere dalla nostra parentela con Dio alle conseguenze"
+              href: it/diatribe/1-09.qmd
+            - text: "10 · Contro quelli che si affannano per gli avanzamenti a Roma"
+              href: it/diatribe/1-10.qmd
+            - text: "11 · Sull'affetto familiare"
+              href: it/diatribe/1-11.qmd
+            - text: "12 · Sull'accettare di buon grado"
+              href: it/diatribe/1-12.qmd
+            - text: "13 · Come fare ogni cosa in modo gradito agli dèi"
+              href: it/diatribe/1-13.qmd
+            - text: "14 · Che la divinità veglia su tutti"
+              href: it/diatribe/1-14.qmd
+            - text: "15 · Che cosa promette la filosofia"
+              href: it/diatribe/1-15.qmd
+            - text: "16 · Sulla Provvidenza"
+              href: it/diatribe/1-16.qmd
+            - text: "17 · Che la logica è necessaria"
+              href: it/diatribe/1-17.qmd
+            - text: "18 · Che non bisogna adirarsi con chi sbaglia"
+              href: it/diatribe/1-18.qmd
+            - text: "19 · Come bisogna comportarsi verso i tiranni"
+              href: it/diatribe/1-19.qmd
+            - text: "20 · Sulla ragione e su come contempla se stessa"
+              href: it/diatribe/1-20.qmd
+            - text: "21 · Contro quelli che vogliono essere ammirati"
+              href: it/diatribe/1-21.qmd
+            - text: "22 · Sulle preconcezioni"
+              href: it/diatribe/1-22.qmd
+            - text: "23 · Contro Epicuro"
+              href: it/diatribe/1-23.qmd
+            - text: "24 · Come bisogna lottare contro le circostanze"
+              href: it/diatribe/1-24.qmd
+            - text: "25 · Sullo stesso argomento"
+              href: it/diatribe/1-25.qmd
+            - text: "26 · Qual è la legge della vita"
+              href: it/diatribe/1-26.qmd
+            - text: "27 · In quanti modi si presentano le rappresentazioni e quali aiuti bisogna preparare contro di esse"
+              href: it/diatribe/1-27.qmd
+            - text: "28 · Che non bisogna adirarsi con gli uomini e quali sono le cose piccole e grandi fra gli uomini"
+              href: it/diatribe/1-28.qmd
+            - text: "29 · Sulla fermezza"
+              href: it/diatribe/1-29.qmd
+            - text: "30 · Che cosa bisogna avere pronto nelle circostanze difficili"
+              href: it/diatribe/1-30.qmd
+        - section: "Libro II"
+          contents:
+            - text: "1 · Che la fiducia non è incompatibile con la cautela"
+              href: it/diatribe/2-01.qmd
+            - text: "2 · Sulla tranquillità"
+              href: it/diatribe/2-02.qmd
+            - text: "3 · A quelli che raccomandano qualcuno ai filosofi"
+              href: it/diatribe/2-03.qmd
+            - text: "4 · Contro uno che una volta era stato sorpreso in adulterio"
+              href: it/diatribe/2-04.qmd
+            - text: "5 · Come possono coesistere magnanimità e cura"
+              href: it/diatribe/2-05.qmd
+            - text: "6 · Sull’indifferenza"
+              href: it/diatribe/2-06.qmd
+            - text: "7 · Come si deve ricorrere alla divinazione"
+              href: it/diatribe/2-07.qmd
+            - text: "8 · Qual è l’essenza del bene"
+              href: it/diatribe/2-08.qmd
+            - text: "9 · Che, non riuscendo ad adempiere ciò che comporta essere uomo, assumiamo il ruolo del filosofo"
+              href: it/diatribe/2-09.qmd
+            - text: "10 · Come si possono ricavare i doveri dai nomi"
+              href: it/diatribe/2-10.qmd
+            - text: "11 · Qual è l’inizio della filosofia"
+              href: it/diatribe/2-11.qmd
+            - text: "12 · Sul discutere"
+              href: it/diatribe/2-12.qmd
+            - text: "13 · Sull’ansia"
+              href: it/diatribe/2-13.qmd
+            - text: "14 · A Nasone"
+              href: it/diatribe/2-14.qmd
+            - text: "15 · Contro quelli che persistono ostinatamente nelle proprie decisioni"
+              href: it/diatribe/2-15.qmd
+            - text: "16 · Che non ci esercitiamo a usare i giudizi sul bene e sul male"
+              href: it/diatribe/2-16.qmd
+            - text: "17 · Come applicare le preconcezioni ai casi particolari"
+              href: it/diatribe/2-17.qmd
+            - text: "18 · Come lottare contro le rappresentazioni"
+              href: it/diatribe/2-18.qmd
+            - text: "19 · Contro coloro che accolgono le dottrine dei filosofi soltanto a parole"
+              href: it/diatribe/2-19.qmd
+            - text: "20 · Contro gli Epicurei e gli Accademici"
+              href: it/diatribe/2-20.qmd
+            - text: "21 · Sull’incoerenza"
+              href: it/diatribe/2-21.qmd
+            - text: "22 · Sull’amicizia"
+              href: it/diatribe/2-22.qmd
+            - text: "23 · Sulla capacità di parlare"
+              href: it/diatribe/2-23.qmd
+            - text: "24 · A uno di quelli che egli non riteneva degni"
+              href: it/diatribe/2-24.qmd
+            - text: "25 · Perché la logica è necessaria"
+              href: it/diatribe/2-25.qmd
+            - text: "26 · Che cosa è proprio dell’errore"
+              href: it/diatribe/2-26.qmd
+        - section: "Libro III"
+          contents:
+            - text: "1 · Sull’ornamento personale"
+              href: it/diatribe/3-01.qmd
+            - text: "2 · In che cosa deve esercitarsi chi vuole progredire e che trascuriamo le cose più importanti"
+              href: it/diatribe/3-02.qmd
+            - text: "3 · Qual è la materia dell'uomo buono e in che cosa bisogna soprattutto esercitarsi"
+              href: it/diatribe/3-03.qmd
+            - text: "4 · A uno che parteggiò in modo sconveniente a teatro"
+              href: it/diatribe/3-04.qmd
+            - text: "5 · A quelli che tornano a casa a causa della malattia"
+              href: it/diatribe/3-05.qmd
+            - text: "6 · Alcune osservazioni sparse"
+              href: it/diatribe/3-06.qmd
+            - text: "7 · A un amministratore delle città libere, che era epicureo"
+              href: it/diatribe/3-07.qmd
+            - text: "8 · Come esercitarsi di fronte alle rappresentazioni"
+              href: it/diatribe/3-08.qmd
+            - text: "9 · A un retore che saliva a Roma per una causa"
+              href: it/diatribe/3-09.qmd
+            - text: "10 · Come bisogna sopportare le malattie"
+              href: it/diatribe/3-10.qmd
+            - text: "11 · Alcune osservazioni sparse"
+              href: it/diatribe/3-11.qmd
+            - text: "12 · Sull'esercizio"
+              href: it/diatribe/3-12.qmd
+            - text: "13 · Che cos'è la solitudine e chi è solo"
+              href: it/diatribe/3-13.qmd
+            - text: "14 · Alcune osservazioni sparse"
+              href: it/diatribe/3-14.qmd
+            - text: "15 · Che bisogna affrontare ogni cosa con circospezione"
+              href: it/diatribe/3-15.qmd
+            - text: "16 · Che bisogna entrare con cautela nella familiarità con gli altri"
+              href: it/diatribe/3-16.qmd
+            - text: "17 · Sulla provvidenza"
+              href: it/diatribe/3-17.qmd
+            - text: "18 · Che non bisogna turbarsi per le notizie"
+              href: it/diatribe/3-18.qmd
+            - text: "19 · Qual è l'atteggiamento dell'uomo comune e del filosofo"
+              href: it/diatribe/3-19.qmd
+            - text: "20 · Che si può trarre vantaggio da tutte le cose esterne"
+              href: it/diatribe/3-20.qmd
+            - text: "21 · Contro quelli che si accingono troppo facilmente a fare i sofisti"
+              href: it/diatribe/3-21.qmd
+            - text: "22 · Sul cinismo"
+              href: it/diatribe/3-22.qmd
+            - text: "23 · A quelli che leggono e discutono per ostentazione"
+              href: it/diatribe/3-23.qmd
+            - text: "24 · Che non bisogna attaccarsi alle cose che non dipendono da noi"
+              href: it/diatribe/3-24.qmd
+            - text: "25 · A quelli che abbandonano i propri propositi"
+              href: it/diatribe/3-25.qmd
+            - text: "26 · A quelli che temono di restare senza il necessario"
+              href: it/diatribe/3-26.qmd
+        - section: "Libro IV"
+          contents:
+            - text: "1 · Sulla libertà"
+              href: it/diatribe/4-01.qmd
+            - text: "2 · Sulla frequentazione"
+              href: it/diatribe/4-02.qmd
+            - text: "3 · Quali cose bisogna scambiare con quali altre"
+              href: it/diatribe/4-03.qmd
+            - text: "4 · A quelli che desiderano vivere in tranquillità"
+              href: it/diatribe/4-04.qmd
+            - text: "5 · Contro i litigiosi e feroci"
+              href: it/diatribe/4-05.qmd
+            - text: "6 · A quelli che si affliggono perché vengono compatiti"
+              href: it/diatribe/4-06.qmd
+            - text: "7 · Sulla libertà dalla paura"
+              href: it/diatribe/4-07.qmd
+            - text: "8 · Contro quelli che si affrettano ad assumere l'aspetto dei filosofi"
+              href: it/diatribe/4-08.qmd
+            - text: "9 · A uno che era passato alla spudoratezza"
+              href: it/diatribe/4-09.qmd
+            - text: "10 · Quali cose bisogna disprezzare e a quali dare importanza"
+              href: it/diatribe/4-10.qmd
+            - text: "11 · Sulla purezza"
+              href: it/diatribe/4-11.qmd
+            - text: "12 · Sull'attenzione"
+              href: it/diatribe/4-12.qmd
+            - text: "13 · A quelli che rivelano facilmente i fatti propri"
+              href: it/diatribe/4-13.qmd
+        - text: "---"
+        - text: "Fonti e crediti"
+          href: it/credits.qmd
+    - id: en
+      style: docked
+      collapse-level: 1
+      contents:
+        - text: '[Italiano]{.ep-lang data-lang="it"}'
+          href: it/index.qmd
+        - text: '[English]{.ep-lang data-lang="en"}'
+          href: en/index.qmd
+        - text: '[Ἑλληνιστί]{.ep-lang data-lang="grc"}'
+          href: grc/index.qmd
+        - text: "---"
+        - text: "Home"
+          href: en/index.qmd
+        - text: "Arrian’s letter"
+          href: en/diatribe/0-00.qmd
+        - text: "---"
+        - section: "Book I"
+          contents:
+            - text: "1 · Of the things which are in our power, and not in our power"
+              href: en/diatribe/1-01.qmd
+            - text: "2 · How a man on every occasion can maintain his proper character"
+              href: en/diatribe/1-02.qmd
+            - text: "3 · How a man should proceed from the principle of god being the father of all men to the rest"
+              href: en/diatribe/1-03.qmd
+            - text: "4 · Of progress or improvement"
+              href: en/diatribe/1-04.qmd
+            - text: "5 · Against the academics"
+              href: en/diatribe/1-05.qmd
+            - text: "6 · Of Providence"
+              href: en/diatribe/1-06.qmd
+            - text: "7 · Of the use of sophistical arguments and hypothetical and the like"
+              href: en/diatribe/1-07.qmd
+            - text: "8 · That the faculties are not safe to the uninstructed"
+              href: en/diatribe/1-08.qmd
+            - text: "9 · How from the fact that we are akin to God a man may proceed to the consequences"
+              href: en/diatribe/1-09.qmd
+            - text: "10 · Against those who eagerly seek preferment at Rome"
+              href: en/diatribe/1-10.qmd
+            - text: "11 · Of natural affection"
+              href: en/diatribe/1-11.qmd
+            - text: "12 · Of contentment"
+              href: en/diatribe/1-12.qmd
+            - text: "13 · How everything may be done acceptably to the gods"
+              href: en/diatribe/1-13.qmd
+            - text: "14 · That the deity oversees all things"
+              href: en/diatribe/1-14.qmd
+            - text: "15 · What philosophy promises"
+              href: en/diatribe/1-15.qmd
+            - text: "16 · Of Providence"
+              href: en/diatribe/1-16.qmd
+            - text: "17 · That the logical art is necessary"
+              href: en/diatribe/1-17.qmd
+            - text: "18 · That we ought not to be angry with the errors (faults) of others"
+              href: en/diatribe/1-18.qmd
+            - text: "19 · How we should behave to tyrants"
+              href: en/diatribe/1-19.qmd
+            - text: "20 · About reason, how it contemplates itself"
+              href: en/diatribe/1-20.qmd
+            - text: "21 · Against those who wish to be admired"
+              href: en/diatribe/1-21.qmd
+            - text: "22 · On praecognitions"
+              href: en/diatribe/1-22.qmd
+            - text: "23 · Against Epicurus"
+              href: en/diatribe/1-23.qmd
+            - text: "24 · How we should struggle with circumstances"
+              href: en/diatribe/1-24.qmd
+            - text: "25 · On the same"
+              href: en/diatribe/1-25.qmd
+            - text: "26 · What is the law of life"
+              href: en/diatribe/1-26.qmd
+            - text: "27 · In how many ways appearances exist, and what aids we should provide against them"
+              href: en/diatribe/1-27.qmd
+            - text: "28 · That we ought not to be angry with men; and what are the small and the great things among men"
+              href: en/diatribe/1-28.qmd
+            - text: "29 · On constancy (or firmness)"
+              href: en/diatribe/1-29.qmd
+            - text: "30 · What we ought to have ready in difficult circumstances"
+              href: en/diatribe/1-30.qmd
+        - section: "Book II"
+          contents:
+            - text: "1 · That confidence (courage) is not inconsistent with caution"
+              href: en/diatribe/2-01.qmd
+            - text: "2 · Of tranquillity (freedom from perturbation)"
+              href: en/diatribe/2-02.qmd
+            - text: "3 · To those who recommend persons to philosophers"
+              href: en/diatribe/2-03.qmd
+            - text: "4 · Against a person who had once been detected in adultery"
+              href: en/diatribe/2-04.qmd
+            - text: "5 · How magnanimity is consistent with care"
+              href: en/diatribe/2-05.qmd
+            - text: "6 · Of indifference"
+              href: en/diatribe/2-06.qmd
+            - text: "7 · How we ought to use divination"
+              href: en/diatribe/2-07.qmd
+            - text: "8 · What is the nature (ἡ οὐσία) of the Good"
+              href: en/diatribe/2-08.qmd
+            - text: "9 · That when we cannot fulfil that which the character of a man promises, we assume the character of a philosopher"
+              href: en/diatribe/2-09.qmd
+            - text: "10 · How we may discover the duties of life from names"
+              href: en/diatribe/2-10.qmd
+            - text: "11 · What the beginning of philosophy is"
+              href: en/diatribe/2-11.qmd
+            - text: "12 · Of disputation or discussion"
+              href: en/diatribe/2-12.qmd
+            - text: "13 · On anxiety (solicitude)"
+              href: en/diatribe/2-13.qmd
+            - text: "14 · To Naso"
+              href: en/diatribe/2-14.qmd
+            - text: "15 · To or against those who obstinately persist in what they have determined"
+              href: en/diatribe/2-15.qmd
+            - text: "16 · That we do not strive to use our opinions about good and evil"
+              href: en/diatribe/2-16.qmd
+            - text: "17 · How we must adapt preconceptions to particular cases"
+              href: en/diatribe/2-17.qmd
+            - text: "18 · How we should struggle against appearances"
+              href: en/diatribe/2-18.qmd
+            - text: "19 · Against those who embrace philosophical opinions only in words"
+              href: en/diatribe/2-19.qmd
+            - text: "20 · Against the Epicureans and Academics"
+              href: en/diatribe/2-20.qmd
+            - text: "21 · Of inconsistency"
+              href: en/diatribe/2-21.qmd
+            - text: "22 · On friendship"
+              href: en/diatribe/2-22.qmd
+            - text: "23 · On the power of speaking"
+              href: en/diatribe/2-23.qmd
+            - text: "24 · To (or against) a person who was one of those who were not valued (esteemed) by him"
+              href: en/diatribe/2-24.qmd
+            - text: "25 · That logic is necessary"
+              href: en/diatribe/2-25.qmd
+            - text: "26 · What is the property of error"
+              href: en/diatribe/2-26.qmd
+        - section: "Book III"
+          contents:
+            - text: "1 · Of finery in dress"
+              href: en/diatribe/3-01.qmd
+            - text: "2 · In what a man ought to be exercised who has made proficiency; and that we neglect the chief things"
+              href: en/diatribe/3-02.qmd
+            - text: "3 · What is the matter on which a good man should be employed, and in what we ought chiefly to practise ourselves"
+              href: en/diatribe/3-03.qmd
+            - text: "4 · Against a person who showed his partizanship in an unseemly way in a theatre"
+              href: en/diatribe/3-04.qmd
+            - text: "5 · Against those who on account of sickness go away home"
+              href: en/diatribe/3-05.qmd
+            - text: "6 · Miscellaneous"
+              href: en/diatribe/3-06.qmd
+            - text: "7 · To the administrator of the free cities who was an Epicurean"
+              href: en/diatribe/3-07.qmd
+            - text: "8 · How we must exercise ourselves against appearances (φαντασίας)"
+              href: en/diatribe/3-08.qmd
+            - text: "9 · To a certain rhetorician who was going up to Rome on a suit"
+              href: en/diatribe/3-09.qmd
+            - text: "10 · In what manner we ought to bear sickness"
+              href: en/diatribe/3-10.qmd
+            - text: "11 · Certain miscellaneous matters"
+              href: en/diatribe/3-11.qmd
+            - text: "12 · About exercise"
+              href: en/diatribe/3-12.qmd
+            - text: "13 · What solitude is, and what kind of person a solitary man is"
+              href: en/diatribe/3-13.qmd
+            - text: "14 · Certain miscellaneous matters"
+              href: en/diatribe/3-14.qmd
+            - text: "15 · That we ought to proceed with circumspection to every thing"
+              href: en/diatribe/3-15.qmd
+            - text: "16 · That we ought with caution to enter into familiar intercourse with men"
+              href: en/diatribe/3-16.qmd
+            - text: "17 · On Providence"
+              href: en/diatribe/3-17.qmd
+            - text: "18 · That we ought not to be disturbed by any news"
+              href: en/diatribe/3-18.qmd
+            - text: "19 · What is the condition of a common kind of man and of a philosopher"
+              href: en/diatribe/3-19.qmd
+            - text: "20 · That we can derive advantage from all external things"
+              href: en/diatribe/3-20.qmd
+            - text: "21 · Against those who readily come to the profession of sophists"
+              href: en/diatribe/3-21.qmd
+            - text: "22 · About Cynism"
+              href: en/diatribe/3-22.qmd
+            - text: "23 · To those who read and discuss for the sake of ostentation"
+              href: en/diatribe/3-23.qmd
+            - text: "24 · That we ought not to be moved by a desire of those things which are not in our power"
+              href: en/diatribe/3-24.qmd
+            - text: "25 · To those who fall off (desist) from their purpose"
+              href: en/diatribe/3-25.qmd
+            - text: "26 · To those who fear want"
+              href: en/diatribe/3-26.qmd
+        - section: "Book IV"
+          contents:
+            - text: "1 · About freedom"
+              href: en/diatribe/4-01.qmd
+            - text: "2 · On familiar intimacy"
+              href: en/diatribe/4-02.qmd
+            - text: "3 · What things we should exchange for other things"
+              href: en/diatribe/4-03.qmd
+            - text: "4 · To those who are desirous of passing life in tranquillity"
+              href: en/diatribe/4-04.qmd
+            - text: "5 · Against the quarrelsome and ferocious"
+              href: en/diatribe/4-05.qmd
+            - text: "6 · Against those who lament over being pitied"
+              href: en/diatribe/4-06.qmd
+            - text: "7 · On freedom from fear"
+              href: en/diatribe/4-07.qmd
+            - text: "8 · Against those who hastily rush into the use of the philosophic dress"
+              href: en/diatribe/4-08.qmd
+            - text: "9 · To a person who had been changed to a character of shamelessness"
+              href: en/diatribe/4-09.qmd
+            - text: "10 · What things we ought to despise, and what things we ought to value"
+              href: en/diatribe/4-10.qmd
+            - text: "11 · About purity (cleanliness)"
+              href: en/diatribe/4-11.qmd
+            - text: "12 · On attention"
+              href: en/diatribe/4-12.qmd
+            - text: "13 · Against or to those who readily tell their own affairs"
+              href: en/diatribe/4-13.qmd
+        - text: "---"
+        - text: "Sources and credits"
+          href: en/credits.qmd
+    - id: grc
+      style: docked
+      collapse-level: 1
+      contents:
+        - text: '[Italiano]{.ep-lang data-lang="it"}'
+          href: it/index.qmd
+        - text: '[English]{.ep-lang data-lang="en"}'
+          href: en/index.qmd
+        - text: '[Ἑλληνιστί]{.ep-lang data-lang="grc"}'
+          href: grc/index.qmd
+        - text: "---"
+        - text: "Ἀρχή"
+          href: grc/index.qmd
+        - text: "Ἀρριανοῦ ἐπιστολή"
+          href: grc/diatribe/0-00.qmd
+        - text: "---"
+        - section: "Βιβλίον Αʹ"
+          contents:
+            - text: "αʹ · περὶ τῶν ἐφʼ ἡμῖν καὶ οὐκ ἐφʼ ἡμῖν"
+              href: grc/diatribe/1-01.qmd
+            - text: "βʹ · πῶς ἄν τις σῴζοι τὸ κατὰ πρόσωπον ἐν παντί"
+              href: grc/diatribe/1-02.qmd
+            - text: "γʹ · πῶς ἄν τις ἀπὸ τοῦ τὸν θεὸν πατέρα εἶναι τῶν ἀνθρώπων ἐπὶ τὰ ἑξῆς ἐπέλθοι"
+              href: grc/diatribe/1-03.qmd
+            - text: "δʹ · περὶ προκοπῆς"
+              href: grc/diatribe/1-04.qmd
+            - text: "εʹ · πρὸς τοὺς Ἀκαδημαικούς"
+              href: grc/diatribe/1-05.qmd
+            - text: "ϛʹ · περὶ προνοίας"
+              href: grc/diatribe/1-06.qmd
+            - text: "ζʹ · περὶ τῆς χρείας τῶν μεταπιπτόντων καὶ ὑποθετικῶν καὶ τῶν ὁμοίων"
+              href: grc/diatribe/1-07.qmd
+            - text: "ηʹ · ὅτι αἱ δυνάμεις τοῖς ἀπαιδεύτοις οὐκ ἀσφαλεῖς"
+              href: grc/diatribe/1-08.qmd
+            - text: "θʹ · πῶς ἀπὸ τοῦ συγγενεῖς ἡμᾶς εἶναι τῷ θεῷ ἐπέλθοι ἄν τις ἐπὶ τὰ ἑξῆς"
+              href: grc/diatribe/1-09.qmd
+            - text: "ιʹ · πρὸς τοὺς περὶ τὰς ἐν Ῥώμῃ προαγωγὰς ἐσπουδακότας"
+              href: grc/diatribe/1-10.qmd
+            - text: "ιαʹ · περὶ φιλοστοργίας"
+              href: grc/diatribe/1-11.qmd
+            - text: "ιβʹ · περὶ εὐαρεστήσεως"
+              href: grc/diatribe/1-12.qmd
+            - text: "ιγʹ · πῶς ἕκαστα ἔστιν ποιεῖν ἀρεστῶς θεοῖς"
+              href: grc/diatribe/1-13.qmd
+            - text: "ιδʹ · ὅτι πάντας ἐφορᾷ τὸ θεῖον"
+              href: grc/diatribe/1-14.qmd
+            - text: "ιεʹ · τί ἐπαγγέλλεται φιλοσοφία"
+              href: grc/diatribe/1-15.qmd
+            - text: "ιϛʹ · περὶ προνοίας"
+              href: grc/diatribe/1-16.qmd
+            - text: "ιζʹ · ὅτι ἀναγκαῖα τὰ λογικά"
+              href: grc/diatribe/1-17.qmd
+            - text: "ιηʹ · ὅτι οὐ δεῖ χαλεπαίνειν τοῖς ἁμαρτανομένοις"
+              href: grc/diatribe/1-18.qmd
+            - text: "ιθʹ · πῶς ἔχειν δεῖ πρὸς τοὺς τυράννους"
+              href: grc/diatribe/1-19.qmd
+            - text: "κʹ · περὶ τοῦ λόγου πῶς αὑτοῦ θεωρητικός ἐστιν"
+              href: grc/diatribe/1-20.qmd
+            - text: "καʹ · πρὸς τοὺς θαυμάζεσθαι θέλοντας"
+              href: grc/diatribe/1-21.qmd
+            - text: "κβʹ · περὶ τῶν προλήψεων"
+              href: grc/diatribe/1-22.qmd
+            - text: "κγʹ · πρὸς Ἐπίκουρον"
+              href: grc/diatribe/1-23.qmd
+            - text: "κδʹ · πῶς πρὸς τὰς περιστάσεις ἀγωνιστέον"
+              href: grc/diatribe/1-24.qmd
+            - text: "κεʹ · πρὸς τὸ αὐτό"
+              href: grc/diatribe/1-25.qmd
+            - text: "κϛʹ · τίς ὁ βιωτικὸς νόμος"
+              href: grc/diatribe/1-26.qmd
+            - text: "κζʹ · ποσαχῶς αἱ φαντασίαι γίνονται καὶ τίνα πρόχειρα πρὸς αὐτὰς βοηθήματα παρασκευαστέον"
+              href: grc/diatribe/1-27.qmd
+            - text: "κηʹ · ὅτι οὐ δεῖ χαλεπαίνειν ἀνθρώποις καὶ τίνα τὰ μικρὰ καὶ μεγάλα ἐν ἀνθρώποις"
+              href: grc/diatribe/1-28.qmd
+            - text: "κθʹ · περὶ εὐσταθείας"
+              href: grc/diatribe/1-29.qmd
+            - text: "λʹ · τί δεῖ πρόχειρον ἔχειν ἐν ταῖς περιστάσεσιν"
+              href: grc/diatribe/1-30.qmd
+        - section: "Βιβλίον Βʹ"
+          contents:
+            - text: "αʹ · ὅτι οὐ μάχεται τὸ θαρρεῖν τῷ εὐλαβεῖσθαι"
+              href: grc/diatribe/2-01.qmd
+            - text: "βʹ · περὶ ἀταραξίας"
+              href: grc/diatribe/2-02.qmd
+            - text: "γʹ · πρὸς τοὺς συνιστάντας τινὰς τοῖς φιλοσόφοις"
+              href: grc/diatribe/2-03.qmd
+            - text: "δʹ · πρὸς τὸν ἐπὶ μοιχείᾳ ποτὲ κατειλημμένον"
+              href: grc/diatribe/2-04.qmd
+            - text: "εʹ · πῶς συνυπάρχει μεγαλοφροσύνη καὶ ἐπιμέλεια"
+              href: grc/diatribe/2-05.qmd
+            - text: "ϛʹ · περὶ ἀδιαφορίας"
+              href: grc/diatribe/2-06.qmd
+            - text: "ζʹ · πῶς μαντευτέον"
+              href: grc/diatribe/2-07.qmd
+            - text: "ηʹ · τίς οὐσία τοῦ ἀγαθοῦ"
+              href: grc/diatribe/2-08.qmd
+            - text: "θʹ · ὅτι οὐ δυνάμενοι τὴν ἀνθρώπου ἐπαγγελίαν πληρῶσαι τὴν φιλοσόφου προσλαμβάνομεν"
+              href: grc/diatribe/2-09.qmd
+            - text: "ιʹ · πῶς ἀπὸ τῶν ὀνομάτων τὰ καθήκοντα ἔστιν εὑρίσκειν"
+              href: grc/diatribe/2-10.qmd
+            - text: "ιαʹ · τίς ἀρχὴ φιλοσοφίας"
+              href: grc/diatribe/2-11.qmd
+            - text: "ιβʹ · περὶ τοῦ διαλέγεσθαι"
+              href: grc/diatribe/2-12.qmd
+            - text: "ιγʹ · περὶ τοῦ ἀγωνιᾶν"
+              href: grc/diatribe/2-13.qmd
+            - text: "ιδʹ · πρὸς Νάσωνα"
+              href: grc/diatribe/2-14.qmd
+            - text: "ιεʹ · πρὸς τοὺς σκληρῶς τισιν ὧν ἔκριναν ἐμμένοντας"
+              href: grc/diatribe/2-15.qmd
+            - text: "ιϛʹ · ὅτι οὐ μελετῶμεν χρῆσθαι τοῖς περὶ ἀγαθῶν καὶ κακῶν δόγμασιν"
+              href: grc/diatribe/2-16.qmd
+            - text: "ιζʹ · πῶς ἐφαρμοστέον τὰς προλήψεις τοῖς ἐπὶ μέρους"
+              href: grc/diatribe/2-17.qmd
+            - text: "ιηʹ · πῶς ἀγωνιστέον πρὸς τὰς φαντασίας"
+              href: grc/diatribe/2-18.qmd
+            - text: "ιθʹ · πρὸς τοὺς μέχρι λόγου μόνον ἀναλαμβάνοντας τὰ τῶν φιλοσόφων"
+              href: grc/diatribe/2-19.qmd
+            - text: "κʹ · πρὸς Ἐπικουρείους καὶ Ἀκαδημαικούς"
+              href: grc/diatribe/2-20.qmd
+            - text: "καʹ · περὶ ἀνομολογίας"
+              href: grc/diatribe/2-21.qmd
+            - text: "κβʹ · περὶ φιλίας"
+              href: grc/diatribe/2-22.qmd
+            - text: "κγʹ · περὶ τῆς τοῦ λέγειν δυνάμεως"
+              href: grc/diatribe/2-23.qmd
+            - text: "κδʹ · πρός τινα τῶν οὐκ ἠξιωμένων ὑπʼερ αὐτοῦ"
+              href: grc/diatribe/2-24.qmd
+            - text: "κεʹ · πῶς ἀναγκαῖα τὰ λογικά"
+              href: grc/diatribe/2-25.qmd
+            - text: "κϛʹ · τί τὸ ἴδιον τοῦ ἁμαρτήματος"
+              href: grc/diatribe/2-26.qmd
+        - section: "Βιβλίον Γʹ"
+          contents:
+            - text: "αʹ · περὶ καλλωπισμοῦ"
+              href: grc/diatribe/3-01.qmd
+            - text: "βʹ · περὶ τίνα ἀσκεῖσθαι δεῖ τὸν προκόψοντα καὶ ὅτι τῶν κυριωτάτων ἀμελοῦμεν"
+              href: grc/diatribe/3-02.qmd
+            - text: "γʹ · τίς ὕλη τοῦ ἀγαθοῦ καὶ πρὸς τί μάλιστʼ ἀσκητέον"
+              href: grc/diatribe/3-03.qmd
+            - text: "δʹ · πρὸς τὸν ἀκόσμως ἐν θεάτρῳ σπουδάσαντα"
+              href: grc/diatribe/3-04.qmd
+            - text: "εʹ · πρὸς τοὺς διὰ νόσον ἀπαλλαττομένους"
+              href: grc/diatribe/3-05.qmd
+            - text: "ϛʹ · σποράδην τινά"
+              href: grc/diatribe/3-06.qmd
+            - text: "ζʹ · πρὸς τὸν διορθωτὴν τῶν ἐλευθέρων πόλεων Ἐπικούρειον ὄντα"
+              href: grc/diatribe/3-07.qmd
+            - text: "ηʹ · πῶς πρὸς τὰς φαντασίας γυμναστέον"
+              href: grc/diatribe/3-08.qmd
+            - text: "θʹ · πρός τινα ῥήτορα ἀνιόντα εἰς Ῥώμην ἐπὶ δίκῃ"
+              href: grc/diatribe/3-09.qmd
+            - text: "ιʹ · πῶς φέρειν δεῖ τὰς νόσους"
+              href: grc/diatribe/3-10.qmd
+            - text: "ιαʹ · σποράδην τινά"
+              href: grc/diatribe/3-11.qmd
+            - text: "ιβʹ · περὶ ἀσκήσεως"
+              href: grc/diatribe/3-12.qmd
+            - text: "ιγʹ · τί ἐρημία καὶ ποῖος ἔρημος"
+              href: grc/diatribe/3-13.qmd
+            - text: "ιδʹ · σποράδην τινά"
+              href: grc/diatribe/3-14.qmd
+            - text: "ιεʹ · ὅτι δεῖ περιεσκεμμένως ἔρχεσθαι ἐφʼ ἕκαστα"
+              href: grc/diatribe/3-15.qmd
+            - text: "ιϛʹ · ὅτι εὐλαβῶς δεῖ συγκαθιέναι εἰς συμπεριφοράν"
+              href: grc/diatribe/3-16.qmd
+            - text: "ιζʹ · περὶ προνοίας"
+              href: grc/diatribe/3-17.qmd
+            - text: "ιηʹ · ὅτι οὐ δεῖ πρὸς τὰς ἀγγελίας ταράσσεσθαι"
+              href: grc/diatribe/3-18.qmd
+            - text: "ιθʹ · τίς στάσις ἰδιώτου καὶ φιλοσόφου"
+              href: grc/diatribe/3-19.qmd
+            - text: "κʹ · ὅτι ἀπὸ πάντων τῶν ἐκτὸς ἔστιν ὠφελεῖσθαι"
+              href: grc/diatribe/3-20.qmd
+            - text: "καʹ · πρὸς τοὺς εὐκόλως ἐπὶ τὸ σοφιστεύειν ἐρχομένους"
+              href: grc/diatribe/3-21.qmd
+            - text: "κβʹ · περὶ Κυνισμοῦ"
+              href: grc/diatribe/3-22.qmd
+            - text: "κγʹ · πρὸς τοὺς ἀναγιγνώσκοντας καὶ διαλεγομένους ἐπιδεικτικῶς"
+              href: grc/diatribe/3-23.qmd
+            - text: "κδʹ · περὶ τοῦ μὴ δεῖν προσπάσχειν τοῖς οὐκ ἐφʼ ἡμῖν"
+              href: grc/diatribe/3-24.qmd
+            - text: "κεʹ · πρὸς τοὺς ἀποπίπτοντας ὧν προέθεντο"
+              href: grc/diatribe/3-25.qmd
+            - text: "κϛʹ · πρὸς τοὺς τὴν ἀπορίαν δεδοικότας"
+              href: grc/diatribe/3-26.qmd
+        - section: "Βιβλίον Δʹ"
+          contents:
+            - text: "αʹ · περὶ ἐλευθερίας"
+              href: grc/diatribe/4-01.qmd
+            - text: "βʹ · περὶ συμπεριφορᾶς"
+              href: grc/diatribe/4-02.qmd
+            - text: "γʹ · τίνα τίνων ἀντικαταλλακτέον"
+              href: grc/diatribe/4-03.qmd
+            - text: "δʹ · πρὸς τοὺς περὶ τὸ ἐν ἡσυχίᾳ διάγειν ἐσπουδακότας"
+              href: grc/diatribe/4-04.qmd
+            - text: "εʹ · πρὸς τοὺς μαχίμους καὶ θηριώδεις"
+              href: grc/diatribe/4-05.qmd
+            - text: "ϛʹ · πρὸς τοὺς ἐπὶ τῷ ἐλεεῖσθαι ὀδυνωμένους"
+              href: grc/diatribe/4-06.qmd
+            - text: "ζʹ · περὶ ἀφοβίας"
+              href: grc/diatribe/4-07.qmd
+            - text: "ηʹ · πρὸς τοὺς ταχέως ἐπὶ τὸ σχῆμα τῶν φιλοσόφων ἐπιπηδῶντας"
+              href: grc/diatribe/4-08.qmd
+            - text: "θʹ · πρὸς τὸν εἰς ἀναισχυντίαν μεταβληθέντα"
+              href: grc/diatribe/4-09.qmd
+            - text: "ιʹ · τίνων δεῖ καταφρονεῖν καὶ πρὸς τίνα διαφέρεσθαι"
+              href: grc/diatribe/4-10.qmd
+            - text: "ιαʹ · περὶ καθαριότητος"
+              href: grc/diatribe/4-11.qmd
+            - text: "ιβʹ · περὶ προσοχῆς"
+              href: grc/diatribe/4-12.qmd
+            - text: "ιγʹ · πρὸς τοὺς εὐκόλως ἐκφέροντας τὰ αὑτῶν"
+              href: grc/diatribe/4-13.qmd
+        - text: "---"
+        - text: "Περὶ τῆς ἐκδόσεως"
+          href: grc/credits.qmd
+
+format:
+  html:
+    theme: cosmo
+    css: styles.css
+    include-in-header: site-head.html
+    include-after-body:
+      - lang-config.html
+      - lang-switch.html
+    toc: false
+    smooth-scroll: true
+    anchor-sections: false
+    link-external-newwindow: true
+    canonical-url: true

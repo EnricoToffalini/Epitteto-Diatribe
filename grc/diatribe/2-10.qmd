@@ -1,0 +1,61 @@
+---
+title: "Διατριβὴ Βʹ.ιʹ — πῶς ἀπὸ τῶν ὀνομάτων τὰ καθήκοντα ἔστιν εὑρίσκειν"
+lang: grc
+pagetitle: "Διατριβὴ Βʹ.ιʹ — πῶς ἀπὸ τῶν ὀνομάτων τὰ καθήκοντα ἔστιν εὑρίσκειν — Ἐπικτήτου Διατριβαί"
+title-prefix: ""
+description-meta: "Διατριβὴ Βʹ.ιʹ· «πῶς ἀπὸ τῶν ὀνομάτων τὰ καθήκοντα ἔστιν εὑρίσκειν». Ἀρριανοῦ τῶν Ἐπικτήτου Διατριβῶν, τὸ ἑλληνικὸν κείμενον."
+sidebar: grc
+---
+
+<!--
+FILE GENERATO. NON MODIFICARE A MANO.
+
+Modificare invece:
+- translation/it/**.md      per il testo e i titoli italiani
+- data/intro.json           per le note introduttive delle home page
+- tools/site_config.py      per lingue, testi dell'interfaccia, URL
+- styles.css                per l'aspetto grafico
+
+Poi eseguire:
+    run.bat
+-->
+
+
+<div class="diatribe-meta">Βιβλίον Βʹ · 30 τμήματα · <span class="canonical" title="Παραπομπή">II 10</span></div>
+
+<nav class="chapter-nav"><a href="2-09.html">ἡ προτέρα διατριβή</a><a class="chapter-home" href="../index.html">Ἀρχή</a><a href="2-11.html">ἡ ἑπομένη διατριβή</a></nav>
+
+<div class="section-list">
+<article class="section" id="s-1"><a class="ref" href="#s-1">1</a><div class="section-text" lang="grc">σκέψαι τίς εἶ. τὸ πρῶτον ἄνθρωπος, τοῦτο δʼ ἔστιν οὐδὲν ἔχων κυριώτερον προαιρέσεως, ἀλλὰ ταύτῃ τὰ ἄλλα ὑποτεταγμένα, αὐτὴν δʼ ἀδούλευτον καὶ ἀνυπότακτον.</div></article>
+<article class="section" id="s-2"><a class="ref" href="#s-2">2</a><div class="section-text" lang="grc">σκόπει οὖν, τίνων κεχώρισαι κατὰ λόγον. κεχώρισαι θηρίων, κεχώρισαι προβάτων.</div></article>
+<article class="section" id="s-3"><a class="ref" href="#s-3">3</a><div class="section-text" lang="grc">ἐπὶ τούτοις πολίτης εἶ τοῦ κόσμου καὶ μέρος αὐτοῦ, οὐχ ἓν τῶν ὑπηρετικῶν, ἀλλὰ τῶν προηγουμένων· παρακολουθητικὸς γὰρ εἶ τῇ θείᾳ διοικήσει καὶ τοῦ ἑξῆς ἐπιλογιστικός.</div></article>
+<article class="section" id="s-4"><a class="ref" href="#s-4">4</a><div class="section-text" lang="grc">τίς οὖν ἐπαγγελία πολίτου; μηδὲν ἔχειν ἰδίᾳ συμφέρον, περὶ μηδενὸς βουλεύεσθαι ὡς ἀπόλυτον, ἀλλʼ ὥσπερ ἄν, εἰ ἡ χεὶρ ἢ ὁ ποὺς λογισμὸν εἶχον καὶ παρηκολούθουν τῇ φυσικῇ κατασκευῇ, οὐδέποτʼ ἂν ἄλλως ὥρμησαν ἢ ὠρέχθησαν ἢ ἐπανενεγκόντες ἐπὶ τὸ ὅλον.</div></article>
+<article class="section" id="s-5"><a class="ref" href="#s-5">5</a><div class="section-text" lang="grc">διὰ τοῦτο καλῶς λέγουσιν οἱ φιλόσοφοι ὅτι εἰ προῄδει ὁ καλὸς καὶ ἀγαθὸς τὰ ἐσόμενα, συνήργει ἂν καὶ τῷ νοσεῖν καὶ τῷ ἀποθνῄσκειν καὶ τῷ πηροῦσθαι, αἰσθανόμενός γε, ὅτι ἀπὸ τῆς τῶν ὅλων διατάξεως τοῦτο ἀπονέμεται, κυριώτερον δὲ τὸ ὅλον τοῦ μέρους καὶ ἡ πόλις τοῦ πολίτου.</div></article>
+<article class="section" id="s-6"><a class="ref" href="#s-6">6</a><div class="section-text" lang="grc">νῦν δʼ ὅτι οὐ προγιγνώσκομεν, καθήκει τῶν πρὸς ἐκλογὴν εὐφυεστέρων ἔχεσθαι, ὅτι καὶ πρὸς τοῦτο γεγόναμεν.</div></article>
+<article class="section" id="s-7"><a class="ref" href="#s-7">7</a><div class="section-text" lang="grc">μετὰ τοῦτο μέμνησο, ὅτι υ ἱὸς εἶ. τίς τούτου τοῦ προσώπου ἐπαγγελία; πάντα τὰ αὑτοῦ ἡγεῖσθαι τοῦ πατρός, πάντα ὑπακούειν, μηδέποτε ψέξαι πρός τινα μηδὲ βλαβερόν τι αὐτῷ εἰπεῖν ἢ πρᾶξαι, ἐξίστασθαι ἐν πᾶσιν καὶ παραχωρεῖν συνεργοῦντα κατὰ δύναμιν. μετὰ τοῦτο ἴσθι ὅτι καὶ ἀδελφὸς εἶ.</div></article>
+<article class="section" id="s-8"><a class="ref" href="#s-8">8</a><div class="section-text" lang="grc">καὶ πρὸς τοῦτο δὲ τὸ πρόσωπον ὀφείλεται παραχώρησις, εὐπείθεια, εὐφημία, μηδέποτʼ ἀντιποιήσασθαί τινος πρὸς <span class="ed-del">[ἑ]</span>αὐτὸν τῶν ἀπροαιρέτων, ἀλλʼ ἡδέως ἐκεῖνα προίεσθαι, ἵνʼ ἐν τοῖς προαιρετικοῖς πλέον ἔχῃς.</div></article>
+<article class="section" id="s-9"><a class="ref" href="#s-9">9</a><div class="section-text" lang="grc">ὅρα γὰρ οἷόν ἐστιν ἀντὶ θίδρακος, ἂν οὕτως τύχῃ, καὶ καθέδρας αὐτὸν εὐγνωμοσύνην κτήσασθαι, ὅση ἡ πλεονεξία.</div></article>
+<article class="section" id="s-10"><a class="ref" href="#s-10">10</a><div class="section-text" lang="grc">μετὰ ταῦτα εἰ βουλευτὴς πόλεώς τινος, ὅτι βουλευτής· εἰ νέος, ὅτι νέος· εἰ πρεσβύτης, ὅτι πρεσβύτης· εἰ πατήρ, ὅτι πατήρ.</div></article>
+<article class="section" id="s-11"><a class="ref" href="#s-11">11</a><div class="section-text" lang="grc">ἀεὶ γὰρ ἕκαστον τῶν τοιούτων ὀνομάτων εἰς ἐπιλογισμὸν ἐρχόμενον ὑπογράφει τὰ οἰκεῖα ἔργα.</div></article>
+<article class="section" id="s-12"><a class="ref" href="#s-12">12</a><div class="section-text" lang="grc">ἐὰν δʼ ἀπελθὼν ψέγῃς σου τὸν ἀδελφόν, λέγω σοι <q>ἐπελάθου, τίς εἶ καὶ τί σοι ὄνομα.</q></div></article>
+<article class="section" id="s-13"><a class="ref" href="#s-13">13</a><div class="section-text" lang="grc">εἶτα εἰ μὲν χαλκεὺς ὢν ἐχρῶ τῇ σφύρᾳ ἄλλως, ἐπιλελησμένος ἂν ἦς τοῦ χαλκέως· εἰ δὲ τοῦ ἀδελφοῦ ἐπελάθου καὶ ἀντὶ ἀδελφοῦ ἐχθρὸς ἐγένου, οὐδὲν ἀντʼ οὐδενὸς ἠλλάχθαι φανεῖ σεαυτῷ;</div></article>
+<article class="section" id="s-14"><a class="ref" href="#s-14">14</a><div class="section-text" lang="grc">εἰ δʼ ἀντὶ ἀνθρώπου, ἡμέρου ζῴου καὶ κοινωνικοῦ, θηρίον γέγονας βλαβερόν, ἐπίβουλον, δηκτικόν, οὐδὲν ἀπολώλεκας; ἀλλὰ δεῖ σε κέρμα ἀπολέσαι, ἵνα ζημιωθῆς, ἄλλου δʼ οὐδενὸς ἀπώλεια ζημιοῖ τὸν ἄνθρωπον;</div></article>
+<article class="section" id="s-15"><a class="ref" href="#s-15">15</a><div class="section-text" lang="grc">εἶτα γραμματικὴν μὲν ἀποβαλὼν ἢ μουσικὴν ζημίαν ἂν ἡγοῦ τὴν ἀπώλειαν αὐτῆς· εἰ δʼ αἰδῶ καὶ καταστολὴν καὶ ἡμερότητα ἀποβαλεῖς, οὐδὲν ἡγῇ τὸ πρᾶγμα;</div></article>
+<article class="section" id="s-16"><a class="ref" href="#s-16">16</a><div class="section-text" lang="grc">καίτοι ἐκεῖνα μὲν παρʼ ἔξωθέν τινα καὶ ἀπροαίρετον αἰτίαν ἀπόλλυται, ταῦτα δὲ παρʼ ἡμᾶς· καὶ ἐκεῖνα μὲν οὔτʼ ἔχειν καλόν ἐστιν οὔτʼ ἀπολλύειν αἰσχρόν ἐστιν, ταῦτα δὲ καὶ μὴ ἔχειν καὶ ἀπολλύειν καὶ αἰσχρόν ἐστι καὶ ἐπονείδιστον καὶ ἀτύχημα. τί ἀπολλύει ὁ τὰ τοῦ κιναίδου πάσχων;</div></article>
+<article class="section" id="s-17"><a class="ref" href="#s-17">17</a><div class="section-text" lang="grc">τὸν ἄνδρα. ὁ δὲ διατιθείς; πολλὰ μὲν καὶ ἄλλα καὶ αὐτὸς δʼ οὐδὲν ἧττον τὸν ἄνδρα. τί ἀπολλύει ὁ μοιχεύων;</div></article>
+<article class="section" id="s-18"><a class="ref" href="#s-18">18</a><div class="section-text" lang="grc">τὸν αἰδήμονα, τὸν ἐγκρατῆ, τὸν κόσμιον, τὸν πολίτην, τὸν γείτονα. τί ἀπολλύει ὁ ὀργιζόμενος; ἄλλο τι. ὁ φοβούμενος;</div></article>
+<article class="section" id="s-19"><a class="ref" href="#s-19">19</a><div class="section-text" lang="grc">ἄλλο τι. οὐδεὶς δίχα ἀπωλείας καὶ ζημίας κακός ἐστιν. λοιπὸν εἰ τὴν ζημίαν ζητεῖς ἐν κέρματι, πάντες οὗτοι ἀβλαβεῖς, ἀζήμιοι, ἂν οὕτως τύχῃ, καὶ ὠφελούμενοι καὶ κερδαίνοντες, ὅταν διά τινος τούτων τῶν ἔργων κέρμα αὐτοῖς προσγένηται.</div></article>
+<article class="section" id="s-20"><a class="ref" href="#s-20">20</a><div class="section-text" lang="grc">ὅρα δʼ εἰ ἐπὶ κερμάτιον πάντα ἀνάγεις, ὅτι οὐδʼ ὁ τὴν ῥῖνά σοι ἀπολλύων ἔσται βεβλαμμένος. — ναί, φησίν, κεκολόβωται γὰρ τὸ σῶμα.</div></article>
+<article class="section" id="s-21"><a class="ref" href="#s-21">21</a><div class="section-text" lang="grc">— ἄγε, ὁ δὲ τὴν ὀσφρασίαν αὐτὴν ἀπολωλεκὼς οὐδὲν ἀπολλύει; ψυχῆς οὖν δύναμις οὐκ ἔστιν οὐδεμία, ἣν ὁ μὲν κτησάμενος ὠφελεῖται, ὁ δʼ ἀποβαλὼν ζημιοῦται;</div></article>
+<article class="section" id="s-22"><a class="ref" href="#s-22">22</a><div class="section-text" lang="grc">— ποίαν καὶ λέγεις; — οὐδὲν ἔχομεν αἰδῆμον φύσει; — ἔχομεν. — ὁ τοῦτο ἀπολλύων οὐ ζημιοῦται, οὐδενὸς στερίσκεται, οὐδὲν ἀποβάλλει τῶν πρὸς αὑτόν;</div></article>
+<article class="section" id="s-23"><a class="ref" href="#s-23">23</a><div class="section-text" lang="grc">οὐκ ἔχομεν φύσει τι πιστόν, φύσει στερκτικόν, φύσει ὠφελητικόν, ἀλλήλων φύσει ἀνεκτικόν; ὅστις οὖν εἰς ταῦτα περιορᾷ ζημιούμενον ἑαυτόν, οὗτος ᾖ ἀβλαβὴς καὶ ἀζήμιος;</div></article>
+<article class="section" id="s-24"><a class="ref" href="#s-24">24</a><div class="section-text" lang="grc">τί οὖν; μὴ βλάψω τὸν βλάψαντα; — πρῶτον μὲν ἰδού, τί ἐστι βλάβη καὶ μνήσθητι ὧν ἤκουσας παρὰ τῶν φιλοσόφων.</div></article>
+<article class="section" id="s-25"><a class="ref" href="#s-25">25</a><div class="section-text" lang="grc">εἰ γὰρ τὸ ἀγαθὸν ἐν προαιρέσει καὶ τὸ κακὸν ὡσαύτως ἐν προαιρέσει, βλέπε μὴ τοιοῦτʼ ἐστιν ὃ λέγεις <q>τί οὖν;</q></div></article>
+<article class="section" id="s-26"><a class="ref" href="#s-26">26</a><div class="section-text" lang="grc"><q>ἐπειδὴ ἐκεῖνος ἑαυτὸν ἔβλαψεν πρὸς ἐμέ τι ἄδικον ποιήσας, ἐγὼ ἐμαυτὸν μὴ βλάψω πρὸς ἐκεῖνον ἄδικόν τι ποιήσας;</q></div></article>
+<article class="section" id="s-27"><a class="ref" href="#s-27">27</a><div class="section-text" lang="grc">τί οὖν οὐ τοιοῦτόν τι φανταζόμεθα, ἀλλʼ ὅπου τι σωματικὸν ἐλάττωμα ἢ εἰς κτῆσιν, ἐκεῖ ἡ βλάβη, ὅπου εἰς τὴν προαίρεσιν, οὐδεμία βλάβη;</div></article>
+<article class="section" id="s-28"><a class="ref" href="#s-28">28</a><div class="section-text" lang="grc">οὔτε γὰρ τὴν κεφαλὴν ἀλγεῖ ὁ ἐξαπατηθεὶς ἢ ἀδικήσας οὔτε τὸν ὀφθαλμὸν οὔτε τὸ ἰσχίον οὔτε τὸν ἀγρὸν ἀπολλύει.</div></article>
+<article class="section" id="s-29"><a class="ref" href="#s-29">29</a><div class="section-text" lang="grc">ἡμεῖς δʼ ἄλλο οὐδὲν ἐθέλομεν ἢ ταῦτα· τὴν προαίρεσιν δὲ π<span class="ed-del">[ρ]</span>ότερον αἰδήμονα καὶ πιστὴν ἕξομεν ἢ ἀναίσχυντον καὶ ἄπιστον, οὐδʼ ἐγγὺς διαφερόμεθα πλὴν μόνον ἐν τῇ σχολῇ μέχρι τῶν λογαρίων.</div></article>
+<article class="section" id="s-30"><a class="ref" href="#s-30">30</a><div class="section-text" lang="grc">τοιγαροῦν μέχρι τῶν λογαρίων προκόπτομεν, ἔξω δʼ αὐτῶν οὐδὲ τὸ ἐλάχιστον.</div></article>
+</div>
+
+<nav class="chapter-nav chapter-nav-bottom"><a href="2-09.html">ἡ προτέρα διατριβή</a><a class="chapter-home" href="../index.html">Ἀρχή</a><a href="2-11.html">ἡ ἑπομένη διατριβή</a></nav>

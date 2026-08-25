@@ -1,0 +1,53 @@
+---
+title: "Διατριβὴ Βʹ.θʹ — ὅτι οὐ δυνάμενοι τὴν ἀνθρώπου ἐπαγγελίαν πληρῶσαι τὴν φιλοσόφου προσλαμβάνομεν"
+lang: grc
+pagetitle: "Διατριβὴ Βʹ.θʹ — ὅτι οὐ δυνάμενοι τὴν ἀνθρώπου ἐπαγγελίαν πληρῶσαι τὴν φιλοσόφου προσλαμβάνομεν — Ἐπικτήτου Διατριβαί"
+title-prefix: ""
+description-meta: "Διατριβὴ Βʹ.θʹ· «ὅτι οὐ δυνάμενοι τὴν ἀνθρώπου ἐπαγγελίαν πληρῶσαι τὴν φιλοσόφου προσλαμβάνομεν». Ἀρριανοῦ τῶν Ἐπικτήτου Διατριβῶν, τὸ ἑλληνικὸν κείμενον."
+sidebar: grc
+---
+
+<!--
+FILE GENERATO. NON MODIFICARE A MANO.
+
+Modificare invece:
+- translation/it/**.md      per il testo e i titoli italiani
+- data/intro.json           per le note introduttive delle home page
+- tools/site_config.py      per lingue, testi dell'interfaccia, URL
+- styles.css                per l'aspetto grafico
+
+Poi eseguire:
+    run.bat
+-->
+
+
+<div class="diatribe-meta">Βιβλίον Βʹ · 22 τμήματα · <span class="canonical" title="Παραπομπή">II 9</span></div>
+
+<nav class="chapter-nav"><a href="2-08.html">ἡ προτέρα διατριβή</a><a class="chapter-home" href="../index.html">Ἀρχή</a><a href="2-10.html">ἡ ἑπομένη διατριβή</a></nav>
+
+<div class="section-list">
+<article class="section" id="s-1"><a class="ref" href="#s-1">1</a><div class="section-text" lang="grc">οὐκ ἔστι τὸ τυχὸν αὐτὸ μόνον ἀνθρώπου ἐπαγγελίαν πληρῶσαι.</div></article>
+<article class="section" id="s-2"><a class="ref" href="#s-2">2</a><div class="section-text" lang="grc">τί γάρ ἐστιν ἄνθρωπος; — ζῷον, φησί, λογικὸν θνητόν. — εὐθὺς ἐν τῷ λογικῷ τίνων χωριζόμεθα; — τῶν θηρίων. — καὶ τίνων ἄλλων;</div></article>
+<article class="section" id="s-3"><a class="ref" href="#s-3">3</a><div class="section-text" lang="grc">— τῶν προβάτων καὶ τῶν ὁμοίων. — ὅρα οὖν μή τί πως ὡς θηρίον ποιήσῃς· εἰ δὲ μή, ἀπώλεσας τὸν ἄνθρωπον, οὐκ ἐπλήρωσας τὴν ἐπαγγελίαν. ὅρα μή τι ὡς πρόβατον· εἰ δὲ μή, καὶ οὕτως ἀπώλετο ὁ ἄνθρωπος.</div></article>
+<article class="section" id="s-4"><a class="ref" href="#s-4">4</a><div class="section-text" lang="grc">τίνα οὖν ποιοῦμεν ὡς πρόβατα; ὅταν τῆς γαστρὸς ἕνεκα, ὅταν τῶν αἰδοίων, ὅταν εἰκῇ, ὅταν ῥυπαρῶς, ὅταν ἀνεπιστρέπτως, ποῦ ἀπεκλίναμεν; ἐπὶ τὰ πρόβατα.</div></article>
+<article class="section" id="s-5"><a class="ref" href="#s-5">5</a><div class="section-text" lang="grc">τί ἀπωλέσαμεν; τὸ λογικόν. ὅταν μαχίμως καὶ βλαβερῶς καὶ θυμικῶς καὶ ὠστικῶς, ποῦ ἀπεκλίναμεν;</div></article>
+<article class="section" id="s-6"><a class="ref" href="#s-6">6</a><div class="section-text" lang="grc">ἐπὶ τὰ θηρία. λοιπὸν οἱ μὲν ἡμῶν μεγάλα θηρία εἰσίν, οἱ δὲ θηρίδια κακοήθη καὶ μικρά, ἀφʼ ὧν ἔστιν εἰπεῖν <q>λέων με καὶ φαγέτω.</q></div></article>
+<article class="section" id="s-7"><a class="ref" href="#s-7">7</a><div class="section-text" lang="grc">διὰ πάντων δὲ τούτων ἀπόλλυται ἡ τοῦ ἀνθρώπου ἐπαγγελία.</div></article>
+<article class="section" id="s-8"><a class="ref" href="#s-8">8</a><div class="section-text" lang="grc">πότε γὰρ σῴζεται συμπεπλεγμένον; ὅταν τὴν ἐπαγγελίαν πληρώσῃ, ὥστε σωτηρία συμπεπλεγμένου ἐστὶ τὸ ἐξ ἀληθῶν συμπεπλέχθαι. πότε διεζευγμένον; ὅταν τὴν ἐπαγγελίαν πληρώσῃ. πότε αὐλοί, πότε λύρα, πότε ἵππος, πότε κύων;</div></article>
+<article class="section" id="s-9"><a class="ref" href="#s-9">9</a><div class="section-text" lang="grc">τί οὖν θαυμαστόν, εἰ καὶ ἄνθρωπος ὡσαύτως μὲν σῴζεται, ὡσαύτως δʼ ἀπόλλυται;</div></article>
+<article class="section" id="s-10"><a class="ref" href="#s-10">10</a><div class="section-text" lang="grc">αὔξει δʼ ἕκαστον καὶ σῴζει τὰ κατάλληλα ἔργα· τὸν τέκτονα τὰ τεκτονικά, τὸν γραμματικὸν τὰ γραμματικά. ἂν δʼ ἐθίσῃ γράφειν ἀγραμμάτως, ἀνάγκη καταφθείρεσθαι καὶ ἀπόλλυσθαι τὴν τέχνην.</div></article>
+<article class="section" id="s-11"><a class="ref" href="#s-11">11</a><div class="section-text" lang="grc">οὕτως τὸν μὲν αἰδήμονα σῴζει τὰ αἰδήμονα ἔργα, ἀπολλύει δὲ τὰ ἀναιδῆ· τὸν δὲ πιστὸν τὰ πιστὰ καὶ τὰ ἐναντία ἀπολλύει.</div></article>
+<article class="section" id="s-12"><a class="ref" href="#s-12">12</a><div class="section-text" lang="grc">καὶ τοὺς ἐναντίους πάλιν ἐπαύξει τὰ ἐναντία· τὸν ἀναίσχυντον ἀναισχυντία, τὸν ἄπιστον ἀπιστία, τὸν λοίδορον λοιδορία, τὸν ὀργίλον ὀργή, τὸν φιλάργυρον αἱ ἀκατάλληλοι λήψεις καὶ δόσεις.</div></article>
+<article class="section" id="s-13"><a class="ref" href="#s-13">13</a><div class="section-text" lang="grc">διὰ τοῦτο παραγγέλλουσιν οἱ φιλόσοφοι μὴ ἀρκεῖσθαι μόνῳ τῷ μαθεῖν, ἀλλὰ καὶ μελέτην προσλαμβάνειν, εἶτα ἄσκησιν.</div></article>
+<article class="section" id="s-14"><a class="ref" href="#s-14">14</a><div class="section-text" lang="grc">πολλῷ γὰρ χρόνῳ τὰ ἐναντία ποιεῖν εἰθίσμεθα καὶ τὰς ὑπολήψεις τὰς ἐναντίας ταῖς ὀρθαῖς χρηστικὰς ἔχομεν. ἂν οὖν μὴ καὶ τὰς ὀρθὰς χρηστικὰς ποιήσωμεν, οὐδὲν ἄλλο ἢ ἐξηγηταὶ ἐσόμεθα ἀλλοτρίων δογμάτων.</div></article>
+<article class="section" id="s-15"><a class="ref" href="#s-15">15</a><div class="section-text" lang="grc">ἄρτι γὰρ τίς ἡμῶν οὐ δύναται τεχνολογῆσαι περὶ ἀγαθῶν καὶ κακῶν; ὅτι τῶν ὄντων τὰ μὲν ἀγαθά, τὰ δὲ κακά, τὰ δʼ ἀδιάφορα· ἀγαθὰ μὲν οὖν ἀρεταὶ καὶ τὰ μετέχοντα τῶν ἀρετῶν· κακὰ τὰ δʼ ἐναντία· ἀδιάφορα δὲ πλοῦτος, ὑγεία, δόξα.</div></article>
+<article class="section" id="s-16"><a class="ref" href="#s-16">16</a><div class="section-text" lang="grc">εἶτʼ ἂν μεταξὺ λεγόντων ἡμῶν ψόφος μείζων γένηται ἢ τῶν παρόντων τις καταγελάσῃ ἡμῶν, ἐξεπλάγημεν.</div></article>
+<article class="section" id="s-17"><a class="ref" href="#s-17">17</a><div class="section-text" lang="grc">ποῦ ἐστιν, φιλόσοφε, ἐκεῖνα ἃ ἔλεγες; πόθεν αὐτὰ προφερόμενος ἔλεγες; ἀπὸ τῶν χειλῶν αὐτόθεν. τί οὖν ἀλλότρια βοηθήματα μολύνεις; τί κυβεύεις περὶ τὰ μέγιστα;</div></article>
+<article class="section" id="s-18"><a class="ref" href="#s-18">18</a><div class="section-text" lang="grc">ἄλλο γάρ ἐστιν ὡς εἰς ταμιεῖον ἀποθέσθαι ἄρτους καὶ οἶνον, ἄλλο ἐστὶ φαγεῖν. τὸ βρωθὲν ἐπέφθη, ἀνεδόθη, νεῦρα ἐγένετο, σάρκες, ὀστέα, αἷμα, εὔχροια, εὔπνοια. τὰ ἀποκείμενα ὅταν μὲν θελήσῃς ἐκ προχείρου λαβὼν δεῖξαι δύνασαι, ἀπʼ αὐτῶν δέ σοι ὄφελος οὐδὲν εἰ μὴ μέχρι τοῦ δοκεῖν ὅτι ἔχεις. τί γὰρ διαφέρει ταῦτα ἐξηγεῖσθαι ἢ τὰ τῶν ἑτεροδόξων;</div></article>
+<article class="section" id="s-19"><a class="ref" href="#s-19">19</a><div class="section-text" lang="grc">τεχνολόγει νῦν καθίσας τὰ Ἐπικούρου καὶ τάχα ἐκείνου χρηστικώτερον τεχνολογήσεις. τί οὖν Στωικὸν λέγεις σεαυτόν, τί ἐξαπατᾷς τοὺς πολλούς, τί ὑποκρίνῃ Ἰουδαῖον ὢν Ἕλλην;</div></article>
+<article class="section" id="s-20"><a class="ref" href="#s-20">20</a><div class="section-text" lang="grc">οὐχ ὁρᾷς, πῶς ἕκαστος λέγεται Ἰουδαῖος, πῶς Σύρος, πῶς Αἰγύπτιος; καὶ ὅταν τινὰ ἐπαμφοτερίζοντα ἴδωμεν, εἰώθαμεν λέγειν <q>οὐκ ἔστιν Ἰουδαῖος, ἀλλʼ ὑποκρίνεται.</q> ὅταν δʼ ἀναλάβῃ τὸ πάθος τὸ τοῦ βεβαμμένου καὶ ᾑρημένου, τότε καὶ ἔστι τῷ ὄντι καὶ καλεῖται Ἰουδαῖος.</div></article>
+<article class="section" id="s-21"><a class="ref" href="#s-21">21</a><div class="section-text" lang="grc">οὕτως καὶ ἡμεῖς παραβαπτισταί, λόγῳ μὲν Ἰουδαῖοι, ἔργῳ δʼ ἄλλο τι, ἀσυμπαθεῖς πρὸς τὸν λόγον, μακρὰν ἀπὸ τοῦ χρῆσθαι τούτοις ἃ λέγομεν, ἐφʼ οἷς ὡς εἰδότες αὐτὰ ἐπαιρόμεθα.</div></article>
+<article class="section" id="s-22"><a class="ref" href="#s-22">22</a><div class="section-text" lang="grc">οὕτως οὐδὲ τὴν τοῦ ἀνθρώπου ἐπαγγελίαν πληρῶσαι δυνάμενοι προσλαμβάνομεν τὴν τοῦ φιλοσόφου, τηλικοῦτο φορτίον οἷον εἴ τις δέκα λίτρας ἆραι μὴ δυνάμενος τὸν τοῦ Αἴαντος λίθον βαστάζειν ἤθελεν.</div></article>
+</div>
+
+<nav class="chapter-nav chapter-nav-bottom"><a href="2-08.html">ἡ προτέρα διατριβή</a><a class="chapter-home" href="../index.html">Ἀρχή</a><a href="2-10.html">ἡ ἑπομένη διατριβή</a></nav>

@@ -1,0 +1,36 @@
+---
+title: "Diatriba I.13 — Come fare ogni cosa in modo gradito agli dèi"
+lang: it
+pagetitle: "Diatriba I.13 — Come fare ogni cosa in modo gradito agli dèi — Epitteto, Diatribe"
+title-prefix: ""
+description-meta: "Diatriba I.13: «Come fare ogni cosa in modo gradito agli dèi». Le Diatribe di Epitteto raccolte da Arriano, in traduzione italiana."
+sidebar: it
+---
+
+<!--
+FILE GENERATO. NON MODIFICARE A MANO.
+
+Modificare invece:
+- translation/it/**.md      per il testo e i titoli italiani
+- data/intro.json           per le note introduttive delle home page
+- tools/site_config.py      per lingue, testi dell'interfaccia, URL
+- styles.css                per l'aspetto grafico
+
+Poi eseguire:
+    run.bat
+-->
+
+
+<div class="diatribe-meta">Libro I · 5 sezioni · <span class="canonical" title="Riferimento canonico">I 13</span></div>
+
+<nav class="chapter-nav"><a href="1-12.html">Diatriba precedente</a><a class="chapter-home" href="../index.html">Home</a><a href="1-14.html">Diatriba successiva</a></nav>
+
+<div class="section-list">
+<article class="section" id="s-1"><a class="ref" href="#s-1">1</a><div class="section-text">A uno che gli chiedeva come fosse possibile mangiare in modo gradito agli dèi, disse: «Se si può mangiare con giustizia, con gratitudine, e inoltre con moderazione e decoro, non si può anche mangiare in modo gradito agli dèi?»</div></article>
+<article class="section" id="s-2"><a class="ref" href="#s-2">2</a><div class="section-text">E quando, dopo che hai chiesto dell’acqua calda, il servo non ti obbedisce, oppure ti obbedisce ma te la porta più tiepida, o addirittura non se ne trova in casa, non è forse gradito agli dèi non adirarsi e non scoppiare dalla rabbia?</div></article>
+<article class="section" id="s-3"><a class="ref" href="#s-3">3</a><div class="section-text">«E come si possono sopportare cose del genere?» Schiavo, non sopporterai tuo fratello, che ha Zeus per antenato e che, come un figlio, è nato dagli stessi semi e dalla stessa origine dall’alto?</div></article>
+<article class="section" id="s-4"><a class="ref" href="#s-4">4</a><div class="section-text">E se sei stato assegnato a una posizione che ti pone al di sopra degli altri, ti farai subito tiranno? Non ricorderai chi sei e su chi comandi? Su tuoi parenti, su fratelli per natura, su discendenti di Zeus.</div></article>
+<article class="section" id="s-5"><a class="ref" href="#s-5">5</a><div class="section-text">«Ma io li ho comprati, mentre loro non hanno comprato me.» Vedi dove rivolgi lo sguardo? Alla terra, all’abisso, a queste misere leggi dei morti; alle leggi degli dèi, invece, non guardi.</div></article>
+</div>
+
+<nav class="chapter-nav chapter-nav-bottom"><a href="1-12.html">Diatriba precedente</a><a class="chapter-home" href="../index.html">Home</a><a href="1-14.html">Diatriba successiva</a></nav>

@@ -1,0 +1,47 @@
+---
+title: "Diatriba I.8 — Che le capacità non sono sicure per chi è privo di educazione"
+lang: it
+pagetitle: "Diatriba I.8 — Che le capacità non sono sicure per chi è privo di educazione — Epitteto, Diatribe"
+title-prefix: ""
+description-meta: "Diatriba I.8: «Che le capacità non sono sicure per chi è privo di educazione». Le Diatribe di Epitteto raccolte da Arriano, in traduzione italiana."
+sidebar: it
+---
+
+<!--
+FILE GENERATO. NON MODIFICARE A MANO.
+
+Modificare invece:
+- translation/it/**.md      per il testo e i titoli italiani
+- data/intro.json           per le note introduttive delle home page
+- tools/site_config.py      per lingue, testi dell'interfaccia, URL
+- styles.css                per l'aspetto grafico
+
+Poi eseguire:
+    run.bat
+-->
+
+
+<div class="diatribe-meta">Libro I · 16 sezioni · <span class="canonical" title="Riferimento canonico">I 8</span></div>
+
+<nav class="chapter-nav"><a href="1-07.html">Diatriba precedente</a><a class="chapter-home" href="../index.html">Home</a><a href="1-09.html">Diatriba successiva</a></nav>
+
+<div class="section-list">
+<article class="section" id="s-1"><a class="ref" href="#s-1">1</a><div class="section-text">Per quanti modi è possibile trasformare espressioni equivalenti tra loro, per altrettanti modi il discorso consente di trasformare anche le forme degli argomenti e degli entimemi.</div></article>
+<article class="section" id="s-2"><a class="ref" href="#s-2">2</a><div class="section-text">Prendi, per esempio, questo caso: se hai preso a prestito e non hai restituito, mi devi il denaro; ma non è vero che hai preso a prestito e non hai restituito; dunque non mi devi il denaro.</div></article>
+<article class="section" id="s-3"><a class="ref" href="#s-3">3</a><div class="section-text">E a nessuno più che al filosofo conviene saper fare questo con competenza. Se infatti l’entimema è un sillogismo incompleto, è chiaro che chi si è esercitato nel sillogismo completo sarà non meno capace anche in quello incompleto.</div></article>
+<article class="section" id="s-4"><a class="ref" href="#s-4">4</a><div class="section-text">Perché dunque non esercitiamo noi stessi e gli altri in questo modo?</div></article>
+<article class="section" id="s-5"><a class="ref" href="#s-5">5</a><div class="section-text">Perché già ora, pur senza esercitarci in queste cose e senza essere distolti da me dalla cura del carattere, nondimeno non facciamo alcun progresso verso la virtù.</div></article>
+<article class="section" id="s-6"><a class="ref" href="#s-6">6</a><div class="section-text">Che cosa dovremmo dunque aspettarci, se aggiungessimo anche questa occupazione? Tanto più che non solo ne deriverebbe un impegno che ci distoglie dalle cose più necessarie, ma anche un’occasione non piccola di presunzione e vanità.</div></article>
+<article class="section" id="s-7"><a class="ref" href="#s-7">7</a><div class="section-text">Grande infatti è la forza della capacità argomentativa e persuasiva, soprattutto se riceve ulteriore esercizio e acquista anche una certa eleganza dal linguaggio.</div></article>
+<article class="section" id="s-8"><a class="ref" href="#s-8">8</a><div class="section-text">Perché, in generale, ogni capacità che si aggiunga a persone non educate e deboli è pericolosa: tende a farle insuperbire e gonfiare di sé.</div></article>
+<article class="section" id="s-9"><a class="ref" href="#s-9">9</a><div class="section-text">Con quale espediente si potrebbe ancora convincere un giovane che eccelle in queste cose che non deve diventare lui un’appendice di esse, ma deve farne un’appendice di sé?</div></article>
+<article class="section" id="s-10"><a class="ref" href="#s-10">10</a><div class="section-text">Non calpesta forse tutti questi discorsi, andando in giro davanti a noi esaltato e gonfio, senza sopportare che qualcuno lo tocchi per ricordargli che cosa ha trascurato e verso che cosa si è invece sviato?</div></article>
+<article class="section" id="s-11"><a class="ref" href="#s-11">11</a><div class="section-text">«E allora? Platone non era filosofo?» — «E Ippocrate non era medico? Ma guarda come si esprime Ippocrate. Forse Ippocrate si esprime così in quanto medico?»</div></article>
+<article class="section" id="s-12"><a class="ref" href="#s-12">12</a><div class="section-text">Perché dunque mescoli cose che si sono trovate riunite casualmente nelle stesse persone?</div></article>
+<article class="section" id="s-13"><a class="ref" href="#s-13">13</a><div class="section-text">E se Platone era bello e forte, dovrei forse mettermi a esercitarmi per diventare bello o forte, come se questo fosse necessario alla filosofia, perché un certo filosofo era insieme bello e filosofo?</div></article>
+<article class="section" id="s-14"><a class="ref" href="#s-14">14</a><div class="section-text">Non vuoi renderti conto e distinguere in virtù di che cosa gli uomini diventano filosofi e quali altre qualità possiedono per altra ragione? Su, se io fossi filosofo, dovreste forse diventare anche zoppi? E allora?</div></article>
+<article class="section" id="s-15"><a class="ref" href="#s-15">15</a><div class="section-text">Elimino forse queste capacità? Niente affatto; come non elimino neppure la facoltà visiva.</div></article>
+<article class="section" id="s-16"><a class="ref" href="#s-16">16</a><div class="section-text">Ma se mi chiedi che cosa sia il bene dell’uomo, non ho altro da dirti se non che consiste in una certa qualità della scelta morale.</div></article>
+</div>
+
+<nav class="chapter-nav chapter-nav-bottom"><a href="1-07.html">Diatriba precedente</a><a class="chapter-home" href="../index.html">Home</a><a href="1-09.html">Diatriba successiva</a></nav>

@@ -1,0 +1,44 @@
+---
+title: "Diatriba I.10 — Contro quelli che si affannano per gli avanzamenti a Roma"
+lang: it
+pagetitle: "Diatriba I.10 — Contro quelli che si affannano per gli avanzamenti a Roma — Epitteto, Diatribe"
+title-prefix: ""
+description-meta: "Diatriba I.10: «Contro quelli che si affannano per gli avanzamenti a Roma». Le Diatribe di Epitteto raccolte da Arriano, in traduzione italiana."
+sidebar: it
+---
+
+<!--
+FILE GENERATO. NON MODIFICARE A MANO.
+
+Modificare invece:
+- translation/it/**.md      per il testo e i titoli italiani
+- data/intro.json           per le note introduttive delle home page
+- tools/site_config.py      per lingue, testi dell'interfaccia, URL
+- styles.css                per l'aspetto grafico
+
+Poi eseguire:
+    run.bat
+-->
+
+
+<div class="diatribe-meta">Libro I · 13 sezioni · <span class="canonical" title="Riferimento canonico">I 10</span></div>
+
+<nav class="chapter-nav"><a href="1-09.html">Diatriba precedente</a><a class="chapter-home" href="../index.html">Home</a><a href="1-11.html">Diatriba successiva</a></nav>
+
+<div class="section-list">
+<article class="section" id="s-1"><a class="ref" href="#s-1">1</a><div class="section-text">Se ci dedicassimo al nostro compito con lo stesso ardore con cui i vecchi a Roma si dedicano alle cose di cui si sono presi cura, forse anche noi riusciremmo a combinare qualcosa.</div></article>
+<article class="section" id="s-2"><a class="ref" href="#s-2">2</a><div class="section-text">Conosco un uomo più anziano di me, che ora a Roma sovrintende alle forniture di grano. Quando, tornando dall’esilio, passò di qui, ricordo che cosa mi disse: criticava la sua vita passata e prometteva che, una volta tornato a Roma, non si sarebbe più occupato d’altro che di trascorrere in quiete e senza turbamento il resto della sua vita. «Quanto me ne resta ancora?»</div></article>
+<article class="section" id="s-3"><a class="ref" href="#s-3">3</a><div class="section-text">E io gli dicevo: «Non lo farai. Ti basterà sentire l’odore di Roma e ti dimenticherai di tutto questo; e se poi ti si aprirà anche un accesso al palazzo imperiale, ti ci precipiterai tutto contento e ringraziando Dio».</div></article>
+<article class="section" id="s-4"><a class="ref" href="#s-4">4</a><div class="section-text">«Se mi troverai, Epitteto», disse, «a mettere anche solo un piede nel palazzo, pensa pure di me quello che vuoi».</div></article>
+<article class="section" id="s-5"><a class="ref" href="#s-5">5</a><div class="section-text">E allora che cosa ha fatto? Prima ancora di arrivare a Roma, gli vennero incontro delle lettere di Cesare; appena le ricevette, si dimenticò di tutto quello che aveva detto, e da allora ha continuato ad accumulare un impegno sull’altro.</div></article>
+<article class="section" id="s-6"><a class="ref" href="#s-6">6</a><div class="section-text">Vorrei essergli accanto adesso, ricordargli le parole che diceva passando di qui e dirgli: «Quanto sono stato più bravo di te a fare il profeta!»</div></article>
+<article class="section" id="s-7"><a class="ref" href="#s-7">7</a><div class="section-text">E allora? Sto forse dicendo che l’uomo è un essere fatto per non agire? Niente affatto. Ma allora perché noi non siamo operosi?</div></article>
+<article class="section" id="s-8"><a class="ref" href="#s-8">8</a><div class="section-text">Io per primo, appena si fa giorno, mi ricordo per un momento che cosa devo ripassare con questo o con quello; poi subito dico a me stesso: «Ma che m’importa di come leggerà il tale? La prima cosa è che io dorma».</div></article>
+<article class="section" id="s-9"><a class="ref" href="#s-9">9</a><div class="section-text">Eppure, che cosa hanno in comune le loro faccende con le nostre? Se osservate bene che cosa fanno, ve ne renderete conto. Che altro fanno per tutta la giornata se non conti, discussioni e consultazioni su un po’ di grano, un pezzetto di terra e vantaggi del genere?</div></article>
+<article class="section" id="s-10"><a class="ref" href="#s-10">10</a><div class="section-text">È dunque la stessa cosa ricevere da qualcuno una supplica e leggervi: «Ti prego di permettermi di esportare del grano», oppure: «Ti prego di esaminare in Crisippo come è governato il mondo e quale posto vi occupa l’essere razionale; esamina anche chi sei tu e in che cosa consistono per te il bene e il male»?</div></article>
+<article class="section" id="s-11"><a class="ref" href="#s-11">11</a><div class="section-text">Queste cose sono forse simili a quelle? Richiedono forse lo stesso impegno? È forse ugualmente vergognoso trascurare le une e le altre?</div></article>
+<article class="section" id="s-12"><a class="ref" href="#s-12">12</a><div class="section-text">E allora? Siamo soltanto noi a essere pigri e assonnati? No: molto più di noi, voi giovani.</div></article>
+<article class="section" id="s-13"><a class="ref" href="#s-13">13</a><div class="section-text">Perché anche noi vecchi, quando vediamo i giovani giocare, ci sentiamo invogliati a giocare con loro; ma molto di più, se vi vedessi desti e pieni di zelo, mi sentirei anch’io invogliato a impegnarmi insieme con voi.</div></article>
+</div>
+
+<nav class="chapter-nav chapter-nav-bottom"><a href="1-09.html">Diatriba precedente</a><a class="chapter-home" href="../index.html">Home</a><a href="1-11.html">Diatriba successiva</a></nav>

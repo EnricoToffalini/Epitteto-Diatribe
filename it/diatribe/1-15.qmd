@@ -1,0 +1,39 @@
+---
+title: "Diatriba I.15 — Che cosa promette la filosofia"
+lang: it
+pagetitle: "Diatriba I.15 — Che cosa promette la filosofia — Epitteto, Diatribe"
+title-prefix: ""
+description-meta: "Diatriba I.15: «Che cosa promette la filosofia». Le Diatribe di Epitteto raccolte da Arriano, in traduzione italiana."
+sidebar: it
+---
+
+<!--
+FILE GENERATO. NON MODIFICARE A MANO.
+
+Modificare invece:
+- translation/it/**.md      per il testo e i titoli italiani
+- data/intro.json           per le note introduttive delle home page
+- tools/site_config.py      per lingue, testi dell'interfaccia, URL
+- styles.css                per l'aspetto grafico
+
+Poi eseguire:
+    run.bat
+-->
+
+
+<div class="diatribe-meta">Libro I · 8 sezioni · <span class="canonical" title="Riferimento canonico">I 15</span></div>
+
+<nav class="chapter-nav"><a href="1-14.html">Diatriba precedente</a><a class="chapter-home" href="../index.html">Home</a><a href="1-16.html">Diatriba successiva</a></nav>
+
+<div class="section-list">
+<article class="section" id="s-1"><a class="ref" href="#s-1">1</a><div class="section-text">Un tale gli chiedeva consiglio su come persuadere il fratello a non essere più adirato con lui.</div></article>
+<article class="section" id="s-2"><a class="ref" href="#s-2">2</a><div class="section-text">«La filosofia», disse, «non promette di procurare all’uomo alcuna cosa esterna; altrimenti si assumerebbe qualcosa che è fuori dalla materia che le è propria. Come infatti il legno è la materia del falegname e il bronzo quella dello scultore, così la materia dell’arte del vivere è la vita stessa di ciascuno.»</div></article>
+<article class="section" id="s-3"><a class="ref" href="#s-3">3</a><div class="section-text">«E quella di mio fratello?» «Appartiene, a sua volta, alla sua arte; rispetto alla tua, invece, è una cosa esterna, come un campo, come la salute, come la buona reputazione. Di nessuna di queste cose la filosofia fa promessa.»</div></article>
+<article class="section" id="s-4"><a class="ref" href="#s-4">4</a><div class="section-text">«In ogni circostanza manterrò la facoltà che governa la mente conforme a natura.» «Quella di chi?» «Di colui nel quale mi trovo», dice la filosofia.</div></article>
+<article class="section" id="s-5"><a class="ref" href="#s-5">5</a><div class="section-text">«Come fare allora perché lui non si adiri con me?» «Portamelo qui, e parlerò a lui; ma a te, sulla sua ira, non ho nulla da dire.»</div></article>
+<article class="section" id="s-6"><a class="ref" href="#s-6">6</a><div class="section-text">Ma quello che chiedeva consiglio disse: «È proprio questo che cerco: come potrei restare conforme a natura anche se lui non si riconciliasse con me?»</div></article>
+<article class="section" id="s-7"><a class="ref" href="#s-7">7</a><div class="section-text">«Nulla di grande», disse, «si compie all’improvviso, se nemmeno un grappolo d’uva o un fico lo fanno. Se ora mi dici: “Voglio un fico”, ti risponderò che ci vuole tempo. Lascia prima che fiorisca, poi che produca il frutto, poi che maturi.»</div></article>
+<article class="section" id="s-8"><a class="ref" href="#s-8">8</a><div class="section-text">E dunque, se il frutto di un fico non giunge a compimento all’improvviso e in un’ora, vuoi forse ottenere il frutto del giudizio di un uomo in così poco tempo e con tanta facilità? Non aspettartelo, neppure se te lo dicessi io.</div></article>
+</div>
+
+<nav class="chapter-nav chapter-nav-bottom"><a href="1-14.html">Diatriba precedente</a><a class="chapter-home" href="../index.html">Home</a><a href="1-16.html">Diatriba successiva</a></nav>

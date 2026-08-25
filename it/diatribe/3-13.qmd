@@ -1,0 +1,54 @@
+---
+title: "Diatriba III.13 — Che cos'è la solitudine e chi è solo"
+lang: it
+pagetitle: "Diatriba III.13 — Che cos'è la solitudine e chi è solo — Epitteto, Diatribe"
+title-prefix: ""
+description-meta: "Diatriba III.13: «Che cos'è la solitudine e chi è solo». Le Diatribe di Epitteto raccolte da Arriano, in traduzione italiana."
+sidebar: it
+---
+
+<!--
+FILE GENERATO. NON MODIFICARE A MANO.
+
+Modificare invece:
+- translation/it/**.md      per il testo e i titoli italiani
+- data/intro.json           per le note introduttive delle home page
+- tools/site_config.py      per lingue, testi dell'interfaccia, URL
+- styles.css                per l'aspetto grafico
+
+Poi eseguire:
+    run.bat
+-->
+
+
+<div class="diatribe-meta">Libro III · 23 sezioni · <span class="canonical" title="Riferimento canonico">III 13</span></div>
+
+<nav class="chapter-nav"><a href="3-12.html">Diatriba precedente</a><a class="chapter-home" href="../index.html">Home</a><a href="3-14.html">Diatriba successiva</a></nav>
+
+<div class="section-list">
+<article class="section" id="s-1"><a class="ref" href="#s-1">1</a><div class="section-text">La solitudine è una certa condizione di chi è privo di aiuto. Infatti chi è solo non per questo è subito anche abbandonato, come chi si trova in mezzo a molti non per questo non è solo.</div></article>
+<article class="section" id="s-2"><a class="ref" href="#s-2">2</a><div class="section-text">Quando dunque perdiamo un fratello, un figlio o un amico sul quale eravamo abituati a fare affidamento, diciamo di essere rimasti soli, spesso pur trovandoci a Roma, incontrando tanta folla e vivendo con tante persone, talvolta persino avendo una moltitudine di schiavi.</div></article>
+<article class="section" id="s-3"><a class="ref" href="#s-3">3</a><div class="section-text">Chi è solo, infatti, secondo il concetto stesso, dev’essere qualcuno privo di aiuto ed esposto a chi vuole danneggiarlo. Perciò, quando siamo in viaggio, diciamo di essere soli soprattutto quando cadiamo in mano ai briganti. Non è infatti la vista di un essere umano a liberarci dalla solitudine, ma quella di qualcuno che sia fidato, rispettoso e capace di aiutarci.</div></article>
+<article class="section" id="s-4"><a class="ref" href="#s-4">4</a><div class="section-text">Se infatti bastasse essere soli per essere abbandonati, di’ pure che anche Zeus, nella conflagrazione universale, è solo e piange su se stesso: «Povero me! Non ho né Era né Atena né Apollo, né, in generale, un fratello, un figlio, un nipote o un parente».</div></article>
+<article class="section" id="s-5"><a class="ref" href="#s-5">5</a><div class="section-text">Alcuni dicono appunto che, quando è solo nella conflagrazione, faccia questo. Non riescono infatti a concepire come si possa vivere da soli e partono da un dato naturale: dal fatto che siamo per natura socievoli, inclini all’affetto reciproco e lieti di stare con gli altri uomini.</div></article>
+<article class="section" id="s-6"><a class="ref" href="#s-6">6</a><div class="section-text">Ma non di meno bisogna prepararsi anche a questo: essere capaci di bastare a se stessi, essere capaci di stare in compagnia di se stessi.</div></article>
+<article class="section" id="s-7"><a class="ref" href="#s-7">7</a><div class="section-text">Come Zeus sta in compagnia di se stesso, riposa in se stesso, considera quale sia il proprio governo del mondo e si intrattiene in pensieri degni di sé, così anche noi dobbiamo essere capaci di parlare con noi stessi, di non aver bisogno degli altri, di non restare privi di un modo per trascorrere il tempo;</div></article>
+<article class="section" id="s-8"><a class="ref" href="#s-8">8</a><div class="section-text">riflettere sul governo divino e sul nostro rapporto con tutte le altre cose; osservare come ci comportavamo prima di fronte agli eventi e come ci comportiamo ora; quali cose ancora ci opprimono, come possano anch’esse essere curate, come eliminate; e, se alcune di queste richiedono di essere elaborate, elaborarle secondo la ragione che è loro propria.</div></article>
+<article class="section" id="s-9"><a class="ref" href="#s-9">9</a><div class="section-text">Vedete infatti che Cesare sembra procurarci una grande pace: non vi sono più guerre né battaglie, né grandi bande di briganti o di pirati, ma si può viaggiare a ogni ora e navigare da oriente a occidente.</div></article>
+<article class="section" id="s-10"><a class="ref" href="#s-10">10</a><div class="section-text">Ma può forse procurarci pace anche dalla febbre, dal naufragio, dall’incendio, dal terremoto o dal fulmine? E dall’amore? Non può. Dal dolore? Non può. Dall’invidia? Non può. In breve, da nessuna di queste cose.</div></article>
+<article class="section" id="s-11"><a class="ref" href="#s-11">11</a><div class="section-text">La ragione dei filosofi promette invece di procurarci pace anche da queste cose. E che cosa dice? «Uomini, se mi prestate attenzione, dovunque siate, qualunque cosa facciate, non vi affliggerete, non vi adirerete, non sarete costretti né impediti, ma vivrete liberi dalle passioni e liberi da tutto.»</div></article>
+<article class="section" id="s-12"><a class="ref" href="#s-12">12</a><div class="section-text">Chi possiede questa pace, proclamata non da Cesare — come potrebbe infatti proclamarla lui? — ma da Dio attraverso la ragione, non si accontenta forse, quando è solo, di guardare e pensare:</div></article>
+<article class="section" id="s-13"><a class="ref" href="#s-13">13</a><div class="section-text">«Ora non può accadermi alcun male; per me non esiste brigante, non esiste terremoto; tutto è pieno di pace, tutto di tranquillità. Ogni strada, ogni città, ogni riunione, ogni vicino, ogni compagno è innocuo. Uno mi procura il cibo, colui cui spetta; un altro il vestito; un altro mi ha dato i sensi; un altro le prenozioni.»</div></article>
+<article class="section" id="s-14"><a class="ref" href="#s-14">14</a><div class="section-text">E quando non procura più il necessario, dà il segnale del richiamo, apre la porta e ti dice: «Vieni». Dove? Verso nulla di terribile, ma là da dove sei venuto, verso ciò che ti è caro e affine, verso gli elementi.</div></article>
+<article class="section" id="s-15"><a class="ref" href="#s-15">15</a><div class="section-text">Quanto vi era in te di fuoco torna al fuoco, quanto di terra alla terra, quanto di soffio al soffio, quanto d’acqua all’acqua. Non c’è Ade, né Acheronte, né Cocito, né Piriflegetonte: tutto è pieno di dèi e di demoni.</div></article>
+<article class="section" id="s-16"><a class="ref" href="#s-16">16</a><div class="section-text">Chi può pensare queste cose e contempla il sole, la luna e le stelle e gode della terra e del mare non è solo, così come non è privo di aiuto.</div></article>
+<article class="section" id="s-17"><a class="ref" href="#s-17">17</a><div class="section-text">«E allora? Se qualcuno mi assale mentre sono solo e mi sgozza?» Sciocco, non sgozza te, ma il corpicino.</div></article>
+<article class="section" id="s-18"><a class="ref" href="#s-18">18</a><div class="section-text">Quale solitudine rimane dunque, quale mancanza di risorse? Perché ci rendiamo peggiori dei bambini? Quando vengono lasciati soli, che cosa fanno? Raccolgono cocci e cenere, costruiscono qualcosa, poi lo abbattono e ne costruiscono un’altra; e così non restano mai senza un modo per passare il tempo.</div></article>
+<article class="section" id="s-19"><a class="ref" href="#s-19">19</a><div class="section-text">Io dunque, se voi salpate, dovrò sedermi a piangere perché sono rimasto così solo e abbandonato? Non avrò cocci, non avrò cenere? Ma quelli fanno così per mancanza di ragione, e noi invece siamo infelici grazie alla ragione?</div></article>
+<article class="section" id="s-20"><a class="ref" href="#s-20">20</a><div class="section-text">Ogni grande capacità è pericolosa per chi comincia. Bisogna dunque affrontare cose simili secondo le proprie forze, ma secondo natura.</div></article>
+<article class="section" id="s-21"><a class="ref" href="#s-21">21</a><div class="section-text">… ma non per il tisico. Esercitati talvolta a vivere come un malato, per poter un giorno vivere come uno sano. Digiuna, bevi soltanto acqua; astieniti talvolta del tutto dal desiderio, per poter un giorno desiderare anche ragionevolmente. E se desidererai ragionevolmente, quando avrai in te qualcosa di buono, desidererai bene.</div></article>
+<article class="section" id="s-22"><a class="ref" href="#s-22">22</a><div class="section-text">No: vogliamo invece vivere subito come sapienti e giovare agli uomini. Quale giovamento? Che cosa fai? Hai già giovato a te stesso? Ma vuoi esortarli. Hai forse già esortato te stesso? Vuoi giovare a loro.</div></article>
+<article class="section" id="s-23"><a class="ref" href="#s-23">23</a><div class="section-text">Mostra loro, in te stesso, che cosa fa la filosofia, e non chiacchierare. Quando mangi, giova a chi mangia con te; quando bevi, a chi beve con te; cedendo a tutti, lasciando spazio, sopportando: così giova a loro, e non rovesciare addosso a loro il tuo catarro.</div></article>
+</div>
+
+<nav class="chapter-nav chapter-nav-bottom"><a href="3-12.html">Diatriba precedente</a><a class="chapter-home" href="../index.html">Home</a><a href="3-14.html">Diatriba successiva</a></nav>

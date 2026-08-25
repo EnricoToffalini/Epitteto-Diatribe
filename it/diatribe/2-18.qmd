@@ -1,0 +1,63 @@
+---
+title: "Diatriba II.18 — Come lottare contro le rappresentazioni"
+lang: it
+pagetitle: "Diatriba II.18 — Come lottare contro le rappresentazioni — Epitteto, Diatribe"
+title-prefix: ""
+description-meta: "Diatriba II.18: «Come lottare contro le rappresentazioni». Le Diatribe di Epitteto raccolte da Arriano, in traduzione italiana."
+sidebar: it
+---
+
+<!--
+FILE GENERATO. NON MODIFICARE A MANO.
+
+Modificare invece:
+- translation/it/**.md      per il testo e i titoli italiani
+- data/intro.json           per le note introduttive delle home page
+- tools/site_config.py      per lingue, testi dell'interfaccia, URL
+- styles.css                per l'aspetto grafico
+
+Poi eseguire:
+    run.bat
+-->
+
+
+<div class="diatribe-meta">Libro II · 32 sezioni · <span class="canonical" title="Riferimento canonico">II 18</span></div>
+
+<nav class="chapter-nav"><a href="2-17.html">Diatriba precedente</a><a class="chapter-home" href="../index.html">Home</a><a href="2-19.html">Diatriba successiva</a></nav>
+
+<div class="section-list">
+<article class="section" id="s-1"><a class="ref" href="#s-1">1</a><div class="section-text">Ogni abitudine e ogni capacità si conserva e cresce mediante gli atti che le sono propri: la capacità di camminare camminando, quella di correre correndo.</div></article>
+<article class="section" id="s-2"><a class="ref" href="#s-2">2</a><div class="section-text">Se vuoi diventare capace di leggere, leggi; se vuoi diventare capace di scrivere, scrivi. Ma se per trenta giorni di seguito non leggi e fai qualcos’altro, vedrai che cosa accade.</div></article>
+<article class="section" id="s-3"><a class="ref" href="#s-3">3</a><div class="section-text">Allo stesso modo, se resti sdraiato per dieci giorni, quando ti alzi prova a fare una lunga camminata e vedrai come ti cedono le gambe.</div></article>
+<article class="section" id="s-4"><a class="ref" href="#s-4">4</a><div class="section-text">In generale, dunque, se vuoi fare qualcosa, fanne un’abitudine; se vuoi non farla, non farla, ma abituati piuttosto a fare qualcos’altro al suo posto.</div></article>
+<article class="section" id="s-5"><a class="ref" href="#s-5">5</a><div class="section-text">Lo stesso vale per le cose dell’anima: quando ti adiri, sappi che non soltanto ti è accaduto questo male, ma hai anche rafforzato l’abitudine e, come su un fuoco, vi hai gettato delle fascine.</div></article>
+<article class="section" id="s-6"><a class="ref" href="#s-6">6</a><div class="section-text">Quando sei vinto in un rapporto sessuale con qualcuno, non considerare soltanto questa singola sconfitta, ma anche il fatto che hai nutrito e accresciuto la tua incontinenza.</div></article>
+<article class="section" id="s-7"><a class="ref" href="#s-7">7</a><div class="section-text">È infatti impossibile che, dagli atti corrispondenti, abitudini e capacità non si formino, alcune quando prima non esistevano, e altre non si intensifichino e si rafforzino.</div></article>
+<article class="section" id="s-8"><a class="ref" href="#s-8">8</a><div class="section-text">È così, appunto, che secondo i filosofi insorgono anche le malattie dell’anima. Quando infatti hai desiderato una volta il denaro, se interviene un ragionamento capace di farti prendere coscienza del male, il desiderio cessa e la nostra facoltà direttiva ritorna alla condizione originaria;</div></article>
+<article class="section" id="s-9"><a class="ref" href="#s-9">9</a><div class="section-text">ma se non applichi alcun rimedio, non ritorna più alla stessa condizione: quando viene di nuovo eccitata dalla rappresentazione corrispondente, si infiamma verso il desiderio più rapidamente di prima. E, se questo accade di continuo, alla fine si forma un callo e la malattia consolida l’avidità di denaro.</div></article>
+<article class="section" id="s-10"><a class="ref" href="#s-10">10</a><div class="section-text">Chi ha avuto la febbre e poi ne è guarito non si trova infatti nella stessa condizione in cui era prima di averla, se non viene curato completamente.</div></article>
+<article class="section" id="s-11"><a class="ref" href="#s-11">11</a><div class="section-text">Qualcosa di simile accade anche con le passioni dell’anima. In essa restano certe tracce e lividi; se non vengono cancellati bene, quando si è di nuovo frustati negli stessi punti non si producono più lividi, ma piaghe.</div></article>
+<article class="section" id="s-12"><a class="ref" href="#s-12">12</a><div class="section-text">Se dunque vuoi non essere iracondo, non nutrire la tua abitudine, non gettarle nulla che possa farla crescere. Dapprima resta tranquillo e conta i giorni in cui non ti sei adirato.</div></article>
+<article class="section" id="s-13"><a class="ref" href="#s-13">13</a><div class="section-text">«Ero solito adirarmi ogni giorno; ora un giorno sì e uno no, poi ogni due giorni, poi ogni tre.» E se ne lasci passare anche trenta, offri un sacrificio a Dio. L’abitudine infatti dapprima si indebolisce, poi viene del tutto eliminata.</div></article>
+<article class="section" id="s-14"><a class="ref" href="#s-14">14</a><div class="section-text">«Oggi non mi sono afflitto, né il giorno seguente, né poi per due o tre mesi; e quando sono accadute cose capaci di provocarmi, sono rimasto attento.» Sappi che te la stai cavando bene.</div></article>
+<article class="section" id="s-15"><a class="ref" href="#s-15">15</a><div class="section-text">«Oggi, vedendo un bel giovane o una bella donna, non mi sono detto: “Magari si potesse andare a letto con lei”, né: “Beato suo marito”.» Perché chi dice questo dice anche: «Beato anche l’adultero»;</div></article>
+<article class="section" id="s-16"><a class="ref" href="#s-16">16</a><div class="section-text">e neppure mi dipingo ciò che segue: lei presente, che si spoglia e si sdraia accanto a me.</div></article>
+<article class="section" id="s-17"><a class="ref" href="#s-17">17</a><div class="section-text">Mi accarezzo la testa e dico: «Bravo, Epitteto: hai risolto un bel piccolo sofisma, molto più raffinato dell’argomento Dominatore.»</div></article>
+<article class="section" id="s-18"><a class="ref" href="#s-18">18</a><div class="section-text">E se poi la donna stessa lo vuole, mi fa cenno, mi manda messaggi, mi tocca e mi si avvicina, e io mi astengo e vinco, questo sofisma supera già il Mentitore e il Quiescente. Di questo sì che vale la pena andare fieri, non del saper proporre l’argomento Dominatore.</div></article>
+<article class="section" id="s-19"><a class="ref" href="#s-19">19</a><div class="section-text">Come si può riuscirci, dunque? Comincia finalmente a voler piacere a te stesso, a voler apparire bello a Dio; desidera essere puro, in compagnia di te stesso puro e di Dio.</div></article>
+<article class="section" id="s-20"><a class="ref" href="#s-20">20</a><div class="section-text">Poi, quando ti si presenta una rappresentazione del genere, Platone dice: va’ alle purificazioni, va’ supplice ai templi degli dèi che allontanano il male;</div></article>
+<article class="section" id="s-21"><a class="ref" href="#s-21">21</a><div class="section-text">ma basta anche che tu ti ritiri nella compagnia di uomini nobili e buoni e rimanga presso di loro confrontandoti con loro, che tu ne abbia davanti uno vivo oppure morto.</div></article>
+<article class="section" id="s-22"><a class="ref" href="#s-22">22</a><div class="section-text">Va’ da Socrate e guardalo sdraiato accanto ad Alcibiade, mentre si prende gioco della sua bellezza. Pensa a quale vittoria egli seppe di aver riportato su se stesso, a quali Olimpiadi, a quale posto dopo Eracle; tanto che, per gli dèi, si potrebbe a buon diritto salutarlo: «Salve, uomo straordinario!» — non questi pugili e pancraziasti marci, né quelli simili a loro, i gladiatori.</div></article>
+<article class="section" id="s-23"><a class="ref" href="#s-23">23</a><div class="section-text">Ponendo queste cose di fronte alla rappresentazione, la vincerai e non sarai trascinato da essa.</div></article>
+<article class="section" id="s-24"><a class="ref" href="#s-24">24</a><div class="section-text">Ma anzitutto non lasciarti travolgere dalla sua rapidità: di’ invece: «Aspettami un poco, rappresentazione; lascia che veda chi sei e di che cosa ti occupi, lascia che ti metta alla prova.»</div></article>
+<article class="section" id="s-25"><a class="ref" href="#s-25">25</a><div class="section-text">E poi non permetterle di procedere dipingendoti ciò che viene dopo. Altrimenti ti porta via con sé dove vuole. Introduci piuttosto, in opposizione, un’altra rappresentazione bella e nobile e scaccia questa sudicia.</div></article>
+<article class="section" id="s-26"><a class="ref" href="#s-26">26</a><div class="section-text">E se ti abitui a esercitarti così, vedrai che spalle ti vengono, che nervi, che vigore. Ora, invece, soltanto piccoli ragionamenti e niente di più.</div></article>
+<article class="section" id="s-27"><a class="ref" href="#s-27">27</a><div class="section-text">Questo è il vero atleta: chi si esercita contro rappresentazioni di questo genere.</div></article>
+<article class="section" id="s-28"><a class="ref" href="#s-28">28</a><div class="section-text">Resisti, disgraziato, non lasciarti trascinare. Grande è la lotta, divina l’impresa: è per la sovranità, per la libertà, per la serenità, per l’imperturbabilità.</div></article>
+<article class="section" id="s-29"><a class="ref" href="#s-29">29</a><div class="section-text">Ricordati di Dio; invocalo come aiuto e sostegno, come i naviganti invocano i Dioscuri durante una tempesta. Quale tempesta, infatti, è più grande di quella prodotta da rappresentazioni potenti e capaci di scacciare la ragione? E la tempesta stessa che cos’è, se non una rappresentazione?</div></article>
+<article class="section" id="s-30"><a class="ref" href="#s-30">30</a><div class="section-text">Togli infatti la paura della morte e fa’ pure venire quanti tuoni e fulmini vuoi: vedrai quanta calma e quanta serenità vi sono nella facoltà direttiva.</div></article>
+<article class="section" id="s-31"><a class="ref" href="#s-31">31</a><div class="section-text">Ma se, sconfitto una volta, dici che vincerai in seguito, e poi fai di nuovo lo stesso, sappi che finirai per trovarti in una condizione tanto cattiva e debole da non accorgerti neppure più di sbagliare e da cominciare anzi a procurarti giustificazioni per ciò che fai;</div></article>
+<article class="section" id="s-32"><a class="ref" href="#s-32">32</a><div class="section-text">e allora confermerai che è vero il detto di Esiodo: «Chi rimanda sempre si dibatte nelle sciagure.»</div></article>
+</div>
+
+<nav class="chapter-nav chapter-nav-bottom"><a href="2-17.html">Diatriba precedente</a><a class="chapter-home" href="../index.html">Home</a><a href="2-19.html">Diatriba successiva</a></nav>

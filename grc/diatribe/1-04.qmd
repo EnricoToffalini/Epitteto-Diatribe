@@ -1,0 +1,63 @@
+---
+title: "Διατριβὴ Αʹ.δʹ — περὶ προκοπῆς"
+lang: grc
+pagetitle: "Διατριβὴ Αʹ.δʹ — περὶ προκοπῆς — Ἐπικτήτου Διατριβαί"
+title-prefix: ""
+description-meta: "Διατριβὴ Αʹ.δʹ· «περὶ προκοπῆς». Ἀρριανοῦ τῶν Ἐπικτήτου Διατριβῶν, τὸ ἑλληνικὸν κείμενον."
+sidebar: grc
+---
+
+<!--
+FILE GENERATO. NON MODIFICARE A MANO.
+
+Modificare invece:
+- translation/it/**.md      per il testo e i titoli italiani
+- data/intro.json           per le note introduttive delle home page
+- tools/site_config.py      per lingue, testi dell'interfaccia, URL
+- styles.css                per l'aspetto grafico
+
+Poi eseguire:
+    run.bat
+-->
+
+
+<div class="diatribe-meta">Βιβλίον Αʹ · 32 τμήματα · <span class="canonical" title="Παραπομπή">I 4</span></div>
+
+<nav class="chapter-nav"><a href="1-03.html">ἡ προτέρα διατριβή</a><a class="chapter-home" href="../index.html">Ἀρχή</a><a href="1-05.html">ἡ ἑπομένη διατριβή</a></nav>
+
+<div class="section-list">
+<article class="section" id="s-1"><a class="ref" href="#s-1">1</a><div class="section-text" lang="grc">ὁ προκόπτων μεμαθηκὼς παρὰ τῶν φιλοσόφων ὅτι ἡ μὲν ὄρεξις ἀγαθῶν ἐστιν, ἡ δʼ ἔκκλισις πρὸς κακά, μεμαθηκὼς δὲ καὶ ὅτι οὐκ ἄλλως τὸ εὔρουν καὶ ἀπαθὲς περιγίνεται τῷ ἀνθρώπῳ ἢ ἐν ὀρέξει μὲν μὴ ἀποτυγχάνοντι, ἐν ἐκκλίσει <span class="ed-add">&lang;δὲ&rang;</span> μὴ περιπίπτοντι, τὴν μὲν ὄρεξιν ἦρκεν ἐξ αὑτοῦ εἰσάπαν καὶ ὑπερτέθειται, τῇ ἐκκλίσει δὲ πρὸς μόνα χρῆται τὰ προαιρετικά.</div></article>
+<article class="section" id="s-2"><a class="ref" href="#s-2">2</a><div class="section-text" lang="grc">τῶν γὰρ ἀπροαιρέτων ἄν τι ἐκκλίνῃ, οἶδεν ὅτι περιπεσεῖταί ποτέ τινι παρὰ τὴν ἔκκλισιν τὴν αὑτοῦ καὶ δυστυχήσει.</div></article>
+<article class="section" id="s-3"><a class="ref" href="#s-3">3</a><div class="section-text" lang="grc">εἰ δʼ ἡ ἀρετὴ ταύτην ἔχει τὴν ἐπαγγελίαν εὐδαιμονίαν ποιῆσαι καὶ ἀπάθειαν καὶ εὔροιαν, πάντως καὶ ἡ προκοπὴ <span class="ed-add">&lang;ἡ&rang;</span> πρὸς αὐτὴν πρὸς ἕκαστον τούτων ἐστὶ προκοπή.</div></article>
+<article class="section" id="s-4"><a class="ref" href="#s-4">4</a><div class="section-text" lang="grc">ἀεὶ γὰρ πρὸς ὃ ἂν ἡ τελειότης τινὸς καθάπαξ ἄγῃ, πρὸς αὐτὸ ἡ προκοπὴ συνεγγισμός ἐστιν.</div></article>
+<article class="section" id="s-5"><a class="ref" href="#s-5">5</a><div class="section-text" lang="grc">πῶς οὖν τὴν μὲν ἀρετὴν τοιοῦτόν τι ὁμολογοῦμεν, τὴν προκοπὴν δʼ ἐν ἄλλοις ζητοῦμεν καὶ ἐπιδείκνυμεν; τί ἔργον ἀρετῆς;</div></article>
+<article class="section" id="s-6"><a class="ref" href="#s-6">6</a><div class="section-text" lang="grc">εὔροια. τίς οὖν προκόπτει; ὁ πολλὰς Χρυσίππου συντάξεις ἀνεγνωκώς;</div></article>
+<article class="section" id="s-7"><a class="ref" href="#s-7">7</a><div class="section-text" lang="grc">μὴ γὰρ ἡ ἀρετὴ τοῦτʼ ἔστι Χρύσιππον νενοηκέναι; εἰ γὰρ τοῦτʼ ἔστιν, ὁμολογουμένως ἡ προκοπὴ οὐδὲν ἄλλο ἐστὶν ἢ τὸ πολλὰ τῶν Χρυσίππου νοεῖν.</div></article>
+<article class="section" id="s-8"><a class="ref" href="#s-8">8</a><div class="section-text" lang="grc">νῦν δʼ ἄλλο μέν τι τὴν ἀρετὴν ἐπιφέρειν ὁμολογοῦμεν, ἄλλο<span class="ed-del">[ν]</span> δὲ τὸν συνεγγισμόν, τὴν προκοπὴν ἀποφαίνομεν.</div></article>
+<article class="section" id="s-9"><a class="ref" href="#s-9">9</a><div class="section-text" lang="grc"><q>οὗτος,</q> φησίν, <q>ἤδη καὶ διʼ αὑτοῦ δύναται Χρύσιππον ἀναγιγνώσκειν.</q> εὖ, νὴ τοὺς θεούς, προκόπτεις, ἄνθρωπε· ποίαν προκοπήν.</div></article>
+<article class="section" id="s-10"><a class="ref" href="#s-10">10</a><div class="section-text" lang="grc"><q>τί ἐμπαίζεις αὐτῷ;</q> τί δʼ ἀπάγεις αὐτὸν τῆς συναισθήσεως τῶν αὑτοῦ κακῶν; οὐ θέλεις δεῖξαι αὐτῷ τὸ ἔργον τῆς ἀρετῆς, ἵνα μάθῃ ποῦ τὴν προκοπὴν ζητῇ;</div></article>
+<article class="section" id="s-11"><a class="ref" href="#s-11">11</a><div class="section-text" lang="grc">ἐκεῖ ζήτησον αὐτήν, ταλαίπωρε, ὅπου σου τὸ ἔργον. ποῦ δέ σου τὸ ἔργον; ἐν ὀρέξει καὶ ἐκκλίσει, ἵνʼ ἀναπότευκτος ᾖς καὶ ἀπερίπτωτος, ἐν ὁρμαῖς καὶ ἀφορμαῖς, ἵνʼ ἀναμάρτητος, ἐν προ<span class="ed-add">&lang;ς&rang;</span>θέσει καὶ ἐποχῇ, ἵνʼ ἀνεξαπάτητος.</div></article>
+<article class="section" id="s-12"><a class="ref" href="#s-12">12</a><div class="section-text" lang="grc">πρῶτοι δʼ εἰσὶν οἱ πρῶτοι τόποι καὶ ἀναγκαιότατοι. ἂν δὲ τρέμων καὶ πενθῶν ζητῇς ἀπερίπτωτος εἶναι, ἄρα πῶς προκόπτεις;</div></article>
+<article class="section" id="s-13"><a class="ref" href="#s-13">13</a><div class="section-text" lang="grc">σὺ οὖν ἐνταῦθά μοι δεῖξόν σου τὴν προκοπήν. καθάπερ εἰ ἀθλητῇ διελεγόμην <q>δεῖξόν μοι τοὺς ὤμους,</q> εἶτα ἔλεγεν ἐκεῖνος <q>ἴδε μου τοὺς ἁλτῆρας.</q> ὄψει σὺ καὶ οἱ ἁλτῆρες, ἐγὼ τὸ ἀποτέλεσμα τῶν ἁλτήρων ἰδεῖν βούλομαι.</div></article>
+<article class="section" id="s-14"><a class="ref" href="#s-14">14</a><div class="section-text" lang="grc"><q>λάβε τὴν περὶ ὁρμῆς σύνταξιν καὶ γνῶθι πῶς αὐτὴν ἀνέγνωκα.</q> ἀνδράποδον, οὐ τοῦτο ζητῶ, ἀλλὰ πῶς ὁρμᾷς καὶ ἀφορμᾷς, πῶς ὀρέγῃ καὶ ἐκκλίνεις, πῶς ἐπιβάλλῃ καὶ προ<span class="ed-del">[σ]</span>τίθεσαι καὶ παρασκευάζῃ, πότερα συμφώνως τῇ φύσει ἢ ἀσυμφώνως.</div></article>
+<article class="section" id="s-15"><a class="ref" href="#s-15">15</a><div class="section-text" lang="grc">εἰ γὰρ συμφώνως, τοῦτό μοι δείκνυε καὶ ἐρῶ σοι ὅτι προκόπτεις· εἰ δʼ ἀσυμφώνως, ἄπελθε καὶ μὴ μόνον ἐξηγοῦ τὰ βιβλία, ἀλλὰ καὶ γράφε αὐτὸς τοιαῦτα.</div></article>
+<article class="section" id="s-16"><a class="ref" href="#s-16">16</a><div class="section-text" lang="grc">καὶ τί σοι ὄφελος; οὐκ οἶδας ὅτι ὅλον τὸ βιβλίον πέντε δηναρίων ἐστίν; ὁ οὖν ἐξηγούμενος αὐτὸ δοκεῖ ὅτι πλείονος ἄξιός ἐστιν ἢ πέντε δηναρίων;</div></article>
+<article class="section" id="s-17"><a class="ref" href="#s-17">17</a><div class="section-text" lang="grc">μηδέποτε οὖν ἀλλαχοῦ τὸ ἔργον ζητεῖτε, ἀλλαχοῦ τὴν προκοπήν.</div></article>
+<article class="section" id="s-18"><a class="ref" href="#s-18">18</a><div class="section-text" lang="grc">ποῦ οὖν προκοπή; εἴ τις ὑμῶν ἀποστὰς τῶν ἐκτὸς ἐπὶ τὴν προαίρεσιν ἐπέστραπται τὴν αὑτοῦ, ταύτην ἐξεργάζεσθαι καὶ ἐκπονεῖν, ὥστε σύμφωνον ἀποτελέσαι τῇ φύσει, ὑψηλὴν ἐλευθέραν ἀκώλυτον ἀνεμπόδιστον πιστὴν αἰδήμονα·</div></article>
+<article class="section" id="s-19"><a class="ref" href="#s-19">19</a><div class="section-text" lang="grc">μεμάθηκέν τε, ὅτι ὁ τὰ μὴ ἐφʼ αὑτῷ ποθῶν ἢ φεύγων οὔτε πιστὸς εἶναι δύναται οὔτʼ ἐλεύθερος, ἀλλʼ ἀνάγκη μεταπίπτειν καὶ μεταρριπίζεσθαι ἅμα ἐκείνοις καὶ αὐτόν, ἀνάγκη δὲ καὶ ὑποτεταχέναι ἄλλοις ἑαυτόν, τοῖς ἐκεῖνα περιποιεῖν ἢ κωλύειν δυναμένοις·</div></article>
+<article class="section" id="s-20"><a class="ref" href="#s-20">20</a><div class="section-text" lang="grc">καὶ λοιπὸν ἕωθεν ἀνιστάμενος ταῦτα τηρεῖ καὶ φυλάσσει, λούεται ὡς πιστός, ὡς αἰδήμων ἐσθίει, ὡσαύτως ἐπὶ τῆς ἀεὶ παραπιπτούσης ὕλης τὰ προηγούμενα ἐκπονῶν, ὡς ὁ δρομεὺς δρομικῶς καὶ ὁ φώνασκος φωνασκικῶς·</div></article>
+<article class="section" id="s-21"><a class="ref" href="#s-21">21</a><div class="section-text" lang="grc">οὗτός ἐστιν ὁ προκόπτων ταῖς ἀληθείαις καὶ ὁ μὴ εἰκῇ ἀποδεδημηκὼς οὗτός ἐστιν.</div></article>
+<article class="section" id="s-22"><a class="ref" href="#s-22">22</a><div class="section-text" lang="grc">εἰ δʼ ἐπὶ τὴν ἐν τοῖς βιβλίοις ἕξιν τέταται καὶ ταύτην ἐκπονεῖ καὶ ἐπὶ τοῦτο ἐκδεδήμηκε, λέγω αὐτῷ αὐτόθεν πορεύεσθαι εἰς οἶκον καὶ μὴ ἀμελεῖν τῶν ἐκεῖ·</div></article>
+<article class="section" id="s-23"><a class="ref" href="#s-23">23</a><div class="section-text" lang="grc">τοῦτο γὰρ ἐφʼ ὃ ἀποδεδήμηκεν οὐδέν ἐστιν· ἀλλʼ ἐκεῖνο, με<span class="ed-add">&lang;λε&rang;</span>τᾶν ἐξελεῖν τοῦ αὑτοῦ βίου πένθη καὶ οἰμωγὰς καὶ <span class="ed-add">&lang;τὸ&rang;</span> <q>οἴμοι</q> καὶ τὸ <q>τάλας ἐγὼ</q> καὶ δυστυχίαν καὶ ἀτυχίαν καὶ μαθεῖν,</div></article>
+<article class="section" id="s-24"><a class="ref" href="#s-24">24</a><div class="section-text" lang="grc">τί ἐστι θάνατος, τί φυγή, τί δεσμωτήριον, τί <span class="ed-del">[νοσ]</span>κών<span class="ed-add">&lang;ε&rang;</span>ιον, ἵνα δύνηται λέγειν ἐν τῇ φυλακῇ <q>ὦ φίλε Κρίτων, εἰ ταύτῃ τοῖς θεοῖς φίλον, ταύτῃ γινέσθω</q> καὶ μὴ ἐκεῖνα <q>τάλας ἐγώ, γέρων ἄνθρωπος, ἐπὶ ταῦτά μου τὰς πολιὰς ἐτήρησα.</q></div></article>
+<article class="section" id="s-25"><a class="ref" href="#s-25">25</a><div class="section-text" lang="grc">τίς λέγει ταῦτα; δοκεῖτε ὅτι ὑμῖν ἄδοξόν τινα ἐρῶ καὶ ταπεινόν; Πρίαμος αὐτὰ οὐ λέγει; Οἰδίπους οὐ λέγει; ἀλλʼ ὁπόσοι βασιλεῖς λέγουσιν;</div></article>
+<article class="section" id="s-26"><a class="ref" href="#s-26">26</a><div class="section-text" lang="grc">τί γάρ εἰσιν ἄλλο τραγῳδίαι ἢ ἀνθρώπων πάθη τεθαυμακότων τὰ ἐκτὸς διὰ μέτρου τοιοῦδʼ ἐπιδεικνύμενα;</div></article>
+<article class="section" id="s-27"><a class="ref" href="#s-27">27</a><div class="section-text" lang="grc">εἰ γὰρ ἐξαπατηθέντα τινὰ ἔδει μαθεῖν, ὅτι τῶν ἐκτὸς καὶ ἀπροαιρέτων οὐδέν ἐστι πρὸς ἡμᾶς, ἐγὼ μὲν ἤθελον τὴν ἀπάτην ταύτην, ἐξ ἧς ἤμελλον εὐρόως καὶ ἀταράχως βιώσεσθαι, ὑμεῖς δʼ ὄψεσθʼ αὐτοὶ τί θέλετε.</div></article>
+<article class="section" id="s-28"><a class="ref" href="#s-28">28</a><div class="section-text" lang="grc">τί οὖν ἡμῖν παρέχει Χρύσιππος; ἵνα γνῷς, φησίν, ὅτι οὐ ψευδῆ ταῦτά ἐστιν, ἐξ ὧν ἡ εὔροιά ἐστι καὶ ἀπάθεια ἀπαντᾷ,</div></article>
+<article class="section" id="s-29"><a class="ref" href="#s-29">29</a><div class="section-text" lang="grc">λάβε μου τὰ βιβλία καὶ γνώσῃ ὡς <span class="ed-gap" title="lacuna">&hellip;</span> τε καὶ σύμφωνά ἐστι τῇ φύσει τὰ ἀπαθῆ με ποιοῦντα. ὦ μεγάλης εὐτυχίας, ὦ μεγάλου εὐεργέτου τοῦ δεικνύοντος τὴν ὁδόν.</div></article>
+<article class="section" id="s-30"><a class="ref" href="#s-30">30</a><div class="section-text" lang="grc">εἶτα Τριπτολέμῳ μὲν ἱερὰ καὶ βωμοὺς πάντες ἄνθρωποι ἀνεστάκασιν,</div></article>
+<article class="section" id="s-31"><a class="ref" href="#s-31">31</a><div class="section-text" lang="grc">ὅτι τὰς ἡμέρους τροφὰς ἡμῖν ἔδωκεν, τῷ δὲ τὴν ἀλήθειαν εὑρόντι καὶ φωτίσαντι καὶ εἰς πάντας ἀνθρώπους ἐξενεγκόντι, οὐ τὴν περὶ τὸ ζῆν, ἀλλὰ τὴν πρὸς τὸ εὖ ζῆν, τίς ὑμῶν ἐπὶ τούτῳ βωμὸν ἱδρύσατο ἢ ναὸν ἢ ἄγαλμα ἀνέθηκεν ἢ τὸν θεὸν ἐπὶ τούτῳ προσκυνεῖ;</div></article>
+<article class="section" id="s-32"><a class="ref" href="#s-32">32</a><div class="section-text" lang="grc">ἀλλʼ ὅτι μὲν ἄμπελον ἔδωκαν ἢ πυρούς, ἐπιθύομεν τούτου ἕνεκα, ὅτι δὲ τοιοῦτον ἐξήνεγκαν καρπὸν ἐν ἀνθρωπίνῃ διανοίᾳ, διʼ οὗ τὴν ἀλήθειαν τὴν περὶ εὐδαιμονίας δείξειν ἡμῖν ἤμελλον, τούτου δʼ ἕνεκα οὐκ εὐχαριστήσωμεν τῷ θεῷ;</div></article>
+</div>
+
+<nav class="chapter-nav chapter-nav-bottom"><a href="1-03.html">ἡ προτέρα διατριβή</a><a class="chapter-home" href="../index.html">Ἀρχή</a><a href="1-05.html">ἡ ἑπομένη διατριβή</a></nav>

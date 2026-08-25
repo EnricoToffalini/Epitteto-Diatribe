@@ -1,0 +1,65 @@
+---
+title: "Diatriba II.19 — Contro coloro che accolgono le dottrine dei filosofi soltanto a parole"
+lang: it
+pagetitle: "Diatriba II.19 — Contro coloro che accolgono le dottrine dei filosofi soltanto a parole — Epitteto, Diatribe"
+title-prefix: ""
+description-meta: "Diatriba II.19: «Contro coloro che accolgono le dottrine dei filosofi soltanto a parole». Le Diatribe di Epitteto raccolte da Arriano, in traduzione italiana."
+sidebar: it
+---
+
+<!--
+FILE GENERATO. NON MODIFICARE A MANO.
+
+Modificare invece:
+- translation/it/**.md      per il testo e i titoli italiani
+- data/intro.json           per le note introduttive delle home page
+- tools/site_config.py      per lingue, testi dell'interfaccia, URL
+- styles.css                per l'aspetto grafico
+
+Poi eseguire:
+    run.bat
+-->
+
+
+<div class="diatribe-meta">Libro II · 34 sezioni · <span class="canonical" title="Riferimento canonico">II 19</span></div>
+
+<nav class="chapter-nav"><a href="2-18.html">Diatriba precedente</a><a class="chapter-home" href="../index.html">Home</a><a href="2-20.html">Diatriba successiva</a></nav>
+
+<div class="section-list">
+<article class="section" id="s-1"><a class="ref" href="#s-1">1</a><div class="section-text">L’argomento detto «Dominatore» sembra essere stato formulato a partire da premesse di questo genere. Vi è infatti un’incompatibilità reciproca fra queste tre proposizioni: che ogni verità passata sia necessaria; che da ciò che è possibile non possa seguire qualcosa di impossibile; e che sia possibile qualcosa che non è vero né lo sarà. Diodoro, avendo visto questa incompatibilità, si servì della plausibilità delle prime due per dimostrare che nulla è possibile che non sia vero né lo sarà.</div></article>
+<article class="section" id="s-2"><a class="ref" href="#s-2">2</a><div class="section-text">Un altro, dunque, manterrà queste due proposizioni: che è possibile qualcosa che non è vero né lo sarà, e che da ciò che è possibile non segue qualcosa di impossibile; ma negherà che ogni verità passata sia necessaria, come sembra facessero Cleante e i suoi seguaci, in favore dei quali Antipatro argomentò a lungo.</div></article>
+<article class="section" id="s-3"><a class="ref" href="#s-3">3</a><div class="section-text">Altri invece mantengono le altre due: che è possibile qualcosa che non è vero né lo sarà, e che ogni verità passata è necessaria; ma ammettono che da ciò che è possibile possa seguire qualcosa di impossibile.</div></article>
+<article class="section" id="s-4"><a class="ref" href="#s-4">4</a><div class="section-text">Mantenere tutte e tre quelle proposizioni è impossibile, perché sono reciprocamente incompatibili.</div></article>
+<article class="section" id="s-5"><a class="ref" href="#s-5">5</a><div class="section-text">Se dunque qualcuno mi domandasse: «E tu, quali di queste mantieni?», gli risponderei che non lo so. Ho ricevuto soltanto questa informazione: che Diodoro manteneva quelle, i seguaci di Pantoide, credo, e di Cleante le altre, e i seguaci di Crisippo le altre ancora.</div></article>
+<article class="section" id="s-6"><a class="ref" href="#s-6">6</a><div class="section-text">«E tu, dunque?» Non mi sono affatto dedicato a esaminare la mia rappresentazione, a confrontare ciò che viene detto e a formarmi un mio giudizio sull’argomento. Perciò non sono diverso da un grammatico.</div></article>
+<article class="section" id="s-7"><a class="ref" href="#s-7">7</a><div class="section-text">«Chi era il padre di Ettore?» «Priamo.» «Chi erano i suoi fratelli?» «Alessandro e Deifobo.» «E chi era la loro madre?» «Ecuba.» Ho ricevuto questa informazione. «Da chi?» «Da Omero. E credo che sulle stesse cose scrivano anche Ellanico e qualche altro autore del genere.»</div></article>
+<article class="section" id="s-8"><a class="ref" href="#s-8">8</a><div class="section-text">E io, riguardo al Dominatore, che cosa ho di più? Se poi sono vanitoso, soprattutto a un banchetto lascio a bocca aperta i presenti enumerando gli autori che ne hanno scritto.</div></article>
+<article class="section" id="s-9"><a class="ref" href="#s-9">9</a><div class="section-text">«Anche Crisippo ne ha scritto mirabilmente nel primo libro <i>Sui possibili</i>. Anche Cleante ha scritto un’opera apposita sull’argomento, e così Archedemo. Ne ha scritto anche Antipatro, non soltanto nei libri <i>Sui possibili</i>, ma anche separatamente, nel trattato <i>Sul Dominatore</i>. Non hai letto l’opera?»</div></article>
+<article class="section" id="s-10"><a class="ref" href="#s-10">10</a><div class="section-text">«Non l’ho letta.» «Leggila.» E che vantaggio ne ricaverà? Sarà più chiacchierone e più inopportuno di quanto sia ora. Tu, infatti, che cosa hai guadagnato dopo averla letta? Quale giudizio ti sei formato sull’argomento? Ci parlerai invece di Elena, di Priamo e dell’isola di Calipso, che non è mai esistita né esisterà.</div></article>
+<article class="section" id="s-11"><a class="ref" href="#s-11">11</a><div class="section-text">E qui non è poi gran cosa conoscere bene le informazioni senza essersi formato alcun giudizio proprio. Ma nelle questioni morali ci comportiamo così molto più che in queste.</div></article>
+<article class="section" id="s-12"><a class="ref" href="#s-12">12</a><div class="section-text">«Parlami dei beni e dei mali.» «Ascolta: “Da Ilio il vento mi portò presso i Ciconi”. Tra le cose che esistono, alcune sono beni,</div></article>
+<article class="section" id="s-13"><a class="ref" href="#s-13">13</a><div class="section-text">altre mali, altre indifferenti. Beni sono le virtù e ciò che partecipa delle virtù; mali i vizi e ciò che partecipa del vizio; indifferenti ciò che sta fra gli uni e gli altri: ricchezza, salute, vita, morte, piacere, dolore.»</div></article>
+<article class="section" id="s-14"><a class="ref" href="#s-14">14</a><div class="section-text">«Da dove lo sai?» «Lo dice Ellanico nelle <i>Storie egizie</i>.» Che differenza fa dire questo oppure dire che lo affermano Diogene nella sua <i>Etica</i>, Crisippo o Cleante? Hai esaminato qualcuna di queste cose e te ne sei formato un giudizio tuo?</div></article>
+<article class="section" id="s-15"><a class="ref" href="#s-15">15</a><div class="section-text">Mostrami piuttosto come sei solito comportarti quando in mare ti sorprende una tempesta. Ti ricordi di questa distinzione quando la vela fa rumore e, mentre tu gridi, qualche seccatore ti si mette accanto e dice: «Dimmi, per gli dèi, ciò che dicevi l’altro giorno: naufragare è forse un vizio? Partecipa forse del vizio?»</div></article>
+<article class="section" id="s-16"><a class="ref" href="#s-16">16</a><div class="section-text">Non alzeresti un pezzo di legno per colpirlo? «Che vuoi da noi, uomo? Stiamo morendo e tu vieni qui a scherzare!»</div></article>
+<article class="section" id="s-17"><a class="ref" href="#s-17">17</a><div class="section-text">E se Cesare ti mandasse a chiamare perché sei stato accusato, ti ricorderesti della distinzione? Se, mentre entri pallido e tremante, qualcuno ti venisse incontro e dicesse: «Perché tremi, uomo? Di che cosa si tratta? Forse Cesare, là dentro, distribuisce virtù e vizio a quelli che entrano?»</div></article>
+<article class="section" id="s-18"><a class="ref" href="#s-18">18</a><div class="section-text">«Perché anche tu ti prendi gioco di me, oltre ai mali che già ho?» «Eppure, filosofo, dimmi: perché tremi? Non rischi forse la morte, il carcere, un dolore del corpo, l’esilio o la cattiva reputazione? Che altro? È forse un vizio, o qualcosa che partecipa del vizio? E tu che cosa dicevi di queste cose?»</div></article>
+<article class="section" id="s-19"><a class="ref" href="#s-19">19</a><div class="section-text">«Che vuoi da me, uomo? Mi bastano i miei mali.» E dici bene: ti bastano infatti i tuoi mali, la bassezza d’animo, la viltà e la presunzione di cui facevi mostra seduto a scuola. Perché ti adornavi di cose altrui? Perché ti definivi stoico?</div></article>
+<article class="section" id="s-20"><a class="ref" href="#s-20">20</a><div class="section-text">Osservatevi dunque in ciò che fate e scoprirete a quale scuola appartenete. Troverete che la maggior parte di voi è epicurea, alcuni pochi peripatetici, e anche questi piuttosto fiacchi.</div></article>
+<article class="section" id="s-21"><a class="ref" href="#s-21">21</a><div class="section-text">Dove mai, infatti, mostrate nei fatti di considerare la virtù pari a tutte le altre cose, o addirittura superiore? Mostratemi invece uno stoico, se ne avete uno.</div></article>
+<article class="section" id="s-22"><a class="ref" href="#s-22">22</a><div class="section-text">Dove trovarlo, e come? Ma ne trovate a migliaia capaci di recitare i ragionamentini stoici. E forse gli stessi non sanno esporre peggio quelli epicurei? E non conoscono con altrettanta precisione anche quelli peripatetici?</div></article>
+<article class="section" id="s-23"><a class="ref" href="#s-23">23</a><div class="section-text">Chi è dunque uno stoico? Come diciamo «statua fidiaca» quella modellata secondo l’arte di Fidia, così mostratemi qualcuno modellato secondo i giudizi che professa.</div></article>
+<article class="section" id="s-24"><a class="ref" href="#s-24">24</a><div class="section-text">Mostratemi qualcuno che sia malato e felice, in pericolo e felice, morente e felice, esiliato e felice, disprezzato e felice. Mostratemelo: per gli dèi, desidero vedere uno stoico.</div></article>
+<article class="section" id="s-25"><a class="ref" href="#s-25">25</a><div class="section-text">Ma non avete da mostrarmi chi sia già formato; mostratemi almeno chi si sta formando, chi è orientato in quella direzione. Fatemi questo favore: non negate a un vecchio la possibilità di vedere uno spettacolo che finora non ha mai visto.</div></article>
+<article class="section" id="s-26"><a class="ref" href="#s-26">26</a><div class="section-text">Pensate forse di mostrarmi lo Zeus di Fidia o l’Atena, una costruzione d’avorio e d’oro? Qualcuno di voi mi mostri invece l’anima di un uomo che vuole essere concorde con Dio, non biasimare più né Dio né uomo, non fallire ciò che desidera, non incorrere in ciò che vuole evitare, non adirarsi, non provare invidia né gelosia — perché complicare il discorso?</div></article>
+<article class="section" id="s-27"><a class="ref" href="#s-27">27</a><div class="section-text">— desiderosa di diventare da uomo un dio e, in questo piccolo corpo morto, intenta a realizzare la propria comunione con Zeus. Mostratemela. Ma non l’avete. Perché dunque vi prendete gioco di voi stessi e ingannate gli altri?</div></article>
+<article class="section" id="s-28"><a class="ref" href="#s-28">28</a><div class="section-text">E perché, indossando un aspetto che non vi appartiene, andate in giro come ladri e spogliatori di nomi e realtà che non vi spettano affatto?</div></article>
+<article class="section" id="s-29"><a class="ref" href="#s-29">29</a><div class="section-text">E ora io sono il vostro maestro e voi vi educate presso di me. Io ho questo intento: rendervi liberi da impedimenti, da costrizioni e da ostacoli, liberi, sereni, felici, rivolti a Dio in ogni cosa, piccola o grande; e voi siete qui per imparare ed esercitarvi in queste cose.</div></article>
+<article class="section" id="s-30"><a class="ref" href="#s-30">30</a><div class="section-text">Perché dunque non portate a compimento il lavoro, se anche voi avete l’intento che occorre e io, oltre all’intento, possiedo la preparazione necessaria?</div></article>
+<article class="section" id="s-31"><a class="ref" href="#s-31">31</a><div class="section-text">Che cosa manca? Quando vedo un artigiano con la materia pronta accanto a sé, mi aspetto l’opera. Anche qui dunque c’è l’artigiano, c’è la materia: che cosa ci manca?</div></article>
+<article class="section" id="s-32"><a class="ref" href="#s-32">32</a><div class="section-text">Forse questa cosa non si può insegnare? Si può. E dunque non dipende da noi? È anzi l’unica, fra tutte, a dipendere da noi. Non dipendono da noi né la ricchezza, né la salute, né la reputazione, né, in generale, altro se non il retto uso delle rappresentazioni. Questo soltanto è per natura libero da impedimenti, questo soltanto non può essere ostacolato.</div></article>
+<article class="section" id="s-33"><a class="ref" href="#s-33">33</a><div class="section-text">Perché dunque non portate a compimento il lavoro? Ditemene la causa. O dipende da me, o da voi, o dalla natura della cosa. La cosa in sé è possibile ed è l’unica che dipenda da noi. Resta dunque che la causa stia in me o in voi, o, cosa più vera, in entrambi. E allora?</div></article>
+<article class="section" id="s-34"><a class="ref" href="#s-34">34</a><div class="section-text">Volete che cominciamo finalmente a venire qui con un intento di questo genere? Lasciamo perdere ciò che è stato finora. Cominciamo soltanto: fidatevi di me, e vedrete.</div></article>
+</div>
+
+<nav class="chapter-nav chapter-nav-bottom"><a href="2-18.html">Diatriba precedente</a><a class="chapter-home" href="../index.html">Home</a><a href="2-20.html">Diatriba successiva</a></nav>

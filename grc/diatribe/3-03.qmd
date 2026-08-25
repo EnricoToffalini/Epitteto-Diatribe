@@ -1,0 +1,53 @@
+---
+title: "Διατριβὴ Γʹ.γʹ — τίς ὕλη τοῦ ἀγαθοῦ καὶ πρὸς τί μάλιστʼ ἀσκητέον"
+lang: grc
+pagetitle: "Διατριβὴ Γʹ.γʹ — τίς ὕλη τοῦ ἀγαθοῦ καὶ πρὸς τί μάλιστʼ ἀσκητέον — Ἐπικτήτου Διατριβαί"
+title-prefix: ""
+description-meta: "Διατριβὴ Γʹ.γʹ· «τίς ὕλη τοῦ ἀγαθοῦ καὶ πρὸς τί μάλιστʼ ἀσκητέον». Ἀρριανοῦ τῶν Ἐπικτήτου Διατριβῶν, τὸ ἑλληνικὸν κείμενον."
+sidebar: grc
+---
+
+<!--
+FILE GENERATO. NON MODIFICARE A MANO.
+
+Modificare invece:
+- translation/it/**.md      per il testo e i titoli italiani
+- data/intro.json           per le note introduttive delle home page
+- tools/site_config.py      per lingue, testi dell'interfaccia, URL
+- styles.css                per l'aspetto grafico
+
+Poi eseguire:
+    run.bat
+-->
+
+
+<div class="diatribe-meta">Βιβλίον Γʹ · 22 τμήματα · <span class="canonical" title="Παραπομπή">III 3</span></div>
+
+<nav class="chapter-nav"><a href="3-02.html">ἡ προτέρα διατριβή</a><a class="chapter-home" href="../index.html">Ἀρχή</a><a href="3-04.html">ἡ ἑπομένη διατριβή</a></nav>
+
+<div class="section-list">
+<article class="section" id="s-1"><a class="ref" href="#s-1">1</a><div class="section-text" lang="grc">ὕλη τοῦ καλοῦ καὶ ἀγαθοῦ τὸ ἴδιον ἡγεμονικόν, τὸ σῶμα δʼ ἰατροῦ καὶ <span class="ed-del">[ἀπ]</span>ἀλείπτου, ὁ ἀγρὸς γεωργοῦ ὕλη· ἔργον δὲ καλοῦ καὶ ἀγαθοῦ τὸ χρῆσθαι ταῖς φαντασίαις κατὰ φύσιν.</div></article>
+<article class="section" id="s-2"><a class="ref" href="#s-2">2</a><div class="section-text" lang="grc">πέφυκεν δὲ πᾶσα ψυχὴ ὥσπερ τῷ ἀληθεῖ ἐπινεύειν, πρὸς τὸ ψεῦδος ἀνανεύειν, πρὸς τὸ ἄδηλον ἐπέχειν, οὕτως πρὸς μὲν τὸ ἀγαθὸν ὀρεκτικῶς κινεῖσθαι, πρὸς δὲ τὸ κακὸν ἐκκλιτικῶς, πρὸς δὲ τὸ μήτε κακὸν μήτʼ ἀγαθὸν οὐδετέρως.</div></article>
+<article class="section" id="s-3"><a class="ref" href="#s-3">3</a><div class="section-text" lang="grc">ὡς γὰρ τὸ τοῦ Καίσαρος νόμισμα οὐκ ἔξεστιν ἀποδοκιμάσαι τῷ τραπεζίτῃ οὐδὲ τῷ λαχανοπώλῃ, ἀλλʼ ἂν δείξῃς, θέλει οὐ θέλει, προέσθαι αὐτὸν δεῖ τὸ ἀντʼ αὐτοῦ πωλούμενον, οὕτως ἔχει καὶ ἐπὶ τῆς ψυχῆς.</div></article>
+<article class="section" id="s-4"><a class="ref" href="#s-4">4</a><div class="section-text" lang="grc">τὸ ἀγαθὸν φανὲν εὐθὺς ἐκίνησεν ἐφʼ αὑτό, τὸ κακὸν ἀφʼ αὑτοῦ. οὐδέποτε δʼ ἀγαθοῦ φαντασίαν ἐναργῆ ἀποδοκιμάσει ψυχή, οὐ μᾶλλον ἢ τὸ Καίσαρος νόμισμα. ἔνθεν ἐξήρτηται πᾶσα κίνησις καὶ ἀνθρώπου καὶ θεοῦ.</div></article>
+<article class="section" id="s-5"><a class="ref" href="#s-5">5</a><div class="section-text" lang="grc">διὰ τοῦτο πάσης οἰκειότητος προκρίνεται τὸ ἀγαθόν. οὐδὲν ἐμοὶ καὶ τῷ πατρί, ἀλλὰ τῷ ἀγαθῷ. <q>οὕτως εἶ σκληρός;</q> οὕτως γὰρ πέφυκα· τοῦτό μοι τὸ νόμισμα δέδωκεν ὁ θεός.</div></article>
+<article class="section" id="s-6"><a class="ref" href="#s-6">6</a><div class="section-text" lang="grc">διὰ τοῦτο, εἰ τοῦ καλοῦ καὶ δικαίου τὸ ἀγαθὸν ἕτερόν ἐστιν, οἴχεται καὶ πατὴρ καὶ ἀδελφὸς καὶ πατρὶς καὶ πάντα τὰ πράγματα.</div></article>
+<article class="section" id="s-7"><a class="ref" href="#s-7">7</a><div class="section-text" lang="grc">ἀλλʼ ἐγὼ τὸ ἐμὸν ἀγαθὸν ὑπερίδω, ἵνα σὺ σχῇς, καὶ παραχωρήσω σοι; ἀντὶ τίνος; <q>πατήρ σου εἰμί.</q> ἀλλʼ οὐκ ἀγαθόν. <q>ἀδελφός σου εἰμί.</q></div></article>
+<article class="section" id="s-8"><a class="ref" href="#s-8">8</a><div class="section-text" lang="grc">ἀλλʼ οὐκ ἀγαθόν. ἐὰν δʼ ἐν ὀρθῇ προαιρέσει θῶμεν, αὐτὸ τὸ τηρεῖν τὰς σχέσεις ἀγαθὸν γίνεται· καὶ λοιπὸν ὁ τῶν ἐκτός τινων ἐκχωρῶν, οὗτος τοῦ ἀγαθοῦ τυγχάνει.</div></article>
+<article class="section" id="s-9"><a class="ref" href="#s-9">9</a><div class="section-text" lang="grc"><q>αἴρει τὰ χρήματα ὁ πατήρ.</q> ἀλλʼ οὐ βλάπτει. <q>ἕξει τὸ πλέον τοῦ ἀγροῦ ὁ ἀδελφός.</q> ὅσον καὶ θέλει. μή τι οὖν τοῦ αἰδήμονος, μή τι τοῦ πιστοῦ, μή τι τοῦ φιλαδέλφου;</div></article>
+<article class="section" id="s-10"><a class="ref" href="#s-10">10</a><div class="section-text" lang="grc">ἐκ ταύτης γὰρ τῆς οὐσίας τίς δύναται ἐκβαλεῖν; οὐδʼ ὁ Ζεύς. οὐδὲ γὰρ ἠθέλησεν, ἀλλʼ ἐπʼ ἐμοὶ αὐτὸ ἐποίησεν καὶ ἔδωκεν οἷον εἶχεν αὐτός, ἀκώλυ<span class="ed-del">[σ]</span>τον, ἀνανάγκαστον, ἀπαραπόδιστον.</div></article>
+<article class="section" id="s-11"><a class="ref" href="#s-11">11</a><div class="section-text" lang="grc">ὅταν οὖν ἄλλῳ ἄλλο τὸ νόμισμα ᾖ, ἐκεῖνό τις δείξας ἔχει τὸ ἀντʼ αὐτοῦ πιπρασκόμενον.</div></article>
+<article class="section" id="s-12"><a class="ref" href="#s-12">12</a><div class="section-text" lang="grc">ἐλήλυθεν εἰς τὴν ἐπαρχίαν κλέπτης ἀνθύπατος. τίνι νομίσματι χρῆται; ἀργυρίῳ. δεῖξον καὶ ἀπόφερε ὃ θέλεις. ἐλήλυθεν μοιχός. τίνι νομίσματι χρῆται; κορασιδίοις. <q>λάβε,</q> φησίν, <q>τὸ νόμισμα καὶ πώλησόν μοι τὸ πραγμάτιον.</q> δὸς καὶ ἀγόραζε.</div></article>
+<article class="section" id="s-13"><a class="ref" href="#s-13">13</a><div class="section-text" lang="grc">ἄλλος περὶ παιδάρια ἐσπούδακεν. δὸς αὐτῷ τὸ νόμισμα καὶ λάβε ὃ θέλεις. ἄλλος φιλόθηρος. δὸς ἱππάριον καλὸν ἢ κυνάριον· οἰμώζων καὶ στένων πωλήσει ἀντʼ αὐτοῦ ὃ θέλεις. ἄλλος γὰρ αὐτὸν ἀναγκάζει ἔσωθεν, ὁ τὸ νόμισμα τοῦτο τεταχώς.</div></article>
+<article class="section" id="s-14"><a class="ref" href="#s-14">14</a><div class="section-text" lang="grc">πρὸς τοῦτο μάλιστα τὸ εἶδος αὑτὸν γυμναστέον. εὐθὺς ὄρθρου προελθὼν ὃν ἂν ἴδῃς, ὃν ἂν ἀκούσῃς, ἐξέταζε, ἀποκρίνου ὡς πρὸς ἐρώτημα. τί εἶδες; καλὸν ἢ καλήν; ἔπαγε τὸν κανόνα. ἀπροαίρετον ἢ προαιρετικόν; ἀπροαίρετον· αἶρε ἔξω.</div></article>
+<article class="section" id="s-15"><a class="ref" href="#s-15">15</a><div class="section-text" lang="grc">τί εἶδες; πενθοῦντʼ ἐπὶ τέκνου τελευτῇ; ἔπαγε τὸν κανόνα. ὁ θάνατός ἐστιν ἀπροαίρετον· αἶρε ἐκ τοῦ μέσου. ἀπήντησέ σοι ὕπατος; ἔπαγε τὸν κανόνα. ὑπατεία ποῖόν τι ἐστίν; ἀπροαίρετον ἢ προαιρετικόν; ἀπροαίρετον· αἶρε καὶ τοῦτο, οὐκ ἔστι δόκιμον· ἀπόβαλε, οὐδὲν πρὸς σέ.</div></article>
+<article class="section" id="s-16"><a class="ref" href="#s-16">16</a><div class="section-text" lang="grc">καὶ τοῦτο εἰ ἐποιοῦμεν καὶ πρὸς τοῦτο ἠσκούμεθα καθʼ ἡμέραν ἐξ ὄρθρου μέχρι νυκτός, ἐγίνετο ἄν τι, νὴ τοὺς θεούς.</div></article>
+<article class="section" id="s-17"><a class="ref" href="#s-17">17</a><div class="section-text" lang="grc">νῦν δʼ εὐθὺς ὑπὸ πάσης φαντασίας κεχηνότες λαμβανόμεθα καὶ μόνον, εἴπερ ἄρα, ἐν τῇ σχολῇ μικρόν τι διεγειρόμεθα· εἶτʼ ἐξελθόντες ἂν ἴδωμεν πενθοῦντα, λέγομεν <q>ἀπώλετο·</q> ἂν ὕπατον, <q>μακάριος·</q> ἂν ἐξωρισμένον, <q>ταλαίπωρος·</q> ἂν πένητα, <q>ἄθλιος, οὐκ ἔχει πόθεν φάγῃ.</q></div></article>
+<article class="section" id="s-18"><a class="ref" href="#s-18">18</a><div class="section-text" lang="grc">ταῦτʼ οὖν ἐκκόπτειν δεῖ τὰ πονηρὰ δόγματα, περὶ τοῦτο συντετάσθαι. τί γάρ ἐστι τὸ κλαίειν καὶ οἰμώζειν; δόγμα. τί δυστυχία; δόγμα. τί στάσις, τί διχόνοια, τί μέμψις, τί κατηγορία, τί ἀσέβεια, τί φλυαρία;</div></article>
+<article class="section" id="s-19"><a class="ref" href="#s-19">19</a><div class="section-text" lang="grc">ταῦτα πάντα δόγματά ἐστι καὶ ἄλλο οὐδὲν καὶ δόγματα περὶ τῶν ἀπροαιρέτων ὡς ὄντων ἀγαθῶν καὶ κακῶν. ταῦτά τις ἐπὶ τὰ προαιρετικὰ μεταθέτω, κἀγὼ αὐτὸν ἐγγυῶμαι ὅτι εὐσταθήσει, ὡς ἂν ἔχῃ τὰ περὶ αὐτόν.</div></article>
+<article class="section" id="s-20"><a class="ref" href="#s-20">20</a><div class="section-text" lang="grc">οἷόν ἐστιν ἡ λεκάνη τοῦ ὕδατος, τοιοῦτον ἡ ψυχή, οἷον ἡ αὐγὴ ἡ προσπίπτουσα τῷ ὕδατι, τοιοῦτον αἱ φαντασίαι.</div></article>
+<article class="section" id="s-21"><a class="ref" href="#s-21">21</a><div class="section-text" lang="grc">ὅταν οὖν τὸ ὕδωρ κινηθῇ, δοκεῖ μὲν καὶ ἡ αὐγὴ κινεῖσθαι, οὐ μέντοι κινεῖται.</div></article>
+<article class="section" id="s-22"><a class="ref" href="#s-22">22</a><div class="section-text" lang="grc">καὶ ὅταν τοίνυν σκοτωθῇ τις, οὐχ αἱ τέχναι καὶ αἱ ἀρεταὶ συγχέονται, ἀλλὰ τὸ πνεῦμα, ἐφʼ οὗ εἰσιν· καταστάντος δὲ καθίσταται κἀκεῖνα.</div></article>
+</div>
+
+<nav class="chapter-nav chapter-nav-bottom"><a href="3-02.html">ἡ προτέρα διατριβή</a><a class="chapter-home" href="../index.html">Ἀρχή</a><a href="3-04.html">ἡ ἑπομένη διατριβή</a></nav>

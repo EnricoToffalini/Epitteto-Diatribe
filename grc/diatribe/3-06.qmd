@@ -1,0 +1,41 @@
+---
+title: "Διατριβὴ Γʹ.ϛʹ — σποράδην τινά"
+lang: grc
+pagetitle: "Διατριβὴ Γʹ.ϛʹ — σποράδην τινά — Ἐπικτήτου Διατριβαί"
+title-prefix: ""
+description-meta: "Διατριβὴ Γʹ.ϛʹ· «σποράδην τινά». Ἀρριανοῦ τῶν Ἐπικτήτου Διατριβῶν, τὸ ἑλληνικὸν κείμενον."
+sidebar: grc
+---
+
+<!--
+FILE GENERATO. NON MODIFICARE A MANO.
+
+Modificare invece:
+- translation/it/**.md      per il testo e i titoli italiani
+- data/intro.json           per le note introduttive delle home page
+- tools/site_config.py      per lingue, testi dell'interfaccia, URL
+- styles.css                per l'aspetto grafico
+
+Poi eseguire:
+    run.bat
+-->
+
+
+<div class="diatribe-meta">Βιβλίον Γʹ · 10 τμήματα · <span class="canonical" title="Παραπομπή">III 6</span></div>
+
+<nav class="chapter-nav"><a href="3-05.html">ἡ προτέρα διατριβή</a><a class="chapter-home" href="../index.html">Ἀρχή</a><a href="3-07.html">ἡ ἑπομένη διατριβή</a></nav>
+
+<div class="section-list">
+<article class="section" id="s-1"><a class="ref" href="#s-1">1</a><div class="section-text" lang="grc">πυθομένου δέ τινος, πῶς νῦν μᾶλλον ἐκπεπονημένου τοῦ λόγου πρότερον μείζονες προκοπαὶ ἦσαν,</div></article>
+<article class="section" id="s-2"><a class="ref" href="#s-2">2</a><div class="section-text" lang="grc">κατὰ τί, ἔφη, ἐκπεπόνηται καὶ κατὰ τί μείζους αἱ προκοπαὶ τότε ἦσαν; καθὸ γὰρ νῦν ἐκπεπόνηται, κατὰ τοῦτο καὶ προκοπαὶ νῦν εὑρεθήσονται.</div></article>
+<article class="section" id="s-3"><a class="ref" href="#s-3">3</a><div class="section-text" lang="grc">καὶ νῦν μὲν ὥστε συλλογισμοὺς ἀναλύειν ἐκπεπόνηται καὶ προκοπαὶ γίνονται· τότε δʼ ὥστε τὸ ἡγεμονικὸν κατὰ φύσιν ἔχον τηρῆσαι καὶ ἐξεπονεῖτο καὶ προκοπαὶ ἦσαν.</div></article>
+<article class="section" id="s-4"><a class="ref" href="#s-4">4</a><div class="section-text" lang="grc">μὴ οὖν ἐνάλλασσε μηδὲ ζήτει, ὅταν ἄλλο ἐκπονῇς, ἐν ἄλλῳ προκόπτειν. ἀλλʼ ἴδε, εἴ τις ἡμῶν πρὸς τούτῳ ὤν, ὥστε κατὰ φύσιν ἔχειν καὶ διεξάγειν, οὐ προκόπτει. οὐδένα γὰρ εὑρήσεις.</div></article>
+<article class="section" id="s-5"><a class="ref" href="#s-5">5</a><div class="section-text" lang="grc">ὁ σπουδαῖος ἀήττητος· <span class="ed-sic">ἢ</span> γὰρ οὐκ ἀγωνίζεται, ὅπου μὴ κρείσσων, εἰ μὴ ὅπου κρείσσων ἐστίν.</div></article>
+<article class="section" id="s-6"><a class="ref" href="#s-6">6</a><div class="section-text" lang="grc"><q>εἰ <span class="ed-sic">κατὰ</span> τὸν ἀγρὸν θέλεις, λάβε· λάβε τοὺς οἰκέτας, λάβε τὴν ἀρχήν, λάβε τὸ σωμάτιον. τὴν δʼ ὄρεξιν οὐ ποιήσεις ἀποτευκτικὴν οὐδὲ τὴν ἔκκλισιν περιπτωτικήν.</q></div></article>
+<article class="section" id="s-7"><a class="ref" href="#s-7">7</a><div class="section-text" lang="grc">εἰς τοῦτον μόνον τὸν ἀγῶνα καθίησιν τὸν περὶ τῶν προαιρετικῶν· πῶς οὖν οὐ μέλλει ἀήττητος εἶναι;</div></article>
+<article class="section" id="s-8"><a class="ref" href="#s-8">8</a><div class="section-text" lang="grc">πυθομένου δέ τινος, τί ἐστιν ὁ κοινὸς νοῦς, Ὥσπερ, φησίν, κοινή τις ἀκοὴ λέγοιτʼ ἂν ἡ μόνον φωνῶν διακριτική, ἡ δὲ τῶν φθόγγων οὐκέτι κοινή, ἀλλὰ τεχνική, οὕτως ἐστί τινα, ἃ οἱ μὴ παντάπασιν διεστραμμένοι τῶν ἀνθρώπων κατὰ τὰς κοινὰς ἀφορμὰς ὁρῶσιν. ἡ τοιαύτη κατάστασις κοινὸς νοῦς καλεῖται.</div></article>
+<article class="section" id="s-9"><a class="ref" href="#s-9">9</a><div class="section-text" lang="grc">τῶν νέων τοὺς μαλακοὺς οὐκ ἔστι προτρέψαι ῥᾴδιον· οὐδὲ γὰρ τυρὸν ἀγκίστρῳ λαβεῖν· οἱ δʼ εὐφυεῖς, κἂν ἀποτρέπῃς, ἔτι μᾶλλον ἔχονται τοῦ λόγου.</div></article>
+<article class="section" id="s-10"><a class="ref" href="#s-10">10</a><div class="section-text" lang="grc">διὸ καὶ ὁ Ῥοῦφος τὰ πολλὰ ἀπέτρεπεν τούτῳ δοκιμαστηρίῳ χρώμενος τῶν εὐφυῶν καὶ ἀφυῶν. ἔλεγε γὰρ ὅτι <q>ὡς ὁ λίθος, κἂν ἀναβάλῃς, ἐνεχθήσεται κάτω ἐπὶ γῆν κατὰ τὴν αὑτοῦ κατασκευήν, οὕτως καὶ ὁ εὐφυής, ὅσῳ μᾶλλον ἀποκρούεταί τις αὐτόν, τοσούτῳ μᾶλλον νεύει ἐφʼ ὃ πέφυκεν.</q></div></article>
+</div>
+
+<nav class="chapter-nav chapter-nav-bottom"><a href="3-05.html">ἡ προτέρα διατριβή</a><a class="chapter-home" href="../index.html">Ἀρχή</a><a href="3-07.html">ἡ ἑπομένη διατριβή</a></nav>

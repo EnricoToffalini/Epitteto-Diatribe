@@ -1,0 +1,52 @@
+---
+title: "Diatriba IV.12 — Sull'attenzione"
+lang: it
+pagetitle: "Diatriba IV.12 — Sull'attenzione — Epitteto, Diatribe"
+title-prefix: ""
+description-meta: "Diatriba IV.12: «Sull'attenzione». Le Diatribe di Epitteto raccolte da Arriano, in traduzione italiana."
+sidebar: it
+---
+
+<!--
+FILE GENERATO. NON MODIFICARE A MANO.
+
+Modificare invece:
+- translation/it/**.md      per il testo e i titoli italiani
+- data/intro.json           per le note introduttive delle home page
+- tools/site_config.py      per lingue, testi dell'interfaccia, URL
+- styles.css                per l'aspetto grafico
+
+Poi eseguire:
+    run.bat
+-->
+
+
+<div class="diatribe-meta">Libro IV · 21 sezioni · <span class="canonical" title="Riferimento canonico">IV 12</span></div>
+
+<nav class="chapter-nav"><a href="4-11.html">Diatriba precedente</a><a class="chapter-home" href="../index.html">Home</a><a href="4-13.html">Diatriba successiva</a></nav>
+
+<div class="section-list">
+<article class="section" id="s-1"><a class="ref" href="#s-1">1</a><div class="section-text">Quando allenti l’attenzione anche solo per poco, non immaginare di poterla riprendere quando vorrai; tieni invece a portata di mano questo pensiero: a causa dell’errore commesso oggi, necessariamente le tue cose andranno peggio anche in seguito.</div></article>
+<article class="section" id="s-2"><a class="ref" href="#s-2">2</a><div class="section-text">Anzitutto infatti si forma in te la cosa più difficile di tutte: l’abitudine a non prestare attenzione; poi l’abitudine a rimandare l’attenzione. E così ti abitui a rinviare sempre a un altro momento la serenità, la condotta dignitosa, l’essere e il vivere secondo natura.</div></article>
+<article class="section" id="s-3"><a class="ref" href="#s-3">3</a><div class="section-text">Se dunque rimandare è utile, rinunciare del tutto all’attenzione è ancora più utile; se invece non è utile, perché non mantieni continua l’attenzione?</div></article>
+<article class="section" id="s-4"><a class="ref" href="#s-4">4</a><div class="section-text">«Oggi voglio giocare.» Che cosa ti impedisce di farlo prestando attenzione? «Voglio cantare.» Che cosa ti impedisce di farlo prestando attenzione? Vi è forse una parte della vita alla quale l’attenzione non si estende? Farai forse peggio quella cosa prestando attenzione e meglio non prestandone?</div></article>
+<article class="section" id="s-5"><a class="ref" href="#s-5">5</a><div class="section-text">E quale altra cosa nella vita viene fatta meglio da chi non presta attenzione? Il falegname, se non presta attenzione…? Il timoniere, se non presta attenzione, governa più sicuramente la nave? E quale altra attività, anche delle più piccole, viene compiuta meglio per mancanza di attenzione?</div></article>
+<article class="section" id="s-6"><a class="ref" href="#s-6">6</a><div class="section-text">Non ti accorgi che, una volta lasciata andare la mente, non dipende più da te richiamarla alla dignità, al rispetto di te stesso, alla compostezza? Fai invece qualunque cosa ti venga in mente e segui le tue inclinazioni.</div></article>
+<article class="section" id="s-7"><a class="ref" href="#s-7">7</a><div class="section-text">«A che cosa devo dunque prestare attenzione?» Anzitutto a quei principi generali, tenendoli a portata di mano e senza di essi non dormire, non alzarti, non bere, non mangiare, non avere rapporti con gli uomini: nessuno è padrone della scelta morale di un altro, e soltanto in essa stanno il bene e il male.</div></article>
+<article class="section" id="s-8"><a class="ref" href="#s-8">8</a><div class="section-text">Nessuno dunque ha il potere di procurarmi un bene o di infliggermi un male; soltanto io ho potere su me stesso in queste cose.</div></article>
+<article class="section" id="s-9"><a class="ref" href="#s-9">9</a><div class="section-text">Se dunque queste cose sono al sicuro per me, perché dovrei turbarmi per le cose esterne? Quale tiranno è temibile, quale malattia, quale povertà, quale contrasto?</div></article>
+<article class="section" id="s-10"><a class="ref" href="#s-10">10</a><div class="section-text">— «Ma non sono piaciuto al tale.» — È forse lui un’opera mia, o un mio giudizio? — «No.» — Perché dunque dovrebbe importarmi? — «Ma è considerato qualcuno.»</div></article>
+<article class="section" id="s-11"><a class="ref" href="#s-11">11</a><div class="section-text">Se la vedrà lui, e quelli che lo considerano tale. Io invece so a chi devo piacere, a chi essere sottomesso, a chi obbedire: a Dio e, dopo di lui…</div></article>
+<article class="section" id="s-12"><a class="ref" href="#s-12">12</a><div class="section-text">… egli mi ha affidato a me stesso e ha sottoposto la mia scelta morale a me soltanto, dandomi criteri per usarla rettamente. Quando li seguo, nei sillogismi non mi curo di nessuno che dica il contrario, e negli argomenti mutevoli non mi preoccupo di nessuno. Perché dunque, nelle cose più importanti, mi affliggono quelli che mi biasimano?</div></article>
+<article class="section" id="s-13"><a class="ref" href="#s-13">13</a><div class="section-text">Qual è la causa di questo turbamento? Nient’altro che il fatto che in questo ambito non sono esercitato.</div></article>
+<article class="section" id="s-14"><a class="ref" href="#s-14">14</a><div class="section-text">Ogni scienza infatti disprezza l’ignoranza e gli ignoranti, e non soltanto le scienze, ma anche le arti. Prendi un calzolaio qualunque: riguardo al proprio mestiere ride della gente comune; prendi un falegname qualunque.</div></article>
+<article class="section" id="s-15"><a class="ref" href="#s-15">15</a><div class="section-text">Anzitutto dunque bisogna tenere a portata di mano questi principi e non fare nulla senza di essi, ma mantenere l’anima diretta a questo scopo: non perseguire nulla di esterno, nulla di altrui, ma, come ha disposto colui che ne ha il potere, dedicarsi interamente a ciò che dipende dalla scelta morale e accogliere il resto come viene dato.</div></article>
+<article class="section" id="s-16"><a class="ref" href="#s-16">16</a><div class="section-text">Inoltre bisogna ricordare chi siamo e quale nome portiamo, e cercare di indirizzare i doveri secondo le possibilità proprie delle nostre relazioni:</div></article>
+<article class="section" id="s-17"><a class="ref" href="#s-17">17</a><div class="section-text">qual è il momento di cantare, quale il momento di giocare e in presenza di chi; quale sarà la conseguenza dell’azione; se quelli che stanno con noi finiranno per disprezzarci o noi per disprezzare loro; quando scherzare, di chi ridere, in quale occasione adattarsi agli altri e a chi, e infine come conservare, nella frequentazione, il proprio carattere. Dovunque ti allontani da uno di questi criteri, vi è subito una perdita,</div></article>
+<article class="section" id="s-18"><a class="ref" href="#s-18">18</a><div class="section-text">non proveniente da qualcosa di esterno, ma dall’azione stessa.</div></article>
+<article class="section" id="s-19"><a class="ref" href="#s-19">19</a><div class="section-text">Che dunque? È possibile essere già senza errori? È impossibile; ma è possibile tendere continuamente a non sbagliare. Sarebbe già un bel risultato se, non allentando mai questa attenzione, riuscissimo a evitare almeno alcuni errori. Ora invece, quando dici:</div></article>
+<article class="section" id="s-20"><a class="ref" href="#s-20">20</a><div class="section-text">«Da domani presterò attenzione», sappi che stai dicendo: «Oggi sarò spudorato, fuori luogo, meschino; dipenderà dagli altri affliggermi; oggi mi adirerò, proverò invidia».</div></article>
+<article class="section" id="s-21"><a class="ref" href="#s-21">21</a><div class="section-text">Guarda quanti mali concedi a te stesso. Ma se ti conviene far bene domani, quanto è meglio farlo oggi; se domani ti è utile prestare attenzione, molto più lo è oggi, perché tu possa farlo anche domani e non rimandare di nuovo al giorno successivo.</div></article>
+</div>
+
+<nav class="chapter-nav chapter-nav-bottom"><a href="4-11.html">Diatriba precedente</a><a class="chapter-home" href="../index.html">Home</a><a href="4-13.html">Diatriba successiva</a></nav>

@@ -1,0 +1,52 @@
+---
+title: "Diatriba I.22 — Sulle preconcezioni"
+lang: it
+pagetitle: "Diatriba I.22 — Sulle preconcezioni — Epitteto, Diatribe"
+title-prefix: ""
+description-meta: "Diatriba I.22: «Sulle preconcezioni». Le Diatribe di Epitteto raccolte da Arriano, in traduzione italiana."
+sidebar: it
+---
+
+<!--
+FILE GENERATO. NON MODIFICARE A MANO.
+
+Modificare invece:
+- translation/it/**.md      per il testo e i titoli italiani
+- data/intro.json           per le note introduttive delle home page
+- tools/site_config.py      per lingue, testi dell'interfaccia, URL
+- styles.css                per l'aspetto grafico
+
+Poi eseguire:
+    run.bat
+-->
+
+
+<div class="diatribe-meta">Libro I · 21 sezioni · <span class="canonical" title="Riferimento canonico">I 22</span></div>
+
+<nav class="chapter-nav"><a href="1-21.html">Diatriba precedente</a><a class="chapter-home" href="../index.html">Home</a><a href="1-23.html">Diatriba successiva</a></nav>
+
+<div class="section-list">
+<article class="section" id="s-1"><a class="ref" href="#s-1">1</a><div class="section-text">Le prenozioni sono comuni a tutti gli uomini, e una prenozione non è in conflitto con un’altra. Chi di noi infatti non ammette che il bene è utile e desiderabile, e che bisogna cercarlo e perseguirlo in ogni circostanza? Chi di noi non ammette che il giusto è bello e conveniente?</div></article>
+<article class="section" id="s-2"><a class="ref" href="#s-2">2</a><div class="section-text">Quando nasce dunque il contrasto? Nell’applicazione delle prenozioni ai casi particolari,</div></article>
+<article class="section" id="s-3"><a class="ref" href="#s-3">3</a><div class="section-text">quando uno dice: «Ha agito bene, è coraggioso»; e un altro: «No, è sconsiderato.» Da qui nasce il contrasto degli uomini fra loro.</div></article>
+<article class="section" id="s-4"><a class="ref" href="#s-4">4</a><div class="section-text">Questa è la contesa tra Giudei, Siri, Egiziani e Romani: non sul fatto che ciò che è pio debba essere preferito a tutto e perseguito in ogni circostanza, ma se sia pio o empio mangiare carne di maiale.</div></article>
+<article class="section" id="s-5"><a class="ref" href="#s-5">5</a><div class="section-text">Troverete questa stessa contesa anche tra Agamennone e Achille. Chiamali qui in mezzo. Che cosa dici tu, Agamennone? Non bisogna che avvenga ciò che deve avvenire e ciò che è giusto?</div></article>
+<article class="section" id="s-6"><a class="ref" href="#s-6">6</a><div class="section-text">«Certo che bisogna.» E tu che cosa dici, Achille? Non ti piace che avvenga ciò che è giusto? «A me piace più di ogni altra cosa.» Applicate dunque le prenozioni. È da qui che comincia la contesa.</div></article>
+<article class="section" id="s-7"><a class="ref" href="#s-7">7</a><div class="section-text">L’uno dice: «Non devo restituire Criseide a suo padre»; l’altro dice: «Certo che devi.» Necessariamente uno dei due applica male la prenozione di ciò che si deve fare.</div></article>
+<article class="section" id="s-8"><a class="ref" href="#s-8">8</a><div class="section-text">Di nuovo l’uno dice: «Dunque, se devo restituire Criseide, devo prendere il premio di qualcuno di voi.» E l’altro: «Prenderai allora la mia amata?» «La tua», dice. «E io solo...?» «E io solo dovrei restare senza?» Così nasce la contesa.</div></article>
+<article class="section" id="s-9"><a class="ref" href="#s-9">9</a><div class="section-text">Che cos’è dunque educarsi? Imparare ad applicare le prenozioni naturali ai casi particolari in modo conforme alla natura, e poi distinguere</div></article>
+<article class="section" id="s-10"><a class="ref" href="#s-10">10</a><div class="section-text">che, tra le cose esistenti, alcune dipendono da noi e altre non dipendono da noi: dipendono da noi la scelta morale e tutte le azioni che dipendono dalla scelta morale; non dipendono da noi il corpo, le parti del corpo, i beni, i genitori, i fratelli, i figli, la patria, in generale le persone con cui viviamo.</div></article>
+<article class="section" id="s-11"><a class="ref" href="#s-11">11</a><div class="section-text">Dove collocheremo dunque il bene? A quale genere di cose lo applicheremo? A ciò che dipende da noi?</div></article>
+<article class="section" id="s-12"><a class="ref" href="#s-12">12</a><div class="section-text">«E allora la salute, l’integrità del corpo e la vita non sono beni, e neppure i figli, i genitori e la patria?» E chi potrebbe sopportarti?</div></article>
+<article class="section" id="s-13"><a class="ref" href="#s-13">13</a><div class="section-text">Rimettiamo dunque il bene di nuovo qui. È possibile allora essere felici mentre si subisce un danno e non si ottengono i beni? «Non è possibile.» E avere verso le persone con cui viviamo la condotta che si deve? Come sarebbe possibile?</div></article>
+<article class="section" id="s-14"><a class="ref" href="#s-14">14</a><div class="section-text">Io infatti sono fatto per perseguire il mio interesse. Se è mio interesse avere un campo, è mio interesse anche toglierlo al vicino; se è mio interesse avere un mantello, è mio interesse anche rubarlo alle terme. Da qui guerre, sedizioni, tirannidi, complotti.</div></article>
+<article class="section" id="s-15"><a class="ref" href="#s-15">15</a><div class="section-text">E come potrò ancora compiere il mio dovere verso Zeus? Se infatti subisco un danno e sono sfortunato, egli non si cura di me. E che ho a che fare con lui, se non può aiutarmi? E ancora, che ho a che fare con lui, se vuole che io mi trovi nelle condizioni in cui mi trovo? Finisco così per odiarlo.</div></article>
+<article class="section" id="s-16"><a class="ref" href="#s-16">16</a><div class="section-text">Perché dunque costruiamo templi, perché statue, come a divinità maligne, come alla Febbre? Perché a Zeus? E come può essere ancora Salvatore, dispensatore di pioggia, dispensatore di frutti? Eppure, se collochiamo qui l’essenza del bene, tutte queste conseguenze ne derivano.</div></article>
+<article class="section" id="s-17"><a class="ref" href="#s-17">17</a><div class="section-text">Che cosa dobbiamo fare, dunque? Questa è la ricerca di chi filosofa davvero ed è in travaglio: «Ora io non vedo che cosa siano il bene e il male. Non sono forse pazzo?»</div></article>
+<article class="section" id="s-18"><a class="ref" href="#s-18">18</a><div class="section-text">«Sì; ma se colloco il bene là, nelle cose che dipendono dalla scelta morale, tutti rideranno di me. Verrà un vecchio dai capelli bianchi, con molti anelli d’oro, scuoterà la testa e dirà: “Ascoltami, figliolo: bisogna sì filosofare, ma bisogna anche avere un po’ di cervello. Queste sono sciocchezze. Tu impari dai filosofi il sillogismo,</div></article>
+<article class="section" id="s-19"><a class="ref" href="#s-19">19</a><div class="section-text">ma che cosa devi fare lo sai meglio tu dei filosofi.”» Uomo, perché dunque mi rimproveri, se lo so?</div></article>
+<article class="section" id="s-20"><a class="ref" href="#s-20">20</a><div class="section-text">Che cosa posso dire a questo schiavo?</div></article>
+<article class="section" id="s-21"><a class="ref" href="#s-21">21</a><div class="section-text">Se taccio, quello scoppia. Bisogna dunque dirgli: «Perdonami come si perdonano gli innamorati: non sono padrone di me stesso, sono pazzo.»</div></article>
+</div>
+
+<nav class="chapter-nav chapter-nav-bottom"><a href="1-21.html">Diatriba precedente</a><a class="chapter-home" href="../index.html">Home</a><a href="1-23.html">Diatriba successiva</a></nav>

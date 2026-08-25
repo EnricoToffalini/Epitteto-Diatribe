@@ -1,0 +1,146 @@
+---
+lang: en
+pagetitle: "Epictetus, Discourses — English translation by George Long"
+title-prefix: ""
+description-meta: "The Discourses of Epictetus as recorded by Arrian, in George Long’s English translation, beside the Greek text and an Italian translation."
+sidebar: en
+format:
+  html:
+    include-in-header: seo-head.html
+---
+
+<!--
+FILE GENERATO. NON MODIFICARE A MANO.
+
+Modificare invece:
+- translation/it/**.md      per il testo e i titoli italiani
+- data/intro.json           per le note introduttive delle home page
+- tools/site_config.py      per lingue, testi dell'interfaccia, URL
+- styles.css                per l'aspetto grafico
+
+Poi eseguire:
+    run.bat
+-->
+
+
+<div class="site-note">
+<p>This is George Long&#x27;s English translation (London, 1890), taken unaltered from the Perseus Digital Library and used here under a Creative Commons Attribution-ShareAlike 4.0 licence. Long&#x27;s own footnotes are kept, at the foot of each discourse.</p>
+<p>The <i>Discourses</i> are the lessons Epictetus, a freed slave and Stoic teacher, gave at Nicopolis. His pupil Arrian put them into writing. Four of the original eight books survive. The theme is always the same, approached from every angle: what is in our power and what is not, and what freedom is. Judgement, impulse, desire, and aversion are in our power; the body, possessions, reputation, and public office are not. On this distinction Epictetus builds a demanding, yet deeply human, conception of freedom.</p>
+</div>
+
+<div class="site-usage">The three editions — Italian, English and Greek — have the same pages: the flags at the top move between them without leaving the discourse.</div>
+
+<h2 id="book-1">Book I</h2>
+
+<div class="chapter-grid">
+<a class="chapter-card" href="diatribe/1-01.html"><span class="chapter-number">Discourse 1</span><span class="chapter-title">Of the things which are in our power, and not in our power</span><span class="chapter-count">32 sections</span></a>
+<a class="chapter-card" href="diatribe/1-02.html"><span class="chapter-number">Discourse 2</span><span class="chapter-title">How a man on every occasion can maintain his proper character</span><span class="chapter-count">37 sections</span></a>
+<a class="chapter-card" href="diatribe/1-03.html"><span class="chapter-number">Discourse 3</span><span class="chapter-title">How a man should proceed from the principle of god being the father of all men to the rest</span><span class="chapter-count">9 sections</span></a>
+<a class="chapter-card" href="diatribe/1-04.html"><span class="chapter-number">Discourse 4</span><span class="chapter-title">Of progress or improvement</span><span class="chapter-count">32 sections</span></a>
+<a class="chapter-card" href="diatribe/1-05.html"><span class="chapter-number">Discourse 5</span><span class="chapter-title">Against the academics</span><span class="chapter-count">10 sections</span></a>
+<a class="chapter-card" href="diatribe/1-06.html"><span class="chapter-number">Discourse 6</span><span class="chapter-title">Of Providence</span><span class="chapter-count">43 sections</span></a>
+<a class="chapter-card" href="diatribe/1-07.html"><span class="chapter-number">Discourse 7</span><span class="chapter-title">Of the use of sophistical arguments and hypothetical and the like</span><span class="chapter-count">32 sections</span></a>
+<a class="chapter-card" href="diatribe/1-08.html"><span class="chapter-number">Discourse 8</span><span class="chapter-title">That the faculties are not safe to the uninstructed</span><span class="chapter-count">16 sections</span></a>
+<a class="chapter-card" href="diatribe/1-09.html"><span class="chapter-number">Discourse 9</span><span class="chapter-title">How from the fact that we are akin to God a man may proceed to the consequences</span><span class="chapter-count">34 sections</span></a>
+<a class="chapter-card" href="diatribe/1-10.html"><span class="chapter-number">Discourse 10</span><span class="chapter-title">Against those who eagerly seek preferment at Rome</span><span class="chapter-count">13 sections</span></a>
+<a class="chapter-card" href="diatribe/1-11.html"><span class="chapter-number">Discourse 11</span><span class="chapter-title">Of natural affection</span><span class="chapter-count">40 sections</span></a>
+<a class="chapter-card" href="diatribe/1-12.html"><span class="chapter-number">Discourse 12</span><span class="chapter-title">Of contentment</span><span class="chapter-count">35 sections</span></a>
+<a class="chapter-card" href="diatribe/1-13.html"><span class="chapter-number">Discourse 13</span><span class="chapter-title">How everything may be done acceptably to the gods</span><span class="chapter-count">5 sections</span></a>
+<a class="chapter-card" href="diatribe/1-14.html"><span class="chapter-number">Discourse 14</span><span class="chapter-title">That the deity oversees all things</span><span class="chapter-count">17 sections</span></a>
+<a class="chapter-card" href="diatribe/1-15.html"><span class="chapter-number">Discourse 15</span><span class="chapter-title">What philosophy promises</span><span class="chapter-count">8 sections</span></a>
+<a class="chapter-card" href="diatribe/1-16.html"><span class="chapter-number">Discourse 16</span><span class="chapter-title">Of Providence</span><span class="chapter-count">21 sections</span></a>
+<a class="chapter-card" href="diatribe/1-17.html"><span class="chapter-number">Discourse 17</span><span class="chapter-title">That the logical art is necessary</span><span class="chapter-count">29 sections</span></a>
+<a class="chapter-card" href="diatribe/1-18.html"><span class="chapter-number">Discourse 18</span><span class="chapter-title">That we ought not to be angry with the errors (faults) of others</span><span class="chapter-count">23 sections</span></a>
+<a class="chapter-card" href="diatribe/1-19.html"><span class="chapter-number">Discourse 19</span><span class="chapter-title">How we should behave to tyrants</span><span class="chapter-count">29 sections</span></a>
+<a class="chapter-card" href="diatribe/1-20.html"><span class="chapter-number">Discourse 20</span><span class="chapter-title">About reason, how it contemplates itself</span><span class="chapter-count">19 sections</span></a>
+<a class="chapter-card" href="diatribe/1-21.html"><span class="chapter-number">Discourse 21</span><span class="chapter-title">Against those who wish to be admired</span><span class="chapter-count">4 sections</span></a>
+<a class="chapter-card" href="diatribe/1-22.html"><span class="chapter-number">Discourse 22</span><span class="chapter-title">On praecognitions</span><span class="chapter-count">21 sections</span></a>
+<a class="chapter-card" href="diatribe/1-23.html"><span class="chapter-number">Discourse 23</span><span class="chapter-title">Against Epicurus</span><span class="chapter-count">10 sections</span></a>
+<a class="chapter-card" href="diatribe/1-24.html"><span class="chapter-number">Discourse 24</span><span class="chapter-title">How we should struggle with circumstances</span><span class="chapter-count">20 sections</span></a>
+<a class="chapter-card" href="diatribe/1-25.html"><span class="chapter-number">Discourse 25</span><span class="chapter-title">On the same</span><span class="chapter-count">33 sections</span></a>
+<a class="chapter-card" href="diatribe/1-26.html"><span class="chapter-number">Discourse 26</span><span class="chapter-title">What is the law of life</span><span class="chapter-count">18 sections</span></a>
+<a class="chapter-card" href="diatribe/1-27.html"><span class="chapter-number">Discourse 27</span><span class="chapter-title">In how many ways appearances exist, and what aids we should provide against them</span><span class="chapter-count">21 sections</span></a>
+<a class="chapter-card" href="diatribe/1-28.html"><span class="chapter-number">Discourse 28</span><span class="chapter-title">That we ought not to be angry with men; and what are the small and the great things among men</span><span class="chapter-count">33 sections</span></a>
+<a class="chapter-card" href="diatribe/1-29.html"><span class="chapter-number">Discourse 29</span><span class="chapter-title">On constancy (or firmness)</span><span class="chapter-count">66 sections</span></a>
+<a class="chapter-card" href="diatribe/1-30.html"><span class="chapter-number">Discourse 30</span><span class="chapter-title">What we ought to have ready in difficult circumstances</span><span class="chapter-count">7 sections</span></a>
+</div>
+
+<h2 id="book-2">Book II</h2>
+
+<div class="chapter-grid">
+<a class="chapter-card" href="diatribe/2-01.html"><span class="chapter-number">Discourse 1</span><span class="chapter-title">That confidence (courage) is not inconsistent with caution</span><span class="chapter-count">40 sections</span></a>
+<a class="chapter-card" href="diatribe/2-02.html"><span class="chapter-number">Discourse 2</span><span class="chapter-title">Of tranquillity (freedom from perturbation)</span><span class="chapter-count">26 sections</span></a>
+<a class="chapter-card" href="diatribe/2-03.html"><span class="chapter-number">Discourse 3</span><span class="chapter-title">To those who recommend persons to philosophers</span><span class="chapter-count">5 sections</span></a>
+<a class="chapter-card" href="diatribe/2-04.html"><span class="chapter-number">Discourse 4</span><span class="chapter-title">Against a person who had once been detected in adultery</span><span class="chapter-count">11 sections</span></a>
+<a class="chapter-card" href="diatribe/2-05.html"><span class="chapter-number">Discourse 5</span><span class="chapter-title">How magnanimity is consistent with care</span><span class="chapter-count">29 sections</span></a>
+<a class="chapter-card" href="diatribe/2-06.html"><span class="chapter-number">Discourse 6</span><span class="chapter-title">Of indifference</span><span class="chapter-count">27 sections</span></a>
+<a class="chapter-card" href="diatribe/2-07.html"><span class="chapter-number">Discourse 7</span><span class="chapter-title">How we ought to use divination</span><span class="chapter-count">14 sections</span></a>
+<a class="chapter-card" href="diatribe/2-08.html"><span class="chapter-number">Discourse 8</span><span class="chapter-title">What is the nature (ἡ οὐσία) of the Good</span><span class="chapter-count">29 sections</span></a>
+<a class="chapter-card" href="diatribe/2-09.html"><span class="chapter-number">Discourse 9</span><span class="chapter-title">That when we cannot fulfil that which the character of a man promises, we assume the character of a philosopher</span><span class="chapter-count">22 sections</span></a>
+<a class="chapter-card" href="diatribe/2-10.html"><span class="chapter-number">Discourse 10</span><span class="chapter-title">How we may discover the duties of life from names</span><span class="chapter-count">30 sections</span></a>
+<a class="chapter-card" href="diatribe/2-11.html"><span class="chapter-number">Discourse 11</span><span class="chapter-title">What the beginning of philosophy is</span><span class="chapter-count">25 sections</span></a>
+<a class="chapter-card" href="diatribe/2-12.html"><span class="chapter-number">Discourse 12</span><span class="chapter-title">Of disputation or discussion</span><span class="chapter-count">25 sections</span></a>
+<a class="chapter-card" href="diatribe/2-13.html"><span class="chapter-number">Discourse 13</span><span class="chapter-title">On anxiety (solicitude)</span><span class="chapter-count">26 sections</span></a>
+<a class="chapter-card" href="diatribe/2-14.html"><span class="chapter-number">Discourse 14</span><span class="chapter-title">To Naso</span><span class="chapter-count">29 sections</span></a>
+<a class="chapter-card" href="diatribe/2-15.html"><span class="chapter-number">Discourse 15</span><span class="chapter-title">To or against those who obstinately persist in what they have determined</span><span class="chapter-count">20 sections</span></a>
+<a class="chapter-card" href="diatribe/2-16.html"><span class="chapter-number">Discourse 16</span><span class="chapter-title">That we do not strive to use our opinions about good and evil</span><span class="chapter-count">47 sections</span></a>
+<a class="chapter-card" href="diatribe/2-17.html"><span class="chapter-number">Discourse 17</span><span class="chapter-title">How we must adapt preconceptions to particular cases</span><span class="chapter-count">40 sections</span></a>
+<a class="chapter-card" href="diatribe/2-18.html"><span class="chapter-number">Discourse 18</span><span class="chapter-title">How we should struggle against appearances</span><span class="chapter-count">32 sections</span></a>
+<a class="chapter-card" href="diatribe/2-19.html"><span class="chapter-number">Discourse 19</span><span class="chapter-title">Against those who embrace philosophical opinions only in words</span><span class="chapter-count">34 sections</span></a>
+<a class="chapter-card" href="diatribe/2-20.html"><span class="chapter-number">Discourse 20</span><span class="chapter-title">Against the Epicureans and Academics</span><span class="chapter-count">37 sections</span></a>
+<a class="chapter-card" href="diatribe/2-21.html"><span class="chapter-number">Discourse 21</span><span class="chapter-title">Of inconsistency</span><span class="chapter-count">22 sections</span></a>
+<a class="chapter-card" href="diatribe/2-22.html"><span class="chapter-number">Discourse 22</span><span class="chapter-title">On friendship</span><span class="chapter-count">37 sections</span></a>
+<a class="chapter-card" href="diatribe/2-23.html"><span class="chapter-number">Discourse 23</span><span class="chapter-title">On the power of speaking</span><span class="chapter-count">47 sections</span></a>
+<a class="chapter-card" href="diatribe/2-24.html"><span class="chapter-number">Discourse 24</span><span class="chapter-title">To (or against) a person who was one of those who were not valued (esteemed) by him</span><span class="chapter-count">29 sections</span></a>
+<a class="chapter-card" href="diatribe/2-25.html"><span class="chapter-number">Discourse 25</span><span class="chapter-title">That logic is necessary</span><span class="chapter-count">3 sections</span></a>
+<a class="chapter-card" href="diatribe/2-26.html"><span class="chapter-number">Discourse 26</span><span class="chapter-title">What is the property of error</span><span class="chapter-count">7 sections</span></a>
+</div>
+
+<h2 id="book-3">Book III</h2>
+
+<div class="chapter-grid">
+<a class="chapter-card" href="diatribe/3-01.html"><span class="chapter-number">Discourse 1</span><span class="chapter-title">Of finery in dress</span><span class="chapter-count">45 sections</span></a>
+<a class="chapter-card" href="diatribe/3-02.html"><span class="chapter-number">Discourse 2</span><span class="chapter-title">In what a man ought to be exercised who has made proficiency; and that we neglect the chief things</span><span class="chapter-count">18 sections</span></a>
+<a class="chapter-card" href="diatribe/3-03.html"><span class="chapter-number">Discourse 3</span><span class="chapter-title">What is the matter on which a good man should be employed, and in what we ought chiefly to practise ourselves</span><span class="chapter-count">22 sections</span></a>
+<a class="chapter-card" href="diatribe/3-04.html"><span class="chapter-number">Discourse 4</span><span class="chapter-title">Against a person who showed his partizanship in an unseemly way in a theatre</span><span class="chapter-count">12 sections</span></a>
+<a class="chapter-card" href="diatribe/3-05.html"><span class="chapter-number">Discourse 5</span><span class="chapter-title">Against those who on account of sickness go away home</span><span class="chapter-count">19 sections</span></a>
+<a class="chapter-card" href="diatribe/3-06.html"><span class="chapter-number">Discourse 6</span><span class="chapter-title">Miscellaneous</span><span class="chapter-count">10 sections</span></a>
+<a class="chapter-card" href="diatribe/3-07.html"><span class="chapter-number">Discourse 7</span><span class="chapter-title">To the administrator of the free cities who was an Epicurean</span><span class="chapter-count">36 sections</span></a>
+<a class="chapter-card" href="diatribe/3-08.html"><span class="chapter-number">Discourse 8</span><span class="chapter-title">How we must exercise ourselves against appearances (φαντασίας)</span><span class="chapter-count">7 sections</span></a>
+<a class="chapter-card" href="diatribe/3-09.html"><span class="chapter-number">Discourse 9</span><span class="chapter-title">To a certain rhetorician who was going up to Rome on a suit</span><span class="chapter-count">22 sections</span></a>
+<a class="chapter-card" href="diatribe/3-10.html"><span class="chapter-number">Discourse 10</span><span class="chapter-title">In what manner we ought to bear sickness</span><span class="chapter-count">20 sections</span></a>
+<a class="chapter-card" href="diatribe/3-11.html"><span class="chapter-number">Discourse 11</span><span class="chapter-title">Certain miscellaneous matters</span><span class="chapter-count">6 sections</span></a>
+<a class="chapter-card" href="diatribe/3-12.html"><span class="chapter-number">Discourse 12</span><span class="chapter-title">About exercise</span><span class="chapter-count">17 sections</span></a>
+<a class="chapter-card" href="diatribe/3-13.html"><span class="chapter-number">Discourse 13</span><span class="chapter-title">What solitude is, and what kind of person a solitary man is</span><span class="chapter-count">23 sections</span></a>
+<a class="chapter-card" href="diatribe/3-14.html"><span class="chapter-number">Discourse 14</span><span class="chapter-title">Certain miscellaneous matters</span><span class="chapter-count">14 sections</span></a>
+<a class="chapter-card" href="diatribe/3-15.html"><span class="chapter-number">Discourse 15</span><span class="chapter-title">That we ought to proceed with circumspection to every thing</span><span class="chapter-count">14 sections</span></a>
+<a class="chapter-card" href="diatribe/3-16.html"><span class="chapter-number">Discourse 16</span><span class="chapter-title">That we ought with caution to enter into familiar intercourse with men</span><span class="chapter-count">16 sections</span></a>
+<a class="chapter-card" href="diatribe/3-17.html"><span class="chapter-number">Discourse 17</span><span class="chapter-title">On Providence</span><span class="chapter-count">9 sections</span></a>
+<a class="chapter-card" href="diatribe/3-18.html"><span class="chapter-number">Discourse 18</span><span class="chapter-title">That we ought not to be disturbed by any news</span><span class="chapter-count">9 sections</span></a>
+<a class="chapter-card" href="diatribe/3-19.html"><span class="chapter-number">Discourse 19</span><span class="chapter-title">What is the condition of a common kind of man and of a philosopher</span><span class="chapter-count">6 sections</span></a>
+<a class="chapter-card" href="diatribe/3-20.html"><span class="chapter-number">Discourse 20</span><span class="chapter-title">That we can derive advantage from all external things</span><span class="chapter-count">19 sections</span></a>
+<a class="chapter-card" href="diatribe/3-21.html"><span class="chapter-number">Discourse 21</span><span class="chapter-title">Against those who readily come to the profession of sophists</span><span class="chapter-count">24 sections</span></a>
+<a class="chapter-card" href="diatribe/3-22.html"><span class="chapter-number">Discourse 22</span><span class="chapter-title">About Cynism</span><span class="chapter-count">109 sections</span></a>
+<a class="chapter-card" href="diatribe/3-23.html"><span class="chapter-number">Discourse 23</span><span class="chapter-title">To those who read and discuss for the sake of ostentation</span><span class="chapter-count">38 sections</span></a>
+<a class="chapter-card" href="diatribe/3-24.html"><span class="chapter-number">Discourse 24</span><span class="chapter-title">That we ought not to be moved by a desire of those things which are not in our power</span><span class="chapter-count">118 sections</span></a>
+<a class="chapter-card" href="diatribe/3-25.html"><span class="chapter-number">Discourse 25</span><span class="chapter-title">To those who fall off (desist) from their purpose</span><span class="chapter-count">10 sections</span></a>
+<a class="chapter-card" href="diatribe/3-26.html"><span class="chapter-number">Discourse 26</span><span class="chapter-title">To those who fear want</span><span class="chapter-count">39 sections</span></a>
+</div>
+
+<h2 id="book-4">Book IV</h2>
+
+<div class="chapter-grid">
+<a class="chapter-card" href="diatribe/4-01.html"><span class="chapter-number">Discourse 1</span><span class="chapter-title">About freedom</span><span class="chapter-count">177 sections</span></a>
+<a class="chapter-card" href="diatribe/4-02.html"><span class="chapter-number">Discourse 2</span><span class="chapter-title">On familiar intimacy</span><span class="chapter-count">10 sections</span></a>
+<a class="chapter-card" href="diatribe/4-03.html"><span class="chapter-number">Discourse 3</span><span class="chapter-title">What things we should exchange for other things</span><span class="chapter-count">12 sections</span></a>
+<a class="chapter-card" href="diatribe/4-04.html"><span class="chapter-number">Discourse 4</span><span class="chapter-title">To those who are desirous of passing life in tranquillity</span><span class="chapter-count">48 sections</span></a>
+<a class="chapter-card" href="diatribe/4-05.html"><span class="chapter-number">Discourse 5</span><span class="chapter-title">Against the quarrelsome and ferocious</span><span class="chapter-count">37 sections</span></a>
+<a class="chapter-card" href="diatribe/4-06.html"><span class="chapter-number">Discourse 6</span><span class="chapter-title">Against those who lament over being pitied</span><span class="chapter-count">38 sections</span></a>
+<a class="chapter-card" href="diatribe/4-07.html"><span class="chapter-number">Discourse 7</span><span class="chapter-title">On freedom from fear</span><span class="chapter-count">41 sections</span></a>
+<a class="chapter-card" href="diatribe/4-08.html"><span class="chapter-number">Discourse 8</span><span class="chapter-title">Against those who hastily rush into the use of the philosophic dress</span><span class="chapter-count">43 sections</span></a>
+<a class="chapter-card" href="diatribe/4-09.html"><span class="chapter-number">Discourse 9</span><span class="chapter-title">To a person who had been changed to a character of shamelessness</span><span class="chapter-count">18 sections</span></a>
+<a class="chapter-card" href="diatribe/4-10.html"><span class="chapter-number">Discourse 10</span><span class="chapter-title">What things we ought to despise, and what things we ought to value</span><span class="chapter-count">36 sections</span></a>
+<a class="chapter-card" href="diatribe/4-11.html"><span class="chapter-number">Discourse 11</span><span class="chapter-title">About purity (cleanliness)</span><span class="chapter-count">36 sections</span></a>
+<a class="chapter-card" href="diatribe/4-12.html"><span class="chapter-number">Discourse 12</span><span class="chapter-title">On attention</span><span class="chapter-count">21 sections</span></a>
+<a class="chapter-card" href="diatribe/4-13.html"><span class="chapter-number">Discourse 13</span><span class="chapter-title">Against or to those who readily tell their own affairs</span><span class="chapter-count">24 sections</span></a>
+</div>

@@ -1,0 +1,51 @@
+---
+title: "Διατριβὴ Βʹ.ιεʹ — πρὸς τοὺς σκληρῶς τισιν ὧν ἔκριναν ἐμμένοντας"
+lang: grc
+pagetitle: "Διατριβὴ Βʹ.ιεʹ — πρὸς τοὺς σκληρῶς τισιν ὧν ἔκριναν ἐμμένοντας — Ἐπικτήτου Διατριβαί"
+title-prefix: ""
+description-meta: "Διατριβὴ Βʹ.ιεʹ· «πρὸς τοὺς σκληρῶς τισιν ὧν ἔκριναν ἐμμένοντας». Ἀρριανοῦ τῶν Ἐπικτήτου Διατριβῶν, τὸ ἑλληνικὸν κείμενον."
+sidebar: grc
+---
+
+<!--
+FILE GENERATO. NON MODIFICARE A MANO.
+
+Modificare invece:
+- translation/it/**.md      per il testo e i titoli italiani
+- data/intro.json           per le note introduttive delle home page
+- tools/site_config.py      per lingue, testi dell'interfaccia, URL
+- styles.css                per l'aspetto grafico
+
+Poi eseguire:
+    run.bat
+-->
+
+
+<div class="diatribe-meta">Βιβλίον Βʹ · 20 τμήματα · <span class="canonical" title="Παραπομπή">II 15</span></div>
+
+<nav class="chapter-nav"><a href="2-14.html">ἡ προτέρα διατριβή</a><a class="chapter-home" href="../index.html">Ἀρχή</a><a href="2-16.html">ἡ ἑπομένη διατριβή</a></nav>
+
+<div class="section-list">
+<article class="section" id="s-1"><a class="ref" href="#s-1">1</a><div class="section-text" lang="grc">ὅταν ἀκούσωσί τινες τούτων τῶν λόγων, ὅτι βέβαιον εἶναι δεῖ καὶ ἡ μὲν προαίρεσις ἐλεύθερον φύσει καὶ ἀνανάγκαστον, τὰ δʼ ἄλλα κωλυτά, ἀναγκαστά, δοῦλα, ἀλλότρια, φαντάζονται ὅτι δεῖ παντὶ τῷ κριθέντι ὑπʼ αὐτῶν ἀπαραβάτως ἐμμένειν.</div></article>
+<article class="section" id="s-2"><a class="ref" href="#s-2">2</a><div class="section-text" lang="grc">ἀλλὰ πρῶτον ὑγιὲς εἶναι δεῖ τὸ κεκριμένον. θέλω γὰρ εἶναι τόνους ἐν σώματι, ἀλλʼ ὡς ὑγιαίνοντι, ὡς ἀθλοῦντι·</div></article>
+<article class="section" id="s-3"><a class="ref" href="#s-3">3</a><div class="section-text" lang="grc">ἂν δέ μοι φρενιτικοῦ τόνους ἔχων ἐνδεικνύῃ<span class="ed-del">[ς]</span> καὶ ἀλαζονεύῃ ἐπʼ αὐτοῖς, ἐρῶ σοι ὅτι <q>ἄνθρωπε, ζήτει τὸν θεραπεύσοντα. τοῦτο οὐκ εἰσὶ τόνοι, ἀλλʼ ἀτονία.</q></div></article>
+<article class="section" id="s-4"><a class="ref" href="#s-4">4</a><div class="section-text" lang="grc">ἕτερον τρόπον τοιοῦτόν τι καὶ ἐπὶ τῆς ψυχῆς πάσχουσιν οἱ παρακούοντες τῶν λόγων τούτων. οἷον καὶ ἐμός τις ἑταῖρος ἐξ οὐδεμιᾶς αἰτίας ἔκρινεν ἀποκαρτερεῖν.</div></article>
+<article class="section" id="s-5"><a class="ref" href="#s-5">5</a><div class="section-text" lang="grc">ἔγνων ἐγὼ ἤδη τρίτην ἡμέραν ἔχοντος αὐτοῦ τῆς ἀποχῆς καὶ ἐλθὼν ἐπυνθανόμην τί ἐγένετο.</div></article>
+<article class="section" id="s-6"><a class="ref" href="#s-6">6</a><div class="section-text" lang="grc">— κέκρικα, φησίν. — ἀλλʼ ὅμως τί σε ἦν τὸ ἀναπεῖσαν; εἰ γὰρ ὀρθῶς ἔκρινας, ἰδοὺ παρακαθήμεθά σοι καὶ συνεργοῦμεν, ἵνʼ ἐξέλθῃς· εἰ δʼ ἀλόγως ἔκρινας, μετάθου.</div></article>
+<article class="section" id="s-7"><a class="ref" href="#s-7">7</a><div class="section-text" lang="grc">— τοῖς κριθεῖσιν ἐμμένειν δεῖ. — τί ποιεῖς, ἄνθρωπε; οὐ πᾶσιν, ἀλλὰ τοῖς ὀρθῶς. ἐπεὶ παθὼν ἄρτι ὅτι νύξ ἐστιν, ἄν σοι δοκῇ, μὴ μετατίθεσο, ἀλλʼ ἔμμενε καὶ λέγε ὅτι τοῖς κριθεῖσιν ἐμμένειν δεῖ.</div></article>
+<article class="section" id="s-8"><a class="ref" href="#s-8">8</a><div class="section-text" lang="grc"><span class="ed-del">[τί ποιεῖς, ἄνθρωπε; οὐ πᾶσιν.]</span> οὐ θέλεις τὴν ἀρχὴν στῆσαι καὶ τὸν θεμέλιον, τὸ κρίμα σκέψασθαι πότερον ὑγιὲς ἢ οὐχ ὑγιές, καὶ οὕτως λοιπὸν ἐποικοδομεῖν αὐτῷ τὴν εὐτονίαν, τὴν ἀσφάλειαν;</div></article>
+<article class="section" id="s-9"><a class="ref" href="#s-9">9</a><div class="section-text" lang="grc">ἂν δὲ σαπρὸν ὑποστήσῃ καὶ καταπῖπτον, οὐκ <span class="ed-sic">οἰκοδόμημά</span> τι ὄν, ὅσῳ δʼ ἂν πλείονα καὶ ἰσχυρότερα ἐπιθῇς, τοσούτῳ θᾶττον <span class="ed-del">[θᾶττον]</span> κατενεχθήσεται.</div></article>
+<article class="section" id="s-10"><a class="ref" href="#s-10">10</a><div class="section-text" lang="grc">ἄνευ πάσης αἰτίας ἐξάγεις ἡμῖν ἄνθρωπον ἐκ τοῦ ζῆν φίλον καὶ συνήθη, τῆς αὐτῆς πόλεως πολίτην καὶ τῆς μεγάλης καὶ τῆς μικρᾶς·</div></article>
+<article class="section" id="s-11"><a class="ref" href="#s-11">11</a><div class="section-text" lang="grc">εἶτα φόνον ἐργαζόμενος καὶ ἀπολλύων ἄνθρωπον μηδὲν ἠδικηκότα λέγεις ὅτι τοῖς κριθεῖσιν ἐμμένειν δεῖ.</div></article>
+<article class="section" id="s-12"><a class="ref" href="#s-12">12</a><div class="section-text" lang="grc">εἰ δʼ ἐπῆλθέν σοί πώς ποτʼ ἐμὲ ἀποκτεῖναι, ἔδει σε ἐμμένειν τοῖς κριθεῖσιν;</div></article>
+<article class="section" id="s-13"><a class="ref" href="#s-13">13</a><div class="section-text" lang="grc">ἐκεῖνος μὲν οὖν μόγις μετεπείσθη. τῶν δὲ νῦν τινας οὐκ ἔστι μεταθεῖναι. ὥστε μοι δοκῶ ὃ πρότερον ἠγνόουν νῦν εἰδέναι, τί ἐστι τὸ ἐν τῇ συνηθείᾳ λεγόμενον· μωρὸν οὔτε πεῖσαι οὔτε ῥῆξαι ἔστιν.</div></article>
+<article class="section" id="s-14"><a class="ref" href="#s-14">14</a><div class="section-text" lang="grc">μή μοι γένοιτο φίλον ἔχειν σοφὸν μωρόν. δυσμεταχειριστότερον οὐδέν ἐστιν. <q>κέκρικα.</q> καὶ γὰρ οἱ μαινόμενοι· ἀλλʼ ὅσῳ βεβαιότερον κρίνουσι τὰ οὐκ ὄντα, τοσούτῳ πλείονος ἐλλεβόρου δέονται.</div></article>
+<article class="section" id="s-15"><a class="ref" href="#s-15">15</a><div class="section-text" lang="grc">οὐ θέλεις τὰ τοῦ νοσοῦντος ποιεῖν καὶ τὸν ἰατρὸν παρακαλεῖν; <q>νοσῶ, κύριε· βοήθησόν μοι. τί με δεῖ ποιεῖν σκέψαι· ἐμόν ἐστι πείθεσθαί σοι.</q></div></article>
+<article class="section" id="s-16"><a class="ref" href="#s-16">16</a><div class="section-text" lang="grc">οὕτως καὶ ἐνταῦθʼ. <q>ἃ δεῖ με ποιεῖν οὐκ οἶδα, ἐλήλυθα δὲ μαθησόμενος.</q> οὔ, ἀλλὰ <q>περὶ τῶν ἄλλων μοι λέγε. τοῦτο δὲ κέκρικα.</q></div></article>
+<article class="section" id="s-17"><a class="ref" href="#s-17">17</a><div class="section-text" lang="grc">περὶ ποίων ἄλλων; τί γάρ ἐστι μεῖζον ἢ προὐργιαίτερον τοῦ πεισθῆναί σε, ὅτι οὐκ ἀρκεῖ τὸ κεκρικέναι καὶ τὸ μὴ μεταθέσθαι;</div></article>
+<article class="section" id="s-18"><a class="ref" href="#s-18">18</a><div class="section-text" lang="grc">οὗτοι οἱ μανικοὶ τόνοι, οὐχ ὑγιεινοί. <q>ἀποθανεῖν θέλω, ἄν με τοῦτο ἀναγκάσῃς.</q> διὰ τί, ἄνθρωπε; τί ἐγένετο; <q>κέκρικα.</q> ἐσώθην, ὅτι οὐ κέκρικας ἐμὲ ἀποκτεῖναι.</div></article>
+<article class="section" id="s-19"><a class="ref" href="#s-19">19</a><div class="section-text" lang="grc"><q>ἀργύριον οὐ λαμβάνω.</q> διὰ τί; <q>κέκρικα.</q> ἴσθι ὅτι ᾧ τόνῳ νῦν χρῇ πρὸς τὸ μὴ λαμβάνειν, οὐδὲν κωλύει σε ἀλόγως ποτὲ ῥέψαι πρὸς τὸ λαμβάνειν καὶ πάλιν λέγειν ὅτι <q>κέκρικα,</q></div></article>
+<article class="section" id="s-20"><a class="ref" href="#s-20">20</a><div class="section-text" lang="grc">ὥσπερ ἐν νοσοῦντι καὶ ῥευματιζομένῳ σώματι ποτὲ μὲν ἐπὶ ταῦτα ποτὲ δʼ ἐπʼ ἐκεῖνα ῥέπει τὸ ῥεῦμα. οὕτως καὶ ἀσθενὴς ψυχή, ὅπου μὲν κλίνει, ἄδηλον ἔχει· ὅταν δὲ καὶ τόνος προσῇ τῷ κλίματι τούτῳ καὶ τῇ φορᾷ, τότε γίνεται τὸ κακὸν ἀβοήθητον καὶ ἀθεράπευτον.</div></article>
+</div>
+
+<nav class="chapter-nav chapter-nav-bottom"><a href="2-14.html">ἡ προτέρα διατριβή</a><a class="chapter-home" href="../index.html">Ἀρχή</a><a href="2-16.html">ἡ ἑπομένη διατριβή</a></nav>

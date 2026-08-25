@@ -1,0 +1,32 @@
+---
+title: "Discourse I.21 — Against those who wish to be admired"
+lang: en
+pagetitle: "Discourse I.21 — Against those who wish to be admired — Epictetus, Discourses"
+title-prefix: ""
+description-meta: "Discourse I.21: “Against those who wish to be admired”. The Discourses of Epictetus, in George Long’s English translation, with his notes."
+sidebar: en
+---
+
+<!--
+FILE GENERATO. NON MODIFICARE A MANO.
+
+Modificare invece:
+- translation/it/**.md      per il testo e i titoli italiani
+- data/intro.json           per le note introduttive delle home page
+- tools/site_config.py      per lingue, testi dell'interfaccia, URL
+- styles.css                per l'aspetto grafico
+
+Poi eseguire:
+    run.bat
+-->
+
+
+<div class="diatribe-meta">Book I · 1 paragraph · <span class="canonical" title="Canonical reference">I 21</span></div>
+
+<nav class="chapter-nav"><a href="1-20.html">Previous discourse</a><a class="chapter-home" href="../index.html">Home</a><a href="1-22.html">Next discourse</a></nav>
+
+<div class="paragraph-list">
+<p>WHEN a man holds his proper station in life, he does not gape after things beyond it. Man, what do you wish to happen to you? I am satisfied if I desire and avoid conformably to nature, if I employ movements towards and from an object as I am by nature formed to do, and purpose and design and assent. Why then do you strut before us as if you had swallowed a spit? My wish has always been that those who meet me should admire me, and those who follow me should exclaim O the great philosopher. Who are they by whom you wish to be admired? Are they not those of whom you are used to say, that they are mad? Well then do you wish to be admired by madmen?</p>
+</div>
+
+<nav class="chapter-nav chapter-nav-bottom"><a href="1-20.html">Previous discourse</a><a class="chapter-home" href="../index.html">Home</a><a href="1-22.html">Next discourse</a></nav>

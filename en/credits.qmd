@@ -1,0 +1,30 @@
+---
+title: "Sources and credits"
+lang: en
+pagetitle: "Sources and credits — Epictetus, Discourses"
+title-prefix: ""
+description-meta: "Editions, translators and licences of the texts used on this site: Schenkl for the Greek, George Long for the English, Perseus Digital Library."
+sidebar: en
+---
+
+<!--
+FILE GENERATO. NON MODIFICARE A MANO.
+
+Modificare invece:
+- translation/it/**.md      per il testo e i titoli italiani
+- data/intro.json           per le note introduttive delle home page
+- tools/site_config.py      per lingue, testi dell'interfaccia, URL
+- styles.css                per l'aspetto grafico
+
+Poi eseguire:
+    run.bat
+-->
+
+
+<div class="site-note credits-note">
+<p><strong>Greek text.</strong> <i>Epicteti dissertationes ab Arriano digestae</i>, editio maior, edited by Heinrich Schenkl, Leipzig, Teubner, 1916. Taken from the <a href="https://www.perseus.tufts.edu/">Perseus Digital Library</a> (Tufts University), URN <code>urn:cts:greekLit:tlg0557.tlg001.perseus-grc2</code>.</p>
+<p><strong>English translation.</strong> George Long, <i>The Discourses of Epictetus, with the Encheiridion and Fragments</i>, London, George Bell and Sons, 1890. Taken from the <a href="https://www.perseus.tufts.edu/">Perseus Digital Library</a>, URN <code>urn:cts:greekLit:tlg0557.tlg001.perseus-eng3</code>. The footnotes are Long&#x27;s own and are printed in full at the end of each discourse.</p>
+<p><strong>Licence.</strong> Both Perseus texts are published under a <a href="https://creativecommons.org/licenses/by-sa/4.0/">Creative Commons Attribution-ShareAlike 4.0 International</a> licence. This site republishes them on the same terms: reuse requires attribution and the same licence.</p>
+<p><strong>Italian translation.</strong> Produced by GPT-5.6 Sol, with the assistance of Claude Opus 5.0, from Schenkl&#x27;s Greek text; completed in 2026.</p>
+<p><strong>Cover illustration.</strong> Generated with AI for this edition.</p>
+</div>

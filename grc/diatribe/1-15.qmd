@@ -1,0 +1,39 @@
+---
+title: "Διατριβὴ Αʹ.ιεʹ — τί ἐπαγγέλλεται φιλοσοφία"
+lang: grc
+pagetitle: "Διατριβὴ Αʹ.ιεʹ — τί ἐπαγγέλλεται φιλοσοφία — Ἐπικτήτου Διατριβαί"
+title-prefix: ""
+description-meta: "Διατριβὴ Αʹ.ιεʹ· «τί ἐπαγγέλλεται φιλοσοφία». Ἀρριανοῦ τῶν Ἐπικτήτου Διατριβῶν, τὸ ἑλληνικὸν κείμενον."
+sidebar: grc
+---
+
+<!--
+FILE GENERATO. NON MODIFICARE A MANO.
+
+Modificare invece:
+- translation/it/**.md      per il testo e i titoli italiani
+- data/intro.json           per le note introduttive delle home page
+- tools/site_config.py      per lingue, testi dell'interfaccia, URL
+- styles.css                per l'aspetto grafico
+
+Poi eseguire:
+    run.bat
+-->
+
+
+<div class="diatribe-meta">Βιβλίον Αʹ · 8 τμήματα · <span class="canonical" title="Παραπομπή">I 15</span></div>
+
+<nav class="chapter-nav"><a href="1-14.html">ἡ προτέρα διατριβή</a><a class="chapter-home" href="../index.html">Ἀρχή</a><a href="1-16.html">ἡ ἑπομένη διατριβή</a></nav>
+
+<div class="section-list">
+<article class="section" id="s-1"><a class="ref" href="#s-1">1</a><div class="section-text" lang="grc">συμβουλευομένου τινός, πῶς τὸν ἀδελφὸν πείσῃ μηκέτι χαλεπῶς αὐτῷ ἔχειν,</div></article>
+<article class="section" id="s-2"><a class="ref" href="#s-2">2</a><div class="section-text" lang="grc">οὐκ ἐπαγγέλλεται, ἔφη, φιλοσοφία τῶν ἐκτός τι περιποιήσειν τῷ ἀνθρώπῳ· εἰ δὲ μή, ἔξω τι τῆς ἰδίας ὕλης ἀναδέξεται. ὡς γὰρ τέκτονος ὕλη τὰ ξύλα, ἀνδριαντοποιοῦ ὁ χαλκός, οὕτως τῆς περὶ βίον τέχνης ὕλη ὁ βίος αὐτοῦ ἑκάστου.</div></article>
+<article class="section" id="s-3"><a class="ref" href="#s-3">3</a><div class="section-text" lang="grc">— τί οὖν ὁ τοῦ ἀδελφοῦ; — πάλιν τῆς αὐτοῦ ἐκείνου τέχνης ἐστίν, πρὸς δὲ τὴν σὴν τῶν ἐκτός ἐστιν, ὅμοιον ἀγρῷ, ὅμοιον ὑγείᾳ, ὅμοιον εὐδοξίᾳ. τούτων δʼ οὐδὲν ἐπαγγέλλεται· φιλοσοφία.</div></article>
+<article class="section" id="s-4"><a class="ref" href="#s-4">4</a><div class="section-text" lang="grc"><q>ἐν πάσῃ περιστάσει τηρήσω τὸ ἡγεμονικὸν κατὰ φύσιν ἔχον.</q> — τὸ τίνος; — <q>τὸ ἐκείνου, ἐν ᾧ εἰμί.</q></div></article>
+<article class="section" id="s-5"><a class="ref" href="#s-5">5</a><div class="section-text" lang="grc">— πῶς οὖν ἐκεῖνός μοι μὴ ὀργίζηται; — <q>φέρε μοι ἐκεῖνον κἀκείνῳ ἐρῶ, σοὶ δὲ περὶ τῆς ἐκείνου ὀργῆς οὐδὲν ἔχω λέγειν.</q></div></article>
+<article class="section" id="s-6"><a class="ref" href="#s-6">6</a><div class="section-text" lang="grc">εἰπόντος δὲ τοῦ συμβουλευομένου ὅτι Τοῦτο ζητῶ, πῶς ἂν ἐκείνου καὶ μὴ διαλλασσομένου κατὰ φύσιν ἔχοιμι,</div></article>
+<article class="section" id="s-7"><a class="ref" href="#s-7">7</a><div class="section-text" lang="grc">οὐδέν, ἔφη, τῶν μεγάλων ἄφνω γίνεται, ὅπου γε οὐδʼ ὁ βότρυς οὐδὲ σῦκον. ἄν μοι νῦν λέγῃς ὅτι <q>θέλω σῦκον,</q> ἀποκρινοῦμαί σοι ὅτι <q>χρόνου δεῖ.</q> ἄφες ἀνθήσῃ πρῶτον, εἶτα προβάλῃ τὸν καρπόν, εἶτα πεπανθῇ.</div></article>
+<article class="section" id="s-8"><a class="ref" href="#s-8">8</a><div class="section-text" lang="grc">εἶτα συκῆς μὲν καρπὸς ἄφνω καὶ μιᾷ ὥρᾳ οὐ τελειοῦται, γνώμης δʼ ἀνθρώπου καρπὸν θέλεις οὕτως διʼ ὀλίγου καὶ εὐκόλως κτήσασθαι; μηδʼ ἂν ἐγώ σοι λέγω, προσδόκα.</div></article>
+</div>
+
+<nav class="chapter-nav chapter-nav-bottom"><a href="1-14.html">ἡ προτέρα διατριβή</a><a class="chapter-home" href="../index.html">Ἀρχή</a><a href="1-16.html">ἡ ἑπομένη διατριβή</a></nav>

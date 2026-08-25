@@ -1,0 +1,47 @@
+---
+title: "Diatriba III.16 — Che bisogna entrare con cautela nella familiarità con gli altri"
+lang: it
+pagetitle: "Diatriba III.16 — Che bisogna entrare con cautela nella familiarità con gli altri — Epitteto, Diatribe"
+title-prefix: ""
+description-meta: "Diatriba III.16: «Che bisogna entrare con cautela nella familiarità con gli altri». Le Diatribe di Epitteto raccolte da Arriano, in traduzione italiana."
+sidebar: it
+---
+
+<!--
+FILE GENERATO. NON MODIFICARE A MANO.
+
+Modificare invece:
+- translation/it/**.md      per il testo e i titoli italiani
+- data/intro.json           per le note introduttive delle home page
+- tools/site_config.py      per lingue, testi dell'interfaccia, URL
+- styles.css                per l'aspetto grafico
+
+Poi eseguire:
+    run.bat
+-->
+
+
+<div class="diatribe-meta">Libro III · 16 sezioni · <span class="canonical" title="Riferimento canonico">III 16</span></div>
+
+<nav class="chapter-nav"><a href="3-15.html">Diatriba precedente</a><a class="chapter-home" href="../index.html">Home</a><a href="3-17.html">Diatriba successiva</a></nav>
+
+<div class="section-list">
+<article class="section" id="s-1"><a class="ref" href="#s-1">1</a><div class="section-text">Chi frequenta assiduamente alcune persone, per conversare, per partecipare a banchetti o, in generale, per vivere insieme, deve necessariamente o diventare simile a loro o portare loro verso ciò che è proprio di lui.</div></article>
+<article class="section" id="s-2"><a class="ref" href="#s-2">2</a><div class="section-text">Se infatti metti un carbone spento accanto a uno acceso, o il primo spegnerà il secondo oppure il secondo accenderà il primo.</div></article>
+<article class="section" id="s-3"><a class="ref" href="#s-3">3</a><div class="section-text">Poiché dunque il pericolo è così grande, bisogna entrare con cautela in simili frequentazioni con le persone comuni, ricordando che è impossibile stare a stretto contatto con chi è coperto di fuliggine senza prendere anche noi un po’ della sua fuliggine.</div></article>
+<article class="section" id="s-4"><a class="ref" href="#s-4">4</a><div class="section-text">Che cosa farai infatti se si parla di gladiatori, di cavalli, di atleti o, peggio ancora, di uomini: «Il tale è cattivo, il tale è buono; questa cosa è andata bene, questa male»? E ancora, se si scherza, si deride, si parla con malizia?</div></article>
+<article class="section" id="s-5"><a class="ref" href="#s-5">5</a><div class="section-text">C’è forse qualcuno di voi preparato come un suonatore di cetra che, presa in mano la lira, appena tocca le corde riconosce quelle stonate e accorda lo strumento? Qualcuno che abbia la capacità di Socrate, tanto da condurre in ogni compagnia chi gli stava accanto verso ciò che era proprio di lui?</div></article>
+<article class="section" id="s-6"><a class="ref" href="#s-6">6</a><div class="section-text">Da dove potrebbe venirvi una simile capacità? È inevitabile, invece, che siate trascinati qua e là dalle persone comuni.</div></article>
+<article class="section" id="s-7"><a class="ref" href="#s-7">7</a><div class="section-text">Perché dunque loro sono più forti di voi? Perché loro dicono tutte queste sciocchezze a partire da veri giudizi, mentre voi dite le vostre belle cose soltanto con le labbra. Per questo sono fiacche e morte, e viene la nausea a sentire le vostre esortazioni e quella povera virtù di cui si ciancia continuamente in lungo e in largo. È così che le persone comuni vi vincono.</div></article>
+<article class="section" id="s-8"><a class="ref" href="#s-8">8</a><div class="section-text">Ovunque infatti il giudizio è forte; il giudizio è invincibile.</div></article>
+<article class="section" id="s-9"><a class="ref" href="#s-9">9</a><div class="section-text">Finché dunque le belle opinioni non si saranno consolidate in voi e non avrete acquistato una certa forza che vi renda sicuri, vi consiglio di frequentare con cautela le persone comuni; altrimenti, giorno dopo giorno, come cera al sole, si scioglierà qualunque cosa abbiate scritto nell’animo a scuola.</div></article>
+<article class="section" id="s-10"><a class="ref" href="#s-10">10</a><div class="section-text">Tenetevi dunque lontani dal sole, finché avete opinioni di cera.</div></article>
+<article class="section" id="s-11"><a class="ref" href="#s-11">11</a><div class="section-text">Per questo i filosofi consigliano anche di allontanarsi dalla propria patria: le vecchie abitudini ci distraggono e non permettono che abbia inizio una nuova consuetudine; e non sopportiamo quelli che incontriamo e dicono: «Guarda, il tale filosofa! Proprio lui, che era così e così!»</div></article>
+<article class="section" id="s-12"><a class="ref" href="#s-12">12</a><div class="section-text">Allo stesso modo anche i medici mandano chi soffre di una lunga malattia in un’altra regione e in un’altra aria, e fanno bene.</div></article>
+<article class="section" id="s-13"><a class="ref" href="#s-13">13</a><div class="section-text">Introducete anche voi abitudini diverse in luogo delle vecchie; consolidate le vostre opinioni, esercitatevi in esse.</div></article>
+<article class="section" id="s-14"><a class="ref" href="#s-14">14</a><div class="section-text">No: da qui andate allo spettacolo, ai gladiatori, al ginnasio, al circo; poi di là tornate qui, e di nuovo da qui là, sempre gli stessi.</div></article>
+<article class="section" id="s-15"><a class="ref" href="#s-15">15</a><div class="section-text">E nessuna buona abitudine, nessuna attenzione, nessun ritorno su di sé e nessuna osservazione: «Come uso le rappresentazioni che mi si presentano? Secondo natura o contro natura? Come rispondo loro? Come devo oppure no? Dico alle cose che non dipendono dalla scelta morale: “Non mi riguardano”?»</div></article>
+<article class="section" id="s-16"><a class="ref" href="#s-16">16</a><div class="section-text">Se infatti non siete ancora in questa condizione, fuggite le vecchie abitudini, fuggite le persone comuni, se volete un giorno cominciare a essere qualcuno.</div></article>
+</div>
+
+<nav class="chapter-nav chapter-nav-bottom"><a href="3-15.html">Diatriba precedente</a><a class="chapter-home" href="../index.html">Home</a><a href="3-17.html">Diatriba successiva</a></nav>

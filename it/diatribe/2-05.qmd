@@ -1,0 +1,60 @@
+---
+title: "Diatriba II.5 — Come possono coesistere magnanimità e cura"
+lang: it
+pagetitle: "Diatriba II.5 — Come possono coesistere magnanimità e cura — Epitteto, Diatribe"
+title-prefix: ""
+description-meta: "Diatriba II.5: «Come possono coesistere magnanimità e cura». Le Diatribe di Epitteto raccolte da Arriano, in traduzione italiana."
+sidebar: it
+---
+
+<!--
+FILE GENERATO. NON MODIFICARE A MANO.
+
+Modificare invece:
+- translation/it/**.md      per il testo e i titoli italiani
+- data/intro.json           per le note introduttive delle home page
+- tools/site_config.py      per lingue, testi dell'interfaccia, URL
+- styles.css                per l'aspetto grafico
+
+Poi eseguire:
+    run.bat
+-->
+
+
+<div class="diatribe-meta">Libro II · 29 sezioni · <span class="canonical" title="Riferimento canonico">II 5</span></div>
+
+<nav class="chapter-nav"><a href="2-04.html">Diatriba precedente</a><a class="chapter-home" href="../index.html">Home</a><a href="2-06.html">Diatriba successiva</a></nav>
+
+<div class="section-list">
+<article class="section" id="s-1"><a class="ref" href="#s-1">1</a><div class="section-text">Le materie sono indifferenti; il loro uso, invece, non è indifferente.</div></article>
+<article class="section" id="s-2"><a class="ref" href="#s-2">2</a><div class="section-text">Come si può dunque conservare insieme la fermezza e l’imperturbabilità, e insieme la cura, senza agire a caso né con trascuratezza?</div></article>
+<article class="section" id="s-3"><a class="ref" href="#s-3">3</a><div class="section-text">Imitando i giocatori di dadi. Le pedine sono indifferenti, i dadi sono indifferenti: come posso sapere che cosa uscirà? Ma usare con cura e abilità ciò che è uscito, questo ormai è compito mio.</div></article>
+<article class="section" id="s-4"><a class="ref" href="#s-4">4</a><div class="section-text">Così dunque anche nella vita il compito principale è questo: distingui le cose, separale e di’: «Le cose esterne non dipendono da me; la scelta morale dipende da me».</div></article>
+<article class="section" id="s-5"><a class="ref" href="#s-5">5</a><div class="section-text">Dove cercherò il bene e il male? Dentro, nelle cose mie. Nelle cose altrui, invece, non chiamare mai nulla né bene né male, né vantaggio né danno, né altro di simile.</div></article>
+<article class="section" id="s-6"><a class="ref" href="#s-6">6</a><div class="section-text">Che dunque? Bisogna usare queste cose con negligenza? Nient’affatto. Perché anche questo è un male per la scelta morale ed è, per essa, contrario alla natura.</div></article>
+<article class="section" id="s-7"><a class="ref" href="#s-7">7</a><div class="section-text">Bisogna invece usarle insieme con cura, perché l’uso non è indifferente, e con fermezza e imperturbabilità, perché la materia è indifferente.</div></article>
+<article class="section" id="s-8"><a class="ref" href="#s-8">8</a><div class="section-text">Là infatti dove sta ciò che conta, nessuno può né impedirmi né costringermi. Là dove invece posso essere impedito e costretto, il conseguimento di quelle cose non dipende da me e non è né bene né male; il loro uso, invece, è bene o male, e dipende da me.</div></article>
+<article class="section" id="s-9"><a class="ref" href="#s-9">9</a><div class="section-text">È difficile mescolare e riunire queste due cose: la cura di chi si applica alle materie e la fermezza di chi non attribuisce loro importanza; ma non è impossibile. Altrimenti sarebbe impossibile essere felici.</div></article>
+<article class="section" id="s-10"><a class="ref" href="#s-10">10</a><div class="section-text">È come ciò che facciamo durante un viaggio per mare. Che cosa posso fare io? Scegliere il timoniere, i marinai, il giorno, il momento opportuno.</div></article>
+<article class="section" id="s-11"><a class="ref" href="#s-11">11</a><div class="section-text">Poi sopraggiunge una tempesta. Che cosa mi resta da fare? Io ho compiuto ciò che spettava a me. Ora la faccenda appartiene a un altro, al timoniere. «Ma la nave affonda».</div></article>
+<article class="section" id="s-12"><a class="ref" href="#s-12">12</a><div class="section-text">Che cosa posso fare, dunque? Faccio soltanto ciò che posso: affogo senza paura, senza gridare e senza accusare Dio, sapendo che ciò che è nato deve anche perire.</div></article>
+<article class="section" id="s-13"><a class="ref" href="#s-13">13</a><div class="section-text">Non sono eterno, infatti, ma un uomo, una parte del tutto come un’ora è parte del giorno. Devo presentarmi come un’ora e passare come un’ora.</div></article>
+<article class="section" id="s-14"><a class="ref" href="#s-14">14</a><div class="section-text">Che differenza fa dunque come passerò, se annegato o per la febbre? Per una via di questo genere devo comunque passare.</div></article>
+<article class="section" id="s-15"><a class="ref" href="#s-15">15</a><div class="section-text">Vedrai fare lo stesso anche a chi gioca bene a palla. Nessuno di loro si preoccupa della palla come se fosse un bene o un male, ma di come lanciarla e riceverla.</div></article>
+<article class="section" id="s-16"><a class="ref" href="#s-16">16</a><div class="section-text">È dunque in questo che stanno il buon ritmo, l’abilità, la rapidità e il buon giudizio: io, anche tendendo il grembo, posso non riuscire a prenderla; l’altro invece prende ciò che gli lancio.</div></article>
+<article class="section" id="s-17"><a class="ref" href="#s-17">17</a><div class="section-text">Ma se riceviamo o lanciamo la palla con turbamento e paura, che gioco è più? Dove sarà la fermezza? Dove si vedrà la continuità del gioco? Uno dirà: «Lanciala»; un altro: «Non lanciarla»; un altro ancora: «Non lanciarla in alto». Questa è ormai una lite, non un gioco.</div></article>
+<article class="section" id="s-18"><a class="ref" href="#s-18">18</a><div class="section-text">Perciò Socrate sapeva giocare a palla. In che modo? Giocando in tribunale. «Dimmi, Anito», dice, «in che senso affermi che io non credo in un dio? Che cosa ti sembrano essere gli esseri divini? Non sono forse figli degli dèi, oppure esseri nati dall’unione di uomini e dèi?»</div></article>
+<article class="section" id="s-19"><a class="ref" href="#s-19">19</a><div class="section-text">Quando quello lo ammise: «Chi dunque, secondo te, può ritenere che esistano i muli ma non gli asini?» Giocava come con una palla. E che cos’era allora la palla posta in mezzo? Essere imprigionato, essere esiliato, bere il veleno, essere separato dalla moglie, lasciare i figli orfani.</div></article>
+<article class="section" id="s-20"><a class="ref" href="#s-20">20</a><div class="section-text">Queste erano le cose in mezzo alle quali giocava, e tuttavia continuava a giocare e a maneggiare la palla con buon ritmo. Così anche noi: la massima cura nel gioco, ma l’indifferenza come se si trattasse di una palla.</div></article>
+<article class="section" id="s-21"><a class="ref" href="#s-21">21</a><div class="section-text">Bisogna infatti esercitare la propria abilità su qualche materia esterna, ma senza attribuire valore alla materia stessa: qualunque essa sia, bisogna mostrare l’abilità nel trattarla. Così anche il tessitore non produce la lana, ma lavora con arte quella che riceve.</div></article>
+<article class="section" id="s-22"><a class="ref" href="#s-22">22</a><div class="section-text">Un altro ti dà il cibo, i beni e può toglierti anche queste cose e il corpo stesso. Tu, ricevuta la materia, lavorala. E poi, se ne esci senza aver subito nulla,</div></article>
+<article class="section" id="s-23"><a class="ref" href="#s-23">23</a><div class="section-text">gli altri che ti incontrano si congratuleranno con te perché sei salvo; ma chi sa giudicare queste cose, se vedrà che ti sei comportato dignitosamente in quella situazione, ti loderà e si rallegrerà con te; se invece vedrà che ti sei salvato grazie a qualche indegnità, farà il contrario. Dove infatti è ragionevole rallegrarsi, lì è ragionevole anche congratularsi.</div></article>
+<article class="section" id="s-24"><a class="ref" href="#s-24">24</a><div class="section-text">Come si può dunque dire che alcune cose esterne sono secondo natura e altre contro natura? Come se le considerassimo isolate. Del piede dirò infatti che è secondo natura essere pulito; ma se lo consideri come piede e come qualcosa che non è isolato, gli toccherà anche entrare nel fango, calpestare spine e talvolta essere amputato per il bene dell’intero corpo; altrimenti non sarà più un piede. Qualcosa di simile bisogna pensare anche di noi.</div></article>
+<article class="section" id="s-25"><a class="ref" href="#s-25">25</a><div class="section-text">Che cosa sei? Un uomo. Se ti consideri come un essere isolato, è secondo natura vivere fino alla vecchiaia, essere ricco, essere sano. Ma se ti consideri come uomo e come parte di un tutto, per quel tutto ora può convenirti ammalarti, ora navigare e correre pericoli, ora trovarti nel bisogno, e talvolta morire prima del tempo.</div></article>
+<article class="section" id="s-26"><a class="ref" href="#s-26">26</a><div class="section-text">Perché dunque ti indigni? Non sai che, come quello altrimenti non sarebbe più un piede, così tu non saresti più un uomo? Che cos’è infatti un uomo? Una parte di una città: anzitutto di quella formata da dèi e uomini, poi di quella che chiamiamo la più vicina, che è una piccola imitazione della città universale.</div></article>
+<article class="section" id="s-27"><a class="ref" href="#s-27">27</a><div class="section-text">«Dunque ora devo essere processato io? Ora un altro deve avere la febbre, un altro navigare, un altro morire, un altro essere condannato?» È impossibile infatti che, con un corpo come questo, in un mondo come questo e vivendo insieme a uomini come questi, non capitino a persone diverse cose diverse di questo genere.</div></article>
+<article class="section" id="s-28"><a class="ref" href="#s-28">28</a><div class="section-text">Il tuo compito, dunque, è presentarti e dire ciò che devi, e disporre la cosa come conviene.</div></article>
+<article class="section" id="s-29"><a class="ref" href="#s-29">29</a><div class="section-text">Poi quello dice: «Ti giudico colpevole». Ti auguro ogni bene. Io ho fatto ciò che spettava a me; se anche tu hai fatto ciò che spettava a te, vedilo tu stesso. Anche lui corre infatti un rischio: non dimenticarlo.</div></article>
+</div>
+
+<nav class="chapter-nav chapter-nav-bottom"><a href="2-04.html">Diatriba precedente</a><a class="chapter-home" href="../index.html">Home</a><a href="2-06.html">Diatriba successiva</a></nav>

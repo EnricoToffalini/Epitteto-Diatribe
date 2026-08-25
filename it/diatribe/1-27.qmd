@@ -1,0 +1,52 @@
+---
+title: "Diatriba I.27 — In quanti modi si presentano le rappresentazioni e quali aiuti bisogna preparare contro di esse"
+lang: it
+pagetitle: "Diatriba I.27 — In quanti modi si presentano le rappresentazioni e quali aiuti bisogna preparare contro di esse — Epitteto, Diatribe"
+title-prefix: ""
+description-meta: "Diatriba I.27: «In quanti modi si presentano le rappresentazioni e quali aiuti bisogna preparare contro di esse». Le Diatribe di Epitteto raccolte da Arriano, in traduzione italiana."
+sidebar: it
+---
+
+<!--
+FILE GENERATO. NON MODIFICARE A MANO.
+
+Modificare invece:
+- translation/it/**.md      per il testo e i titoli italiani
+- data/intro.json           per le note introduttive delle home page
+- tools/site_config.py      per lingue, testi dell'interfaccia, URL
+- styles.css                per l'aspetto grafico
+
+Poi eseguire:
+    run.bat
+-->
+
+
+<div class="diatribe-meta">Libro I · 21 sezioni · <span class="canonical" title="Riferimento canonico">I 27</span></div>
+
+<nav class="chapter-nav"><a href="1-26.html">Diatriba precedente</a><a class="chapter-home" href="../index.html">Home</a><a href="1-28.html">Diatriba successiva</a></nav>
+
+<div class="section-list">
+<article class="section" id="s-1"><a class="ref" href="#s-1">1</a><div class="section-text">Le rappresentazioni ci si presentano in quattro modi: o una cosa è e appare così com’è; o non è e neppure appare che sia; o è e non appare; o non è e appare.</div></article>
+<article class="section" id="s-2"><a class="ref" href="#s-2">2</a><div class="section-text">Colpire nel segno in tutti questi casi è compito di chi è educato. Qualunque sia ciò che ci mette in difficoltà, è contro quello che bisogna applicare l’aiuto. Se a metterci in difficoltà sono i sofismi pirroniani e accademici, applichiamo l’aiuto contro quelli;</div></article>
+<article class="section" id="s-3"><a class="ref" href="#s-3">3</a><div class="section-text">se è la plausibilità delle cose, per cui alcune ci appaiono beni pur non essendolo, cerchiamo lì l’aiuto; se è l’abitudine a metterci in difficoltà, bisogna cercare di trovare l’aiuto contro di essa.</div></article>
+<article class="section" id="s-4"><a class="ref" href="#s-4">4</a><div class="section-text">Quale aiuto si può dunque trovare contro l’abitudine?</div></article>
+<article class="section" id="s-5"><a class="ref" href="#s-5">5</a><div class="section-text">L’abitudine contraria. Senti la gente comune dire: «Poveretto, è morto; suo padre e sua madre sono distrutti; è stato stroncato, e per di più prematuramente e in terra straniera».</div></article>
+<article class="section" id="s-6"><a class="ref" href="#s-6">6</a><div class="section-text">Ascolta i discorsi contrari, strappati a queste espressioni, opponi all’abitudine l’abitudine contraria. Contro i ragionamenti sofistici bisogna avere gli strumenti logici e l’esercizio e la pratica in essi; contro la plausibilità delle cose, bisogna avere prenozioni evidenti, ben ripulite e pronte all’uso.</div></article>
+<article class="section" id="s-7"><a class="ref" href="#s-7">7</a><div class="section-text">Quando la morte appare un male, bisogna avere pronto questo: che i mali vanno evitati e che la morte è necessaria. Che cosa farò, infatti?</div></article>
+<article class="section" id="s-8"><a class="ref" href="#s-8">8</a><div class="section-text">Dove potrò sfuggirle? Ammettiamo che io sia Sarpedone, figlio di Zeus, per poter dire con tanta nobiltà: «Andando là, voglio o distinguermi io stesso o offrire a un altro l’occasione di distinguersi; se non posso compiere io stesso qualcosa di buono, non impedirò a un altro di compiere qualcosa di nobile». Ammettiamo che queste cose siano al di sopra delle nostre forze: quell’altra non è alla nostra portata?</div></article>
+<article class="section" id="s-9"><a class="ref" href="#s-9">9</a><div class="section-text">E dove sfuggirò alla morte? Indicatemi il paese, indicatemi uomini presso i quali possa andare e ai quali essa non si avvicini, indicatemi un incantesimo. Se non ne ho uno, che cosa volete che faccia?</div></article>
+<article class="section" id="s-10"><a class="ref" href="#s-10">10</a><div class="section-text">Non posso evitare la morte; non eviterò almeno di temerla, ma morirò tra lamenti e tremori? Perché questa è l’origine di una passione: volere che qualcosa avvenga e che invece non avvenga.</div></article>
+<article class="section" id="s-11"><a class="ref" href="#s-11">11</a><div class="section-text">Perciò, se posso modificare le cose esterne secondo la mia volontà, le modifico; se non posso, voglio cavare gli occhi a chi me lo impedisce.</div></article>
+<article class="section" id="s-12"><a class="ref" href="#s-12">12</a><div class="section-text">Per natura, infatti, l’uomo non sopporta di essere privato del bene né di incorrere nel male.</div></article>
+<article class="section" id="s-13"><a class="ref" href="#s-13">13</a><div class="section-text">Alla fine, quando non posso né modificare le cose né cavare gli occhi a chi mi ostacola, me ne sto seduto e gemo e insulto chi posso, Zeus e gli altri dèi: se infatti non si curano di me, che ho a che fare io con loro?</div></article>
+<article class="section" id="s-14"><a class="ref" href="#s-14">14</a><div class="section-text">«Sì, ma sarai empio». E in che cosa starò peggio di come sto ora? In generale, bisogna ricordare questo: se ciò che è pio e ciò che è utile non coincidono, la pietà non può conservarsi in nessuno. Non ti sembrano cose urgenti?</div></article>
+<article class="section" id="s-15"><a class="ref" href="#s-15">15</a><div class="section-text">Venga pure il pirroniano e l’accademico e mi affronti. Quanto a me, non ho tempo per queste cose né sono in grado di difendere l’esperienza comune.</div></article>
+<article class="section" id="s-16"><a class="ref" href="#s-16">16</a><div class="section-text">Se avessi una causa perfino per un campicello, chiamerei qualcun altro a difendermi. Di che cosa dunque mi accontento su questo punto?</div></article>
+<article class="section" id="s-17"><a class="ref" href="#s-17">17</a><div class="section-text">Come si produca la percezione, se attraverso tutto il corpo o da una sua parte, forse non so darne ragione, ed entrambe le ipotesi mi lasciano perplesso. Ma che io e tu non siamo la stessa persona, lo so con assoluta precisione.</div></article>
+<article class="section" id="s-18"><a class="ref" href="#s-18">18</a><div class="section-text">Come lo so? Quando voglio ingoiare qualcosa, non porto il boccone là, ma qui; quando voglio prendere del pane, non prendo mai la scopa, ma vado sempre verso il pane come verso un bersaglio.</div></article>
+<article class="section" id="s-19"><a class="ref" href="#s-19">19</a><div class="section-text">E voi stessi che negate i sensi fate forse diversamente? Chi di voi, volendo andare alle terme, è finito in un mulino?</div></article>
+<article class="section" id="s-20"><a class="ref" href="#s-20">20</a><div class="section-text">— E allora? Non bisogna, per quanto possiamo, occuparci anche di queste cose: preservare l’esperienza comune, fortificarci contro gli argomenti che la attaccano?</div></article>
+<article class="section" id="s-21"><a class="ref" href="#s-21">21</a><div class="section-text">— E chi lo nega? Ma lo faccia chi può, chi ne ha il tempo. Chi invece trema, è turbato e ha il cuore spezzato dentro, deve dedicare il suo tempo a qualcos’altro.</div></article>
+</div>
+
+<nav class="chapter-nav chapter-nav-bottom"><a href="1-26.html">Diatriba precedente</a><a class="chapter-home" href="../index.html">Home</a><a href="1-28.html">Diatriba successiva</a></nav>

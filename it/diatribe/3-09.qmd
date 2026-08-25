@@ -1,0 +1,53 @@
+---
+title: "Diatriba III.9 — A un retore che saliva a Roma per una causa"
+lang: it
+pagetitle: "Diatriba III.9 — A un retore che saliva a Roma per una causa — Epitteto, Diatribe"
+title-prefix: ""
+description-meta: "Diatriba III.9: «A un retore che saliva a Roma per una causa». Le Diatribe di Epitteto raccolte da Arriano, in traduzione italiana."
+sidebar: it
+---
+
+<!--
+FILE GENERATO. NON MODIFICARE A MANO.
+
+Modificare invece:
+- translation/it/**.md      per il testo e i titoli italiani
+- data/intro.json           per le note introduttive delle home page
+- tools/site_config.py      per lingue, testi dell'interfaccia, URL
+- styles.css                per l'aspetto grafico
+
+Poi eseguire:
+    run.bat
+-->
+
+
+<div class="diatribe-meta">Libro III · 22 sezioni · <span class="canonical" title="Riferimento canonico">III 9</span></div>
+
+<nav class="chapter-nav"><a href="3-08.html">Diatriba precedente</a><a class="chapter-home" href="../index.html">Home</a><a href="3-10.html">Diatriba successiva</a></nav>
+
+<div class="section-list">
+<article class="section" id="s-1"><a class="ref" href="#s-1">1</a><div class="section-text">Entrò da lui un uomo che saliva a Roma per una causa riguardante una carica pubblica. Epitteto gli chiese per quale ragione vi andasse; e quello, a sua volta, gli domandò che cosa pensasse della faccenda.</div></article>
+<article class="section" id="s-2"><a class="ref" href="#s-2">2</a><div class="section-text">«Se mi chiedi che cosa farai a Roma», disse, «se avrai successo oppure fallirai, non ho alcun principio da offrirti su questo. Se invece mi chiedi come agirai, posso dirti questo: se hai giudizi retti, agirai bene; se ne hai di cattivi, male. Infatti, per ciascuno, causa di ogni azione è un giudizio.»</div></article>
+<article class="section" id="s-3"><a class="ref" href="#s-3">3</a><div class="section-text">«Che cos’è ciò per cui hai desiderato essere eletto patrono dei Cnossi? Il giudizio. Che cos’è ciò per cui ora sali a Roma? Il giudizio. E con l’inverno, il pericolo e le spese?» — «È necessario.» — «Chi te lo dice?»</div></article>
+<article class="section" id="s-4"><a class="ref" href="#s-4">4</a><div class="section-text">«Il giudizio. Se dunque i giudizi sono causa di tutto, e uno ha giudizi cattivi, quale è la causa, tale sarà anche ciò che ne deriva.»</div></article>
+<article class="section" id="s-5"><a class="ref" href="#s-5">5</a><div class="section-text">«Abbiamo dunque tutti giudizi sani, tu e il tuo avversario? E allora in che cosa differite? Forse i tuoi sono più sani dei suoi? Perché? Perché così ti sembra. Anche a lui sembra lo stesso, e così ai pazzi. Questo è un cattivo criterio.»</div></article>
+<article class="section" id="s-6"><a class="ref" href="#s-6">6</a><div class="section-text">«Mostrami invece che hai sottoposto a esame e a cura i tuoi giudizi. Ora navighi verso Roma per essere patrono dei Cnossi, e non ti basta restare a casa con gli onori che già avevi, ma ne desideri uno maggiore e più prestigioso: quando hai mai intrapreso un viaggio del genere per esaminare i tuoi giudizi e, se ne hai qualcuno cattivo, eliminarlo?»</div></article>
+<article class="section" id="s-7"><a class="ref" href="#s-7">7</a><div class="section-text">«Da chi sei mai andato per questo? Quale periodo della tua vita hai destinato a tale compito, quale età? Ripercorri i tuoi anni, se ti vergogni di farlo davanti a me: fallo da solo con te stesso.»</div></article>
+<article class="section" id="s-8"><a class="ref" href="#s-8">8</a><div class="section-text">«Da bambino esaminavi i tuoi giudizi? Non facevi forse ciò che facevi come fai tutto il resto? E quando poi eri ragazzo, ascoltavi i retori e ti esercitavi tu stesso, che cosa ti sembrava che ti mancasse?»</div></article>
+<article class="section" id="s-9"><a class="ref" href="#s-9">9</a><div class="section-text">«E quando eri giovane e già partecipavi alla vita politica, pronunciavi tu stesso arringhe e godevi di buona reputazione, chi ti sembrava ancora tuo pari? E dove avresti sopportato che qualcuno ti esaminasse dicendo che avevi giudizi cattivi?»</div></article>
+<article class="section" id="s-10"><a class="ref" href="#s-10">10</a><div class="section-text">«Che cosa vuoi dunque che ti dica?» — «Aiutami nella mia causa.» — «Su questo non ho principi. E tu, se sei venuto da me per questo, non sei venuto da me come da un filosofo, ma come da un erbivendolo o da un calzolaio.»</div></article>
+<article class="section" id="s-11"><a class="ref" href="#s-11">11</a><div class="section-text">— «A che cosa servono dunque i principi dei filosofi?» — «A questo: qualunque cosa accada, conservare la nostra facoltà direttiva conforme a natura e condurci così fino alla fine. Ti sembra poco?» — «No, è la cosa più grande.» — «E allora richiede forse poco tempo, e si può acquisire passando di qui? Se puoi, prendilo.»</div></article>
+<article class="section" id="s-12"><a class="ref" href="#s-12">12</a><div class="section-text">«Poi dirai: “Ho incontrato Epitteto”, come avresti incontrato una pietra o una statua. Mi hai visto, infatti, e niente di più. Incontra invece un uomo come uomo chi impara a conoscere i suoi giudizi e, a sua volta, gli mostra i propri.»</div></article>
+<article class="section" id="s-13"><a class="ref" href="#s-13">13</a><div class="section-text">«Impara a conoscere i miei giudizi, mostrami i tuoi, e allora di’ di avermi incontrato. Mettiamoci alla prova a vicenda: se io ho qualche cattivo giudizio, toglimelo; se ne hai tu, mettilo in mezzo. Questo significa incontrare un filosofo.»</div></article>
+<article class="section" id="s-14"><a class="ref" href="#s-14">14</a><div class="section-text">«No: è soltanto una tappa lungo il viaggio e, mentre noleggiamo la nave, possiamo vedere anche Epitteto; vediamo un po’ che cosa dice. Poi, una volta uscito: “Epitteto non valeva nulla, faceva solecismi, parlava da barbaro”. Del resto, per giudicare che cos’altro entrate qui?»</div></article>
+<article class="section" id="s-15"><a class="ref" href="#s-15">15</a><div class="section-text">«Ma se mi dedico a queste cose», dice, «non avrò un campo, come non ce l’hai tu; non avrò coppe d’argento, come non ce le hai tu; né bei capi di bestiame, come non ce li hai tu.»</div></article>
+<article class="section" id="s-16"><a class="ref" href="#s-16">16</a><div class="section-text">A questo forse basta rispondere: «Ma io non ne ho bisogno. Tu invece, anche se possiedi molto, hai bisogno di altro ancora: che tu lo voglia o no, sei più povero di me.»</div></article>
+<article class="section" id="s-17"><a class="ref" href="#s-17">17</a><div class="section-text">— «Di che cosa ho dunque bisogno?» — «Di ciò che a te manca: stabilità, una mente conforme a natura, libertà dal turbamento.»</div></article>
+<article class="section" id="s-18"><a class="ref" href="#s-18">18</a><div class="section-text">«Patrono o non patrono, che m’importa? A te importa. Io sono più ricco di te: non sono in ansia per ciò che Cesare penserà di me; per questo non adulo nessuno. Queste cose possiedo al posto degli oggetti d’argento e d’oro. Tu hai suppellettili d’oro, ma sono di coccio la tua ragione, i tuoi giudizi, i tuoi assensi, i tuoi impulsi, i tuoi desideri.»</div></article>
+<article class="section" id="s-19"><a class="ref" href="#s-19">19</a><div class="section-text">«Quando invece queste cose in me sono conformi a natura, perché non dovrei dedicarmi anche a perfezionare il ragionamento? Ho tempo libero: la mia mente non è distratta. Che cosa farò, se non sono distratto? Quale occupazione più umana di questa posso avere?»</div></article>
+<article class="section" id="s-20"><a class="ref" href="#s-20">20</a><div class="section-text">«Voi, quando non avete nulla da fare, vi agitate, entrate a teatro oppure vi mettete ad analizzare sillogismi; perché il filosofo non dovrebbe perfezionare il proprio ragionamento?»</div></article>
+<article class="section" id="s-21"><a class="ref" href="#s-21">21</a><div class="section-text">«Tu hai vasi di cristallo, io il ragionamento del Mentitore; tu vasi di murra, io il ragionamento del Negatore. A te sembra poco tutto ciò che possiedi; a me sembra grande tutto ciò che è mio. Il tuo desiderio è insaziabile, il mio è appagato.»</div></article>
+<article class="section" id="s-22"><a class="ref" href="#s-22">22</a><div class="section-text">«Ai bambini che infilano la mano in un vaso dal collo stretto per tirarne fuori fichi e noci succede questo: se riempiono la mano, non riescono più a tirarla fuori, e allora piangono. Lascia andare qualche cosa e la tirerai fuori. Anche tu lascia andare il desiderio: non desiderare molte cose, e ne uscirai.»</div></article>
+</div>
+
+<nav class="chapter-nav chapter-nav-bottom"><a href="3-08.html">Diatriba precedente</a><a class="chapter-home" href="../index.html">Home</a><a href="3-10.html">Diatriba successiva</a></nav>

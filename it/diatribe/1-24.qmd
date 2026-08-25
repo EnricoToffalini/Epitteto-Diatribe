@@ -1,0 +1,51 @@
+---
+title: "Diatriba I.24 — Come bisogna lottare contro le circostanze"
+lang: it
+pagetitle: "Diatriba I.24 — Come bisogna lottare contro le circostanze — Epitteto, Diatribe"
+title-prefix: ""
+description-meta: "Diatriba I.24: «Come bisogna lottare contro le circostanze». Le Diatribe di Epitteto raccolte da Arriano, in traduzione italiana."
+sidebar: it
+---
+
+<!--
+FILE GENERATO. NON MODIFICARE A MANO.
+
+Modificare invece:
+- translation/it/**.md      per il testo e i titoli italiani
+- data/intro.json           per le note introduttive delle home page
+- tools/site_config.py      per lingue, testi dell'interfaccia, URL
+- styles.css                per l'aspetto grafico
+
+Poi eseguire:
+    run.bat
+-->
+
+
+<div class="diatribe-meta">Libro I · 20 sezioni · <span class="canonical" title="Riferimento canonico">I 24</span></div>
+
+<nav class="chapter-nav"><a href="1-23.html">Diatriba precedente</a><a class="chapter-home" href="../index.html">Home</a><a href="1-25.html">Diatriba successiva</a></nav>
+
+<div class="section-list">
+<article class="section" id="s-1"><a class="ref" href="#s-1">1</a><div class="section-text">Sono le circostanze a mostrare gli uomini. Perciò, quando ti capita una circostanza difficile, ricorda che Dio, come un allenatore, ti ha messo di fronte a un giovane avversario robusto.</div></article>
+<article class="section" id="s-2"><a class="ref" href="#s-2">2</a><div class="section-text">«A che scopo?», dice. «Perché tu possa diventare vincitore olimpico; ma senza sudore non si diventa.» A me sembra che nessuno abbia avuto una circostanza migliore di quella che hai avuto tu, se vuoi affrontarla come un atleta affronta un giovane avversario.</div></article>
+<article class="section" id="s-3"><a class="ref" href="#s-3">3</a><div class="section-text">Anche ora noi mandiamo un esploratore a Roma. Ma nessuno manda un esploratore codardo, perché, appena sente un rumore o vede da qualche parte un’ombra, torni di corsa sconvolto dicendo che i nemici sono già arrivati.</div></article>
+<article class="section" id="s-4"><a class="ref" href="#s-4">4</a><div class="section-text">Così anche tu, se tornassi ora a dirci: «Le cose a Roma fanno paura; terribile è la morte, terribile l’esilio, terribile l’insulto, terribile la povertà. Fuggite, uomini, i nemici sono arrivati»,</div></article>
+<article class="section" id="s-5"><a class="ref" href="#s-5">5</a><div class="section-text">ti diremmo: «Vattene, fa’ il profeta per te stesso. Il nostro unico errore è stato mandare un esploratore come te.»</div></article>
+<article class="section" id="s-6"><a class="ref" href="#s-6">6</a><div class="section-text">Diogene, mandato come esploratore prima di te, ci ha riferito tutt’altro. Dice che la morte non è un male, perché non è vergognosa; dice che la cattiva reputazione è rumore di uomini impazziti.</div></article>
+<article class="section" id="s-7"><a class="ref" href="#s-7">7</a><div class="section-text">E che cosa non ha detto questo esploratore sul dolore, sul piacere, sulla povertà! Dice che essere nudi è meglio di qualsiasi veste bordata di porpora; dice che dormire sulla nuda terra è il letto più morbido.</div></article>
+<article class="section" id="s-8"><a class="ref" href="#s-8">8</a><div class="section-text">E come prova di ciascuna di queste cose porta il proprio coraggio, la propria tranquillità, la propria libertà, e poi anche il suo piccolo corpo lucido e ben compatto.</div></article>
+<article class="section" id="s-9"><a class="ref" href="#s-9">9</a><div class="section-text">«Nessun nemico», dice, «è vicino; tutto è pieno di pace.» «Come, Diogene?» «Guarda», dice: «sono forse stato colpito? Sono forse stato ferito? Sono fuggito davanti a qualcuno?»</div></article>
+<article class="section" id="s-10"><a class="ref" href="#s-10">10</a><div class="section-text">Ecco come dev’essere un esploratore. Tu invece torni da noi dicendo ora una cosa ora un’altra. Non vuoi tornare indietro e guardare con maggiore attenzione, senza la tua codardia?</div></article>
+<article class="section" id="s-11"><a class="ref" href="#s-11">11</a><div class="section-text">«Che cosa devo fare, dunque?» Che cosa fai quando scendi da una nave? Ti porti forse via il timone? Ti porti via i remi? Che cosa porti via? Le tue cose: la fiaschetta e la bisaccia. Anche ora, se ricordi quali sono le tue cose, non pretenderai mai quelle altrui.</div></article>
+<article class="section" id="s-12"><a class="ref" href="#s-12">12</a><div class="section-text">Ti dice: «Deponi la veste con la larga fascia.» Ecco quella con la fascia stretta. «Deponi anche questa.» Ecco soltanto il mantello. «Deponi il mantello.»</div></article>
+<article class="section" id="s-13"><a class="ref" href="#s-13">13</a><div class="section-text">Ecco, sono nudo. «Ma susciti invidia contro di me.» Prenditi allora tutto il corpo. Dovrei ancora temere uno davanti al quale posso gettare via il corpo?</div></article>
+<article class="section" id="s-14"><a class="ref" href="#s-14">14</a><div class="section-text">«Ma non mi lascerà come erede.» E allora? Ho forse dimenticato che nessuna di queste cose era mia? Perché dunque le chiamiamo nostre? Come chiamiamo nostro il letto in una locanda. Se l’oste, morendo, lascia i letti a te, li avrai tu; se li lascia a un altro, li avrà lui, e tu cercherai un altro letto.</div></article>
+<article class="section" id="s-15"><a class="ref" href="#s-15">15</a><div class="section-text">E se non ne trovi uno, dormirai semplicemente per terra, tranquillo e russando, ricordandoti che le tragedie hanno luogo tra i ricchi, i re e i tiranni; nessun povero completa una tragedia, se non come membro del coro.</div></article>
+<article class="section" id="s-16"><a class="ref" href="#s-16">16</a><div class="section-text">I re invece cominciano nella prosperità: «Incoronate le dimore!» Poi, verso il terzo o quarto atto: «Ah, Citerone, perché mi accogliesti?» Schiavo, dove sono le corone? Dove il diadema?</div></article>
+<article class="section" id="s-17"><a class="ref" href="#s-17">17</a><div class="section-text">Le guardie non ti sono di alcun aiuto?</div></article>
+<article class="section" id="s-18"><a class="ref" href="#s-18">18</a><div class="section-text">Quando dunque ti avvicini a uno di loro, ricordati di questo: ti avvicini a un personaggio tragico, non all’attore, ma a Edipo stesso.</div></article>
+<article class="section" id="s-19"><a class="ref" href="#s-19">19</a><div class="section-text">«Ma il tale è fortunato: cammina circondato da molti.» Anch’io mi metto in mezzo ai molti e cammino con molti.</div></article>
+<article class="section" id="s-20"><a class="ref" href="#s-20">20</a><div class="section-text">Ma soprattutto ricordati che la porta è aperta. Non essere più codardo dei bambini: come loro, quando il gioco non piace più, dicono «Non gioco più», così anche tu, quando qualcosa ti sembra di questo genere, di’ «Non gioco più» e vattene. Ma se rimani, non lamentarti.</div></article>
+</div>
+
+<nav class="chapter-nav chapter-nav-bottom"><a href="1-23.html">Diatriba precedente</a><a class="chapter-home" href="../index.html">Home</a><a href="1-25.html">Diatriba successiva</a></nav>

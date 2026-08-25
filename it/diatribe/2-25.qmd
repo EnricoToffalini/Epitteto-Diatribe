@@ -1,0 +1,34 @@
+---
+title: "Diatriba II.25 — Perché la logica è necessaria"
+lang: it
+pagetitle: "Diatriba II.25 — Perché la logica è necessaria — Epitteto, Diatribe"
+title-prefix: ""
+description-meta: "Diatriba II.25: «Perché la logica è necessaria». Le Diatribe di Epitteto raccolte da Arriano, in traduzione italiana."
+sidebar: it
+---
+
+<!--
+FILE GENERATO. NON MODIFICARE A MANO.
+
+Modificare invece:
+- translation/it/**.md      per il testo e i titoli italiani
+- data/intro.json           per le note introduttive delle home page
+- tools/site_config.py      per lingue, testi dell'interfaccia, URL
+- styles.css                per l'aspetto grafico
+
+Poi eseguire:
+    run.bat
+-->
+
+
+<div class="diatribe-meta">Libro II · 3 sezioni · <span class="canonical" title="Riferimento canonico">II 25</span></div>
+
+<nav class="chapter-nav"><a href="2-24.html">Diatriba precedente</a><a class="chapter-home" href="../index.html">Home</a><a href="2-26.html">Diatriba successiva</a></nav>
+
+<div class="section-list">
+<article class="section" id="s-1"><a class="ref" href="#s-1">1</a><div class="section-text">Uno dei presenti disse: «Convincimi che la logica è utile.» Egli disse: «Vuoi che te lo dimostri?»</div></article>
+<article class="section" id="s-2"><a class="ref" href="#s-2">2</a><div class="section-text">«Sì.» «Dunque devo svolgere con te un ragionamento dimostrativo?» Quando quello lo ammise, disse: «Come saprai allora se ti inganno con un sofisma?»</div></article>
+<article class="section" id="s-3"><a class="ref" href="#s-3">3</a><div class="section-text">Poiché l’uomo rimase in silenzio, disse: «Vedi come tu stesso ammetti che queste cose sono necessarie, se senza di esse non puoi nemmeno apprendere proprio questo: se siano necessarie oppure no.»</div></article>
+</div>
+
+<nav class="chapter-nav chapter-nav-bottom"><a href="2-24.html">Diatriba precedente</a><a class="chapter-home" href="../index.html">Home</a><a href="2-26.html">Diatriba successiva</a></nav>

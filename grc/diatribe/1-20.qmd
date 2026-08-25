@@ -1,0 +1,50 @@
+---
+title: "Διατριβὴ Αʹ.κʹ — περὶ τοῦ λόγου πῶς αὑτοῦ θεωρητικός ἐστιν"
+lang: grc
+pagetitle: "Διατριβὴ Αʹ.κʹ — περὶ τοῦ λόγου πῶς αὑτοῦ θεωρητικός ἐστιν — Ἐπικτήτου Διατριβαί"
+title-prefix: ""
+description-meta: "Διατριβὴ Αʹ.κʹ· «περὶ τοῦ λόγου πῶς αὑτοῦ θεωρητικός ἐστιν». Ἀρριανοῦ τῶν Ἐπικτήτου Διατριβῶν, τὸ ἑλληνικὸν κείμενον."
+sidebar: grc
+---
+
+<!--
+FILE GENERATO. NON MODIFICARE A MANO.
+
+Modificare invece:
+- translation/it/**.md      per il testo e i titoli italiani
+- data/intro.json           per le note introduttive delle home page
+- tools/site_config.py      per lingue, testi dell'interfaccia, URL
+- styles.css                per l'aspetto grafico
+
+Poi eseguire:
+    run.bat
+-->
+
+
+<div class="diatribe-meta">Βιβλίον Αʹ · 19 τμήματα · <span class="canonical" title="Παραπομπή">I 20</span></div>
+
+<nav class="chapter-nav"><a href="1-19.html">ἡ προτέρα διατριβή</a><a class="chapter-home" href="../index.html">Ἀρχή</a><a href="1-21.html">ἡ ἑπομένη διατριβή</a></nav>
+
+<div class="section-list">
+<article class="section" id="s-1"><a class="ref" href="#s-1">1</a><div class="section-text" lang="grc">πᾶσα τέχνη καὶ δύναμις προηγουμένων τινῶν ἐστι θεωρητική.</div></article>
+<article class="section" id="s-2"><a class="ref" href="#s-2">2</a><div class="section-text" lang="grc">ὅταν μὲν οὖν ὁμοειδὴς τοῖς θεωρουμένοις καὶ αὐτή, ἀναγκαίως καὶ αὑτῆς γίνεται θεωρητική· ὅταν δʼ ἀνομογενής, οὐ δύναται θεωρεῖν ἑαυτήν.</div></article>
+<article class="section" id="s-3"><a class="ref" href="#s-3">3</a><div class="section-text" lang="grc">οἷον σκυτικὴ περὶ δέρματα ἀναστρέφεται, αὐτὴ δὲ παντελῶς ἀπήλλακται τῆς ὕλης τῶν δερμάτων· διὰ τοῦτο οὐκ ἔστιν αὑτῆς θεωρητική.</div></article>
+<article class="section" id="s-4"><a class="ref" href="#s-4">4</a><div class="section-text" lang="grc">γραμματικὴ πάλιν περὶ τὴν ἐγγράμματον φωνήν· μή τι οὖν ἐστι καὶ αὐτὴ ἐγγράμματος φωνή; οὐδαμῶς. διὰ τοῦτο οὐ δύναται θεωρεῖν ἑαυτήν. ὁ οὖν λόγος πρὸς τί ποτε ὑπὸ τῆς φύσεως παρείληπται;</div></article>
+<article class="section" id="s-5"><a class="ref" href="#s-5">5</a><div class="section-text" lang="grc">πρὸς χρῆσιν φαντασιῶν οἵαν δεῖ. αὐτὸς οὖν τί ἐστιν; σύστημα ἐκ ποιῶν φαντασιῶν. οὕτως γίνεται φύσει καὶ αὑτοῦ θεωρητικός.</div></article>
+<article class="section" id="s-6"><a class="ref" href="#s-6">6</a><div class="section-text" lang="grc">πάλιν ἡ φρόνησις τίνα θεωρήσουσα παρελήλυθεν; ἀγαθὰ καὶ κακὰ καὶ οὐδέτερα. αὐτὴ οὖν τί ἐστιν; ἀγαθόν. ἡ δʼ ἀφροσύνη τί ἐστιν; κακόν. ὁρᾷς οὖν ὅτι ἀναγκαίως καὶ αὑτῆς γίνεται καὶ τῆς ἐναντίας θεωρητική;</div></article>
+<article class="section" id="s-7"><a class="ref" href="#s-7">7</a><div class="section-text" lang="grc">διὰ τοῦτο ἔργον τοῦ φιλοσόφου τὸ μέγιστον καὶ πρῶτον δοκιμάζειν τὰς φαντασίας καὶ διακρίνειν καὶ μηδεμίαν ἀδοκίμαστον προσφέρεσθαι.</div></article>
+<article class="section" id="s-8"><a class="ref" href="#s-8">8</a><div class="section-text" lang="grc">ὁρᾶτε ἐπὶ τοῦ νομίσματος, ὅπου δοκεῖ τι εἶναι πρὸς ἡμᾶς, πῶς καὶ τέχνην ἐξευρήκαμεν καὶ ὅσοις ὁ ἀργυρογνώμων προσχρῆται πρὸς δοκιμασίαν τοῦ νομίσματος, τῇ ὄψει, τῇ ἁφῇ, τῇ ὀσφρασίᾳ, τὰ τελευταῖα τῇ ἀκοῇ·</div></article>
+<article class="section" id="s-9"><a class="ref" href="#s-9">9</a><div class="section-text" lang="grc">ῥήξας τὸ δηνάριον τῷ ψόφῳ προσέχει καὶ οὐχ ἅπαξ ἀρκεῖται ψοφήσαντος, ἀλλʼ ὑπὸ τῆς πολλῆς προσοχῆς μουσικὸς γίνεται.</div></article>
+<article class="section" id="s-10"><a class="ref" href="#s-10">10</a><div class="section-text" lang="grc">οὕτως ὅπου διαφέρειν οἰόμεθα τὸ πλανᾶσθαι τοῦ μὴ πλανᾶσθαι, ἐνταῦθα πολλὴν προσοχὴν εἰσφέρομεν εἰς διάκρισιν τῶν διαπλανᾶν δυναμένων,</div></article>
+<article class="section" id="s-11"><a class="ref" href="#s-11">11</a><div class="section-text" lang="grc">ἐπὶ δὲ ταλαιπώρου ἡγεμονικοῦ χάσκοντες καὶ καθεύδοντες, πᾶσαν φαντασίαν παραπροσδεχόμεθα· ἡ γὰρ ζημία οὐ προσπίπτει.</div></article>
+<article class="section" id="s-12"><a class="ref" href="#s-12">12</a><div class="section-text" lang="grc">ὅταν οὖν θέλῃς γνῶναι, πῶς ἔχεις περὶ μὲν τἀγαθὰ καὶ κακὰ ἀνειμένως, περὶ τἀδιάφορα δʼ ἐσπευσμένως, ἐπίστησον πῶς ἔχεις πρὸς τὸ ἐκτυφλωθῆναι καὶ πῶς πρὸς τὸ ἐξαπατηθῆναι καὶ γνώσῃ ὅτι μακρὰν εἶ τοῦ ὡς δεῖ πεπονθέναι περὶ ἀγαθῶν καὶ κακῶν.</div></article>
+<article class="section" id="s-13"><a class="ref" href="#s-13">13</a><div class="section-text" lang="grc"><q>ἀλλὰ πολλῆς ἔχει χρείαν παρασκευῆς καὶ πόνου πολλοῦ καὶ μαθημάτων.</q> τί οὖν; ἐλπίζεις ὅτι τὴν μεγίστην τέχνην ἀπὸ ὀλίγων ἔστιν ἀναλαβεῖν;</div></article>
+<article class="section" id="s-14"><a class="ref" href="#s-14">14</a><div class="section-text" lang="grc">καίτοι αὐτὸς μὲν ὁ προηγούμενος λόγος τῶν φιλοσόφων λίαν ἐστὶν ὀλίγος. εἰ θέλεις γνῶναι, ἀνάγνωθι τὰ Ζήνωνος καὶ ὄψει.</div></article>
+<article class="section" id="s-15"><a class="ref" href="#s-15">15</a><div class="section-text" lang="grc">τί γὰρ ἔχει μακρὸν εἰπεῖν ὅτι τέλος ἐστὶ τὸ ἕπεσθαι θεοῖς, οὐσία δʼ ἀγαθοῦ χρῆσις οἵα δεῖ φαντασιῶν;</div></article>
+<article class="section" id="s-16"><a class="ref" href="#s-16">16</a><div class="section-text" lang="grc">λέγε <q>τί οὖν ἐστι θεὸς καὶ τί φαντασία; καὶ τί ἐστι φύσις ἡ ἐπὶ μέρους καὶ τί ἐστι φύσις ἡ τῶν ὅλων;</q></div></article>
+<article class="section" id="s-17"><a class="ref" href="#s-17">17</a><div class="section-text" lang="grc">ἤδη μακρόν. ἂν οὖν ἐλθὼν Ἐπίκουρος εἴπῃ, ὅτι ἐν σαρκὶ δεῖ εἶναι τὸ ἀγαθόν, πάλιν μακρὸν γίνεται καὶ ἀνάγκη ἀκοῦσαι τί τὸ προηγούμενόν ἐστιν ἐφʼ ἡμῶν, τί τὸ ὑποστατικὸν καὶ οὐσιῶδες. ὅτι τὸ κοχλίου ἀγαθὸν οὐκ εἰκὸς εἶναι ἐν τῷ κελύφει, τὸ οὖν τοῦ ἀνθρώπου εἰκός;</div></article>
+<article class="section" id="s-18"><a class="ref" href="#s-18">18</a><div class="section-text" lang="grc">σὺ δʼ αὐτὸς τί κυριώτερον ἔχεις, Ἐπίκουρε; τί ἐστιν ἐν σοὶ τὸ βουλευόμενον, τὸ ἐπισκεπτόμενον ἕκαστα, τὸ περὶ τῆς σαρκὸς αὐτῆς ὅτι τὸ προηγούμενόν ἐστιν <span class="ed-del">[τὸ]</span> ἐπικρῖνον;</div></article>
+<article class="section" id="s-19"><a class="ref" href="#s-19">19</a><div class="section-text" lang="grc">τί δὲ καὶ λύχνον ἅπτεις καὶ πονεῖς ὑπὲρ ἡμῶν καὶ τηλικαῦτα βιβλία γράφεις; ἵνα μὴ ἀγνοήσωμεν ἡμεῖς τὴν ἀλήθειαν; τίνες ἡμεῖς; τί πρὸς σὲ ὄντες; οὕτω μακρὸς ὁ λόγος γίνεται.</div></article>
+</div>
+
+<nav class="chapter-nav chapter-nav-bottom"><a href="1-19.html">ἡ προτέρα διατριβή</a><a class="chapter-home" href="../index.html">Ἀρχή</a><a href="1-21.html">ἡ ἑπομένη διατριβή</a></nav>

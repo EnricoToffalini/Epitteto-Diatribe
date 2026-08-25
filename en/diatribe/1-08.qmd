@@ -1,0 +1,49 @@
+---
+title: "Discourse I.8 — That the faculties are not safe to the uninstructed"
+lang: en
+pagetitle: "Discourse I.8 — That the faculties are not safe to the uninstructed — Epictetus, Discourses"
+title-prefix: ""
+description-meta: "Discourse I.8: “That the faculties are not safe to the uninstructed”. The Discourses of Epictetus, in George Long’s English translation, with his notes."
+sidebar: en
+---
+
+<!--
+FILE GENERATO. NON MODIFICARE A MANO.
+
+Modificare invece:
+- translation/it/**.md      per il testo e i titoli italiani
+- data/intro.json           per le note introduttive delle home page
+- tools/site_config.py      per lingue, testi dell'interfaccia, URL
+- styles.css                per l'aspetto grafico
+
+Poi eseguire:
+    run.bat
+-->
+
+
+<div class="diatribe-meta">Book I · 3 paragraphs · <span class="canonical" title="Canonical reference">I 8</span></div>
+
+<div class="title-note">Note on the title<a class="note-ref" id="noteref-1" href="#note-1" role="doc-noteref" aria-label="note 1"><sup>1</sup></a></div>
+
+<nav class="chapter-nav"><a href="1-07.html">Previous discourse</a><a class="chapter-home" href="../index.html">Home</a><a href="1-09.html">Next discourse</a></nav>
+
+<div class="paragraph-list">
+<p>IN as many ways as we can change things<a class="note-ref" id="noteref-2" href="#note-2" role="doc-noteref" aria-label="note 2"><sup>2</sup></a> which are equivalent to one another, in just so many ways we can change the forms of arguments (<span class="foreign" lang="grc">ἐπιχειρήματα</span>) and enthymemes<a class="note-ref" id="noteref-3" href="#note-3" role="doc-noteref" aria-label="note 3"><sup>3</sup></a> (<span class="foreign" lang="grc">ἐνθυμήματα</span>) in argumentation. This is an instance: if you have borrowed and not repaid, you owe me the money: you have not borrowed and you have not repaid; then you do not owe me the money. To do this skilfully is suitable to no man more than to the philosopher; for if the enthymeme is an imperfect syllogism, it is plain that he who has been exercised in the perfect syllogism must be equally expert in the imperfect also.</p>
+<p>Why then do we not exercise ourselves and one another in this manner? Because, I reply, at present, though we are not exercised in these things and not distracted from the study of morality, by me at least, still we make no progress in virtue. What then must we expect if we should add this occupation? and particularly as this would not only be an occupation which would withdraw us from more necessary things, but would also be a cause of self-conceit and arrogance, and no small cause. For great is the power of arguing and the faculty of persuasion, and particularly if it should be much exercised, and also receive additional ornament from language: and so universally, every faculty acquired by the uninstructed and weak brings with it the danger of these persons being elated and inflated by it. For by what means could one persuade a young man who excels in these matters, that he ought not to become an appendage<a class="note-ref" id="noteref-4" href="#note-4" role="doc-noteref" aria-label="note 4"><sup>4</sup></a> to them, but to make them an appendage to himself? Does he not trample on all such reasons, and strut before us elated and inflated, not enduring that any man should reprove him and remind him of what he has neglected and to what he has turned aside?</p>
+<p>What then was not Plato a philosopher?<a class="note-ref" id="noteref-5" href="#note-5" role="doc-noteref" aria-label="note 5"><sup>5</sup></a> I reply, and was not Hippocrates a physician? but you see how Hippocrates speaks. Does Hippocrates then speak thus in respect of being a physician? Why do you mingle things which have been accidentally united in the same men? And if Plato was handsome and strong, ought I also to set to work and endeavour to become handsome or strong, as if this was necessary for philosophy, because a certain philosopher was at the same time handsome and a philosopher? Will you not choose to see and to distinguish in respect to what men become philosophers, and what things belong to them in other respects? And if I were a philosopher, ought you also to be made lame?<a class="note-ref" id="noteref-6" href="#note-6" role="doc-noteref" aria-label="note 6"><sup>6</sup></a> What then? Do I take away these faculties which you possess? By no means; for neither do I take away the faculty of seeing. But if you ask me what is the good of man, I cannot mention to you anything else than that it is a certain disposition of the will with respect to appearances.<a class="note-ref" id="noteref-7" href="#note-7" role="doc-noteref" aria-label="note 7"><sup>7</sup></a></p>
+</div>
+
+<section class="notes">
+<h2>Notes</h2>
+<ol class="note-list">
+<li class="note" id="note-1" role="doc-endnote"><p>The faculties, as Wolf says, are the faculties of speaking and arguing, which, as he also says, make men arrogant and careless who have no solid knowledge, according to Bion’s maxim, <span class="foreign" lang="grc">ἡ γὰρ οἴησις ἐγκοπὴ τῆς προκοπῆς ἐστιν</span>, <q>arrogance (self-conceit) is a hindrance to improvement.</q> See viii. 8.</p><a class="note-back" href="#noteref-1" aria-label="back to the text">&#8617;</a></li>
+<li class="note" id="note-2" role="doc-endnote"><p>Things mean <q>propositions</q> and <q>terms.</q> See Aristot. Analyt. Prior. i. 39, <q lang="grc" class="foreign">δεῖ δὲ καὶ μεταλαμβάνειν</q>, etc. <span class="foreign" lang="grc">Ἐπιχειρήματα</span> are arguments of any kind with which we attack (<span class="foreign" lang="grc">ἐπιχειρεῖν</span>) an adversary.</p><a class="note-back" href="#noteref-2" aria-label="back to the text">&#8617;</a></li>
+<li class="note" id="note-3" role="doc-endnote"><p>The Enthymeme is defined by Aristotle: <q lang="grc" class="foreign">ἐνθύμημα μὲν οὖν ἐστι συλλογισμὸς ἐξ εἰκότων ἢ σημείων</q> (Anal. Prior. ii. c. 27). He has explained, in the first part of this chapter, what he means by <span class="foreign" lang="grc">εἰκός</span> and <span class="foreign" lang="grc">σημεῖον</span>. See also De Morgan’s Formal Logic, p. 237; and P. C. Organon, p. 6, note.</p><a class="note-back" href="#noteref-3" aria-label="back to the text">&#8617;</a></li>
+<li class="note" id="note-4" role="doc-endnote"><p>A man, as Wolf explains it, should not make oratory, or the art of speaking, his chief excellence. He should use it to set off something which is superior.</p><a class="note-back" href="#noteref-4" aria-label="back to the text">&#8617;</a></li>
+<li class="note" id="note-5" role="doc-endnote"><p>Plato was eloquent, and the adversary asks, if that is a reason for not allowing him to be a philosopher. To which the rejoinder is that Hippocrates was a physician, and eloquent too, but not as a physician.</p><a class="note-back" href="#noteref-5" aria-label="back to the text">&#8617;</a></li>
+<li class="note" id="note-6" role="doc-endnote"><p>Epictetus was lame.</p><a class="note-back" href="#noteref-6" aria-label="back to the text">&#8617;</a></li>
+<li class="note" id="note-7" role="doc-endnote"><p>In i. 20, 15. Epictetus defines the being (<span class="foreign" lang="grc">οὐσία</span>) or nature of good to be a proper use of appearances; and he also says, i. 29, 1, that the nature of the good is a kind of will (<span class="foreign" lang="grc">προαίρεσις ποιά</span>), and the nature of evil is a kind of will. But Schweighaeuser cannot understand how the <q>good of man</q> can be <q>a certain will with regard to appearances;</q> and he suggests that Arrian may have written, <q>a certain will which makes use of appearances.</q></p><a class="note-back" href="#noteref-7" aria-label="back to the text">&#8617;</a></li>
+</ol>
+</section>
+
+<nav class="chapter-nav chapter-nav-bottom"><a href="1-07.html">Previous discourse</a><a class="chapter-home" href="../index.html">Home</a><a href="1-09.html">Next discourse</a></nav>

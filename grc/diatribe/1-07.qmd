@@ -1,0 +1,63 @@
+---
+title: "Διατριβὴ Αʹ.ζʹ — περὶ τῆς χρείας τῶν μεταπιπτόντων καὶ ὑποθετικῶν καὶ τῶν ὁμοίων"
+lang: grc
+pagetitle: "Διατριβὴ Αʹ.ζʹ — περὶ τῆς χρείας τῶν μεταπιπτόντων καὶ ὑποθετικῶν καὶ τῶν ὁμοίων — Ἐπικτήτου Διατριβαί"
+title-prefix: ""
+description-meta: "Διατριβὴ Αʹ.ζʹ· «περὶ τῆς χρείας τῶν μεταπιπτόντων καὶ ὑποθετικῶν καὶ τῶν ὁμοίων». Ἀρριανοῦ τῶν Ἐπικτήτου Διατριβῶν, τὸ ἑλληνικὸν κείμενον."
+sidebar: grc
+---
+
+<!--
+FILE GENERATO. NON MODIFICARE A MANO.
+
+Modificare invece:
+- translation/it/**.md      per il testo e i titoli italiani
+- data/intro.json           per le note introduttive delle home page
+- tools/site_config.py      per lingue, testi dell'interfaccia, URL
+- styles.css                per l'aspetto grafico
+
+Poi eseguire:
+    run.bat
+-->
+
+
+<div class="diatribe-meta">Βιβλίον Αʹ · 32 τμήματα · <span class="canonical" title="Παραπομπή">I 7</span></div>
+
+<nav class="chapter-nav"><a href="1-06.html">ἡ προτέρα διατριβή</a><a class="chapter-home" href="../index.html">Ἀρχή</a><a href="1-08.html">ἡ ἑπομένη διατριβή</a></nav>
+
+<div class="section-list">
+<article class="section" id="s-1"><a class="ref" href="#s-1">1</a><div class="section-text" lang="grc">ἡ περὶ τοὺς μεταπίπτοντας καὶ ὑποθετικούς, ἔτι δὲ ἠρωτῆσθαι περαίνοντας καὶ πάντας ἁπλῶς τοὺς τοιούτους λόγους πραγματεία λανθάνει τοὺς πολλοὺς περὶ καθήκοντος οὖσα.</div></article>
+<article class="section" id="s-2"><a class="ref" href="#s-2">2</a><div class="section-text" lang="grc">ζητοῦμεν γὰρ ἐπὶ πάσης ὕλης πῶς ἂν εὕρ<span class="ed-del">[ο]</span>οι ὁ καλὸς καὶ ἀγαθὸς τὴν διέξοδον καὶ ἀναστροφὴν τὴν ἐν αὐτῇ καθήκουσαν.</div></article>
+<article class="section" id="s-3"><a class="ref" href="#s-3">3</a><div class="section-text" lang="grc">οὐκοῦν ἢ τοῦτο λεγέτωσαν, ὅτι οὐ συγκαθήσει εἰς ἐρώτησιν καὶ ἀπόκρισιν ὁ σπουδαῖος ἢ ὅτι συγκαθεὶς οὐκ ἐπιμελήσεται τοῦ μὴ εἰκῇ μηδʼ ὡς ἔτυχεν ἐν ἐρωτήσει καὶ ἀποκρίσει ἀναστρέφεσθαι,</div></article>
+<article class="section" id="s-4"><a class="ref" href="#s-4">4</a><div class="section-text" lang="grc"><span class="ed-del">[μ]</span>ἢ τούτων μηδέτερον προσδεχομένοις ἀναγκαῖον ὁμολογεῖν, ὅτι ἐπίσκεψίν τινα ποιητέον τῶν τόπων τούτων, περὶ οὓς μάλιστα στρέφεται ἐρώτησις καὶ ἀπόκρισις.</div></article>
+<article class="section" id="s-5"><a class="ref" href="#s-5">5</a><div class="section-text" lang="grc">τί γὰρ ἐπαγγέλλεται ἐν λόγῳ; τἀληθῆ τιθέναι, τὰ ψευδῆ αἴρειν, πρὸς τὰ ἄδηλα ἐπέχειν.</div></article>
+<article class="section" id="s-6"><a class="ref" href="#s-6">6</a><div class="section-text" lang="grc">ἆρʼ οὖν ἀρκεῖ τοῦτο μόνον μαθεῖν; — ἀρκεῖ, φησίν. — οὐκοῦν καὶ τῷ βουλομένῳ ἐν χρήσει νομίσματος μὴ διαπίπτειν ἀρκεῖ τοῦτο ἀκοῦσαι, διὰ τί τὰς μὲν δοκίμους δραχμὰς παραδέχῃ, τὰς δʼ ἀδοκίμους ἀποδοκιμάζεις;</div></article>
+<article class="section" id="s-7"><a class="ref" href="#s-7">7</a><div class="section-text" lang="grc">— οὐκ ἀρκεῖ. — τί οὖν δεῖ τούτῳ προσλαβεῖν; τί γὰρ ἄλλο ἢ δύναμιν δοκιμαστικήν τε καὶ διακριτικὴν τῶν δοκίμων τε καὶ ἀδοκίμων δραχμῶν;</div></article>
+<article class="section" id="s-8"><a class="ref" href="#s-8">8</a><div class="section-text" lang="grc">οὐκοῦν καὶ ἐπὶ λόγου οὐκ ἀρκεῖ τὸ λεχθέν, ἀλλʼ ἀνάγκη δοκιμαστικὸν γενέσθαι καὶ διακριτικὸν τοῦ ἀληθοῦς καὶ τοῦ ψεύδους καὶ τοῦ ἀδήλου;</div></article>
+<article class="section" id="s-9"><a class="ref" href="#s-9">9</a><div class="section-text" lang="grc">— ἀνάγκη. — ἐπὶ τούτοις τί παραγγέλλεται ἐν λόγῳ; τὸ ἀκόλουθον τοῖς δοθεῖσιν ὑπὸ σοῦ καλῶς παραδέχου.</div></article>
+<article class="section" id="s-10"><a class="ref" href="#s-10">10</a><div class="section-text" lang="grc">ἄγε ἀρκεῖ οὖν κἀνταῦθα γνῶναι τοῦτο; οὐκ ἀρκεῖ, δεῖ δὲ μαθεῖν πῶς τί τισιν ἀκόλουθον γίνεται καὶ ποτὲ μὲν ἓν ἑνὶ ἀκολουθεῖ, ποτὲ δὲ πλείοσιν κοινῇ.</div></article>
+<article class="section" id="s-11"><a class="ref" href="#s-11">11</a><div class="section-text" lang="grc">μή ποτε οὖν καὶ τοῦτο ἀνάγκη προσλαβεῖν τὸν μέλλοντα ἐν λόγῳ συνετῶς ἀναστραφήσεσθαι καὶ αὐτόν τʼ ἀποδείξειν ἕκαστα ἀποδόντα καὶ τοῖς ἀποδεικνύουσι παρακολουθήσειν μηδʼ ὑπὸ τῶν σοφιζομένων διαπλανηθήσεσθαι ὡς ἀποδεικνυόντων;</div></article>
+<article class="section" id="s-12"><a class="ref" href="#s-12">12</a><div class="section-text" lang="grc">οὐκοῦν ἐλήλυθεν ἡμῖν περὶ τῶν συναγόντων λόγων καὶ τρόπων πραγματεία καὶ γυμνασία καὶ ἀναγκαία πέφηνεν.</div></article>
+<article class="section" id="s-13"><a class="ref" href="#s-13">13</a><div class="section-text" lang="grc">ἀλλὰ δὴ ἔστιν ἐφʼ ὧν δεδώκαμεν ὑγιῶς τὰ λήμματα καὶ συμβαίνει τουτὶ ἐξ αὐτῶν· ψεῦδος δὲ ὂν οὐδὲν ἧττον συμβαίνει.</div></article>
+<article class="section" id="s-14"><a class="ref" href="#s-14">14</a><div class="section-text" lang="grc">τί οὖν μοι καθήκει ποιεῖν; προσδέχεσθαι τὸ ψεῦδος;</div></article>
+<article class="section" id="s-15"><a class="ref" href="#s-15">15</a><div class="section-text" lang="grc">καὶ πῶς οἷόν τʼ; ἀλλὰ λέγειν ὅτι <q>οὐχ ὑγιῶς παρεχώρησα τὰ ὡμολογημένα;</q> καὶ μὴν οὐδὲ τοῦτο δίδοται. ἀλλʼ ὅτι <q>οὐ συμβαίνει διὰ τῶν παρακεχωρημένων;</q> ἀλλʼ οὐδὲ τοῦτο δίδοται.</div></article>
+<article class="section" id="s-16"><a class="ref" href="#s-16">16</a><div class="section-text" lang="grc">τί οὖν ἐπὶ τούτων ποιητέον; ἢ μή ποτε ὡς οὐκ ἀρκεῖ τὸ δανείσασθαι πρὸς τὸ ἔτι ὀφείλειν, ἀλλὰ δεῖ προσεῖναι καὶ τὸ ἐπιμένειν ἐπὶ τοῦ δανείου καὶ μὴ διαλελύσθαι αὐτό, οὕτως οὐκ ἀρκεῖ πρὸς τὸ δεῖν παραχωρεῖν τὸ ἐπιφερόμενον τὸ δεδωκέναι τὰ λήμματα, δεῖ δʼ ἐπιμένειν ἐπὶ τῆς παραχωρήσεως αὐτῶν.</div></article>
+<article class="section" id="s-17"><a class="ref" href="#s-17">17</a><div class="section-text" lang="grc">καὶ δὴ μενόντων μὲν αὐτῶν εἰς τέλος ὁποῖα παρεχωρήθη πᾶσα ἀνάγκη ἡμᾶς ἐπὶ τῆς παραχωρήσεως ἐπιμένειν καὶ τὸ ἀκόλουθον αὐτοῖς προσδέχεσθαι <span class="ed-gap" title="lacuna">&hellip;</span></div></article>
+<article class="section" id="s-19"><a class="ref" href="#s-19">19</a><div class="section-text" lang="grc">οὐδὲ γὰρ ἡμῖν ἔτι οὐδὲ καθʼ ἡμᾶς συμβαίνει τοῦτο τὸ ἐπιφερόμενον, ἐπειδὴ τῆς συγχωρήσεως τῶν λημμάτων ἀπέστημεν.</div></article>
+<article class="section" id="s-20"><a class="ref" href="#s-20">20</a><div class="section-text" lang="grc">δεῖ οὖν καὶ τὰ τοιαῦτα τῶν λημμάτων ἱστορῆσαι καὶ τὴν τοιαύτην μεταβολήν τε καὶ μετάπτωσιν αὐτῶν, καθʼ ἣν ἐν αὐτῇ τῇ ἐρωτήσει ἢ τῇ ἀποκρίσει ἢ τῷ συλλελογίσθαι ἤ τινι ἄλλῳ τοιούτῳ <span class="ed-sic">λαμβάνοντα τὰς</span> μεταπτώσεις ἀφορμὴν παρέχει τοῖς ἀνοήτοις τοῦ ταράσσεσθαι μὴ βλέπουσι τὸ ἀκόλουθον. τίνος ἕνεκα;</div></article>
+<article class="section" id="s-21"><a class="ref" href="#s-21">21</a><div class="section-text" lang="grc">ἵνʼ ἐν τῷ τόπῳ τούτῳ μὴ παρὰ τὸ καθῆκον μηδʼ εἰκῇ μηδὲ συγκεχυμένως ἀναστρεφώμεθα.</div></article>
+<article class="section" id="s-22"><a class="ref" href="#s-22">22</a><div class="section-text" lang="grc">καὶ τὸ αὐτὸ ἐπί τε τῶν ὑποθέσεων καὶ τῶν ὑποθετικῶν λόγων. ἀναγκαῖον γὰρ ἔστιν ὅτʼ αἰτῆσαί τινα ὑπόθεσιν ὥσπερ ἐπιβάθραν τῷ ἑξῆς λόγῳ.</div></article>
+<article class="section" id="s-23"><a class="ref" href="#s-23">23</a><div class="section-text" lang="grc">πᾶσαν οὖν τὴν δοθεῖσαν παραχωρητέον ἢ οὐ πᾶσαν; καὶ εἰ οὐ πᾶσαν, τίνα;</div></article>
+<article class="section" id="s-24"><a class="ref" href="#s-24">24</a><div class="section-text" lang="grc"><span class="ed-del">[περὶ τίνος ἡ σκέψις; περὶ καθήκοντος.]</span> παραχωρήσαντι δὲ μενετέον εἰς ἅπαν ἐπὶ τῆς τηρήσεως ἢ ἔστιν ὅτε ἀποστατέον, τὰ δʼ ἀκόλουθα προσδεκτέον καὶ τὰ μαχόμενα οὐ προσδεκτέον;</div></article>
+<article class="section" id="s-25"><a class="ref" href="#s-25">25</a><div class="section-text" lang="grc">— ναί. — ἀλλὰ λέγει τις ὅτι <q>ποιήσω σε δυνατοῦ δεξάμενον ὑπόθεσιν ἐπʼ ἀδύνατον ἀπαχθῆναι.</q> πρὸς τοῦτον οὐ συγκαθήσει ὁ φρόνιμος, ἀλλὰ φεύξεται ἐξέτασιν καὶ κοινολογίαν;</div></article>
+<article class="section" id="s-26"><a class="ref" href="#s-26">26</a><div class="section-text" lang="grc">καὶ τίς ἔτι ἄλλος ἐστὶ λόγῳ χρηστικὸς καὶ δεινὸς ἐρωτήσει καὶ ἀποκρίσει καὶ νὴ Δία ἀνεξαπάτητός τε καὶ ἀσόφιστος;</div></article>
+<article class="section" id="s-27"><a class="ref" href="#s-27">27</a><div class="section-text" lang="grc">ἀλλὰ συγκαθήσει μέν, οὐκ ἐπιστραφήσεται δὲ τοῦ μὴ εἰκῇ καὶ ὡς ἔτυχεν ἀναστρέφεσθαι ἐν λόγῳ; καὶ πῶς ἔτι ἔσται τοιοῦτος οἷον αὐτὸν ἐπινοοῦμεν;</div></article>
+<article class="section" id="s-28"><a class="ref" href="#s-28">28</a><div class="section-text" lang="grc">ἀλλʼ ἄνευ τινὸς τοιαύτης γυμνασίας καὶ παρασκευῆς φυλάττειν οἷός τʼ ἐστὶ τὸ ἑξῆς;</div></article>
+<article class="section" id="s-29"><a class="ref" href="#s-29">29</a><div class="section-text" lang="grc">τοῦτο δεικνύτωσαν καὶ παρέλκει τὰ θεωρήματα ταῦτα πάντα, ἄτοπα ἦν καὶ ἀνακόλουθα τῇ προλήψει τοῦ σπουδαίου.</div></article>
+<article class="section" id="s-30"><a class="ref" href="#s-30">30</a><div class="section-text" lang="grc">τί ἔτι ἀργοὶ καὶ ῥᾴθυμοι καὶ νωθροί ἐσμεν καὶ προφάσεις ζητοῦμεν, καθʼ ἃς οὐ πονήσομεν οὐδʼ ἀγρυπνήσομεν ἐξεργαζόμενοι τὸν αὑτῶν λόγον;</div></article>
+<article class="section" id="s-31"><a class="ref" href="#s-31">31</a><div class="section-text" lang="grc">— ἂν οὖν ἐν τούτοις πλανηθῶ, μή τι τὸν πατέρα ἀπέκτεινα; — ἀνδράποδον, ποῦ γὰρ ἐνθάδε πατὴρ ἦν, ἵνʼ αὐτὸν ἀποκτείνῃς; τί οὖν ἐποίησας; ὃ μόνον ἦν κατὰ τὸν τόπον ἁμάρτημα, τοῦτο ἡμάρτηκας.</div></article>
+<article class="section" id="s-32"><a class="ref" href="#s-32">32</a><div class="section-text" lang="grc">ἐπεί τοι τοῦτʼ αὐτὸ καὶ ἐγὼ Ῥούφῳ εἶπον ἐπιτιμῶντί μοι ὅτι τὸ παραλειπόμενον ἓν ἐν συλλογισμῷ τινι οὐχ εὕρισκον. <q>οὐχ οἷον μέν,</q> φημί, <q>εἰ τὸ Καπιτώλιον κατέκαυσα,</q> ὁ δʼ <q>ἀνδράποδον,</q> ἔφη, <q>ἐνθάδε τὸ παραλειπόμενον Καπιτώλιόν ἐστιν.</q></div></article>
+<article class="section" id="s-33"><a class="ref" href="#s-33">33</a><div class="section-text" lang="grc">ἢ ταῦτα μόνα ἁμαρτήματά ἐστι τὸ Καπιτώλιον ἐμπρῆσαι καὶ τὸν πατέρα ἀποκτεῖναι, τὸ δʼ εἰκῇ καὶ μάτην καὶ ὡς ἔτυχεν χρῆσθαι ταῖς φαντασίαις ταῖς αὑτοῦ καὶ μὴ παρακολουθεῖν λόγῳ μηδʼ ἀποδείξει μηδὲ σοφίσματι μηδʼ ἁπλῶς βλέπειν τὸ καθʼ αὑτὸν καὶ οὐ καθʼ αὑτὸν ἐν ἐρωτήσει καὶ ἀποκρίσει, τούτων δʼ οὐδέν ἐστιν ἁμάρτημα;</div></article>
+</div>
+
+<nav class="chapter-nav chapter-nav-bottom"><a href="1-06.html">ἡ προτέρα διατριβή</a><a class="chapter-home" href="../index.html">Ἀρχή</a><a href="1-08.html">ἡ ἑπομένη διατριβή</a></nav>

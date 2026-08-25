@@ -1,0 +1,45 @@
+---
+title: "Diatriba II.7 — Come si deve ricorrere alla divinazione"
+lang: it
+pagetitle: "Diatriba II.7 — Come si deve ricorrere alla divinazione — Epitteto, Diatribe"
+title-prefix: ""
+description-meta: "Diatriba II.7: «Come si deve ricorrere alla divinazione». Le Diatribe di Epitteto raccolte da Arriano, in traduzione italiana."
+sidebar: it
+---
+
+<!--
+FILE GENERATO. NON MODIFICARE A MANO.
+
+Modificare invece:
+- translation/it/**.md      per il testo e i titoli italiani
+- data/intro.json           per le note introduttive delle home page
+- tools/site_config.py      per lingue, testi dell'interfaccia, URL
+- styles.css                per l'aspetto grafico
+
+Poi eseguire:
+    run.bat
+-->
+
+
+<div class="diatribe-meta">Libro II · 14 sezioni · <span class="canonical" title="Riferimento canonico">II 7</span></div>
+
+<nav class="chapter-nav"><a href="2-06.html">Diatriba precedente</a><a class="chapter-home" href="../index.html">Home</a><a href="2-08.html">Diatriba successiva</a></nav>
+
+<div class="section-list">
+<article class="section" id="s-1"><a class="ref" href="#s-1">1</a><div class="section-text">Per il fatto di ricorrere alla divinazione fuori tempo, trascuriamo molti doveri.</div></article>
+<article class="section" id="s-2"><a class="ref" href="#s-2">2</a><div class="section-text">Che cosa può vedere l’indovino più della morte, del pericolo, della malattia o, in generale, di cose del genere?</div></article>
+<article class="section" id="s-3"><a class="ref" href="#s-3">3</a><div class="section-text">Se dunque bisogna affrontare un pericolo per un amico, e se è doveroso perfino morire per lui, dove trovo ancora il tempo di ricorrere alla divinazione? Non ho forse dentro di me l’indovino che mi ha detto qual è l’essenza del bene e del male e mi ha spiegato i segni di entrambi?</div></article>
+<article class="section" id="s-4"><a class="ref" href="#s-4">4</a><div class="section-text">Che bisogno ho ancora delle viscere o degli uccelli? E sopporto che quello mi dica: «Ti conviene»? Sa forse che cosa conviene?</div></article>
+<article class="section" id="s-5"><a class="ref" href="#s-5">5</a><div class="section-text">Sa che cos’è il bene? Ha imparato i segni del bene e del male come ha imparato quelli delle viscere? Se infatti conosce i segni di questi, conosce anche quelli del bello e del turpe, del giusto e dell’ingiusto.</div></article>
+<article class="section" id="s-6"><a class="ref" href="#s-6">6</a><div class="section-text">Uomo, dimmi tu che cosa viene indicato: vita o morte, povertà o ricchezza. Ma se queste cose mi convengano oppure no, dovrei chiederlo a te?</div></article>
+<article class="section" id="s-7"><a class="ref" href="#s-7">7</a><div class="section-text">Perché non dai il tuo parere nelle questioni di grammatica? E dovrei chiederlo qui, dove tutti gli uomini sbagliamo e siamo in contrasto fra noi?</div></article>
+<article class="section" id="s-8"><a class="ref" href="#s-8">8</a><div class="section-text">Per questo rispose bene quella donna che voleva mandare per nave a Gratilla, in esilio, le provviste di un mese, quando qualcuno le disse che Domiziano le avrebbe confiscate: «Preferisco che sia lui a portargliele via piuttosto che io non le mandi».</div></article>
+<article class="section" id="s-9"><a class="ref" href="#s-9">9</a><div class="section-text">Che cosa dunque ci spinge a ricorrere così continuamente alla divinazione? La viltà, il timore degli esiti. Per questo aduliamo gli indovini: «Signore, erediterò da mio padre?» «Vediamo; facciamo un altro sacrificio.» «Sì, signore, come vuole la sorte.» Poi, se dice: «Erediterai», lo ringraziamo come se avessimo ricevuto l’eredità da lui. Perciò, alla fine, anche loro si prendono gioco di noi.</div></article>
+<article class="section" id="s-10"><a class="ref" href="#s-10">10</a><div class="section-text">Che fare dunque? Bisogna andarci senza desiderio né avversione, come il viandante domanda a chi incontra quale delle due strade conduca alla meta, senza desiderare che vi conduca la destra piuttosto che la sinistra: non vuole infatti prendere una strada particolare, ma quella che conduce.</div></article>
+<article class="section" id="s-11"><a class="ref" href="#s-11">11</a><div class="section-text">Così bisognerebbe andare anche da Dio, come da una guida, proprio come usiamo gli occhi: non chiedendo loro di mostrarci certe cose piuttosto che altre, ma accogliendo le rappresentazioni delle cose così come ce le mostrano.</div></article>
+<article class="section" id="s-12"><a class="ref" href="#s-12">12</a><div class="section-text">Ora invece, tremando, teniamo per mano l’augure e, invocando Dio, lo supplichiamo:</div></article>
+<article class="section" id="s-13"><a class="ref" href="#s-13">13</a><div class="section-text">«Signore, abbi pietà; permettimi di uscirne.» Schiavo, vuoi forse qualcosa di diverso da ciò che è meglio? E che cosa può essere meglio di ciò che sembra bene a Dio?</div></article>
+<article class="section" id="s-14"><a class="ref" href="#s-14">14</a><div class="section-text">Perché, per quanto dipende da te, corrompi il giudice e svii il consigliere?</div></article>
+</div>
+
+<nav class="chapter-nav chapter-nav-bottom"><a href="2-06.html">Diatriba precedente</a><a class="chapter-home" href="../index.html">Home</a><a href="2-08.html">Diatriba successiva</a></nav>

@@ -1,0 +1,63 @@
+---
+title: "Diatriba I.7 — Sull’uso degli argomenti mutevoli, ipotetici e simili"
+lang: it
+pagetitle: "Diatriba I.7 — Sull’uso degli argomenti mutevoli, ipotetici e simili — Epitteto, Diatribe"
+title-prefix: ""
+description-meta: "Diatriba I.7: «Sull’uso degli argomenti mutevoli, ipotetici e simili». Le Diatribe di Epitteto raccolte da Arriano, in traduzione italiana."
+sidebar: it
+---
+
+<!--
+FILE GENERATO. NON MODIFICARE A MANO.
+
+Modificare invece:
+- translation/it/**.md      per il testo e i titoli italiani
+- data/intro.json           per le note introduttive delle home page
+- tools/site_config.py      per lingue, testi dell'interfaccia, URL
+- styles.css                per l'aspetto grafico
+
+Poi eseguire:
+    run.bat
+-->
+
+
+<div class="diatribe-meta">Libro I · 32 sezioni · <span class="canonical" title="Riferimento canonico">I 7</span></div>
+
+<nav class="chapter-nav"><a href="1-06.html">Diatriba precedente</a><a class="chapter-home" href="../index.html">Home</a><a href="1-08.html">Diatriba successiva</a></nav>
+
+<div class="section-list">
+<article class="section" id="s-1"><a class="ref" href="#s-1">1</a><div class="section-text">Lo studio degli argomenti che mutano di significato, degli ipotetici, di quelli che concludono per via di domande e, in generale, di tutti gli argomenti di questo genere, sfugge ai più che riguarda il dovere.</div></article>
+<article class="section" id="s-2"><a class="ref" href="#s-2">2</a><div class="section-text">Infatti, in ogni materia cerchiamo come l’uomo buono e virtuoso possa trovare la via d’uscita e il comportamento appropriato in essa.</div></article>
+<article class="section" id="s-3"><a class="ref" href="#s-3">3</a><div class="section-text">Dicano dunque o che l’uomo serio non entrerà affatto in una discussione fatta di domande e risposte, oppure che, una volta entratovi, non si curerà di non comportarsi a caso e alla cieca nel domandare e nel rispondere;</div></article>
+<article class="section" id="s-4"><a class="ref" href="#s-4">4</a><div class="section-text">ma se non ammettono né l’una né l’altra cosa, è necessario riconoscere che bisogna esaminare in qualche modo questi ambiti, attorno ai quali soprattutto ruotano domanda e risposta.</div></article>
+<article class="section" id="s-5"><a class="ref" href="#s-5">5</a><div class="section-text">Che cosa ci si propone infatti nel ragionamento? Stabilire il vero, eliminare il falso, sospendere il giudizio su ciò che è incerto.</div></article>
+<article class="section" id="s-6"><a class="ref" href="#s-6">6</a><div class="section-text">Basta dunque imparare soltanto questo? — Basta, dice. — E allora, a chi vuole evitare errori nell’uso delle monete, basta forse sentirsi dire perché accetta le dracme autentiche e rifiuta quelle false?</div></article>
+<article class="section" id="s-7"><a class="ref" href="#s-7">7</a><div class="section-text">— Non basta. — Che cosa deve dunque aggiungervi? Che altro, se non la capacità di esaminare e distinguere le dracme autentiche da quelle false?</div></article>
+<article class="section" id="s-8"><a class="ref" href="#s-8">8</a><div class="section-text">Allo stesso modo, nel ragionamento non basta ciò che è stato detto: bisogna diventare capaci di esaminare e distinguere il vero, il falso e l’incerto.</div></article>
+<article class="section" id="s-9"><a class="ref" href="#s-9">9</a><div class="section-text">— Necessariamente. — E oltre a questo, che cosa si prescrive nel ragionamento? Accetta ciò che consegue correttamente da ciò che tu hai concesso.</div></article>
+<article class="section" id="s-10"><a class="ref" href="#s-10">10</a><div class="section-text">Ebbene, basta anche qui sapere questo? Non basta: bisogna imparare in che modo qualcosa consegue da altre cose, e quando una cosa consegue da una sola e quando invece da più cose insieme.</div></article>
+<article class="section" id="s-11"><a class="ref" href="#s-11">11</a><div class="section-text">Non è forse necessario che acquisti anche questa capacità chi vuole comportarsi con intelligenza nel ragionamento: saper dimostrare egli stesso le singole cose, una volta poste, comprendere le dimostrazioni altrui e non lasciarsi sviare da chi sofistica come se stesse dimostrando?</div></article>
+<article class="section" id="s-12"><a class="ref" href="#s-12">12</a><div class="section-text">È così che è nata per noi la pratica e l’esercizio sugli argomenti conclusivi e sulle loro forme, e si è mostrata necessaria.</div></article>
+<article class="section" id="s-13"><a class="ref" href="#s-13">13</a><div class="section-text">Ma ci sono casi in cui abbiamo concesso correttamente le premesse e da esse segue una certa conclusione; e, pur essendo falsa, nondimeno segue.</div></article>
+<article class="section" id="s-14"><a class="ref" href="#s-14">14</a><div class="section-text">Che cosa devo fare allora? Accettare il falso?</div></article>
+<article class="section" id="s-15"><a class="ref" href="#s-15">15</a><div class="section-text">E come sarebbe possibile? Dire forse che non ho concesso correttamente ciò che avevamo ammesso? Ma neppure questo è consentito. Oppure che la conclusione non segue da ciò che è stato concesso? Ma neppure questo è consentito.</div></article>
+<article class="section" id="s-16"><a class="ref" href="#s-16">16</a><div class="section-text">Che cosa bisogna fare dunque in questi casi? Forse questo: come non basta aver preso a prestito per essere ancora debitore, ma bisogna aggiungere che il debito permane e non è stato estinto, così non basta aver concesso le premesse perché si debba accettare la conclusione; bisogna anche perseverare nella concessione di quelle premesse.</div></article>
+<article class="section" id="s-17"><a class="ref" href="#s-17">17</a><div class="section-text">E se esse rimangono fino alla fine quali erano quando furono concesse, è assolutamente necessario che noi perseveriamo nella concessione e accettiamo ciò che ne consegue…</div></article>
+<article class="section" id="s-19"><a class="ref" href="#s-19">19</a><div class="section-text">Infatti quella conclusione non segue più per noi né secondo quanto abbiamo ammesso, dal momento che ci siamo ritirati dalla concessione delle premesse.</div></article>
+<article class="section" id="s-20"><a class="ref" href="#s-20">20</a><div class="section-text">Bisogna dunque studiare anche premesse di questo genere e il loro mutamento e passaggio, per cui, proprio nel domandare o nel rispondere o nel trarre la conclusione o in qualche altro procedimento simile, esse subiscono cambiamenti e offrono agli stolti occasione di confondersi, perché non vedono ciò che consegue. Per quale ragione?</div></article>
+<article class="section" id="s-21"><a class="ref" href="#s-21">21</a><div class="section-text">Perché in questo ambito non ci comportiamo contro il dovere, né a caso né in modo confuso.</div></article>
+<article class="section" id="s-22"><a class="ref" href="#s-22">22</a><div class="section-text">Lo stesso vale per le ipotesi e per gli argomenti ipotetici. Talvolta infatti è necessario chiedere di ammettere un’ipotesi come punto d’appoggio per il ragionamento che segue.</div></article>
+<article class="section" id="s-23"><a class="ref" href="#s-23">23</a><div class="section-text">Bisogna dunque concedere ogni ipotesi proposta oppure no? E, se non ogni ipotesi, quale?</div></article>
+<article class="section" id="s-24"><a class="ref" href="#s-24">24</a><div class="section-text">[Su che cosa verte l’indagine? Sul dovere.] E, una volta concessa un’ipotesi, bisogna mantenerla sempre oppure talvolta ritirarsene, accettando però le conseguenze e non accettando ciò che è in contraddizione con essa?</div></article>
+<article class="section" id="s-25"><a class="ref" href="#s-25">25</a><div class="section-text">— Sì. — Ma qualcuno dice: «Se ammetti un’ipotesi possibile, ti condurrò a un’impossibilità.» L’uomo assennato non entrerà dunque in discussione con costui, ma fuggirà l’esame e il confronto?</div></article>
+<article class="section" id="s-26"><a class="ref" href="#s-26">26</a><div class="section-text">E chi altri, allora, saprebbe servirsi del ragionamento, sarebbe abile nel domandare e rispondere e, per Zeus, immune dall’inganno e dai sofismi?</div></article>
+<article class="section" id="s-27"><a class="ref" href="#s-27">27</a><div class="section-text">Entrerà dunque nella discussione, ma non si preoccuperà di non comportarsi a caso e alla cieca nel ragionamento? E come potrebbe allora essere l’uomo che immaginiamo?</div></article>
+<article class="section" id="s-28"><a class="ref" href="#s-28">28</a><div class="section-text">Ma senza un esercizio e una preparazione di questo genere, è forse capace di mantenere coerentemente ciò che segue?</div></article>
+<article class="section" id="s-29"><a class="ref" href="#s-29">29</a><div class="section-text">Lo dimostrino, e allora tutte queste dottrine diventano superflue: sarebbero assurde e incoerenti con la prenozione che abbiamo dell’uomo serio.</div></article>
+<article class="section" id="s-30"><a class="ref" href="#s-30">30</a><div class="section-text">Perché dunque siamo ancora pigri, negligenti e indolenti, e cerchiamo pretesti per non faticare e non vegliare nel perfezionare la nostra ragione?</div></article>
+<article class="section" id="s-31"><a class="ref" href="#s-31">31</a><div class="section-text">— E se in queste cose mi sbaglio, avrò forse ucciso mio padre? — Schiavo, dov’era qui tuo padre, perché tu potessi ucciderlo? Che cosa hai fatto dunque? Hai commesso proprio l’unico errore che era possibile commettere in questo ambito.</div></article>
+<article class="section" id="s-32"><a class="ref" href="#s-32">32</a><div class="section-text">Proprio questo dissi anch’io a Rufo, quando mi rimproverava perché non riuscivo a trovare un elemento omesso in un certo sillogismo. «Non è mica come se avessi incendiato il Campidoglio», dissi. E lui: «Schiavo, qui l’elemento omesso è il Campidoglio.»</div></article>
+<article class="section" id="s-33"><a class="ref" href="#s-33">33</a><div class="section-text">O forse gli unici errori sono incendiare il Campidoglio e uccidere il proprio padre, mentre usare le proprie rappresentazioni a caso, senza scopo e alla cieca, non seguire un ragionamento, una dimostrazione o un sofisma e, in generale, non vedere nel domandare e nel rispondere ciò che è coerente con quanto si è ammesso e ciò che non lo è: nulla di questo sarebbe un errore?</div></article>
+</div>
+
+<nav class="chapter-nav chapter-nav-bottom"><a href="1-06.html">Diatriba precedente</a><a class="chapter-home" href="../index.html">Home</a><a href="1-08.html">Diatriba successiva</a></nav>

@@ -1,0 +1,794 @@
+/* Compact, mostly standard Quarto style for the Epictetus site.
+
+   It follows the Bhagavad Gita stylesheet closely -- same rhythm, same compact
+   cards, same quiet typography -- with a teal palette in place of the saffron
+   one, and the pieces this book needs: a cover, numbered sections in a gutter,
+   Long's footnotes, and Greek set in a face that has polytonic accents. */
+
+:root {
+  /* Teal palette: replaces the blue defaults inherited from Cosmo. */
+  --ep-teal: #2e8b84;
+  --ep-teal-dark: #1f5f5c;
+  --ep-teal-deep: #26706c;
+  --ep-teal-soft: #e3f0ee;
+  --ep-teal-rgb: 46, 139, 132;
+  --bs-primary: var(--ep-teal);
+  --bs-primary-rgb: var(--ep-teal-rgb);
+  --bs-link-color: var(--ep-teal-dark);
+  --bs-link-color-rgb: 31, 95, 92;
+  --bs-link-hover-color: var(--ep-teal-deep);
+  --bs-link-hover-color-rgb: 38, 112, 108;
+  --bs-focus-ring-color: rgba(var(--ep-teal-rgb), .32);
+  --ep-text-width: 860px;
+  --ep-soft-border: rgba(0, 0, 0, .12);
+  --ep-muted: rgba(0, 0, 0, .56);
+  --ep-faint: rgba(0, 0, 0, .035);
+  --ep-cream: #f3ebd8;
+  --ep-serif: "Palatino Linotype", Palatino, "Book Antiqua", Georgia, serif;
+  --ep-greek: "Palatino Linotype", Palatino, "Gentium Plus", Cambria,
+    "Times New Roman", serif;
+}
+
+/* Slightly larger reading text, less empty vertical space */
+body {
+  -webkit-font-smoothing: antialiased;
+  font-size: 16px;
+}
+
+/* From a laptop screen upwards the page is set a quarter larger, which is what
+   the browser's 125% zoom used to give: at 100% the text was small and lost in
+   the width of the window.  Everything here and in Bootstrap is measured in rem
+   or em, so raising the root size scales the whole page at once -- text, navbar,
+   sidebar and cards together.  Phones and small tablets keep the size they had.
+
+   The size is set through Bootstrap's own variable rather than on `html`: the
+   framework applies it with `:root`, which outranks a plain `html` rule. */
+@media (min-width: 992px) {
+  :root {
+    --bs-root-font-size: 21px;
+  }
+
+  body {
+    font-size: 1rem;
+  }
+
+  /* The navbar is the one place that does not grow with the rest: it carries
+     seven items, and at the new size they would wrap onto a second line on a
+     laptop screen.  Kept at roughly the size it had. */
+  #quarto-header .navbar {
+    font-size: .8rem;
+    --bs-navbar-padding-y: .38rem;
+  }
+
+  #quarto-header .navbar-brand {
+    font-size: 1.1rem;
+  }
+}
+
+#quarto-content main {
+  max-width: var(--ep-text-width);
+}
+
+h1.title {
+  margin-bottom: .2rem;
+  font-family: var(--ep-serif);
+  font-size: 1.62rem;
+  letter-spacing: -0.01em;
+}
+
+.quarto-title-meta,
+.subtitle,
+.diatribe-meta,
+.site-note {
+  color: var(--ep-muted);
+}
+
+.site-note {
+  font-size: .9rem;
+  line-height: 1.45;
+  margin-top: .2rem;
+  margin-bottom: .8rem;
+}
+
+.site-note p {
+  margin-bottom: .75rem;
+}
+
+.site-note p:last-child {
+  margin-bottom: 0;
+}
+
+.site-usage {
+  color: var(--ep-muted);
+  font-size: .9rem;
+  line-height: 1.35;
+  margin-top: .2rem;
+  margin-bottom: 1rem;
+}
+
+/* Prose still to be written by hand: unmistakable while it is there, and gone
+   from the page as soon as the paragraph in data/*.json is replaced. */
+.todo {
+  padding: .45rem .6rem;
+  border: 1px dashed rgba(var(--ep-teal-rgb), .55);
+  border-radius: 6px;
+  background: var(--ep-teal-soft);
+}
+
+.todo-tag {
+  margin-right: .4rem;
+  font-size: .7rem;
+  font-weight: 700;
+  letter-spacing: .06em;
+  color: var(--ep-teal-dark);
+}
+
+/* ---------------------------------------------------------------------------
+   Cover: the illustration with the title and the author set over it.
+   The image is a CSS background, so this one rule is correct for pages at any
+   depth, in a local preview and under a GitHub Pages project subpath alike.
+   --------------------------------------------------------------------------- */
+
+.cover-hero {
+  display: flex;
+  justify-content: center;
+  margin: .2rem 0 1.1rem 0;
+}
+
+.cover-download {
+  display: block;
+  color: inherit;
+  text-decoration: none;
+}
+
+.cover-download:hover,
+.cover-download:focus {
+  color: inherit;
+  text-decoration: none;
+}
+
+.cover-download:focus-visible {
+  border-radius: 4px;
+  outline: 3px solid rgba(var(--ep-teal-rgb), .45);
+  outline-offset: 4px;
+}
+
+.cover-download .cover-plate {
+  transition: transform .15s ease, box-shadow .15s ease;
+}
+
+.cover-download:hover .cover-plate {
+  transform: translateY(-2px);
+  box-shadow: 0 14px 30px rgba(0, 0, 0, .17);
+}
+
+.cover-plate {
+  position: relative;
+  width: min(23rem, 78vw);
+  aspect-ratio: 1054 / 1492;
+  padding: 7% 8% 0 8%;
+  border: 1px solid rgba(0, 0, 0, .14);
+  border-radius: 3px;
+  box-shadow: 0 10px 26px rgba(0, 0, 0, .13);
+  background-color: var(--ep-cream);
+  background-image: url("assets/cover.jpg");
+  background-size: cover;
+  background-position: center top;
+  text-align: center;
+}
+
+.cover-author {
+  margin: 0;
+  font-family: var(--ep-serif);
+  font-size: clamp(.82rem, 2.5vw, 1rem);
+  font-weight: 600;
+  letter-spacing: .22em;
+  text-transform: uppercase;
+  color: var(--ep-teal-dark);
+}
+
+.cover-title {
+  margin: .35em 0 0 0;
+  font-family: var(--ep-serif);
+  font-size: clamp(1.7rem, 6.4vw, 2.6rem);
+  font-weight: 600;
+  line-height: 1.05;
+  letter-spacing: .01em;
+  color: #2a2a26;
+  border: 0;
+}
+
+.cover-subtitle {
+  margin: .5em 0 0 0;
+  font-family: var(--ep-serif);
+  font-size: clamp(.75rem, 2.2vw, .92rem);
+  font-style: italic;
+  color: rgba(0, 0, 0, .6);
+}
+
+/* Pandoc wraps the inline links inside a raw <div> in a paragraph of its own.
+   Letting that paragraph disappear from the box tree keeps the cards as direct
+   children of the grid, which is what the layout below assumes. */
+.chapter-grid > p,
+.lang-chooser > p {
+  display: contents;
+}
+
+/* Home page cards: compact grid instead of tall full-width boxes */
+.chapter-grid {
+  display: grid;
+  grid-template-columns: repeat(auto-fit, minmax(11.5rem, 1fr));
+  gap: .45rem;
+  margin-top: .8rem;
+  margin-bottom: 1.4rem;
+}
+
+.chapter-card {
+  display: block;
+  padding: .48rem .62rem;
+  border: 1px solid var(--ep-soft-border);
+  border-radius: 7px;
+  text-decoration: none;
+  background: var(--ep-faint);
+}
+
+.chapter-card:hover {
+  text-decoration: none;
+  border-color: rgba(0, 0, 0, .22);
+}
+
+.chapter-card .chapter-number {
+  display: block;
+  font-weight: 600;
+  line-height: 1.2;
+}
+
+.chapter-card .chapter-title {
+  display: block;
+  color: rgba(0, 0, 0, .72);
+  font-size: .88rem;
+  line-height: 1.22;
+  margin-top: .08rem;
+}
+
+.chapter-card .chapter-count {
+  display: block;
+  margin-top: .12rem;
+  color: var(--ep-muted);
+  font-size: .8rem;
+}
+
+h2#book-0,
+h2[id^="book-"] {
+  margin-top: 1.5rem;
+  font-family: var(--ep-serif);
+  font-size: 1.15rem;
+  letter-spacing: .01em;
+}
+
+.chapter-nav {
+  display: flex;
+  justify-content: space-between;
+  align-items: baseline;
+  gap: 1rem;
+  margin-top: .25rem;
+  margin-bottom: .65rem;
+  padding-top: .35rem;
+  border-top: 1px solid var(--ep-soft-border);
+  font-size: .86rem;
+}
+
+.chapter-nav-bottom {
+  margin-top: 1.1rem;
+}
+
+.chapter-nav a {
+  text-decoration: none;
+}
+
+/* Links, keyboard focus and navigation share the same teal accent. */
+a {
+  color: var(--ep-teal-dark);
+}
+
+a:hover,
+a:active {
+  color: var(--ep-teal-deep);
+}
+
+a:visited {
+  color: var(--ep-teal-dark);
+}
+
+a:focus-visible {
+  outline: 2px solid var(--ep-teal);
+  outline-offset: 2px;
+}
+
+::selection {
+  color: #fff;
+  background: var(--ep-teal-dark);
+}
+
+::-moz-selection {
+  color: #fff;
+  background: var(--ep-teal-dark);
+}
+
+html {
+  -webkit-tap-highlight-color: rgba(var(--ep-teal-rgb), .28);
+}
+
+/* The generated Quarto navbar otherwise retains Cosmo's blue primary colour. */
+#quarto-header .navbar {
+  background-color: var(--ep-teal-deep);
+}
+
+#quarto-header .navbar-brand,
+#quarto-header .navbar .nav-link,
+#quarto-header .navbar .navbar-toggler {
+  color: white;
+}
+
+#quarto-header .navbar-brand {
+  font-family: var(--ep-serif);
+  letter-spacing: .01em;
+}
+
+#quarto-header .navbar .nav-link:hover,
+#quarto-header .navbar .nav-link:focus,
+#quarto-header .navbar .nav-link.active,
+#quarto-header .navbar-brand:hover {
+  color: white;
+}
+
+#quarto-header .navbar .navbar-toggler {
+  border-color: rgba(255, 255, 255, .72);
+}
+
+/* Use an opaque white hamburger icon on the teal mobile navbar. */
+#quarto-header .navbar .navbar-toggler-icon {
+  background-image: url("data:image/svg+xml,%3csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 30 30'%3e%3cpath stroke='%23fff' stroke-linecap='round' stroke-miterlimit='10' stroke-width='2' d='M4 7h22M4 15h22M4 23h22'/%3e%3c/svg%3e");
+}
+
+/* Book menus are long: let them scroll instead of running off the screen. */
+#quarto-header .dropdown-menu {
+  max-height: min(70vh, 34rem);
+  overflow-y: auto;
+}
+
+#quarto-header .dropdown-item {
+  color: black;
+  font-size: .88rem;
+}
+
+#quarto-header .dropdown-item:hover,
+#quarto-header .dropdown-item:focus {
+  color: var(--ep-teal-dark);
+  background-color: var(--ep-faint);
+}
+
+#quarto-header .dropdown-item.active,
+#quarto-header .dropdown-item:active {
+  color: #fff;
+  background-color: var(--ep-teal);
+}
+
+.sidebar .sidebar-link.active,
+.sidebar .sidebar-link:hover,
+.sidebar .sidebar-link:focus,
+.sidebar .sidebar-item-toggle:hover {
+  color: var(--ep-teal-dark);
+}
+
+.sidebar .sidebar-link.active {
+  font-weight: 700;
+}
+
+/* ---------------------------------------------------------------------------
+   The text itself
+   --------------------------------------------------------------------------- */
+
+.diatribe-meta {
+  font-size: .84rem;
+  margin-top: .15rem;
+  margin-bottom: .55rem;
+  line-height: 1.3;
+}
+
+.diatribe-meta .canonical {
+  font-variant-numeric: tabular-nums;
+  white-space: nowrap;
+}
+
+.title-note {
+  margin-bottom: .5rem;
+  color: var(--ep-muted);
+  font-size: .82rem;
+}
+
+.section-list {
+  margin-top: .2rem;
+}
+
+/* A numbered section: the number sits in a narrow gutter, so 2,600 of them do
+   not each cost a line of their own. */
+.section {
+  display: grid;
+  grid-template-columns: 2.1rem 1fr;
+  column-gap: .35rem;
+  padding: .28rem 0;
+}
+
+.section + .section {
+  border-top: 1px solid rgba(0, 0, 0, .06);
+}
+
+.section .ref {
+  padding-top: .18rem;
+  color: var(--ep-muted);
+  font-size: .78rem;
+  font-variant-numeric: tabular-nums;
+  text-align: right;
+  text-decoration: none;
+}
+
+.section .ref:hover {
+  color: var(--ep-teal-dark);
+}
+
+.section-text {
+  font-size: 1.06rem;
+  line-height: 1.55;
+}
+
+.section-text p {
+  margin-bottom: .35rem;
+}
+
+.section-text p:last-child {
+  margin-bottom: 0;
+}
+
+/* Greek needs a face with polytonic accents and a little more leading. */
+[lang="grc"],
+.foreign[lang="grc"] {
+  font-family: var(--ep-greek);
+  line-height: 1.62;
+}
+
+/* Text shown in a language other than the one the page promises: the Greek
+   still waiting for its Italian, or Long's English standing in for it. */
+.section-fallback {
+  color: rgba(0, 0, 0, .58);
+}
+
+.paragraph-list {
+  font-size: 1.06rem;
+  line-height: 1.58;
+}
+
+.paragraph-list p {
+  margin-bottom: .7rem;
+}
+
+.paragraph-list.section-fallback {
+  padding-left: .7rem;
+  border-left: 2px solid rgba(0, 0, 0, .10);
+}
+
+/* Quotation marks are supplied by the stylesheet: the TEI sources mark quoted
+   speech but leave the marks themselves out. */
+q {
+  quotes: "“" "”" "‘" "’";
+}
+
+:lang(it) q {
+  quotes: "«" "»" "“" "”";
+}
+
+:lang(grc) q {
+  quotes: "«" "»" "‘" "’";
+}
+
+blockquote,
+.verse-quote {
+  display: block;
+  margin: .5rem 0 .5rem .6rem;
+  padding-left: .7rem;
+  border-left: 2px solid var(--ep-soft-border);
+  font-size: .96rem;
+}
+
+.lg,
+.l {
+  display: block;
+}
+
+.lg {
+  margin: .1rem 0;
+  font-style: italic;
+}
+
+/* Schenkl's editorial marks, as they are printed in the Teubner text. */
+.ed-del,
+.ed-add,
+.ed-gap {
+  color: rgba(0, 0, 0, .5);
+}
+
+.ed-sic {
+  border-bottom: 1px dotted rgba(0, 0, 0, .3);
+}
+
+/* ---------------------------------------------------------------------------
+   Long's footnotes
+   --------------------------------------------------------------------------- */
+
+.note-ref {
+  padding: 0 .08em;
+  font-size: .8em;
+  text-decoration: none;
+}
+
+.notes {
+  margin-top: 1.6rem;
+  padding-top: .5rem;
+  border-top: 1px solid var(--ep-soft-border);
+}
+
+.notes h2 {
+  font-family: var(--ep-serif);
+  font-size: 1.02rem;
+  margin-bottom: .4rem;
+}
+
+.note-list {
+  padding-left: 1.2rem;
+  color: rgba(0, 0, 0, .66);
+  font-size: .85rem;
+  line-height: 1.4;
+}
+
+.note-list > li {
+  margin-bottom: .45rem;
+}
+
+.note-list p {
+  margin-bottom: .3rem;
+}
+
+.note-back {
+  margin-left: .3rem;
+  text-decoration: none;
+}
+
+/* ---------------------------------------------------------------------------
+   Sidebar
+   --------------------------------------------------------------------------- */
+
+.sidebar nav[role="doc-toc"] ul,
+.sidebar nav[role="navigation"] ul {
+  line-height: 1.22;
+}
+
+.sidebar-item {
+  margin-bottom: .08rem;
+}
+
+.sidebar-item-text {
+  font-size: .86rem;
+}
+
+.sidebar-item-section > .sidebar-item-container {
+  font-weight: 600;
+}
+
+/* On wide screens, reduce the sense of empty page by widening the body a bit */
+@media (min-width: 1000px) {
+  #quarto-content main {
+    padding-top: 1.1rem;
+  }
+}
+
+/* Mobile */
+@media (max-width: 700px) {
+  body {
+    font-size: 15.5px;
+  }
+
+  .chapter-grid {
+    grid-template-columns: repeat(auto-fit, minmax(145px, 1fr));
+  }
+
+  .section-text,
+  .paragraph-list {
+    font-size: 1.02rem;
+  }
+
+  .section {
+    grid-template-columns: 1.7rem 1fr;
+  }
+}
+
+/* ---------------------------------------------------------------------------
+   Language switching: flags in the navbar and at the top of the sidebar.
+
+   The flags are drawn from CSS rather than from <img> tags in _quarto.yml.
+   URLs inside this stylesheet resolve against the site root, so a single rule
+   is correct for pages at any depth, in a local preview and under a GitHub
+   Pages project subpath alike.
+   --------------------------------------------------------------------------- */
+
+.ep-lang::before {
+  content: "";
+  display: inline-block;
+  width: 1.35em;
+  height: 1em;
+  margin-right: .4em;
+  border-radius: 2px;
+  box-shadow: 0 0 0 1px rgba(0, 0, 0, .18);
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: cover;
+  vertical-align: -.12em;
+}
+
+.ep-lang[data-lang="it"]::before {
+  background-image: url("assets/flags/it.png");
+}
+
+.ep-lang[data-lang="en"]::before {
+  background-image: url("assets/flags/en.png");
+}
+
+.ep-lang[data-lang="grc"]::before {
+  background-image: url("assets/flags/grc.png");
+}
+
+/* In the navbar the flag is the whole control: keep the label for screen
+   readers, but let the flag alone carry the meaning visually. */
+#quarto-header .navbar .ep-lang {
+  font-size: 0;
+}
+
+#quarto-header .navbar .ep-lang::before {
+  width: 1.5rem;
+  height: 1.1rem;
+  margin-right: 0;
+  box-shadow: 0 0 0 1px rgba(255, 255, 255, .45);
+}
+
+/* Below Bootstrap's lg breakpoint the navbar collapses into a stacked menu,
+   where there is room to name the language next to its flag. */
+@media (max-width: 991.98px) {
+  #quarto-header .navbar .ep-lang {
+    font-size: inherit;
+  }
+
+  #quarto-header .navbar .ep-lang::before {
+    width: 1.35em;
+    height: 1em;
+    margin-right: .4em;
+  }
+}
+
+/* .ep-lang-link is added by lang-switch.html, so dimming the edition already
+   being read is a progressive enhancement. */
+#quarto-header .navbar .ep-lang-link {
+  padding-left: .35rem;
+  padding-right: .35rem;
+  opacity: .5;
+  transition: opacity .12s ease;
+}
+
+#quarto-header .navbar .ep-lang-link:hover,
+#quarto-header .navbar .ep-lang-link:focus {
+  opacity: .8;
+}
+
+#quarto-header .navbar .ep-lang-link.ep-lang-active {
+  opacity: 1;
+}
+
+#quarto-header .navbar .ep-lang-active .ep-lang::before {
+  box-shadow: 0 0 0 2px rgba(255, 255, 255, .95);
+}
+
+.sidebar .ep-lang-active {
+  font-weight: 700;
+}
+
+/* Notice shown while the Italian is not finished.  It is emitted per page, so
+   it disappears from each diatribe as that diatribe is completed. */
+.lang-pending {
+  margin: .2rem 0 .9rem 0;
+  padding: .45rem .6rem;
+  border: 1px solid rgba(var(--ep-teal-rgb), .35);
+  border-left: 3px solid var(--ep-teal);
+  border-radius: 6px;
+  background: var(--ep-teal-soft);
+  color: rgba(0, 0, 0, .68);
+  font-size: .88rem;
+  line-height: 1.35;
+}
+
+/* Root landing page: the three editions, side by side. */
+.lang-chooser {
+  display: flex;
+  flex-wrap: wrap;
+  gap: .5rem;
+  margin-top: 1rem;
+  margin-bottom: 1.1rem;
+}
+
+.lang-choice {
+  display: flex;
+  align-items: center;
+  gap: .5rem;
+  padding: .5rem .75rem;
+  border: 1px solid var(--ep-soft-border);
+  border-radius: 7px;
+  background: var(--ep-faint);
+  text-decoration: none;
+  font-weight: 600;
+}
+
+.lang-choice:hover {
+  text-decoration: none;
+  border-color: rgba(0, 0, 0, .22);
+}
+
+.lang-choice-note {
+  color: var(--ep-muted);
+  font-weight: 400;
+  font-size: .86rem;
+}
+
+.site-download {
+  margin-top: .3rem;
+  margin-bottom: .8rem;
+  font-size: .9rem;
+}
+
+.site-download a {
+  display: inline-flex;
+  align-items: center;
+  gap: .45rem;
+  color: var(--ep-muted);
+  text-decoration: none;
+}
+
+.site-download a:hover {
+  color: var(--ep-teal-dark);
+  text-decoration: underline;
+}
+
+.pdf-icon {
+  width: 1.45rem;
+  height: 1.7rem;
+  flex: 0 0 auto;
+  overflow: visible;
+}
+
+.pdf-icon path {
+  fill: var(--ep-cream);
+  stroke: currentColor;
+  stroke-width: 1.25;
+  stroke-linejoin: round;
+}
+
+.pdf-icon text {
+  fill: currentColor;
+  font-family: Arial, sans-serif;
+  font-size: 6.4px;
+  font-weight: 700;
+}
+
+.credits-note code {
+  font-size: .82em;
+  color: rgba(0, 0, 0, .6);
+  background: var(--ep-faint);
+  padding: .05em .25em;
+  border-radius: 3px;
+}

@@ -1,0 +1,38 @@
+---
+title: "Diatriba III.8 — Come esercitarsi di fronte alle rappresentazioni"
+lang: it
+pagetitle: "Diatriba III.8 — Come esercitarsi di fronte alle rappresentazioni — Epitteto, Diatribe"
+title-prefix: ""
+description-meta: "Diatriba III.8: «Come esercitarsi di fronte alle rappresentazioni». Le Diatribe di Epitteto raccolte da Arriano, in traduzione italiana."
+sidebar: it
+---
+
+<!--
+FILE GENERATO. NON MODIFICARE A MANO.
+
+Modificare invece:
+- translation/it/**.md      per il testo e i titoli italiani
+- data/intro.json           per le note introduttive delle home page
+- tools/site_config.py      per lingue, testi dell'interfaccia, URL
+- styles.css                per l'aspetto grafico
+
+Poi eseguire:
+    run.bat
+-->
+
+
+<div class="diatribe-meta">Libro III · 7 sezioni · <span class="canonical" title="Riferimento canonico">III 8</span></div>
+
+<nav class="chapter-nav"><a href="3-07.html">Diatriba precedente</a><a class="chapter-home" href="../index.html">Home</a><a href="3-09.html">Diatriba successiva</a></nav>
+
+<div class="section-list">
+<article class="section" id="s-1"><a class="ref" href="#s-1">1</a><div class="section-text">Come ci esercitiamo di fronte alle domande sofistiche, così dovremmo esercitarci ogni giorno di fronte alle rappresentazioni: anch’esse infatti ci pongono domande.</div></article>
+<article class="section" id="s-2"><a class="ref" href="#s-2">2</a><div class="section-text">«È morto il figlio del tale.» Rispondi: «Non dipende dalla scelta morale: non è un male.» «Il padre ha diseredato il tale.» Che te ne pare? «Non dipende dalla scelta morale: non è un male.» «Cesare lo ha condannato.»</div></article>
+<article class="section" id="s-3"><a class="ref" href="#s-3">3</a><div class="section-text">«Non dipende dalla scelta morale: non è un male.» «Si è addolorato per queste cose.» «Dipende dalla scelta morale: è un male.» «Le ha sopportate con nobiltà.» «Dipende dalla scelta morale: è un bene.»</div></article>
+<article class="section" id="s-4"><a class="ref" href="#s-4">4</a><div class="section-text">E se ci abitueremo così, progrediremo: non daremo mai assenso ad altro che a ciò di cui si forma una rappresentazione tale da poter essere afferrata con certezza.</div></article>
+<article class="section" id="s-5"><a class="ref" href="#s-5">5</a><div class="section-text">«È morto il figlio.» Che cosa è accaduto? «È morto il figlio.» Nient’altro? «Nient’altro.» «La nave è andata perduta.» Che cosa è accaduto? «La nave è andata perduta.» «È stato condotto in prigione.» Che cosa è accaduto? «È stato condotto in prigione.» Ma che gli sia capitato un male</div></article>
+<article class="section" id="s-6"><a class="ref" href="#s-6">6</a><div class="section-text">lo aggiunge ciascuno da sé. «Ma Zeus non agisce rettamente in queste cose.» Perché? Perché ti ha reso capace di sopportare, perché ti ha reso magnanimo, perché ha tolto a queste cose la possibilità di essere mali, perché ti è possibile essere felice mentre le subisci, perché ti ha aperto la porta quando non ti sta più bene? Uomo, esci e non accusare.</div></article>
+<article class="section" id="s-7"><a class="ref" href="#s-7">7</a><div class="section-text">Se vuoi sapere quale atteggiamento abbiano i Romani verso i filosofi, ascolta. Italico, che fra loro passava più di tutti per filosofo, una volta, mentre ero presente, adirato con i suoi come se subisse qualcosa di irreparabile, disse: «Non posso sopportarlo; mi state rovinando, mi farete diventare come quello là», indicando me.</div></article>
+</div>
+
+<nav class="chapter-nav chapter-nav-bottom"><a href="3-07.html">Diatriba precedente</a><a class="chapter-home" href="../index.html">Home</a><a href="3-09.html">Diatriba successiva</a></nav>

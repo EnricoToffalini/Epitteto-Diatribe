@@ -1,0 +1,45 @@
+---
+title: "Discourse I.5 — Against the academics"
+lang: en
+pagetitle: "Discourse I.5 — Against the academics — Epictetus, Discourses"
+title-prefix: ""
+description-meta: "Discourse I.5: “Against the academics”. The Discourses of Epictetus, in George Long’s English translation, with his notes."
+sidebar: en
+---
+
+<!--
+FILE GENERATO. NON MODIFICARE A MANO.
+
+Modificare invece:
+- translation/it/**.md      per il testo e i titoli italiani
+- data/intro.json           per le note introduttive delle home page
+- tools/site_config.py      per lingue, testi dell'interfaccia, URL
+- styles.css                per l'aspetto grafico
+
+Poi eseguire:
+    run.bat
+-->
+
+
+<div class="diatribe-meta">Book I · 3 paragraphs · <span class="canonical" title="Canonical reference">I 5</span></div>
+
+<div class="title-note">Note on the title<a class="note-ref" id="noteref-1" href="#note-1" role="doc-noteref" aria-label="note 1"><sup>1</sup></a></div>
+
+<nav class="chapter-nav"><a href="1-04.html">Previous discourse</a><a class="chapter-home" href="../index.html">Home</a><a href="1-06.html">Next discourse</a></nav>
+
+<div class="paragraph-list">
+<p>IF a man, said Epictetus, opposes evident truths, it is not easy to find arguments by which we shall make him change his opinion. But this does not arise either from the man’s strength or the teacher’s weakness; for when the man, though he has been confuted,<a class="note-ref" id="noteref-2" href="#note-2" role="doc-noteref" aria-label="note 2"><sup>2</sup></a> is hardened like a stone, how shall we then be able to deal with him by argument?</p>
+<p>Now there are two kinds of hardening, one of the understanding, the other of the sense of shame, when a man is resolved not to assent to what is manifest nor to desist from contradictions. Most of us are afraid of mortification of the body, and would contrive all means to avoid such a thing, but we care not about the soul’s mortification. And indeed with regard to the soul, if a man be in such a state as not to apprehend anything, or understand at all, we think that he is in a bad condition: but if the sense of shame and modesty are deadened, this we call even power (or strength).</p>
+<p>Do you comprehend that you are awake? I do not, the man replies, for I do not even comprehend when in my sleep I imagine that I am awake. Does this appearance then not differ from the other? Not at all, he replies. Shall I still argue with this man?<a class="note-ref" id="noteref-3" href="#note-3" role="doc-noteref" aria-label="note 3"><sup>3</sup></a> And what fire or what iron shall I apply to him to make him feel that he is deadened? He does perceive, but he pretends that he does not. He is even worse than a dead man. He does not see the contradiction: he is in a bad condition. Another does see it, but he is not moved, and makes no improvement: he is even in a worse condition. His modesty is extirpated, and his sense of shame; and the rational faculty has not been cut off from him, but it is brutalised. Shall I name this strength of mind? Certainly not, unless we also name it such in catamites, through which they do and say in public whatever comes into their head.</p>
+</div>
+
+<section class="notes">
+<h2>Notes</h2>
+<ol class="note-list">
+<li class="note" id="note-1" role="doc-endnote"><p>See Lecture V., The New Academy, Levin’s Lectures Introductory to the Phoilsophical Writings of Cicero, Cambridge, 1871.</p><a class="note-back" href="#noteref-1" aria-label="back to the text">&#8617;</a></li>
+<li class="note" id="note-2" role="doc-endnote"><p><span class="foreign" lang="grc">ἀπαχθείς</span>. See the note in Schweig.’s edition.</p><a class="note-back" href="#noteref-2" aria-label="back to the text">&#8617;</a></li>
+<li class="note" id="note-3" role="doc-endnote"><p>Compare Cicero, Academ. Prior. ii. 6.</p><a class="note-back" href="#noteref-3" aria-label="back to the text">&#8617;</a></li>
+</ol>
+</section>
+
+<nav class="chapter-nav chapter-nav-bottom"><a href="1-04.html">Previous discourse</a><a class="chapter-home" href="../index.html">Home</a><a href="1-06.html">Next discourse</a></nav>

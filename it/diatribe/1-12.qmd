@@ -1,0 +1,66 @@
+---
+title: "Diatriba I.12 — Sull'accettare di buon grado"
+lang: it
+pagetitle: "Diatriba I.12 — Sull'accettare di buon grado — Epitteto, Diatribe"
+title-prefix: ""
+description-meta: "Diatriba I.12: «Sull'accettare di buon grado». Le Diatribe di Epitteto raccolte da Arriano, in traduzione italiana."
+sidebar: it
+---
+
+<!--
+FILE GENERATO. NON MODIFICARE A MANO.
+
+Modificare invece:
+- translation/it/**.md      per il testo e i titoli italiani
+- data/intro.json           per le note introduttive delle home page
+- tools/site_config.py      per lingue, testi dell'interfaccia, URL
+- styles.css                per l'aspetto grafico
+
+Poi eseguire:
+    run.bat
+-->
+
+
+<div class="diatribe-meta">Libro I · 35 sezioni · <span class="canonical" title="Riferimento canonico">I 12</span></div>
+
+<nav class="chapter-nav"><a href="1-11.html">Diatriba precedente</a><a class="chapter-home" href="../index.html">Home</a><a href="1-13.html">Diatriba successiva</a></nav>
+
+<div class="section-list">
+<article class="section" id="s-1"><a class="ref" href="#s-1">1</a><div class="section-text">Riguardo agli dèi, alcuni dicono che il divino non esiste affatto; altri che esiste, ma è inerte e incurante e non provvede a nulla.</div></article>
+<article class="section" id="s-2"><a class="ref" href="#s-2">2</a><div class="section-text">Altri ancora dicono che esiste e provvede, ma solo alle cose grandi e celesti, e a nulla di ciò che è sulla terra; altri che provvede anche alle cose terrene e umane, ma soltanto in generale e non anche a ciascuno individualmente.</div></article>
+<article class="section" id="s-3"><a class="ref" href="#s-3">3</a><div class="section-text">Altri infine, tra i quali erano anche Odisseo e Socrate, dicono: «Non ti sfuggo neppure quando mi muovo».</div></article>
+<article class="section" id="s-4"><a class="ref" href="#s-4">4</a><div class="section-text">Prima di tutto, dunque, è necessario esaminare ciascuna di queste posizioni, per vedere se sia fondata oppure no. Se infatti gli dèi non esistono, come può avere senso che il nostro fine sia seguire gli dèi?</div></article>
+<article class="section" id="s-5"><a class="ref" href="#s-5">5</a><div class="section-text">E se esistono, ma non si curano di nulla, anche così come potrà avere senso?</div></article>
+<article class="section" id="s-6"><a class="ref" href="#s-6">6</a><div class="section-text">Ma se pure esistono e si curano delle cose, e tuttavia da loro non giunge nulla agli uomini, e per Zeus neppure a me, come può avere senso anche così?</div></article>
+<article class="section" id="s-7"><a class="ref" href="#s-7">7</a><div class="section-text">L’uomo buono e virtuoso, dopo aver esaminato tutte queste cose, ha dunque sottomesso il proprio giudizio a colui che governa l’universo, come i buoni cittadini alla legge della città.</div></article>
+<article class="section" id="s-8"><a class="ref" href="#s-8">8</a><div class="section-text">Chi si educa deve accostarsi all’educazione con questo proposito: «Come potrei seguire gli dèi in ogni cosa? Come potrei accettare di buon grado il governo divino? E come potrei diventare libero?»</div></article>
+<article class="section" id="s-9"><a class="ref" href="#s-9">9</a><div class="section-text">Libero, infatti, è colui al quale tutto accade secondo la propria scelta morale e che nessuno può ostacolare.</div></article>
+<article class="section" id="s-10"><a class="ref" href="#s-10">10</a><div class="section-text">E allora? La libertà è follia? Niente affatto. Follia e libertà non coincidono.</div></article>
+<article class="section" id="s-11"><a class="ref" href="#s-11">11</a><div class="section-text">«Ma io voglio che avvenga tutto ciò che mi pare, comunque mi paia».</div></article>
+<article class="section" id="s-12"><a class="ref" href="#s-12">12</a><div class="section-text">Sei pazzo, sei fuori di senno. Non sai che la libertà è qualcosa di bello e degno di valore? Ma che io voglia a caso e che le cose avvengano secondo ciò che a caso mi è sembrato, questo rischia non solo di non essere bello, ma di essere la cosa più vergognosa di tutte.</div></article>
+<article class="section" id="s-13"><a class="ref" href="#s-13">13</a><div class="section-text">Come facciamo, infatti, con la grammatica? Voglio forse scrivere come voglio il nome di Dione? No: imparo invece a volerlo scrivere come si deve. E con la musica? Allo stesso modo.</div></article>
+<article class="section" id="s-14"><a class="ref" href="#s-14">14</a><div class="section-text">E in generale, ovunque vi sia un’arte o una scienza? Se così non fosse, conoscere qualcosa non avrebbe alcun valore, se la conoscenza si adattasse alla volontà di ciascuno.</div></article>
+<article class="section" id="s-15"><a class="ref" href="#s-15">15</a><div class="section-text">Dunque proprio qui soltanto, nella cosa più grande e sovrana, la libertà, mi è concesso volere a caso? Niente affatto. Educarsi significa invece imparare a volere ogni cosa così come accade. E come accade? Come l’ha disposta colui che dispone.</div></article>
+<article class="section" id="s-16"><a class="ref" href="#s-16">16</a><div class="section-text">Egli ha disposto che vi siano estate e inverno, fecondità e sterilità, virtù e vizio e tutte le opposizioni di questo genere per l’armonia dell’universo; e a ciascuno di noi ha dato un corpo, le parti del corpo, dei beni e dei compagni.</div></article>
+<article class="section" id="s-17"><a class="ref" href="#s-17">17</a><div class="section-text">Ricordando dunque quest’ordine, dobbiamo accostarci all’educazione non per cambiare le condizioni date — non ci è concesso, né sarebbe meglio — ma perché, stando le cose intorno a noi così come stanno e come è nella loro natura, noi manteniamo il nostro giudizio accordato a ciò che accade.</div></article>
+<article class="section" id="s-18"><a class="ref" href="#s-18">18</a><div class="section-text">Che dunque? È possibile sfuggire agli uomini? E come sarebbe possibile? Oppure, vivendo con loro, cambiarli? E chi ce ne dà il potere?</div></article>
+<article class="section" id="s-19"><a class="ref" href="#s-19">19</a><div class="section-text">Che cosa resta allora, o quale mezzo si trova per rapportarci a loro? Questo: che essi facciano ciò che pare loro, e noi nondimeno ci manteniamo secondo natura.</div></article>
+<article class="section" id="s-20"><a class="ref" href="#s-20">20</a><div class="section-text">Tu invece sei insofferente e scontento: se sei solo, chiami questo solitudine; se sei con gli uomini, li chiami gente che trama contro di te e briganti; e biasimi anche i tuoi genitori, i figli, i fratelli e i vicini.</div></article>
+<article class="section" id="s-21"><a class="ref" href="#s-21">21</a><div class="section-text">Dovresti invece, quando rimani solo, chiamare questo quiete e libertà e considerarti simile agli dèi; e quando sei con molti, non chiamarlo folla, tumulto o fastidio, ma festa e assemblea, e così accogliere tutto di buon grado. Qual è dunque il castigo per chi non accoglie le cose così?</div></article>
+<article class="section" id="s-22"><a class="ref" href="#s-22">22</a><div class="section-text">Essere come sono. A uno pesa essere solo? Se ne stia nella solitudine. A uno pesano i genitori? Sia un cattivo figlio e si lamenti. Gli pesano i figli?</div></article>
+<article class="section" id="s-23"><a class="ref" href="#s-23">23</a><div class="section-text">Sia un cattivo padre. Gettalo in prigione. Quale prigione? Quella in cui già si trova. Infatti vi sta controvoglia; e dove uno sta controvoglia, quello per lui è prigione. Per questo Socrate non era in prigione: vi stava volontariamente.</div></article>
+<article class="section" id="s-24"><a class="ref" href="#s-24">24</a><div class="section-text">«Dunque devo avere una gamba storpia?» Schiavo, e per una sola gambetta te la prendi con il mondo? Non la cederai all’universo? Non te ne distaccherai? Non la restituirai con gioia a chi te l’ha data?</div></article>
+<article class="section" id="s-25"><a class="ref" href="#s-25">25</a><div class="section-text">E ti adirerai e sarai scontento di quanto Zeus ha disposto, di ciò che egli ha stabilito e ordinato insieme alle Moire, presenti e intente a filare il filo della tua nascita?</div></article>
+<article class="section" id="s-26"><a class="ref" href="#s-26">26</a><div class="section-text">Non sai quanto piccola parte sei rispetto all’universo? Questo, però, quanto al corpo; perché quanto alla ragione non sei affatto inferiore agli dèi né più piccolo: la grandezza della ragione non si giudica dalla lunghezza o dall’altezza, ma dai giudizi.</div></article>
+<article class="section" id="s-27"><a class="ref" href="#s-27">27</a><div class="section-text">Non vuoi dunque collocare il bene proprio là dove sei uguale agli dèi?</div></article>
+<article class="section" id="s-28"><a class="ref" href="#s-28">28</a><div class="section-text">«Povero me, ho un padre così e una madre così». E allora? Ti era forse concesso presentarti prima, scegliere e dire: «Il tale si unisca alla tale a quest’ora, perché io possa nascere»?</div></article>
+<article class="section" id="s-29"><a class="ref" href="#s-29">29</a><div class="section-text">Non ti era concesso. Era necessario che i tuoi genitori esistessero prima di te e che poi tu nascessi. Da quali genitori?</div></article>
+<article class="section" id="s-30"><a class="ref" href="#s-30">30</a><div class="section-text">Da quelli che erano così come erano. E allora? Dal momento che sono così, non ti è dato alcun mezzo? Se ignorassi a che scopo possiedi la facoltà della vista, saresti infelice e miserabile se chiudessi gli occhi quando ti si presentano i colori; e poiché possiedi grandezza d’animo e nobiltà di fronte a ciascuna di queste cose, ma ignori di possederle, non sei ancora più infelice e miserabile? Ti si presentano cose adatte alla facoltà che possiedi;</div></article>
+<article class="section" id="s-31"><a class="ref" href="#s-31">31</a><div class="section-text">e tu proprio allora la distogli, quando dovresti tenerla aperta e vigile.</div></article>
+<article class="section" id="s-32"><a class="ref" href="#s-32">32</a><div class="section-text">Non ringrazi piuttosto gli dèi perché ti hanno lasciato al di sopra di quelle cose che non hanno neppure posto in tuo potere, e ti hanno reso responsabile soltanto di ciò che è in tuo potere? Quanto ai genitori, ti hanno lasciato senza responsabilità;</div></article>
+<article class="section" id="s-33"><a class="ref" href="#s-33">33</a><div class="section-text">così quanto ai fratelli, al corpo, ai beni, alla morte, alla vita.</div></article>
+<article class="section" id="s-34"><a class="ref" href="#s-34">34</a><div class="section-text">Di che cosa dunque ti hanno reso responsabile? Dell’unica cosa che è in tuo potere: dell’uso che si deve fare delle rappresentazioni.</div></article>
+<article class="section" id="s-35"><a class="ref" href="#s-35">35</a><div class="section-text">Perché dunque ti tiri addosso le cose di cui non sei responsabile? Questo significa procurarsi problemi da soli.</div></article>
+</div>
+
+<nav class="chapter-nav chapter-nav-bottom"><a href="1-11.html">Diatriba precedente</a><a class="chapter-home" href="../index.html">Home</a><a href="1-13.html">Diatriba successiva</a></nav>

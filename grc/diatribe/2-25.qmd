@@ -1,0 +1,34 @@
+---
+title: "Διατριβὴ Βʹ.κεʹ — πῶς ἀναγκαῖα τὰ λογικά"
+lang: grc
+pagetitle: "Διατριβὴ Βʹ.κεʹ — πῶς ἀναγκαῖα τὰ λογικά — Ἐπικτήτου Διατριβαί"
+title-prefix: ""
+description-meta: "Διατριβὴ Βʹ.κεʹ· «πῶς ἀναγκαῖα τὰ λογικά». Ἀρριανοῦ τῶν Ἐπικτήτου Διατριβῶν, τὸ ἑλληνικὸν κείμενον."
+sidebar: grc
+---
+
+<!--
+FILE GENERATO. NON MODIFICARE A MANO.
+
+Modificare invece:
+- translation/it/**.md      per il testo e i titoli italiani
+- data/intro.json           per le note introduttive delle home page
+- tools/site_config.py      per lingue, testi dell'interfaccia, URL
+- styles.css                per l'aspetto grafico
+
+Poi eseguire:
+    run.bat
+-->
+
+
+<div class="diatribe-meta">Βιβλίον Βʹ · 3 τμήματα · <span class="canonical" title="Παραπομπή">II 25</span></div>
+
+<nav class="chapter-nav"><a href="2-24.html">ἡ προτέρα διατριβή</a><a class="chapter-home" href="../index.html">Ἀρχή</a><a href="2-26.html">ἡ ἑπομένη διατριβή</a></nav>
+
+<div class="section-list">
+<article class="section" id="s-1"><a class="ref" href="#s-1">1</a><div class="section-text" lang="grc">τῶν παρόντων δέ τινος εἰπόντος Πεῖσόν με, ὅτι τὰ λογικὰ χρήσιμά ἐστιν, Θέλεις, ἔφη, ἀποδείξω σοι τοῦτο;</div></article>
+<article class="section" id="s-2"><a class="ref" href="#s-2">2</a><div class="section-text" lang="grc">— ναί. — οὐκοῦν λόγον μʼ ἀποδεικτικὸν διαλεχθῆναι δεῖ; — ὁμολογήσαντος δὲ Πόθεν οὖν εἴσῃ, ἄν σε σοφίσωμαι;</div></article>
+<article class="section" id="s-3"><a class="ref" href="#s-3">3</a><div class="section-text" lang="grc">— σιωπήσαντος δὲ τοῦ ἀνθρώπου Ὁρᾷς, ἔφη, πῶς αὐτὸς ὁμολογεῖς ὅτι ταῦτα ἀναγκαῖά ἐστιν, εἰ χωρὶς αὐτῶν οὐδʼ αὐτὸ τοῦτο δύνασαι μαθεῖν, πότερον ἀναγκαῖα ἢ οὐκ ἀναγκαῖά ἐστιν.</div></article>
+</div>
+
+<nav class="chapter-nav chapter-nav-bottom"><a href="2-24.html">ἡ προτέρα διατριβή</a><a class="chapter-home" href="../index.html">Ἀρχή</a><a href="2-26.html">ἡ ἑπομένη διατριβή</a></nav>

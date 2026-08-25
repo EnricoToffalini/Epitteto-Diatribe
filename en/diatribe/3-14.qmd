@@ -1,0 +1,44 @@
+---
+title: "Discourse III.14 — Certain miscellaneous matters"
+lang: en
+pagetitle: "Discourse III.14 — Certain miscellaneous matters — Epictetus, Discourses"
+title-prefix: ""
+description-meta: "Discourse III.14: “Certain miscellaneous matters”. The Discourses of Epictetus, in George Long’s English translation, with his notes."
+sidebar: en
+---
+
+<!--
+FILE GENERATO. NON MODIFICARE A MANO.
+
+Modificare invece:
+- translation/it/**.md      per il testo e i titoli italiani
+- data/intro.json           per le note introduttive delle home page
+- tools/site_config.py      per lingue, testi dell'interfaccia, URL
+- styles.css                per l'aspetto grafico
+
+Poi eseguire:
+    run.bat
+-->
+
+
+<div class="diatribe-meta">Book III · 5 paragraphs · <span class="canonical" title="Canonical reference">III 14</span></div>
+
+<nav class="chapter-nav"><a href="3-13.html">Previous discourse</a><a class="chapter-home" href="../index.html">Home</a><a href="3-15.html">Next discourse</a></nav>
+
+<div class="paragraph-list">
+<p>As bad<a class="note-ref" id="noteref-1" href="#note-1" role="doc-noteref" aria-label="note 1"><sup>1</sup></a> tragic actors cannot sing alone, but in company with many: so some persons cannot walk about alone. Man, if you are anything, both walk alone and talk to yourself, and do not hide yourself in the chorus. Examine a little at last, look around, stir yourself up, that you may know who you are.</p>
+<p>When a man drinks water, or does anything for the sake of practice (discipline), whenever there is an opportunity he tells it to all: <q>I drink water.</q> Is it for this that you drink water, for the purpose of drinking water? Man, if it is good for you to drink, drink; but if not, you are acting ridiculously. But if it is good for you and you do drink, say nothing about it to those who are displeased with water-drinkers. What then, do you wish to please these very men?</p>
+<p>Of things that are done some are done with a final purpose (<span class="foreign" lang="grc">προηγουμένως</span>), some according to occasion, others with a certain reference to circumstances, others for the purpose of complying with others, and some according to a fixed scheme of life.<a class="note-ref" id="noteref-2" href="#note-2" role="doc-noteref" aria-label="note 2"><sup>2</sup></a></p>
+<p>You must root out of men these two things, arrogance (pride) and distrust. Arrogance then is the opinion that you want nothing (are deficient in nothing): but distrust is the opinion that you cannot be happy when so many circumstances surround you. Arrogance is removed by confutation; and Socrates was the first who practised this. And (to know) that the thing is not impossible inquire and seek. This search will do you no harm; and in a manner this is philosophizing, to seek how it is possible to employ desire and aversion (<span class="foreign" lang="grc">ἐκκλίσει</span>) without impediment.</p>
+<p>I am superior to you, for my father is a man of consular rank. Another says, I have been a tribune, but you have not. If we were horses, would you say, My father was swifter? I have much barley and fodder, or elegant neck ornaments. If then while you were saying this, I said, Be it so: let us run then. Well, is there nothing in a man such as running in a horse, by which it will be known which is superior and inferior? Is there not modesty (<span class="foreign" lang="grc">αἰδὼς</span>), fidelity, justice? Show yourself superior in these, that you may be superior as a man. If you tell me that you can kick violently, I also will say to you, that you are proud of that which is the act of an ass.</p>
+</div>
+
+<section class="notes">
+<h2>Notes</h2>
+<ol class="note-list">
+<li class="note" id="note-1" role="doc-endnote"><p>All the MSS. have <q>good</q> (<span class="foreign" lang="grc">καλοί</span>), which the Critics have properly corrected. As to <span class="foreign" lang="grc">σκόπει</span> see Schweig.’s note.</p><a class="note-back" href="#noteref-1" aria-label="back to the text">&#8617;</a></li>
+<li class="note" id="note-2" role="doc-endnote"><p>This section is not easy to translate.</p><a class="note-back" href="#noteref-2" aria-label="back to the text">&#8617;</a></li>
+</ol>
+</section>
+
+<nav class="chapter-nav chapter-nav-bottom"><a href="3-13.html">Previous discourse</a><a class="chapter-home" href="../index.html">Home</a><a href="3-15.html">Next discourse</a></nav>

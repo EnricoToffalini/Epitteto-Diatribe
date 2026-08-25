@@ -1,0 +1,58 @@
+---
+title: "Diatriba II.6 — Sull’indifferenza"
+lang: it
+pagetitle: "Diatriba II.6 — Sull’indifferenza — Epitteto, Diatribe"
+title-prefix: ""
+description-meta: "Diatriba II.6: «Sull’indifferenza». Le Diatribe di Epitteto raccolte da Arriano, in traduzione italiana."
+sidebar: it
+---
+
+<!--
+FILE GENERATO. NON MODIFICARE A MANO.
+
+Modificare invece:
+- translation/it/**.md      per il testo e i titoli italiani
+- data/intro.json           per le note introduttive delle home page
+- tools/site_config.py      per lingue, testi dell'interfaccia, URL
+- styles.css                per l'aspetto grafico
+
+Poi eseguire:
+    run.bat
+-->
+
+
+<div class="diatribe-meta">Libro II · 27 sezioni · <span class="canonical" title="Riferimento canonico">II 6</span></div>
+
+<nav class="chapter-nav"><a href="2-05.html">Diatriba precedente</a><a class="chapter-home" href="../index.html">Home</a><a href="2-07.html">Diatriba successiva</a></nav>
+
+<div class="section-list">
+<article class="section" id="s-1"><a class="ref" href="#s-1">1</a><div class="section-text">Il condizionale è indifferente; il giudizio che ne diamo non è indifferente, ma è conoscenza, opinione oppure errore. Allo stesso modo, vivere è indifferente; l’uso che ne facciamo non è indifferente.</div></article>
+<article class="section" id="s-2"><a class="ref" href="#s-2">2</a><div class="section-text">Dunque, quando qualcuno vi dice che anche queste cose sono indifferenti, non diventate per questo negligenti; e quando qualcuno vi esorta alla cura, non diventate servili né ammirate la materia esterna.</div></article>
+<article class="section" id="s-3"><a class="ref" href="#s-3">3</a><div class="section-text">È bene anche conoscere la propria preparazione e la propria capacità, così da restare tranquilli in ciò per cui non si è preparati e non indignarsi se altri sono superiori a noi in quelle cose.</div></article>
+<article class="section" id="s-4"><a class="ref" href="#s-4">4</a><div class="section-text">Anche tu infatti, nei sillogismi, pretenderai di essere superiore a loro; e se si indignano per questo, li consolerai: «Io ho imparato, voi no».</div></article>
+<article class="section" id="s-5"><a class="ref" href="#s-5">5</a><div class="section-text">Così, anche dove occorre una certa esperienza, non pretendere il risultato che dipende dall’esperienza: lascia quello a chi ha pratica, e a te basti mantenerti saldo.</div></article>
+<article class="section" id="s-6"><a class="ref" href="#s-6">6</a><div class="section-text">«Va’ e saluta il tale». Lo saluto. «Come?» Senza servilismo. «Ma ti hanno lasciato fuori». Non ho imparato a entrare dalla finestra. Quando trovo la porta chiusa, devo necessariamente o andarmene o entrare dalla finestra.</div></article>
+<article class="section" id="s-7"><a class="ref" href="#s-7">7</a><div class="section-text">«Ma parlagli anche». Gli parlo.</div></article>
+<article class="section" id="s-8"><a class="ref" href="#s-8">8</a><div class="section-text">«In che modo?» Senza servilismo. «Ma non hai ottenuto ciò che volevi». Era forse compito tuo? No, era compito suo. Perché dunque rivendichi ciò che appartiene a un altro? Se ricordi sempre che cosa è tuo e che cosa è altrui, non sarai turbato.</div></article>
+<article class="section" id="s-9"><a class="ref" href="#s-9">9</a><div class="section-text">Per questo Crisippo dice bene che, finché mi è incerto ciò che seguirà, mi attengo sempre alle scelte più naturali per conseguire ciò che è secondo natura; Dio stesso infatti mi ha fatto capace di scegliere fra queste cose.</div></article>
+<article class="section" id="s-10"><a class="ref" href="#s-10">10</a><div class="section-text">Se invece sapessi che ora mi è destinato ammalarmi, mi dirigerei anche verso la malattia; anche il piede, infatti, se avesse intelligenza, si dirigerebbe verso il fango.</div></article>
+<article class="section" id="s-11"><a class="ref" href="#s-11">11</a><div class="section-text">Del resto, per che cosa nascono le spighe? Non forse anche perché si secchino? Ma se si seccano, non è forse anche perché siano mietute?</div></article>
+<article class="section" id="s-12"><a class="ref" href="#s-12">12</a><div class="section-text">Non nascono infatti come esseri isolati. Se dunque avessero sensibilità, dovrebbero pregare di non essere mai mietute? Ma per una spiga non essere mai mietuta sarebbe una maledizione.</div></article>
+<article class="section" id="s-13"><a class="ref" href="#s-13">13</a><div class="section-text">Allo stesso modo sappiate che anche per gli uomini sarebbe una maledizione non morire: sarebbe come non maturare, non essere mietuti.</div></article>
+<article class="section" id="s-14"><a class="ref" href="#s-14">14</a><div class="section-text">Noi però siamo nello stesso tempo quelli che devono essere mietuti e quelli che comprendono di essere mietuti; per questo ci indigniamo. Non sappiamo infatti chi siamo e non ci siamo esercitati nelle cose umane come gli esperti di cavalli si esercitano nelle cose dei cavalli.</div></article>
+<article class="section" id="s-15"><a class="ref" href="#s-15">15</a><div class="section-text">Crisanta, invece, quando stava per colpire il nemico, appena udì la tromba che richiamava indietro si fermò: gli parve più importante obbedire all’ordine del comandante che compiere il proprio gesto.</div></article>
+<article class="section" id="s-16"><a class="ref" href="#s-16">16</a><div class="section-text">Nessuno di noi invece vuole obbedire docilmente neppure quando chiama la necessità: tra pianti e gemiti subiamo ciò che subiamo e lo chiamiamo «circostanze difficili».</div></article>
+<article class="section" id="s-17"><a class="ref" href="#s-17">17</a><div class="section-text">Quali circostanze, uomo? Se chiami «circostanze» le cose che ci stanno attorno, allora tutto è circostanza; se invece le chiami così perché sono difficili, che difficoltà c’è nel fatto che ciò che è nato debba perire?</div></article>
+<article class="section" id="s-18"><a class="ref" href="#s-18">18</a><div class="section-text">Ciò che lo distrugge può essere una spada, una ruota, il mare, una tegola o un tiranno. Che cosa ti importa per quale strada scendi nell’Ade?</div></article>
+<article class="section" id="s-19"><a class="ref" href="#s-19">19</a><div class="section-text">Sono tutte uguali. E se vuoi sentire la verità, quella per cui ti manda il tiranno è più breve. Nessun tiranno ha mai impiegato sei mesi a sgozzare qualcuno; una febbre invece dura spesso anche un anno. Tutte queste cose sono rumore e pompa di nomi vuoti.</div></article>
+<article class="section" id="s-20"><a class="ref" href="#s-20">20</a><div class="section-text">«Davanti a Cesare rischio la testa». E io non la rischio, io che vivo a Nicopoli, dove ci sono tanti terremoti? E tu stesso, quando attraversi l’Adriatico, che cosa rischi? Non la testa?</div></article>
+<article class="section" id="s-21"><a class="ref" href="#s-21">21</a><div class="section-text">«Ma è in pericolo anche la mia opinione». La tua? Come? Chi può costringerti a farti un’opinione che non vuoi? Quella di un altro? E quale pericolo è per te che altri si facciano opinioni false?</div></article>
+<article class="section" id="s-22"><a class="ref" href="#s-22">22</a><div class="section-text">«Ma rischio di essere esiliato». Che cosa significa essere esiliato? Essere altrove che a Roma? «Sì». «E se fossi mandato a Giaro?» Se ti sta bene, andrai; se invece non ti sta bene, hai un luogo dove andare al posto di Giaro, là dove verrà anche chi ti manda a Giaro, che lo voglia o no.</div></article>
+<article class="section" id="s-23"><a class="ref" href="#s-23">23</a><div class="section-text">Perché dunque sali come se andassi incontro a qualcosa di grande? È cosa minore della preparazione che hai ricevuto, tanto che un giovane ben dotato potrebbe dire: «Non valeva la pena ascoltare tanto, scrivere tanto e stare seduto per tanto tempo accanto a un vecchietto di poco conto per affrontare cose così piccole».</div></article>
+<article class="section" id="s-24"><a class="ref" href="#s-24">24</a><div class="section-text">Ricorda soltanto quella distinzione mediante la quale si separano le cose tue da quelle che non sono tue. Non rivendicare mai nulla di ciò che appartiene ad altri.</div></article>
+<article class="section" id="s-25"><a class="ref" href="#s-25">25</a><div class="section-text">Il tribunale e la prigione sono entrambi luoghi, uno alto e l’altro basso; la scelta morale invece può restare uguale in entrambi, se vuoi conservarla uguale.</div></article>
+<article class="section" id="s-26"><a class="ref" href="#s-26">26</a><div class="section-text">E allora saremo emuli di Socrate, quando in prigione saremo capaci di comporre peani.</div></article>
+<article class="section" id="s-27"><a class="ref" href="#s-27">27</a><div class="section-text">Per come siamo ora, invece, vedi se in prigione sopporteremmo che qualcuno ci dicesse: «Vuoi che ti legga dei peani?» «Perché mi tormenti? Non sai i mali che mi affliggono?» «Quali?» «Sto per morire». E gli altri uomini saranno immortali?</div></article>
+</div>
+
+<nav class="chapter-nav chapter-nav-bottom"><a href="2-05.html">Diatriba precedente</a><a class="chapter-home" href="../index.html">Home</a><a href="2-07.html">Diatriba successiva</a></nav>

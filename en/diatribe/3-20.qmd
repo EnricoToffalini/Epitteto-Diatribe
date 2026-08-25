@@ -1,0 +1,50 @@
+---
+title: "Discourse III.20 — That we can derive advantage from all external things"
+lang: en
+pagetitle: "Discourse III.20 — That we can derive advantage from all external things — Epictetus, Discourses"
+title-prefix: ""
+description-meta: "Discourse III.20: “That we can derive advantage from all external things”. The Discourses of Epictetus, in George Long’s English translation, with his notes."
+sidebar: en
+---
+
+<!--
+FILE GENERATO. NON MODIFICARE A MANO.
+
+Modificare invece:
+- translation/it/**.md      per il testo e i titoli italiani
+- data/intro.json           per le note introduttive delle home page
+- tools/site_config.py      per lingue, testi dell'interfaccia, URL
+- styles.css                per l'aspetto grafico
+
+Poi eseguire:
+    run.bat
+-->
+
+
+<div class="diatribe-meta">Book III · 3 paragraphs · <span class="canonical" title="Canonical reference">III 20</span></div>
+
+<nav class="chapter-nav"><a href="3-19.html">Previous discourse</a><a class="chapter-home" href="../index.html">Home</a><a href="3-21.html">Next discourse</a></nav>
+
+<div class="paragraph-list">
+<p>IN the case of appearances which are objects of the vision,<a class="note-ref" id="noteref-1" href="#note-1" role="doc-noteref" aria-label="note 1"><sup>1</sup></a> nearly all have allowed the good and the evil to be in ourselves, and not in externals. No one gives the name of good to the fact that it is day, nor bad to the fact that it is night, nor the name of the greatest evil to the opinion that three are four. But what do men say? They say that knowledge is good, and that error is bad; so that even in respect to falsehood itself there is a good result, the knowledge that it is falsehood. So it ought to be in life also. Is health a good thing, and is sickness a bad thing? No, man. But what is it? To be healthy, and healthy in a right way, is good: to be healthy in a bad way is bad; so that it is possible to gain advantage even from sickness, I declare. For is it not possible to gain advantage even from death, and is it not possible to gain advantage from mutilation? Do you think that Menoeceus gained little by death?<a class="note-ref" id="noteref-2" href="#note-2" role="doc-noteref" aria-label="note 2"><sup>2</sup></a> Could a man who says so, gain so much as Menoeceus gained? Come, man, did he not maintain the character of being a lover of his country, a man of great mind, faithful, generous? And if he had continued to live, would he not have lost all these things? would he not have gained the opposite? would he not have gained the name of coward, ignoble, a hater of his country, a man who feared death?<a class="note-ref" id="noteref-3" href="#note-3" role="doc-noteref" aria-label="note 3"><sup>3</sup></a> Well, do you think that he gained little by dying? I suppose not. But did the father of Admetus<a class="note-ref" id="noteref-4" href="#note-4" role="doc-noteref" aria-label="note 4"><sup>4</sup></a> gain much by prolonging his life so ignobly and miserably? Did he not die afterwards? Cease, I adjure you by the gods, to admire material things. Cease to make yourselves slaves, first of things, then on account of things slaves of those who are able to give them or take them away.</p>
+<p>Can advantage then be derived from these things? From all; and from him who abuses you. Wherein does the man who exercises before the combat profit the athlete? Very greatly. This man becomes my exerciser before the combat: he exercises me in endurance, in keeping my temper, in mildness. You say no: but he, who lays hold of my neck and disciplines my loins and shoulders, does me good; and the exercise master (the aliptes, or oiler) does right when he says; Raise him up with both hands, and the heavier he (<span class="foreign" lang="grc">ἐκεῖνος</span>) is, so much the more is my advantage.<a class="note-ref" id="noteref-5" href="#note-5" role="doc-noteref" aria-label="note 5"><sup>5</sup></a> But if a man exercises me in keeping my temper, does he not do me good?—This is not knowing how to gain an advantage from men. Is my neighbour bad? Bad to himself, but good to me: he exercises my good disposition, my moderation. Is my father bad? Bad to himself, but to me good. This is the rod of Hermes: touch with it what you please, as the saying is, and it will be of gold. I say not so: but bring what you please, and I will make it good.<a class="note-ref" id="noteref-6" href="#note-6" role="doc-noteref" aria-label="note 6"><sup>6</sup></a> Bring disease, bring death, bring poverty, bring abuse, bring trial on capital charges: all these things through the rod of Hermes shall be made profitable. What will you do with death? Why, what else than that it shall do you honour, or that it shall show you by act through it,<a class="note-ref" id="noteref-7" href="#note-7" role="doc-noteref" aria-label="note 7"><sup>7</sup></a> what a man is who follows the will of nature? What will you do with disease? I will show its nature, I will be conspicuous in it, I will be firm, I will be happy, I will not flatter the physician, I will not wish to die. What else do you seek? Whatever you shall give me, I will make it happy, fortunate, honoured, a thing which a man shall seek.</p>
+<p>You say No: but take care that you do not fall sick: it is a bad thing. This is the same as if you should say, Take care that you never receive the impression (appearance) that three are four: that is bad. Man, how is it bad? If I think about it as I ought, how shall it then do me any damage? and shall it not even do me good? If then I think about poverty as I ought to do, about disease, about not having office,<a class="note-ref" id="noteref-8" href="#note-8" role="doc-noteref" aria-label="note 8"><sup>8</sup></a> is not that enough for me? will it not be an advantage? How then ought I any longer to look to seek evil and good in externals? What happens? these doctrines are maintained here, but no man carries them away home; but immediately every one is at war with his slave, with his neighbours, with those who have sneered at him, with those who have ridiculed him. Good luck to Lesbius,<a class="note-ref" id="noteref-9" href="#note-9" role="doc-noteref" aria-label="note 9"><sup>9</sup></a> who daily proves that I know nothing.</p>
+</div>
+
+<section class="notes">
+<h2>Notes</h2>
+<ol class="note-list">
+<li class="note" id="note-1" role="doc-endnote"><p>The original is <span class="foreign" lang="grc">θεωρητικῶν φαντασιῶν</span>, which is translated in the Latin version <q>visa theoretica,</q> but this does not help us. Perhaps the author means any appearances which are presented to us either by the eyes or by the understanding; but I am not sure what he means. It is said in the Index Graecitatis (Schweig.’s ed.): <q lang="lat" class="foreign"><span class="foreign" lang="grc">φαντασίαι θεωρητικαί</span>, notiones theoretical, iii. 20. 1, quibus opponuntur Practicae ad vitam regendam spectantes.</q></p><a class="note-back" href="#noteref-1" aria-label="back to the text">&#8617;</a></li>
+<li class="note" id="note-2" role="doc-endnote"><p>Menoeceus, the son of Creon, gave up his life by which he would save his country, as it was declared by an oracle. (Cicero, Tuscul. i. e. 48.) Juvenal (Sat. xiv. 238) says <span class="verse-quote" lang="lat" class="foreign"><span class="lg"> <span class="l">Quarum Amor in te</span> <span class="l">Quantus erat patriae Declorum in pectore; quantum</span> <span class="l">Dilexit Thebas, si Graecia vera, Menoeceus.</span> </span> </span></p> 
+<p>Euripides, Phoenissae, v. 913.</p><a class="note-back" href="#noteref-2" aria-label="back to the text">&#8617;</a></li>
+<li class="note" id="note-3" role="doc-endnote"><p>See Schweig.’s note.</p><a class="note-back" href="#noteref-3" aria-label="back to the text">&#8617;</a></li>
+<li class="note" id="note-4" role="doc-endnote"><p>The father of Admetus was Phe es (Euripides, Alcestis)</p><a class="note-back" href="#noteref-4" aria-label="back to the text">&#8617;</a></li>
+<li class="note" id="note-5" role="doc-endnote"><p>The meaning is not clear, if we follow the original text. Schweig. cannot see the sense <q>with both hands</q> in the Greek, nor can I. He also says that in the words <span class="foreign" lang="grc">ἆρον ὑπὲρ ἀμφοτέρας</span> unless some masculine noun is understood which is not expressed, <span class="foreign" lang="grc">ἐκεῖνος</span> must be referred to the aliptes; and he translates <span class="foreign" lang="grc">βαρύτερος</span> by <span class="foreign" lang="lat">severior</span>.</p><a class="note-back" href="#noteref-5" aria-label="back to the text">&#8617;</a></li>
+<li class="note" id="note-6" role="doc-endnote"><p>Mrs. Carter quotes the epistle to the Romans (viii. 28): <q>and we snow that all things work together for good to them that love God</q>; but she quotes only the first part of the verse and omits the conclusion, <q>to them who are the called according to his purpose.</q></p><a class="note-back" href="#noteref-6" aria-label="back to the text">&#8617;</a></li>
+<li class="note" id="note-7" role="doc-endnote"><p>See Schweig.’s note.</p><a class="note-back" href="#noteref-7" aria-label="back to the text">&#8617;</a></li>
+<li class="note" id="note-8" role="doc-endnote"><p><span class="foreign" lang="grc">ἀναρχίας</span>; see iv. 4, 2 and 23.</p><a class="note-back" href="#noteref-8" aria-label="back to the text">&#8617;</a></li>
+<li class="note" id="note-9" role="doc-endnote"><p>Some abusive fellow, known to some of the hearers of Epictetus. We ought perhaps to understand the words as if it were said, <q>each of you ought to say to himself, Good luck to Lesbius etc.</q> Schweig.’s note.</p><a class="note-back" href="#noteref-9" aria-label="back to the text">&#8617;</a></li>
+</ol>
+</section>
+
+<nav class="chapter-nav chapter-nav-bottom"><a href="3-19.html">Previous discourse</a><a class="chapter-home" href="../index.html">Home</a><a href="3-21.html">Next discourse</a></nav>

@@ -1,0 +1,45 @@
+---
+title: "Διατριβὴ Γʹ.ιδʹ — σποράδην τινά"
+lang: grc
+pagetitle: "Διατριβὴ Γʹ.ιδʹ — σποράδην τινά — Ἐπικτήτου Διατριβαί"
+title-prefix: ""
+description-meta: "Διατριβὴ Γʹ.ιδʹ· «σποράδην τινά». Ἀρριανοῦ τῶν Ἐπικτήτου Διατριβῶν, τὸ ἑλληνικὸν κείμενον."
+sidebar: grc
+---
+
+<!--
+FILE GENERATO. NON MODIFICARE A MANO.
+
+Modificare invece:
+- translation/it/**.md      per il testo e i titoli italiani
+- data/intro.json           per le note introduttive delle home page
+- tools/site_config.py      per lingue, testi dell'interfaccia, URL
+- styles.css                per l'aspetto grafico
+
+Poi eseguire:
+    run.bat
+-->
+
+
+<div class="diatribe-meta">Βιβλίον Γʹ · 14 τμήματα · <span class="canonical" title="Παραπομπή">III 14</span></div>
+
+<nav class="chapter-nav"><a href="3-13.html">ἡ προτέρα διατριβή</a><a class="chapter-home" href="../index.html">Ἀρχή</a><a href="3-15.html">ἡ ἑπομένη διατριβή</a></nav>
+
+<div class="section-list">
+<article class="section" id="s-1"><a class="ref" href="#s-1">1</a><div class="section-text" lang="grc">ὡς οἱ κακοὶ τραγῳδοὶ μόνοι ᾆσαι οὐ δύνανται, ἀλλὰ μετὰ πολλῶν, οὕτως ἔνιοι μόνοι περιπατῆσαι οὐ δύνανται.</div></article>
+<article class="section" id="s-2"><a class="ref" href="#s-2">2</a><div class="section-text" lang="grc">ἄνθρωπε, εἴ τις εἶ, καὶ μόνος περιπάτησον καὶ σαυτῷ λάλησον καὶ μὴ ἐν τῷ χορῷ κρύπτου.</div></article>
+<article class="section" id="s-3"><a class="ref" href="#s-3">3</a><div class="section-text" lang="grc">σκώφθητί ποτε, περίβλεψαι, ἐνσείσθητι, ἵνα γνῷς, τίς εἶ.</div></article>
+<article class="section" id="s-4"><a class="ref" href="#s-4">4</a><div class="section-text" lang="grc">ὅταν τις ὕδωρ πίνῃ ἢ ποιῇ τι ἀσκητικόν, ἐκ πάσης ἀφορμῆς λέγει αὐτὸ πρὸς πάντας.</div></article>
+<article class="section" id="s-5"><a class="ref" href="#s-5">5</a><div class="section-text" lang="grc"><q>ἐγὼ ὕδωρ πίνω.</q> διὰ γὰρ τοῦτο ὕδωρ πίνεις, διὰ γὰρ τὸ ὕδωρ πίνειν; ἄνθρωπε, εἴ σοι λυσιτελεῖ<span class="ed-del">[ν]</span> πίνειν, πῖνε· εἰ δὲ μή, γελοίως ποιεῖς.</div></article>
+<article class="section" id="s-6"><a class="ref" href="#s-6">6</a><div class="section-text" lang="grc">εἰ δὲ συμφέρει σοι καὶ πίνεις, σιώπα πρὸς τοὺς δυσαρεστοῦντας τοῖς ἀνθρώποις. τί οὖν; αὐτοῖς τούτοις ἀρέσκειν θέλεις;</div></article>
+<article class="section" id="s-7"><a class="ref" href="#s-7">7</a><div class="section-text" lang="grc">τῶν πραττομένων τὰ μὲν προηγουμένως πράττεται, τὰ δὲ κατὰ περίστασιν, τὰ δὲ κατʼ οἰκονομίαν, τὰ δὲ κατὰ συμπεριφοράν, τὰ δὲ κατʼ ἔνστασιν.</div></article>
+<article class="section" id="s-8"><a class="ref" href="#s-8">8</a><div class="section-text" lang="grc">δύο ταῦτα ἐξελεῖν τῶν ἀνθρώπων, οἴησιν καὶ ἀπιστίαν. οἴησις μὲν οὖν ἐστι τὸ δοκεῖν μηδενὸς προσδεῖσθαι, ἀπιστία δὲ τὸ ὑπολαμβάνειν μὴ δυνατὸν εἶναι εὐροεῖν τοσούτων περιεστηκότων.</div></article>
+<article class="section" id="s-9"><a class="ref" href="#s-9">9</a><div class="section-text" lang="grc">τὴν μὲν οὖν οἴησιν ἔλεγχος ἐξαιρεῖ, καὶ τοῦτο πρῶτον ποιεῖ Σωκράτης. ὅτι δʼ οὐκ ἀδύνατόν ἐστι τὸ πρᾶγμα, σκέψαι καὶ ζήτησον. οὐδέν σε βλάψει ἡ ζήτησις αὕτη·</div></article>
+<article class="section" id="s-10"><a class="ref" href="#s-10">10</a><div class="section-text" lang="grc">καὶ σχεδὸν τὸ φιλοσοφεῖν τοῦτʼ ἔστι, ζητεῖν, πῶς ἐνδέχεται ἀπαραποδίστως ὀρέξει χρῆσθαι καὶ ἐκκλίσει.</div></article>
+<article class="section" id="s-11"><a class="ref" href="#s-11">11</a><div class="section-text" lang="grc"><q>κρείσσων εἰμὶ σοῦ· ὁ γὰρ πατήρ μου ὑπατικός ἐστιν.</q> ἄλλος λέγει <q>ἐγὼ δεδημάρχηκα, σὺ δʼ οὔ.</q></div></article>
+<article class="section" id="s-12"><a class="ref" href="#s-12">12</a><div class="section-text" lang="grc">εἰ δʼ ἵπποι ἦμεν, ἔλεγες ἂν ὅτι <q>ὁ πατήρ μου ὠκύτερος ἦν</q> ἢ ὅτι <q>ἐγὼ ἔχω πολλὰς κριθὰς καὶ χόρτον</q> ἢ ὅτι <q>κομψὰ περιτραχήλια;</q> εἰ οὖν ταῦτά σου λέγοντος εἶπον ὅτι <q>ἔστω ταῦτα, τρέχωμεν οὖν;</q></div></article>
+<article class="section" id="s-13"><a class="ref" href="#s-13">13</a><div class="section-text" lang="grc">ἄγε, ἐπʼ ἀνθρώπου οὖν οὐδέν ἐστι τοιοῦτον οἷον ἐφʼ ἵππου δρόμος, ἐξ οὗ γνωσθήσεται ὁ χείρων καὶ ὁ κρείττων; μήποτʼ ἐστὶν αἰδώς, πίστις, δικαιοσύνη;</div></article>
+<article class="section" id="s-14"><a class="ref" href="#s-14">14</a><div class="section-text" lang="grc">τούτοις δείκνυε κρείττονα σεαυτόν, ἵνʼ ὡς ἄνθρωπος ᾖ κρείττων. ἄν μοι λέγῃς ὅτι <q>μεγάλα λακτίζω,</q> ἐρῶ σοι κἀγὼ ὅτι <q>ἐπὶ ὄνου ἔργῳ μέγα φρονεῖς.</q></div></article>
+</div>
+
+<nav class="chapter-nav chapter-nav-bottom"><a href="3-13.html">ἡ προτέρα διατριβή</a><a class="chapter-home" href="../index.html">Ἀρχή</a><a href="3-15.html">ἡ ἑπομένη διατριβή</a></nav>

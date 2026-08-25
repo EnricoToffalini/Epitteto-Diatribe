@@ -1,0 +1,50 @@
+---
+title: "Diatriba I.20 — Sulla ragione e su come contempla se stessa"
+lang: it
+pagetitle: "Diatriba I.20 — Sulla ragione e su come contempla se stessa — Epitteto, Diatribe"
+title-prefix: ""
+description-meta: "Diatriba I.20: «Sulla ragione e su come contempla se stessa». Le Diatribe di Epitteto raccolte da Arriano, in traduzione italiana."
+sidebar: it
+---
+
+<!--
+FILE GENERATO. NON MODIFICARE A MANO.
+
+Modificare invece:
+- translation/it/**.md      per il testo e i titoli italiani
+- data/intro.json           per le note introduttive delle home page
+- tools/site_config.py      per lingue, testi dell'interfaccia, URL
+- styles.css                per l'aspetto grafico
+
+Poi eseguire:
+    run.bat
+-->
+
+
+<div class="diatribe-meta">Libro I · 19 sezioni · <span class="canonical" title="Riferimento canonico">I 20</span></div>
+
+<nav class="chapter-nav"><a href="1-19.html">Diatriba precedente</a><a class="chapter-home" href="../index.html">Home</a><a href="1-21.html">Diatriba successiva</a></nav>
+
+<div class="section-list">
+<article class="section" id="s-1"><a class="ref" href="#s-1">1</a><div class="section-text">Ogni arte e ogni facoltà ha per oggetto determinate cose che le sono proprie.</div></article>
+<article class="section" id="s-2"><a class="ref" href="#s-2">2</a><div class="section-text">Quando dunque essa appartiene allo stesso genere delle cose che contempla, necessariamente contempla anche se stessa; quando invece appartiene a un genere diverso, non può contemplare se stessa.</div></article>
+<article class="section" id="s-3"><a class="ref" href="#s-3">3</a><div class="section-text">Per esempio, l’arte del calzolaio si occupa delle pelli, ma essa stessa è del tutto diversa dalla materia delle pelli; perciò non contempla se stessa.</div></article>
+<article class="section" id="s-4"><a class="ref" href="#s-4">4</a><div class="section-text">La grammatica, a sua volta, ha per oggetto il linguaggio scritto. È forse anch’essa linguaggio scritto? Niente affatto. Perciò non può contemplare se stessa. A che cosa dunque la ragione è stata destinata dalla natura?</div></article>
+<article class="section" id="s-5"><a class="ref" href="#s-5">5</a><div class="section-text">All’uso delle rappresentazioni come si deve. E che cos’è essa stessa? Un sistema di rappresentazioni di un certo tipo. Così, per natura, giunge a contemplare anche se stessa.</div></article>
+<article class="section" id="s-6"><a class="ref" href="#s-6">6</a><div class="section-text">E ancora: che cosa è venuta a contemplare la saggezza? I beni, i mali e ciò che non è né bene né male. E che cos’è essa stessa? Un bene. E la stoltezza? Un male. Vedi dunque che necessariamente contempla sia se stessa sia il proprio contrario?</div></article>
+<article class="section" id="s-7"><a class="ref" href="#s-7">7</a><div class="section-text">Per questo il compito più grande e primo del filosofo è mettere alla prova le rappresentazioni, distinguerle e non accoglierne nessuna senza averla esaminata.</div></article>
+<article class="section" id="s-8"><a class="ref" href="#s-8">8</a><div class="section-text">Guardate come, nel caso della moneta, dove ci sembra che ci sia qualcosa che ci riguarda, abbiamo perfino inventato un’arte, e di quanti mezzi si serve il saggiatore per verificare la moneta: la vista, il tatto, l’olfatto e, infine, l’udito.</div></article>
+<article class="section" id="s-9"><a class="ref" href="#s-9">9</a><div class="section-text">Fa risuonare il denario e presta attenzione al suono; e non gli basta farlo risuonare una volta, ma per la grande attenzione finisce per diventare un musicista.</div></article>
+<article class="section" id="s-10"><a class="ref" href="#s-10">10</a><div class="section-text">Così, là dove riteniamo che faccia differenza sbagliarsi o non sbagliarsi, mettiamo molta attenzione nel distinguere ciò che può trarci in errore;</div></article>
+<article class="section" id="s-11"><a class="ref" href="#s-11">11</a><div class="section-text">ma quando si tratta della nostra povera facoltà direttrice, stiamo a bocca aperta e dormiamo, accogliendo senza discernimento ogni rappresentazione: il danno, infatti, non ci appare evidente.</div></article>
+<article class="section" id="s-12"><a class="ref" href="#s-12">12</a><div class="section-text">Quando dunque vuoi sapere quanto poco ti curi dei beni e dei mali e quanto invece ti affanni per le cose indifferenti, osserva come reagisci all’idea di diventare cieco e come all’idea di essere ingannato: capirai che sei ben lontano dall’avere verso il bene e il male l’atteggiamento che dovresti.</div></article>
+<article class="section" id="s-13"><a class="ref" href="#s-13">13</a><div class="section-text">«Ma richiede molta preparazione, molta fatica e molto studio.» E allora? Speri forse che la più grande delle arti si possa acquisire con poco?</div></article>
+<article class="section" id="s-14"><a class="ref" href="#s-14">14</a><div class="section-text">Eppure la dottrina fondamentale dei filosofi è assai breve. Se vuoi saperlo, leggi Zenone e vedrai.</div></article>
+<article class="section" id="s-15"><a class="ref" href="#s-15">15</a><div class="section-text">Che cosa c’è infatti di lungo nel dire che il fine è seguire gli dèi e che l’essenza del bene è l’uso delle rappresentazioni come si deve?</div></article>
+<article class="section" id="s-16"><a class="ref" href="#s-16">16</a><div class="section-text">Ma prova a dire che cosa sia Dio, che cosa sia una rappresentazione, che cosa sia la natura particolare e che cosa la natura dell’universo.</div></article>
+<article class="section" id="s-17"><a class="ref" href="#s-17">17</a><div class="section-text">Ed ecco che il discorso diventa lungo. E se poi arriva Epicuro e dice che il bene deve trovarsi nella carne, si allunga di nuovo, e bisogna ascoltare che cosa in noi ha il primato, che cosa ne costituisce il fondamento e l’essenza. Se non è verosimile che il bene della lumaca stia nel guscio, è forse verosimile che quello dell’uomo stia nella carne?</div></article>
+<article class="section" id="s-18"><a class="ref" href="#s-18">18</a><div class="section-text">E tu stesso, Epicuro, che cosa possiedi di più sovrano? Che cos’è in te ciò che delibera, che esamina ogni cosa, che decide che proprio la carne è ciò che ha il primato?</div></article>
+<article class="section" id="s-19"><a class="ref" href="#s-19">19</a><div class="section-text">E perché poi accendi la lampada, ti affatichi per noi e scrivi libri così grandi? Perché noi non ignoriamo la verità? Ma noi chi siamo? Che cosa siamo per te? Così il discorso diventa lungo.</div></article>
+</div>
+
+<nav class="chapter-nav chapter-nav-bottom"><a href="1-19.html">Diatriba precedente</a><a class="chapter-home" href="../index.html">Home</a><a href="1-21.html">Diatriba successiva</a></nav>

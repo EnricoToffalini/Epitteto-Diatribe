@@ -1,0 +1,30 @@
+---
+title: "Fonti e crediti"
+lang: it
+pagetitle: "Fonti e crediti — Diatribe di Epitteto"
+title-prefix: ""
+description-meta: "Edizioni, traduttori e licenze dei testi usati in questo sito: Schenkl per il greco, George Long per l’inglese, Perseus Digital Library."
+sidebar: it
+---
+
+<!--
+FILE GENERATO. NON MODIFICARE A MANO.
+
+Modificare invece:
+- translation/it/**.md      per il testo e i titoli italiani
+- data/intro.json           per le note introduttive delle home page
+- tools/site_config.py      per lingue, testi dell'interfaccia, URL
+- styles.css                per l'aspetto grafico
+
+Poi eseguire:
+    run.bat
+-->
+
+
+<div class="site-note credits-note">
+<p><strong>Testo greco.</strong> <i>Epicteti dissertationes ab Arriano digestae</i>, edizione maior a cura di Heinrich Schenkl, Leipzig, Teubner, 1916. Ripreso dalla <a href="https://www.perseus.tufts.edu/">Perseus Digital Library</a> (Tufts University), URN <code>urn:cts:greekLit:tlg0557.tlg001.perseus-grc2</code>.</p>
+<p><strong>Traduzione inglese.</strong> George Long, <i>The Discourses of Epictetus, with the Encheiridion and Fragments</i>, London, George Bell and Sons, 1890. Ripresa dalla <a href="https://www.perseus.tufts.edu/">Perseus Digital Library</a>, URN <code>urn:cts:greekLit:tlg0557.tlg001.perseus-eng3</code>. Le note a piè di pagina sono di Long e sono riportate integralmente in fondo a ogni diatriba.</p>
+<p><strong>Licenza.</strong> I due testi di Perseus sono distribuiti con licenza <a href="https://creativecommons.org/licenses/by-sa/4.0/">Creative Commons Attribution-ShareAlike 4.0 International</a>. Questo sito li ripubblica alle stesse condizioni: chi ne riusa il contenuto deve citare la fonte e mantenere la stessa licenza.</p>
+<p><strong>Traduzione italiana.</strong> Realizzata da GPT-5.6 Sol, con l&#x27;ausilio di Claude Opus 5.0, sul testo greco di Schenkl; completata nel 2026.</p>
+<p><strong>Illustrazione di copertina.</strong> Generata con l&#x27;intelligenza artificiale per questa edizione.</p>
+</div>

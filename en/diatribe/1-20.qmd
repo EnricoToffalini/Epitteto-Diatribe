@@ -1,0 +1,50 @@
+---
+title: "Discourse I.20 — About reason, how it contemplates itself"
+lang: en
+pagetitle: "Discourse I.20 — About reason, how it contemplates itself — Epictetus, Discourses"
+title-prefix: ""
+description-meta: "Discourse I.20: “About reason, how it contemplates itself”. The Discourses of Epictetus, in George Long’s English translation, with his notes."
+sidebar: en
+---
+
+<!--
+FILE GENERATO. NON MODIFICARE A MANO.
+
+Modificare invece:
+- translation/it/**.md      per il testo e i titoli italiani
+- data/intro.json           per le note introduttive delle home page
+- tools/site_config.py      per lingue, testi dell'interfaccia, URL
+- styles.css                per l'aspetto grafico
+
+Poi eseguire:
+    run.bat
+-->
+
+
+<div class="diatribe-meta">Book I · 2 paragraphs · <span class="canonical" title="Canonical reference">I 20</span></div>
+
+<div class="title-note">Note on the title<a class="note-ref" id="noteref-1" href="#note-1" role="doc-noteref" aria-label="note 1"><sup>1</sup></a></div>
+
+<nav class="chapter-nav"><a href="1-19.html">Previous discourse</a><a class="chapter-home" href="../index.html">Home</a><a href="1-21.html">Next discourse</a></nav>
+
+<div class="paragraph-list">
+<p>EVERY art and faculty contemplates certain things especially.<a class="note-ref" id="noteref-2" href="#note-2" role="doc-noteref" aria-label="note 2"><sup>2</sup></a> When then it is itself of the same kind with the objects which it contemplates, it must of necessity contemplate itself also: but when it is of an unlike kind, it cannot contemplate itself. For instance, the shoemaker’s art is employed on skins, but itself is entirely distinct from the material of skins: for this reason it does not contemplate itself. Again, the grammarian’s art is employed about articulate speech;<a class="note-ref" id="noteref-3" href="#note-3" role="doc-noteref" aria-label="note 3"><sup>3</sup></a> is then the art also articulate speech? By no means. For this reason it is not able to contemplate itself. Now reason, for what purpose has it been given by nature? For the right use of appearances. What is it then itself? A system (combination) of certain appearances. So by its nature it has the faculty of contemplating itself also. Again, sound sense, for the contemplation of what things does it belong to us? Good and evil, and things which are neither. What is it then itself? Good. And want of sense, what is it? Evil. Do you see then that good sense necessarily contemplates both itself and the opposite? For this reason it is the chief and the first work of a philosopher to examine appearances, and to distinguish them, and to admit none without examination. You see even in the matter of coin, in which our interest appears to be somewhat concerned, how we have invented an art, and how many means the assayer uses to try the value of coin, the sight, the touch, the smell, and lastly the hearing. He throws the coin (denarius) down, and observes the sound, and he is not content with its sounding once, but through his great attention he becomes a musician. In like manner, where we think that to be mistaken and not to be mistaken make a great difference, there we apply great attention to discovering the things which can deceive. But in the matter of our miserable ruling faculty, yawning and sleeping, we carelessly admit every appearance, for the harm is not noticed.</p>
+<p>When then you would know how careless you are with respect to good and evil, and how active with respect to things which are indifferent<a class="note-ref" id="noteref-4" href="#note-4" role="doc-noteref" aria-label="note 4"><sup>4</sup></a> (neither good nor evil), observe how you feel with respect to being deprived of the sight of the eyes, and how with respect to being deceived, and you will discover that you are far from feeling as you ought to do in relation to good and evil. But this is a matter which requires much preparation, and much labour and study. Well then do you expect to acquire the greatest of arts with small labour? And yet the chief doctrine of philosophers is very brief. If you would know, read Zeno’s<a class="note-ref" id="noteref-5" href="#note-5" role="doc-noteref" aria-label="note 5"><sup>5</sup></a> writings and you will see For how few words it requires to say that man’s end (or object) is to follow<a class="note-ref" id="noteref-6" href="#note-6" role="doc-noteref" aria-label="note 6"><sup>6</sup></a> the gods, and that the nature of good is a proper use of appearances. But if you say What is God, what is appearance, and what is particular and what is universal<a class="note-ref" id="noteref-7" href="#note-7" role="doc-noteref" aria-label="note 7"><sup>7</sup></a> nature? then indeed many words are necessary. If then Epicurus should come and say, that the good must be in the body; in this case also many words become necessary, and we must be taught what is the leading principle in us, and the fundamental and the substantial; and as it is not probable that the good of a snail is in the shell, is it probable that the good of a man is in the body? But you yourself, Epicurus, possess something better than this. What is that in you which deliberates, what is that which examines every thing, what is that which forms a judgment about the body itself, that it is the principal part? and why do you light your lamp and labour for us, and write so many<a class="note-ref" id="noteref-8" href="#note-8" role="doc-noteref" aria-label="note 8"><sup>8</sup></a> books? is it that we may not be ignorant of the truth, who we are, and what we are with respect to you? Thus the discussion requires many words.</p>
+</div>
+
+<section class="notes">
+<h2>Notes</h2>
+<ol class="note-list">
+<li class="note" id="note-1" role="doc-endnote"><p>A comparison of lib. i. chap. 1, will help to explain this chapter. Compare also lib. i. chap. 17.</p><a class="note-back" href="#noteref-1" aria-label="back to the text">&#8617;</a></li>
+<li class="note" id="note-2" role="doc-endnote"><p>Wolf suggests that we should read <span class="foreign" lang="grc">προηγουμένως</span> instead of <span class="foreign" lang="grc">προηγουμένων</span>.</p><a class="note-back" href="#noteref-2" aria-label="back to the text">&#8617;</a></li>
+<li class="note" id="note-3" role="doc-endnote"><p>See Schweighaeuser’s note.</p><a class="note-back" href="#noteref-3" aria-label="back to the text">&#8617;</a></li>
+<li class="note" id="note-4" role="doc-endnote"><p><q>We reckon death among the things which are indifferent (<span class="foreign" lang="lat">indifferentia</span>), which the Greeks name <span class="foreign" lang="grc">ἀδιάφορα</span>. But I name <q>indifferent</q> the things which are neither good nor bad, as disease, pain, poverty, exile, death.</q>—Seneca, Ep. 82.</p><a class="note-back" href="#noteref-4" aria-label="back to the text">&#8617;</a></li>
+<li class="note" id="note-5" role="doc-endnote"><p>Zeno, a native of Citium, in the island of Cyprus, is said to have come when he was young to Athens, where he spent the rest of a long life in the study and teaching of Philosophy. He was the founder of the Stoic sect, and a man respected for his ability and high character. He wrote many philosophical works. Zeno was succeeded in his school by Cleanthes.</p><a class="note-back" href="#noteref-5" aria-label="back to the text">&#8617;</a></li>
+<li class="note" id="note-6" role="doc-endnote"><p>Follow. See i. 12, 5.</p><a class="note-back" href="#noteref-6" aria-label="back to the text">&#8617;</a></li>
+<li class="note" id="note-7" role="doc-endnote"><p><q>I now have what the universal nature wills me to have, and I do what my nature now wills me to do.</q> M. Antoninus, v. 25, and xi. 5.</p> 
+<p>Epictetus never attempts to say what God is. He was too wise to attempt to do what man cannot do. But man does attempt to do it, and only shows the folly of his attempts, and, I think, his presumption also.</p><a class="note-back" href="#noteref-7" aria-label="back to the text">&#8617;</a></li>
+<li class="note" id="note-8" role="doc-endnote"><p>Epicurus is said to have written more than any other person, as many as three hundred volumes (<span class="foreign" lang="grc">κύλινδροι</span>, rolls). Chrysippus was his rival in this respect. For if Epicurus wrote anything, Chrysippus vied with him in writing as much; and for this reason he often repeated himself, because he did not read over what he had written, and he left his writings uncorrected in consequence of his hurry. Diogenes Laertius, x.—Upton. See i. 4.</p><a class="note-back" href="#noteref-8" aria-label="back to the text">&#8617;</a></li>
+</ol>
+</section>
+
+<nav class="chapter-nav chapter-nav-bottom"><a href="1-19.html">Previous discourse</a><a class="chapter-home" href="../index.html">Home</a><a href="1-21.html">Next discourse</a></nav>

@@ -1,0 +1,41 @@
+---
+title: "Diatriba I.5 — Contro gli Accademici"
+lang: it
+pagetitle: "Diatriba I.5 — Contro gli Accademici — Epitteto, Diatribe"
+title-prefix: ""
+description-meta: "Diatriba I.5: «Contro gli Accademici». Le Diatribe di Epitteto raccolte da Arriano, in traduzione italiana."
+sidebar: it
+---
+
+<!--
+FILE GENERATO. NON MODIFICARE A MANO.
+
+Modificare invece:
+- translation/it/**.md      per il testo e i titoli italiani
+- data/intro.json           per le note introduttive delle home page
+- tools/site_config.py      per lingue, testi dell'interfaccia, URL
+- styles.css                per l'aspetto grafico
+
+Poi eseguire:
+    run.bat
+-->
+
+
+<div class="diatribe-meta">Libro I · 10 sezioni · <span class="canonical" title="Riferimento canonico">I 5</span></div>
+
+<nav class="chapter-nav"><a href="1-04.html">Diatriba precedente</a><a class="chapter-home" href="../index.html">Home</a><a href="1-06.html">Diatriba successiva</a></nav>
+
+<div class="section-list">
+<article class="section" id="s-1"><a class="ref" href="#s-1">1</a><div class="section-text">«Se qualcuno», dice, «si oppone a ciò che è assolutamente evidente, non è facile trovare un argomento con cui fargli cambiare idea.»</div></article>
+<article class="section" id="s-2"><a class="ref" href="#s-2">2</a><div class="section-text">E questo non accade né per la forza di costui né per la debolezza di chi insegna; ma quando uno, dopo essere stato confutato, si pietrifica, come si può ancora trattare con lui mediante il ragionamento?</div></article>
+<article class="section" id="s-3"><a class="ref" href="#s-3">3</a><div class="section-text">Le pietrificazioni sono di due tipi: una dell’intelletto, l’altra del senso del pudore, quando uno si ostina a non assentire a ciò che è evidente e a non recedere dalle contraddizioni.</div></article>
+<article class="section" id="s-4"><a class="ref" href="#s-4">4</a><div class="section-text">La maggior parte di noi teme l’insensibilità del corpo e escogiterebbe ogni mezzo per non incorrere in qualcosa del genere; ma non ci importa nulla che sia l’anima a diventare insensibile.</div></article>
+<article class="section" id="s-5"><a class="ref" href="#s-5">5</a><div class="section-text">E, per Zeus, anche riguardo all’anima stessa, se uno è ridotto in uno stato tale da non riuscire a seguire nulla né a comprendere nulla, pensiamo che stia male; ma se in qualcuno si spegne il senso del pudore e della vergogna, questo lo chiamiamo perfino forza. «Ti rendi conto di essere sveglio?»</div></article>
+<article class="section" id="s-6"><a class="ref" href="#s-6">6</a><div class="section-text">«No», dice, «perché neppure quando, nel sonno, mi sembra di essere sveglio, me ne rendo conto.» Dunque questa rappresentazione non differisce in nulla da quella? «In nulla.» Devo ancora discutere con costui?</div></article>
+<article class="section" id="s-7"><a class="ref" href="#s-7">7</a><div class="section-text">E quale fuoco o quale ferro dovrei applicargli, perché si accorga di essere morto? Sente, ma fa finta di non sentire: è ancora peggiore di un morto. Costui non vede la contraddizione: sta male.</div></article>
+<article class="section" id="s-8"><a class="ref" href="#s-8">8</a><div class="section-text">Quest’altro la vede, ma non ne è mosso e non progredisce: sta ancora peggio.</div></article>
+<article class="section" id="s-9"><a class="ref" href="#s-9">9</a><div class="section-text">In lui sono stati recisi il senso del pudore e della vergogna; la facoltà razionale non è stata recisa, ma si è inselvatichita.</div></article>
+<article class="section" id="s-10"><a class="ref" href="#s-10">10</a><div class="section-text">Dovrei chiamare questa forza? Niente affatto, a meno di chiamare forza anche quella dei dissoluti, per cui fanno e dicono in pubblico qualunque cosa passi loro per la testa.</div></article>
+</div>
+
+<nav class="chapter-nav chapter-nav-bottom"><a href="1-04.html">Diatriba precedente</a><a class="chapter-home" href="../index.html">Home</a><a href="1-06.html">Diatriba successiva</a></nav>

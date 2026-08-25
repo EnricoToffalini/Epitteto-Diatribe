@@ -1,0 +1,44 @@
+---
+title: "Διατριβὴ Αʹ.ιʹ — πρὸς τοὺς περὶ τὰς ἐν Ῥώμῃ προαγωγὰς ἐσπουδακότας"
+lang: grc
+pagetitle: "Διατριβὴ Αʹ.ιʹ — πρὸς τοὺς περὶ τὰς ἐν Ῥώμῃ προαγωγὰς ἐσπουδακότας — Ἐπικτήτου Διατριβαί"
+title-prefix: ""
+description-meta: "Διατριβὴ Αʹ.ιʹ· «πρὸς τοὺς περὶ τὰς ἐν Ῥώμῃ προαγωγὰς ἐσπουδακότας». Ἀρριανοῦ τῶν Ἐπικτήτου Διατριβῶν, τὸ ἑλληνικὸν κείμενον."
+sidebar: grc
+---
+
+<!--
+FILE GENERATO. NON MODIFICARE A MANO.
+
+Modificare invece:
+- translation/it/**.md      per il testo e i titoli italiani
+- data/intro.json           per le note introduttive delle home page
+- tools/site_config.py      per lingue, testi dell'interfaccia, URL
+- styles.css                per l'aspetto grafico
+
+Poi eseguire:
+    run.bat
+-->
+
+
+<div class="diatribe-meta">Βιβλίον Αʹ · 13 τμήματα · <span class="canonical" title="Παραπομπή">I 10</span></div>
+
+<nav class="chapter-nav"><a href="1-09.html">ἡ προτέρα διατριβή</a><a class="chapter-home" href="../index.html">Ἀρχή</a><a href="1-11.html">ἡ ἑπομένη διατριβή</a></nav>
+
+<div class="section-list">
+<article class="section" id="s-1"><a class="ref" href="#s-1">1</a><div class="section-text" lang="grc">εἰ οὕτως σφοδρῶς συνετετά<span class="ed-del">[γ]</span>μεθα περὶ τὸ ἔργον τὸ ἑαυτῶν ὡς οἱ ἐν Ῥώμῃ γέροντες περὶ ἃ ἐσπουδάκασιν, τάχα ἄν τι ἠνύομεν καὶ αὐτοί.</div></article>
+<article class="section" id="s-2"><a class="ref" href="#s-2">2</a><div class="section-text" lang="grc">οἶδα ἐγὼ πρεσβύτερον ἄνθρωπον ἐμοῦ τὸν νῦν ἐπὶ τοῦ σίτου ὄντα ἐν Ῥώμῃ, ὅτε ταύτῃ παρῆγεν ἀπὸ τῆς φυγῆς ἀναστρέφων, οἷα εἶπέν μοι, κατατρέχων τοῦ προτέρου ἑαυτοῦ βίου καὶ περὶ τῶν ἑξῆς ἐπαγγελλόμενος, ὅτι ἄλλο οὐδὲν ἀναβὰς σπουδάσει ἢ ἐν ἡσυχίᾳ καὶ ἀταραξίᾳ διεξαγαγεῖν τὸ λοιπὸν τοῦ βίου· <q>πόσον γὰρ ἔτι ἐστὶν ἐμοὶ τὸ λοιπόν;</q></div></article>
+<article class="section" id="s-3"><a class="ref" href="#s-3">3</a><div class="section-text" lang="grc">— κἀγὼ ἔλεγον αὐτῷ ὅτι <q>οὐ ποιήσεις, ἀλλʼ ὀσφρανθεὶς μόνον τῆς Ῥώμης ἁπάντων τούτων ἐπιλήσῃ.</q> ἂν δὲ καὶ εἰς αὐλὴν πάροδός τις δίδωται, ὅτι χαίρων καὶ τῷ θεῷ εὐχαριστῶν ὤσεται.</div></article>
+<article class="section" id="s-4"><a class="ref" href="#s-4">4</a><div class="section-text" lang="grc">— <q>ἄν μʼ εὕρῃς,</q> ἔφη, <q>Ἐπίκτητε, τὸν ἕτερον πόδα εἰς τὴν αὐλὴν τιθέντα, ὃ βούλει ὑπολάμβανε.</q></div></article>
+<article class="section" id="s-5"><a class="ref" href="#s-5">5</a><div class="section-text" lang="grc">νῦν οὖν τί ἐποίησεν; πρὶν ἐλθεῖν εἰς τὴν Ῥώμην, ἀπήντησαν αὐτῷ παρὰ Καίσαρος πινακίδες· ὁ δὲ λαβὼν πάντων ἐκείνων ἐξελάθετο καὶ λοιπὸν ἓν ἐξ ἑνὸς ἐπισεσώρευκεν.</div></article>
+<article class="section" id="s-6"><a class="ref" href="#s-6">6</a><div class="section-text" lang="grc">ἤθελον αὐτὸν νῦν παραστὰς ὑπομνῆσαι τῶν λόγων, οὓς ἔλεγεν παρερχόμενος, καὶ εἰπεῖν ὅτι <q>πόσῳ σοῦ ἐγὼ κομψότερος μάντις εἰμί.</q></div></article>
+<article class="section" id="s-7"><a class="ref" href="#s-7">7</a><div class="section-text" lang="grc">τί οὖν; ἐγὼ λέγω, ὅτι ἄπρακτόν ἐστι τὸ ζῷον; μὴ γένοιτο. ἀλλὰ διὰ τί ἡμεῖς οὐκ ἐσμὲν πρακτικοί;</div></article>
+<article class="section" id="s-8"><a class="ref" href="#s-8">8</a><div class="section-text" lang="grc">εὐθὺς ἐγὼ πρῶτος, ὅταν ἡμέρα γένηται, μικρὰ ὑπομιμνῄσκομαι, τίνα ἐπαναγνῶναί με δεῖ. εἶτα εὐθὺς ἐμαυτῷ· <q>τί δέ μοι καὶ μέλει πῶς ὁ δεῖνα ἀναγνῷ; πρῶτόν ἐστιν, ἵνα ἐγὼ κοιμηθῶ.</q></div></article>
+<article class="section" id="s-9"><a class="ref" href="#s-9">9</a><div class="section-text" lang="grc">καίτοι τί ὅμοια τὰ ἐκείνων πράγματα τοῖς ἡμετέροις; ἂν ἐπιστῆτε, τί ἐκεῖνοι ποιοῦσιν, αἰσθήσεσθε. τί γὰρ ἄλλο ἢ ὅλην τὴν ἡμέραν ψηφίζουσιν, συζητοῦσι, συμβουλεύουσι περὶ σιταρίου, περὶ ἀγριδίου, περί τινων προκοπῶν τοιούτων;</div></article>
+<article class="section" id="s-10"><a class="ref" href="#s-10">10</a><div class="section-text" lang="grc">ὅμοιον οὖν ἐστιν ἐντευξίδιον παρά τινος λαβόντα ἀναγιγνώσκειν <q>παρακαλῶ σε ἐπιτρέψαι μοι σιτάριον ἐξαγαγεῖν</q> ἢ <q>παρακαλῶ σε παρὰ Χρυσίππου ἐπισκέψασθαι τίς ἐστιν ἡ τοῦ κόσμου διοίκησις καὶ ποίαν τινὰ χώραν ἐν αὐτῷ ἔχει τὸ λογικὸν ζῷον· ἐπίσκεψαι δὲ καὶ τίς εἶ σὺ καὶ ποῖόν τι σοῦ τὸ ἀγαθὸν καὶ τὸ κακόν;</q></div></article>
+<article class="section" id="s-11"><a class="ref" href="#s-11">11</a><div class="section-text" lang="grc">ταῦτα ἐκείνοις ὅμοιά ἐστιν; ἀλλʼ ὁμοίας σπουδῆς χρείαν ἔχοντα; ἀλλʼ ὡσαύτως ἀμελεῖν αἰσχρὸν τούτων κἀκείνων;</div></article>
+<article class="section" id="s-12"><a class="ref" href="#s-12">12</a><div class="section-text" lang="grc">τί οὖν; ἡμεῖς μόνοι ῥᾳθυμοῦμεν καὶ νυστάζομεν; οὔ· ἀλλὰ πολὺ πρότερον ὑμεῖς οἱ νέοι.</div></article>
+<article class="section" id="s-13"><a class="ref" href="#s-13">13</a><div class="section-text" lang="grc">ἐπεί τοι καὶ ἡμεῖς οἱ γέροντες, ὅταν παίζοντας ὁρῶμεν νέους, συμπροθυμούμεθα καὶ αὐτοὶ συμπαίζειν. πολὺ δὲ πλέον, εἰ ἑώρων διεγηγερμένους καὶ συμπροθυμουμένους, προεθυμούμην ἂν συσπουδάζειν καὶ αὐτός.</div></article>
+</div>
+
+<nav class="chapter-nav chapter-nav-bottom"><a href="1-09.html">ἡ προτέρα διατριβή</a><a class="chapter-home" href="../index.html">Ἀρχή</a><a href="1-11.html">ἡ ἑπομένη διατριβή</a></nav>

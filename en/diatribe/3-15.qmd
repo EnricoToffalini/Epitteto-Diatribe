@@ -1,0 +1,49 @@
+---
+title: "Discourse III.15 — That we ought to proceed with circumspection to every thing"
+lang: en
+pagetitle: "Discourse III.15 — That we ought to proceed with circumspection to every thing — Epictetus, Discourses"
+title-prefix: ""
+description-meta: "Discourse III.15: “That we ought to proceed with circumspection to every thing”. The Discourses of Epictetus, in George Long’s English translation, with his notes."
+sidebar: en
+---
+
+<!--
+FILE GENERATO. NON MODIFICARE A MANO.
+
+Modificare invece:
+- translation/it/**.md      per il testo e i titoli italiani
+- data/intro.json           per le note introduttive delle home page
+- tools/site_config.py      per lingue, testi dell'interfaccia, URL
+- styles.css                per l'aspetto grafico
+
+Poi eseguire:
+    run.bat
+-->
+
+
+<div class="diatribe-meta">Book III · 3 paragraphs · <span class="canonical" title="Canonical reference">III 15</span></div>
+
+<div class="title-note">Note on the title<a class="note-ref" id="noteref-1" href="#note-1" role="doc-noteref" aria-label="note 1"><sup>1</sup></a></div>
+
+<nav class="chapter-nav"><a href="3-14.html">Previous discourse</a><a class="chapter-home" href="../index.html">Home</a><a href="3-16.html">Next discourse</a></nav>
+
+<div class="paragraph-list">
+<p>IN every act consider what precedes and what follows, and then proceed to the act. If you do not consider, you will at first begin with spirit, since you have not thought at all of the things which follow; but afterwards when some consequences have shown themselves, you will basely desist (from that which you have begun).—I wish to conquer at the Olympic games.—[And I too, by the gods: for it is a fine thing]. But consider here what precedes and what follows; and then, if it is for your good, undertake the thing. You must act according to rules, follow strict diet, abstain from delicacies, exercise yourself by compulsion at fixed times, in heat, in cold; drink no cold water, nor wine, when there is opportunity of drinking it.<a class="note-ref" id="noteref-2" href="#note-2" role="doc-noteref" aria-label="note 2"><sup>2</sup></a> In a word you must surrender yourself to the trainer, as you do to a physician. Next in the contest, you must be covered with sand,<a class="note-ref" id="noteref-3" href="#note-3" role="doc-noteref" aria-label="note 3"><sup>3</sup></a> sometimes dislocate a hand, sprain an ankle, swallow a quantity of dust, be scourged with the whip; and after undergoing all this, you must sometimes be conquered. After reckoning all these things, if you have still an inclination, go to the athletic practice. If you do not reckon them, observe you will behave like children who at one time play as wrestlers, then as gladiators, then blow a trumpet, then act a tragedy, when they have seen and admired such things. So you also do: you are at one time a wrestler (athlete), then a gladiator, then a philosopher, then a rhetorician; but with your whole soul you are nothing: like the ape you imitate all that you see; and always one thing after another pleases you, but that which becomes familiar displeases you. For you have never undertaken any thing after consideration, nor after having explored the whole matter and put it to a strict examination; but you have undertaken it at hazard and with a cold desire. Thus some persons having seen a philosopher and having heard one speak like Euphrates<a class="note-ref" id="noteref-4" href="#note-4" role="doc-noteref" aria-label="note 4"><sup>4</sup></a>— and yet who can speak like him?—wish to be philosophers themselves.</p>
+<p>Man, consider first what the matter is (which you propose to do), then your own nature also, what it is able to bear. If you are a wrestler, look at your shoulders, your thighs, your loins: for different men are naturally formed for different things. Do you think that, if you do (what you are doing daily), you can be a philosopher? Do you think that you can eat as you do now, drink as you do now, and in the same way be angry and out of humour? You must watch, labour, conquer certain desires, you must depart from your kinsmen, be despised by your slave, laughed at by those who meet you, in every thing you must be in an inferior condition, as to magisterial office, in honours, in courts of justice. When you have considered all these things completely, then, if you think proper, approach to philosophy, if you would gain in exchange for these things freedom from perturbations, liberty, tranquillity. If you have not considered these things, do not approach philosophy: do not act like children, at one time a philosopher, then a tax collector, then a rhetorician, then a procurator (officer) of Caesar. These things are not consistent. You must be one man either good or bad: you must either labour at your own ruling faculty or at external things: you must either labour at things within or at external things: that is, you must either occupy the place of a philosopher or that of one of the vulgar.</p>
+<p>A person said to Rufus<a class="note-ref" id="noteref-5" href="#note-5" role="doc-noteref" aria-label="note 5"><sup>5</sup></a> when Galba was murdered, Is the world now governed by Providence? But Rufus replied, Did I ever incidentally form an argument from Galba that the world is governed by Providence?</p>
+</div>
+
+<section class="notes">
+<h2>Notes</h2>
+<ol class="note-list">
+<li class="note" id="note-1" role="doc-endnote"><p>Compare Encheiridion 29.</p>
+<p><q>This chapter has a great conformity to Luke xiv. 28 etc. But it is to be observed that Epictetus, both here and elsewhere, supposes some persons incapable of being philosophers; that is, virtuous and pious men: but Christianity requires and enables all to be such.</q> Mrs. Carter.</p> 
+<p>The passage in Luke contains a practical lesson, and so far is the same as the teaching of Epictetus: but the conclusion in v. 33 does not appear to be helped by what immediately precedes v. 28–32. The remark that Christianity <q>enables all to be such</q> is not true, unless Mrs. Carter gives to the word <q>enables</q> a meaning which I do not see.</p><a class="note-back" href="#noteref-1" aria-label="back to the text">&#8617;</a></li>
+<li class="note" id="note-2" role="doc-endnote"><p>The commentators refer us to Paul, 1 Cor. c. 9, 25. Compare Horace, <span class="cit"> <cite>Ars Poetica, 39:</cite> <span class="verse-quote" lang="lat" class="foreign"><span class="l">Versate diu quid ferre recusent,</span> <span class="l">Quid valeant humeri.</span> </span> </span></p><a class="note-back" href="#noteref-2" aria-label="back to the text">&#8617;</a></li>
+<li class="note" id="note-3" role="doc-endnote"><p>Wolf thought that the word <span class="foreign" lang="grc">παρορύσσεσθαι</span> might mean the loss of an eye; but other commentators give the word a different meaning. See Schweigh.’s note.</p><a class="note-back" href="#noteref-3" aria-label="back to the text">&#8617;</a></li>
+<li class="note" id="note-4" role="doc-endnote"><p>In place of Euphrates the Encheiridion 29 had in the text <q>Socrates,</q> which name the recent editors of the Encheiridion altered to <q>Euphrates,</q> and correctly. The younger Pliny (i. Ep. 10) speaks in high terms of the merits and attractive eloquence of this Syrian philosopher Euphrates, who is mentioned by M. Antoninus (x. 31) and by others.</p><a class="note-back" href="#noteref-4" aria-label="back to the text">&#8617;</a></li>
+<li class="note" id="note-5" role="doc-endnote"><p>Rufus was a philosopher. See i. 1, i. 9. Galba is the emperor Galba, who was murdered. The meaning of the passage is rather obscure, and it is evident that it does not belong to this chapter. Lord Shaftesbury remarks that this passage perhaps belongs to chapter 11 or 14, or perhaps to the end of chapter 17.</p><a class="note-back" href="#noteref-5" aria-label="back to the text">&#8617;</a></li>
+</ol>
+</section>
+
+<nav class="chapter-nav chapter-nav-bottom"><a href="3-14.html">Previous discourse</a><a class="chapter-home" href="../index.html">Home</a><a href="3-16.html">Next discourse</a></nav>

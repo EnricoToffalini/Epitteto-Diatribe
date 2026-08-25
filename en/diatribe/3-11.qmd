@@ -1,0 +1,41 @@
+---
+title: "Discourse III.11 — Certain miscellaneous matters"
+lang: en
+pagetitle: "Discourse III.11 — Certain miscellaneous matters — Epictetus, Discourses"
+title-prefix: ""
+description-meta: "Discourse III.11: “Certain miscellaneous matters”. The Discourses of Epictetus, in George Long’s English translation, with his notes."
+sidebar: en
+---
+
+<!--
+FILE GENERATO. NON MODIFICARE A MANO.
+
+Modificare invece:
+- translation/it/**.md      per il testo e i titoli italiani
+- data/intro.json           per le note introduttive delle home page
+- tools/site_config.py      per lingue, testi dell'interfaccia, URL
+- styles.css                per l'aspetto grafico
+
+Poi eseguire:
+    run.bat
+-->
+
+
+<div class="diatribe-meta">Book III · 2 paragraphs · <span class="canonical" title="Canonical reference">III 11</span></div>
+
+<nav class="chapter-nav"><a href="3-10.html">Previous discourse</a><a class="chapter-home" href="../index.html">Home</a><a href="3-12.html">Next discourse</a></nav>
+
+<div class="paragraph-list">
+<p>THERE are certain penalties fixed as by law for those who disobey the divine administration.<a class="note-ref" id="noteref-1" href="#note-1" role="doc-noteref" aria-label="note 1"><sup>1</sup></a> Whoever thinks any other thing to be good except those things which depend on the will, let him envy, let him desire, let him flatter, let him be perturbed: whoever considers any thing else to be evil, let him grieve, let him lament, let him weep, let him be unhappy. And yet, though so severely punished, we cannot desist.</p>
+<p>Remember what the poet<a class="note-ref" id="noteref-2" href="#note-2" role="doc-noteref" aria-label="note 2"><sup>2</sup></a> says about the stranger: <span class="verse-quote"><span class="l">Stranger, I must not, e’en if a worse man come.</span> </span> This then may be applied even to a father: I must not, even if a worse man than you should come, treat a father unworthily; for all are from paternal Zeus. And (let the same be said) of a brother, for all are from the Zeus who presides over kindred. And so in the other relations of life we shall find Zeus to be an inspector.</p>
+</div>
+
+<section class="notes">
+<h2>Notes</h2>
+<ol class="note-list">
+<li class="note" id="note-1" role="doc-endnote"><p>As to the divine law, see iii. 24. 32, and Xenophon’s <cite>Memorabilia, iv. 4. 21,</cite> etc. Upton.</p><a class="note-back" href="#noteref-1" aria-label="back to the text">&#8617;</a></li>
+<li class="note" id="note-2" role="doc-endnote"><p>The poet is Homer. The complete passage is in the Odyssey, xiv. V. 55, etc. <span class="verse-quote"><span class="lg"> <span class="l">Stranger, I must not, e’en if a worse man come,</span> <span class="l">Ill treat a stranger, for all come from Zeus,</span> <span class="l">Strangers and poor.</span> </span></span></p><a class="note-back" href="#noteref-2" aria-label="back to the text">&#8617;</a></li>
+</ol>
+</section>
+
+<nav class="chapter-nav chapter-nav-bottom"><a href="3-10.html">Previous discourse</a><a class="chapter-home" href="../index.html">Home</a><a href="3-12.html">Next discourse</a></nav>

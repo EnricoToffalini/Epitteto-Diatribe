@@ -1,0 +1,55 @@
+---
+title: "Διατριβὴ Δʹ.ιγʹ — πρὸς τοὺς εὐκόλως ἐκφέροντας τὰ αὑτῶν"
+lang: grc
+pagetitle: "Διατριβὴ Δʹ.ιγʹ — πρὸς τοὺς εὐκόλως ἐκφέροντας τὰ αὑτῶν — Ἐπικτήτου Διατριβαί"
+title-prefix: ""
+description-meta: "Διατριβὴ Δʹ.ιγʹ· «πρὸς τοὺς εὐκόλως ἐκφέροντας τὰ αὑτῶν». Ἀρριανοῦ τῶν Ἐπικτήτου Διατριβῶν, τὸ ἑλληνικὸν κείμενον."
+sidebar: grc
+---
+
+<!--
+FILE GENERATO. NON MODIFICARE A MANO.
+
+Modificare invece:
+- translation/it/**.md      per il testo e i titoli italiani
+- data/intro.json           per le note introduttive delle home page
+- tools/site_config.py      per lingue, testi dell'interfaccia, URL
+- styles.css                per l'aspetto grafico
+
+Poi eseguire:
+    run.bat
+-->
+
+
+<div class="diatribe-meta">Βιβλίον Δʹ · 24 τμήματα · <span class="canonical" title="Παραπομπή">IV 13</span></div>
+
+<nav class="chapter-nav"><a href="4-12.html">ἡ προτέρα διατριβή</a><a class="chapter-home" href="../index.html">Ἀρχή</a><span></span></nav>
+
+<div class="section-list">
+<article class="section" id="s-1"><a class="ref" href="#s-1">1</a><div class="section-text" lang="grc">ὅταν τις ἡμῖν ἁπλῶς δόξῃ διειλέχθαι περὶ τῶν ἑαυτοῦ πραγμάτων, πώς ποτε ἐξαγόμεθα καὶ αὐτοὶ πρὸς τὸ ἐκφέρειν πρὸς αὐτὸν τὰ ἑαυτῶν ἀπόρρητα καὶ τοῦτο ἁπλοῦν οἰόμεθα εἶναι·</div></article>
+<article class="section" id="s-2"><a class="ref" href="#s-2">2</a><div class="section-text" lang="grc">πρῶτον μὲν ὅτι ἄνισον εἶναι δοκεῖ αὐτὸν μὲν ἀκηκοέναι τὰ τοῦ πλησίον, μὴ μέντοι μεταδιδόναι κἀκείνῳ ἐν τῷ μέρει τῶν ἡμετέρων. εἶθʼ ὅτι οἰόμεθα οὐχ ἁπλῶν ἀνθρώπων παρέξειν αὐτοῖς φαντασίαν σιωπῶντες τὰ ἴδια.</div></article>
+<article class="section" id="s-3"><a class="ref" href="#s-3">3</a><div class="section-text" lang="grc">ἀμέλει πολλάκις εἰώθασιν λέγειν <q>ἐγώ σοι πάντα τἀμαυτοῦ εἴρηκα, σύ μοι οὐδὲν τῶν σῶν εἰπεῖν θέλεις; ποῦ γίνεται τοῦτο;</q></div></article>
+<article class="section" id="s-4"><a class="ref" href="#s-4">4</a><div class="section-text" lang="grc">πρόσεστι δὲ καὶ τὸ οἴεσθαι ἀσφαλῶς πιστεύειν τῷ ἤδη τὰ αὑτοῦ πεπιστευκότι· ὑπέρχεται γὰρ ἡμᾶς, ὅτι οὐκ ἄν ποτε οὗτος ἐξείποι τὰ ἡμέτερα εὐλαβούμενος, μήποτε καὶ ἡμεῖς ἐξείπωμεν τὰ ἐκείνου.</div></article>
+<article class="section" id="s-5"><a class="ref" href="#s-5">5</a><div class="section-text" lang="grc">οὕτως καὶ ὑπὸ τῶν στρατιωτῶν ἐν Ῥώμῃ οἱ προπετεῖς λαμβάνονται. παρακεκάθικέ σοι στρατιώτης ἐν σχήματι ἰδιωτικῷ καὶ ἀρξάμενος κακῶς λέγει τὸν Καίσαρα, εἶτα σὺ ὥσπερ ἐνέχυρον παρʼ αὐτοῦ λαβὼν τῆς πίστεως τὸ αὐτὸν τῆς λοιδορίας κατῆρχθαι λέγεις καὶ αὐτὸς ὅσα φρονεῖς, εἶτα δεθεὶς ἀπάγῃ.</div></article>
+<article class="section" id="s-6"><a class="ref" href="#s-6">6</a><div class="section-text" lang="grc">τοιοῦτόν τι καὶ ἐν τῷ καθόλου πάσχομεν. οὐ γὰρ ὡς ἐμοὶ ἐκεῖνος ἀσφαλῶς πεπίστευκεν τὰ ἑαυτοῦ, οὕτως κἀγὼ τῷ ἐπιτυχόντι·</div></article>
+<article class="section" id="s-7"><a class="ref" href="#s-7">7</a><div class="section-text" lang="grc">ἀλλʼ ἐγὼ μὲν ἀκούσας σιωπῶ, ἄν γε ὦ τοιοῦτος, ὁ δʼ ἐξελθὼν ἐκφέρει πρὸς πάντας. εἶτʼ ἂν γνῶ τὸ γενόμενον, ἂν μὲν ὦ καὶ αὐτὸς ἐκείνῳ ὅμοιος, ἀμύνασθαι θέλων ἐκφέρω τὰ ἐκείνου καὶ φύρω καὶ φύρομαι.</div></article>
+<article class="section" id="s-8"><a class="ref" href="#s-8">8</a><div class="section-text" lang="grc">ἂν δὲ μνημονεύω, ὅτι ἄλλος ἄλλον οὐ βλάπτει, ἀλλὰ τὰ αὑτοῦ ἔργα ἕκαστον καὶ βλάπτει καὶ ὠφελεῖ, τούτου μὲν κρατῶ τοῦ μὴ ὅμοιόν τι ποιῆσαι ἐκείνῳ, ὅμως δʼ ὑπὸ φλυαρίας τῆς ἐμαυτοῦ πέπονθα ἃ πέπονθα.</div></article>
+<article class="section" id="s-9"><a class="ref" href="#s-9">9</a><div class="section-text" lang="grc">ναί· ἀλλʼ ἄνισόν ἐστιν ἀκούσαντα τὰ τοῦ πλησίον ἀπόρρητα αὐτὸν ἐν τῷ μέρει μηδενὸς μεταδιδόναι αὐτῷ.</div></article>
+<article class="section" id="s-10"><a class="ref" href="#s-10">10</a><div class="section-text" lang="grc">— μὴ γάρ σε παρεκάλουν, ἄνθρωπε; μὴ γὰρ ἐπὶ συνθήκαις τισὶν ἐξήνεγκας τὰ σαυτοῦ, ἵνʼ ἀκούσῃς ἐν τῷ μέρει καὶ τὰ ἐμά;</div></article>
+<article class="section" id="s-11"><a class="ref" href="#s-11">11</a><div class="section-text" lang="grc">εἰ σὺ φλύαρος εἶ καὶ πάντας τοὺς ἀπαντήσαντας φίλους εἶναι δοκεῖς, θέλεις καὶ ἐμὲ ὅμοιόν σοι γενέσθαι; τί δʼ, εἰ σὺ καλῶς μοι πεπίστευκας τὰ σαυτοῦ, σοὶ δʼ οὐκ ἔστι καλῶς πιστεῦσαι, θέλεις με προ<span class="ed-del">[σ]</span>πεσεῖν;</div></article>
+<article class="section" id="s-12"><a class="ref" href="#s-12">12</a><div class="section-text" lang="grc">οἷον εἰ πίθον εἶχον ἐγὼ μὲν στεγνόν, σὺ δὲ τετρυπημένον καὶ ἐλθὼν παρακατέθου μοι τὸν σαυτοῦ οἶνον, ἵνα βάλω εἰς τὸν ἐμὸν πίθον, εἶτʼ ἠγανάκτεις ὅτι μὴ κἀγὼ σοὶ πιστεύω τὸν ἐμαυτοῦ οἶνον· σὺ γὰρ τετρυπημένον ἔχεις τὸν πίθον.</div></article>
+<article class="section" id="s-13"><a class="ref" href="#s-13">13</a><div class="section-text" lang="grc">πῶς οὖν ἔτι ἴσον γίνεται; σὺ πιστῷ παρακατέθου, σὺ αἰδήμονι, τὰς ἑαυτοῦ ἐνεργείας μόνας βλαβερὰς ἡγουμένῳ καὶ ὠφελίμους, τῶν δʼ ἐκτὸς οὐδέν·</div></article>
+<article class="section" id="s-14"><a class="ref" href="#s-14">14</a><div class="section-text" lang="grc">ἐγὼ σοὶ θέλεις παρακαταθῶμαι, ἀνθρώπῳ τὴν ἑαυτοῦ προαίρεσιν ἠτιμακότι, θέλοντι δὲ κερματίου τυχεῖν ἢ ἀρχῆς τινος ἢ προαγωγῆς ἐν τῇ αὐλῇ, κἂν μέλλῃς τὰ τέκνα σου κατασφάζειν, ὡς ἡ Μήδεια;</div></article>
+<article class="section" id="s-15"><a class="ref" href="#s-15">15</a><div class="section-text" lang="grc">ποῦ τοῦτο ἴσον ἐστίν; ἀλλὰ δεῖξόν μοι σαυτὸν πιστόν, αἰδήμονα, βέβαιον, δεῖξον, ὅτι δόγματα ἔχεις φιλικά, δεῖξόν σου τὸ ἀγγεῖον ὅτι οὐ τέτρηται καὶ ὄψει, πῶς οὐκ ἀναμένω ἵνα μοι σὺ πιστεύσῃς τὰ σαυτοῦ, ἀλλʼ αὐτὸς ἐλθὼν σὲ παρακαλῶ ἀκοῦσαι τῶν ἐμῶν.</div></article>
+<article class="section" id="s-16"><a class="ref" href="#s-16">16</a><div class="section-text" lang="grc">τίς γὰρ οὐ θέλει χρήσασθαι ἀγγείῳ καλῷ, τίς ἀτιμάζει σύμβουλον εὔνουν καὶ πιστόν, τίς οὐκ ἄσμενος δέξηται τὸν ὥσπερ φορτίου μεταληψόμενον τῶν αὐτοῦ περιστάσεων καὶ αὐτῷ τούτῳ κουφιοῦντα αὐτὸν τῷ μεταλαβεῖν;</div></article>
+<article class="section" id="s-17"><a class="ref" href="#s-17">17</a><div class="section-text" lang="grc">ναί· ἀλλʼ ἐγὼ σοὶ πιστεύω, σὺ ἐμοὶ οὐ πιστεύεις. — πρῶτον μὲν οὐδὲ σὺ ἐμοὶ πιστεύεις, ἀλλὰ φλύαρος εἶ καὶ διὰ τοῦτο οὐδὲν δύνασαι κατασχεῖν. ἐπεί τοι εἰ τοῦτό ἐστιν, ἐμοὶ μόνῳ αὐτὰ πίστευσον·</div></article>
+<article class="section" id="s-18"><a class="ref" href="#s-18">18</a><div class="section-text" lang="grc">νῦν δʼ ὃν ἂν εὐσχολοῦντα ἴδῃς, παρακαθίσας αὐτῷ λέγεις <q>ἀδελφέ, οὐδένα σου ἔχω εὐνούστ<span class="ed-del">[οτ]</span>ερον οὐδὲ φίλτερον, παρακαλῶ σε ἀκοῦσαι τὰ ἐμά·</q> καὶ τοῦτο πρὸς τοὺς οὐδέ τι ὀλίγον ἐγνωσμένους ποιεῖς.</div></article>
+<article class="section" id="s-19"><a class="ref" href="#s-19">19</a><div class="section-text" lang="grc">εἰ δὲ καὶ πιστεύεις ἐμοί, δῆλον ὅτι ὡς πιστῷ καὶ αἰδήμονι, οὐχ ὅτι σοὶ τὰ ἐμαυτοῦ ἐξεῖπον.</div></article>
+<article class="section" id="s-20"><a class="ref" href="#s-20">20</a><div class="section-text" lang="grc">ἄφες οὖν, ἵνα κἀγὼ ταὐτὰ ὑπολάβω. δεῖξόν μοι, ὅτι, ἄν τις τινὶ τὰ αὑτοῦ ἐξείπῃ, ἐκεῖνος πιστός ἐστι καὶ αἰδήμων. εἰ γὰρ τοῦτο ἦν, ἐγὼ περιερχόμενος πᾶσιν ἀνθρώποις τὰ ἐμαυτοῦ ἂν ἔλεγον, εἰ τούτου ἕνεκα ἔμελλον πιστὸς καὶ αἰδήμων ἔσεσθαι. τὸ δʼ ἐστὶν οὐ τοιοῦτον, ἀλλὰ δογμάτων δεῖ οὐχ ὧν ἔτυχεν.</div></article>
+<article class="section" id="s-21"><a class="ref" href="#s-21">21</a><div class="section-text" lang="grc">ἂν γοῦν τινα ἴδῃς περὶ τὰ ἀπροαίρετα ἐσπουδακότα καὶ τούτοις ὑποτεταχότα τὴν αὑτοῦ προαίρεσιν, ἴσθι ὅτι ὁ ἄνθρωπος οὗτος μυρίους ἔχει τοὺς ἀναγκάζοντας, τοὺς κωλύοντας.</div></article>
+<article class="section" id="s-22"><a class="ref" href="#s-22">22</a><div class="section-text" lang="grc">οὐκ ἔστιν αὐτῷ χρεία πίσσης ἢ τροχοῦ πρὸς τὸ ἐξειπεῖν ἃ οἶδεν, ἀλλὰ παιδισκαρίου νευμάτιον, ἂν οὕτως τύχῃ, ἐκσείσει αὐτόν, Καισαριανοῦ φιλοφροσύνη, ἀρχῆς ἐπιθυμία, κληρονομίας, ἄλλα τούτοις ὅμοια τρισμύρια.</div></article>
+<article class="section" id="s-23"><a class="ref" href="#s-23">23</a><div class="section-text" lang="grc">μεμνῆσθαι οὖν ἐν τοῖς καθόλου, ὅτι οἱ ἀπόρρητοι λόγοι πίστεως χρείαν ἔχουσι καὶ δογμάτων τοιούτων· ταῦτα δὲ ποῦ νῦν εὑρεῖν ῥᾳδίως;</div></article>
+<article class="section" id="s-24"><a class="ref" href="#s-24">24</a><div class="section-text" lang="grc">ἢ δειξάτω μοί τις τὸν οὕτως ἔχοντα, ὥστε λέγειν <q>ἐμοὶ μόνων μέλει τῶν ἐμῶν, τῶν ἀκωλύτων, τῶν φύσει ἐλευθέρων. ταύτην οὐσίαν ἔχω τοῦ ἀγαθοῦ, τὰ δὲ ἄλλα γινέσθω ὡς ἂν διδῶται· οὐ διαφέρομαι.</q></div></article>
+</div>
+
+<nav class="chapter-nav chapter-nav-bottom"><a href="4-12.html">ἡ προτέρα διατριβή</a><a class="chapter-home" href="../index.html">Ἀρχή</a><span></span></nav>

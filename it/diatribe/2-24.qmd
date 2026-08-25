@@ -1,0 +1,60 @@
+---
+title: "Diatriba II.24 — A uno di quelli che egli non riteneva degni"
+lang: it
+pagetitle: "Diatriba II.24 — A uno di quelli che egli non riteneva degni — Epitteto, Diatribe"
+title-prefix: ""
+description-meta: "Diatriba II.24: «A uno di quelli che egli non riteneva degni». Le Diatribe di Epitteto raccolte da Arriano, in traduzione italiana."
+sidebar: it
+---
+
+<!--
+FILE GENERATO. NON MODIFICARE A MANO.
+
+Modificare invece:
+- translation/it/**.md      per il testo e i titoli italiani
+- data/intro.json           per le note introduttive delle home page
+- tools/site_config.py      per lingue, testi dell'interfaccia, URL
+- styles.css                per l'aspetto grafico
+
+Poi eseguire:
+    run.bat
+-->
+
+
+<div class="diatribe-meta">Libro II · 29 sezioni · <span class="canonical" title="Riferimento canonico">II 24</span></div>
+
+<nav class="chapter-nav"><a href="2-23.html">Diatriba precedente</a><a class="chapter-home" href="../index.html">Home</a><a href="2-25.html">Diatriba successiva</a></nav>
+
+<div class="section-list">
+<article class="section" id="s-1"><a class="ref" href="#s-1">1</a><div class="section-text">Un tale gli disse: «Molte volte, desiderando ascoltarti, sono venuto da te, e non mi hai mai risposto.»</div></article>
+<article class="section" id="s-2"><a class="ref" href="#s-2">2</a><div class="section-text">«E ora, se è possibile, ti prego di dirmi qualcosa.» Egli disse: «Ti sembra che, come esiste un’arte per altre cose, così ne esista anche una del parlare, per cui chi la possiede parlerà con competenza e chi non la possiede senza competenza?»</div></article>
+<article class="section" id="s-3"><a class="ref" href="#s-3">3</a><div class="section-text">«Mi sembra.» «Dunque chi, mediante il parlare, trae beneficio per sé ed è capace di giovare anche agli altri, parlerebbe con competenza; chi invece ne viene piuttosto danneggiato e danneggia gli altri sarebbe inesperto di quest’arte del parlare? Troveresti infatti alcuni che ne sono danneggiati e altri che ne traggono beneficio.»</div></article>
+<article class="section" id="s-4"><a class="ref" href="#s-4">4</a><div class="section-text">«E tutti quelli che ascoltano traggono beneficio da ciò che ascoltano, oppure anche fra loro troveresti alcuni che ne traggono beneficio e altri che ne sono danneggiati?» «Anche fra loro», disse. «Dunque anche qui, quanti ascoltano con competenza ne traggono beneficio, quanti ascoltano senza competenza ne sono danneggiati?»</div></article>
+<article class="section" id="s-5"><a class="ref" href="#s-5">5</a><div class="section-text">Lo ammise. «Esiste dunque una certa competenza nell’ascoltare, così come nel parlare?» «Pare di sì.»</div></article>
+<article class="section" id="s-6"><a class="ref" href="#s-6">6</a><div class="section-text">«Se vuoi, considera la cosa anche così. Toccare qualcosa secondo l’arte musicale, a chi ti sembra che appartenga?» «Al musicista.» «E poi?»</div></article>
+<article class="section" id="s-7"><a class="ref" href="#s-7">7</a><div class="section-text">«Costruire una statua come si deve, a chi ti sembra che appartenga?» «Allo scultore.» «E guardare con competenza non ti sembra richiedere alcuna arte?» «Anche questo la richiede.»</div></article>
+<article class="section" id="s-8"><a class="ref" href="#s-8">8</a><div class="section-text">«Dunque, se anche parlare come si deve appartiene a chi è competente, vedi che anche ascoltare in modo utile appartiene a chi è competente?»</div></article>
+<article class="section" id="s-9"><a class="ref" href="#s-9">9</a><div class="section-text">«Quanto poi all’ascoltare perfettamente e con profitto, se vuoi, lasciamolo per ora da parte, poiché entrambi siamo ancora molto lontani da qualcosa del genere.</div></article>
+<article class="section" id="s-10"><a class="ref" href="#s-10">10</a><div class="section-text">Ma questo, credo, chiunque lo concederebbe: chi vuole ascoltare i filosofi ha bisogno almeno di un certo esercizio nell’ascoltare. O no?»</div></article>
+<article class="section" id="s-11"><a class="ref" href="#s-11">11</a><div class="section-text">«Di che cosa, dunque, devo parlarti? Mostramelo. Di che cosa sei capace di ascoltare? Dei beni e dei mali? Di chi? Forse di un cavallo?» «No.» «Di un bue?» «No.» «Di chi, allora?»</div></article>
+<article class="section" id="s-12"><a class="ref" href="#s-12">12</a><div class="section-text">«Dell’uomo.» «Sappiamo dunque che cos’è l’uomo, quale sia la sua natura, quale la nozione che ne abbiamo? Abbiamo almeno un po’ le orecchie aperte su questo? Ma che cosa sia la natura, lo comprendi? O sei capace almeno in qualche misura di seguirmi mentre ne parlo?»</div></article>
+<article class="section" id="s-13"><a class="ref" href="#s-13">13</a><div class="section-text">«Oppure userò con te una dimostrazione? Come? Comprendi almeno questo: che cos’è una dimostrazione, come si dimostra qualcosa e per mezzo di che cosa? E quali cose assomigliano a una dimostrazione ma non lo sono?»</div></article>
+<article class="section" id="s-14"><a class="ref" href="#s-14">14</a><div class="section-text">«Sai che cos’è il vero e che cos’è il falso? Che cosa segue da che cosa, che cosa contrasta con che cosa, che cosa è contraddittorio o incompatibile?»</div></article>
+<article class="section" id="s-15"><a class="ref" href="#s-15">15</a><div class="section-text">«Oppure devo spingerti verso la filosofia? Come potrei mostrarti il conflitto degli uomini comuni, per cui dissentono sui beni e sui mali, su ciò che giova e ciò che nuoce, se non sai nemmeno che cosa sia un conflitto? Mostrami dunque che cosa potrò ottenere parlando con te. Suscita in me il desiderio di farlo.»</div></article>
+<article class="section" id="s-16"><a class="ref" href="#s-16">16</a><div class="section-text">«Come l’erba adatta, quando appare alla pecora, suscita in essa il desiderio di mangiare, mentre se le metti davanti una pietra o del pane non si muove, così anche in noi vi sono impulsi naturali a parlare, quando appare qualcuno capace di ascoltare, quando egli stesso ci stimola. Ma se sta lì accanto come una pietra o come erba, come potrebbe suscitare in un uomo il desiderio di parlare?»</div></article>
+<article class="section" id="s-17"><a class="ref" href="#s-17">17</a><div class="section-text">«La vite dice forse al contadino: “Prenditi cura di me”? No: mostrando da sé che, se sarà curata, gli porterà vantaggio, lo invita a prendersene cura.</div></article>
+<article class="section" id="s-18"><a class="ref" href="#s-18">18</a><div class="section-text">Quale uomo non è attirato dai bambini graziosi e vivaci a giocare con loro, a gattonare con loro e a balbettare insieme? Ma chi ha voglia di giocare con un asino o di ragliare insieme a lui? Perché, anche se è piccolo, resta pur sempre un asinello.»</div></article>
+<article class="section" id="s-19"><a class="ref" href="#s-19">19</a><div class="section-text">«Perché dunque non mi dici nulla?» «Una sola cosa ho da dirti: chi ignora chi è, per quale scopo è nato, in quale mondo si trova e con quali compagni vive, quali siano i beni e i mali, le cose belle e le vergognose, e non comprende né il ragionamento né la dimostrazione, né che cosa sia vero o falso, né è capace di distinguere queste cose, non desidererà secondo natura, non proverà avversione, non agirà, non si proporrà nulla, non darà assenso, non lo negherà, non sospenderà il giudizio; in breve, andrà in giro sordo e cieco, credendo di essere qualcuno, mentre non è nessuno.»</div></article>
+<article class="section" id="s-20"><a class="ref" href="#s-20">20</a><div class="section-text">«È forse soltanto ora che le cose stanno così? Non è forse da quando esiste il genere umano che tutti gli errori e tutte le sventure sono nati da questa ignoranza?»</div></article>
+<article class="section" id="s-21"><a class="ref" href="#s-21">21</a><div class="section-text">«Perché Agamennone e Achille erano in contrasto fra loro? Non perché ignoravano quali cose giovino e quali nuocciano? L’uno non dice che conviene restituire Criseide a suo padre, e l’altro che non conviene? L’uno non dice che deve prendere il premio dell’altro, e l’altro che non deve? Non fu per questo che dimenticarono chi erano e per quale scopo erano venuti?»</div></article>
+<article class="section" id="s-22"><a class="ref" href="#s-22">22</a><div class="section-text">«Lascia stare, uomo: per che cosa sei venuto? Per procurarti delle amanti o per combattere?» «Per combattere.» «Contro chi? Contro i Troiani o contro i Greci?» «Contro i Troiani.» «E allora, lasciato Ettore, sguaini la spada contro il tuo stesso re?»</div></article>
+<article class="section" id="s-23"><a class="ref" href="#s-23">23</a><div class="section-text">«E tu, eccellentissimo, trascurando i compiti del re, “a cui sono affidati i popoli e tante cose stanno a cuore”, fai a pugni per una ragazzetta con il più valoroso dei tuoi alleati, che dovresti in ogni modo curare e proteggere? E diventi peggiore di un accorto sommo sacerdote, che si prende ogni cura dei buoni gladiatori? Vedi che cosa produce l’ignoranza di ciò che giova?»</div></article>
+<article class="section" id="s-24"><a class="ref" href="#s-24">24</a><div class="section-text">«Ma anch’io sono ricco.» Forse più ricco di Agamennone? «Ma sono anche bello.» Forse più bello di Achille? «E ho anche una bella capigliatura.» Achille non l’aveva forse più bella e bionda? E non la pettinava e acconciava con eleganza?</div></article>
+<article class="section" id="s-25"><a class="ref" href="#s-25">25</a><div class="section-text">«Ma sono anche forte.» Puoi forse sollevare una pietra grande quanto quella che sollevavano Ettore o Aiace? «Ma sono anche di nobile nascita.» Forse hai una madre dea, o un padre nipote di Zeus? A che cosa servono dunque tutte queste cose ad Achille, quando se ne sta seduto a piangere per la ragazzetta? «Ma sono un oratore.»</div></article>
+<article class="section" id="s-26"><a class="ref" href="#s-26">26</a><div class="section-text">«E lui non lo era? Non vedi come trattò Odisseo e Fenice, i più abili fra i Greci nei discorsi, e come li lasciò senza parole?»</div></article>
+<article class="section" id="s-27"><a class="ref" href="#s-27">27</a><div class="section-text">«Queste sole cose ho da dirti, e neppure queste con molto entusiasmo.» «Perché?» «Perché non mi hai stimolato.»</div></article>
+<article class="section" id="s-28"><a class="ref" href="#s-28">28</a><div class="section-text">«A che cosa dovrei guardare per sentirmi stimolato, come gli intenditori di cavalli davanti a cavalli di buona razza? Al tuo corpicino? Lo hai modellato male. Al vestito? Anche quello è molle e ricercato. Al portamento, allo sguardo?»</div></article>
+<article class="section" id="s-29"><a class="ref" href="#s-29">29</a><div class="section-text">«A nulla. Quando vuoi ascoltare un filosofo, non dirgli: “Non mi dici nulla”; mostrati soltanto capace di ascoltare, e vedrai come saprai mettere in moto chi parla.»</div></article>
+</div>
+
+<nav class="chapter-nav chapter-nav-bottom"><a href="2-23.html">Diatriba precedente</a><a class="chapter-home" href="../index.html">Home</a><a href="2-25.html">Diatriba successiva</a></nav>

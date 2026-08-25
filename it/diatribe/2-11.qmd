@@ -1,0 +1,56 @@
+---
+title: "Diatriba II.11 — Qual è l’inizio della filosofia"
+lang: it
+pagetitle: "Diatriba II.11 — Qual è l’inizio della filosofia — Epitteto, Diatribe"
+title-prefix: ""
+description-meta: "Diatriba II.11: «Qual è l’inizio della filosofia». Le Diatribe di Epitteto raccolte da Arriano, in traduzione italiana."
+sidebar: it
+---
+
+<!--
+FILE GENERATO. NON MODIFICARE A MANO.
+
+Modificare invece:
+- translation/it/**.md      per il testo e i titoli italiani
+- data/intro.json           per le note introduttive delle home page
+- tools/site_config.py      per lingue, testi dell'interfaccia, URL
+- styles.css                per l'aspetto grafico
+
+Poi eseguire:
+    run.bat
+-->
+
+
+<div class="diatribe-meta">Libro II · 25 sezioni · <span class="canonical" title="Riferimento canonico">II 11</span></div>
+
+<nav class="chapter-nav"><a href="2-10.html">Diatriba precedente</a><a class="chapter-home" href="../index.html">Home</a><a href="2-12.html">Diatriba successiva</a></nav>
+
+<div class="section-list">
+<article class="section" id="s-1"><a class="ref" href="#s-1">1</a><div class="section-text">L’inizio della filosofia, almeno per chi vi si accosta come si deve, entrando dalla porta, è la consapevolezza della propria debolezza e incapacità riguardo alle cose necessarie.</div></article>
+<article class="section" id="s-2"><a class="ref" href="#s-2">2</a><div class="section-text">Infatti non veniamo al mondo avendo per natura alcuna nozione di un triangolo rettangolo, di una diesis o di un semitono; ciascuna di queste cose la impariamo attraverso un insegnamento tecnico, e per questo chi non le conosce non crede nemmeno di conoscerle.</div></article>
+<article class="section" id="s-3"><a class="ref" href="#s-3">3</a><div class="section-text">Ma quanto al bene e al male, al bello e al brutto, a ciò che conviene e non conviene, alla felicità, a ciò che è appropriato e doveroso, e a che cosa si debba o non si debba fare, chi è venuto al mondo senza possederne una nozione innata?</div></article>
+<article class="section" id="s-4"><a class="ref" href="#s-4">4</a><div class="section-text">Per questo tutti usiamo questi termini e cerchiamo di applicare le prenozioni ai casi particolari.</div></article>
+<article class="section" id="s-5"><a class="ref" href="#s-5">5</a><div class="section-text">«Ha agito bene», «come si deve», «non come si deve»; «è stato sfortunato», «è stato fortunato»; «è ingiusto», «è giusto». Chi di noi risparmia questi termini? Chi di noi ne rimanda l’uso finché non abbia imparato, come fanno quelli che non sanno quando si tratta di linee o di suoni?</div></article>
+<article class="section" id="s-6"><a class="ref" href="#s-6">6</a><div class="section-text">La ragione è che veniamo al mondo già, per natura, come istruiti su alcune cose in questo campo; e, prendendo le mosse da esse, vi abbiamo aggiunto anche la presunzione.</div></article>
+<article class="section" id="s-7"><a class="ref" href="#s-7">7</a><div class="section-text">— Perché, dice uno, non so forse che cosa è bello e che cosa è brutto? Non ne ho una nozione? — Ce l’hai. — Non la applico ai casi particolari? — La applichi. — Dunque non la applico bene?</div></article>
+<article class="section" id="s-8"><a class="ref" href="#s-8">8</a><div class="section-text">— Qui sta tutta la questione, ed è qui che si aggiunge la presunzione. Infatti, partendo da queste cose su cui c’è accordo, gli uomini procedono verso ciò che è controverso per via di un’applicazione inadeguata.</div></article>
+<article class="section" id="s-9"><a class="ref" href="#s-9">9</a><div class="section-text">Perché, se oltre a quelle cose possedessero anche questa capacità, che cosa impedirebbe loro di essere perfetti?</div></article>
+<article class="section" id="s-10"><a class="ref" href="#s-10">10</a><div class="section-text">Ora però, poiché ti sembra di applicare correttamente le prenozioni ai casi particolari, dimmi: da dove ricavi questo? — Dal fatto che così mi sembra. — Ma a un altro non sembra così, e anch’egli crede di applicarle bene, non è vero?</div></article>
+<article class="section" id="s-11"><a class="ref" href="#s-11">11</a><div class="section-text">— Lo crede. — Potete dunque, su questioni in cui sostenete opinioni contrarie, applicare entrambi correttamente le prenozioni?</div></article>
+<article class="section" id="s-12"><a class="ref" href="#s-12">12</a><div class="section-text">— Non possiamo. — Hai dunque qualcosa da mostrarci, per applicarle meglio, che sia superiore al tuo «mi sembra»? Il pazzo fa forse altro che ciò che gli sembra bene? Dunque basta anche a lui questo criterio? — Non basta. — Passa allora a qualcosa di superiore al «mi sembra». Che cos’è?</div></article>
+<article class="section" id="s-13"><a class="ref" href="#s-13">13</a><div class="section-text">Ecco l’inizio della filosofia: percepire il conflitto tra gli uomini, ricercarne la causa, condannare e diffidare del semplice «mi sembra», esaminare se questo «mi sembra» sia corretto, e trovare un qualche criterio, come per i pesi abbiamo trovato la bilancia e per il diritto e lo storto la riga.</div></article>
+<article class="section" id="s-14"><a class="ref" href="#s-14">14</a><div class="section-text">— Questo è l’inizio della filosofia? È corretto tutto ciò che sembra a tutti? — E come potrebbero essere corrette cose in conflitto tra loro? — Dunque non tutto, ma ciò che sembra a noi.</div></article>
+<article class="section" id="s-15"><a class="ref" href="#s-15">15</a><div class="section-text">Perché ciò che sembra a noi dovrebbe valere più di ciò che sembra ai Siri? Più di ciò che sembra agli Egizi? Più di ciò che sembra a me o a un altro qualsiasi? — Per nulla. — Dunque ciò che sembra a ciascuno non basta a stabilire ciò che è; infatti nemmeno per pesi o misure ci accontentiamo della semplice impressione, ma per ciascuna cosa abbiamo trovato un criterio.</div></article>
+<article class="section" id="s-16"><a class="ref" href="#s-16">16</a><div class="section-text">Dunque qui non esiste alcun criterio superiore al «mi sembra»? E come sarebbe possibile che le cose più necessarie agli uomini fossero prive di indizi e impossibili da scoprire? — Un criterio c’è, dunque.</div></article>
+<article class="section" id="s-17"><a class="ref" href="#s-17">17</a><div class="section-text">— E perché allora non lo cerchiamo, non lo troviamo e, una volta trovato, non lo usiamo poi senza mai trasgredirlo, senza muovere neppure un dito senza di esso?</div></article>
+<article class="section" id="s-18"><a class="ref" href="#s-18">18</a><div class="section-text">È questo infatti, credo, che, una volta trovato, libera dalla follia quelli che usano come misura di tutto il solo «mi sembra», affinché d’ora in poi, partendo da cose note e chiaramente distinte, ci serviamo nei casi particolari di prenozioni ben definite.</div></article>
+<article class="section" id="s-19"><a class="ref" href="#s-19">19</a><div class="section-text">Qual è l’oggetto che ci sta davanti e sul quale indaghiamo? — Il piacere.</div></article>
+<article class="section" id="s-20"><a class="ref" href="#s-20">20</a><div class="section-text">— Portalo al criterio, mettilo sulla bilancia. Il bene deve essere qualcosa in cui valga la pena avere fiducia e confidare? — Deve esserlo. — È dunque giusto avere fiducia in qualcosa di instabile?</div></article>
+<article class="section" id="s-21"><a class="ref" href="#s-21">21</a><div class="section-text">— No. — Il piacere è forse qualcosa di stabile? — No. — Allora prendilo, toglilo dalla bilancia e scaccialo ben lontano dal territorio dei beni.</div></article>
+<article class="section" id="s-22"><a class="ref" href="#s-22">22</a><div class="section-text">Ma se non hai la vista abbastanza acuta e una sola bilancia non ti basta, portane un’altra. È giusto esaltarsi per il bene? — Sì. — È dunque giusto esaltarsi per un piacere presente? Bada a non dire di sì; altrimenti non ti riterrò più degno nemmeno della bilancia.</div></article>
+<article class="section" id="s-23"><a class="ref" href="#s-23">23</a><div class="section-text">Così si giudicano e si pesano le cose, quando i criteri sono pronti;</div></article>
+<article class="section" id="s-24"><a class="ref" href="#s-24">24</a><div class="section-text">e filosofare è questo: esaminare e rendere saldi i criteri;</div></article>
+<article class="section" id="s-25"><a class="ref" href="#s-25">25</a><div class="section-text">servirsi poi di quelli riconosciuti, questo è compito dell’uomo virtuoso.</div></article>
+</div>
+
+<nav class="chapter-nav chapter-nav-bottom"><a href="2-10.html">Diatriba precedente</a><a class="chapter-home" href="../index.html">Home</a><a href="2-12.html">Diatriba successiva</a></nav>

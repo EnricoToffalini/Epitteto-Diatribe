@@ -1,0 +1,166 @@
+---
+lang: it
+pagetitle: "Epitteto, Diatribe — traduzione italiana"
+title-prefix: ""
+description-meta: "Le Diatribe di Epitteto raccolte da Arriano, in traduzione italiana, con il testo greco originale e la traduzione inglese di George Long."
+sidebar: it
+format:
+  html:
+    include-in-header: seo-head.html
+---
+
+<!--
+FILE GENERATO. NON MODIFICARE A MANO.
+
+Modificare invece:
+- translation/it/**.md      per il testo e i titoli italiani
+- data/intro.json           per le note introduttive delle home page
+- tools/site_config.py      per lingue, testi dell'interfaccia, URL
+- styles.css                per l'aspetto grafico
+
+Poi eseguire:
+    run.bat
+-->
+
+
+<div class="cover-hero">
+<a class="cover-download" href="../epitteto-diatribe-it.pdf" aria-label="Scarica il libro in PDF">
+<div class="cover-plate" role="img" aria-label="Epitteto — Diatribe">
+<p class="cover-author">Epitteto</p>
+<h1 class="cover-title">Diatribe</h1>
+<p class="cover-subtitle">raccolte da Arriano</p>
+</div>
+</a>
+</div>
+
+<div class="site-note">
+<p>Questa traduzione italiana è stata realizzata da GPT-5.6 Sol, con l&#x27;ausilio di Claude Opus 5.0. È stata condotta sul testo greco dell&#x27;edizione di Heinrich Schenkl, con il confronto della versione inglese di George Long nei passi che richiedevano un riscontro. Il criterio seguito è stato quello di offrire un testo leggibile e imparziale, restando il più possibile vicino alla lettera e all&#x27;andamento argomentativo dell&#x27;originale.</p>
+<p>Le <i>Diatribe</i> sono le lezioni che Epitteto, schiavo liberato e maestro stoico, teneva a Nicopoli. Il suo allievo Arriano le ha messe per iscritto. Ne restano quattro libri sugli otto antichi. Il tema è sempre lo stesso, ripreso da ogni lato: che cosa dipende da noi e che cosa no, e cosa sia la libertà. Dipendono da noi il giudizio, l&#x27;impulso, il desiderio e l&#x27;avversione; non dipendono da noi il corpo, i beni, la reputazione e le cariche. Su questa distinzione Epitteto costruisce un&#x27;idea esigente, ma squisitamente umana, di libertà.</p>
+</div>
+
+<div class="site-usage">Le tre edizioni — italiana, inglese e greca — hanno le stesse pagine: le bandiere in alto passano da una all’altra restando sulla stessa diatriba.</div>
+
+<div class="site-download">
+<a href="../epitteto-diatribe-it.pdf" aria-label="Scarica il libro in PDF (italiano)">
+<svg class="pdf-icon" viewBox="0 0 24 28" aria-hidden="true" focusable="false">
+<path d="M4.5 1.5h10l5 5v20h-15z"/><path d="M14.5 1.5v5h5"/>
+<text x="12" y="20.2" text-anchor="middle">PDF</text>
+</svg>
+<span>Scarica il libro in PDF (italiano)</span>
+</a>
+</div>
+
+<h2 id="book-1">Libro I</h2>
+
+<div class="chapter-grid">
+<a class="chapter-card" href="diatribe/1-01.html"><span class="chapter-number">Diatriba 1</span><span class="chapter-title">Su ciò che dipende da noi e ciò che non dipende da noi</span><span class="chapter-count">32 sezioni</span></a>
+<a class="chapter-card" href="diatribe/1-02.html"><span class="chapter-number">Diatriba 2</span><span class="chapter-title">Come mantenere in ogni circostanza ciò che si addice al proprio ruolo</span><span class="chapter-count">37 sezioni</span></a>
+<a class="chapter-card" href="diatribe/1-03.html"><span class="chapter-number">Diatriba 3</span><span class="chapter-title">Come procedere dal principio che Dio è padre degli uomini alle conseguenze</span><span class="chapter-count">9 sezioni</span></a>
+<a class="chapter-card" href="diatribe/1-04.html"><span class="chapter-number">Diatriba 4</span><span class="chapter-title">Sul progresso</span><span class="chapter-count">32 sezioni</span></a>
+<a class="chapter-card" href="diatribe/1-05.html"><span class="chapter-number">Diatriba 5</span><span class="chapter-title">Contro gli Accademici</span><span class="chapter-count">10 sezioni</span></a>
+<a class="chapter-card" href="diatribe/1-06.html"><span class="chapter-number">Diatriba 6</span><span class="chapter-title">Sulla Provvidenza</span><span class="chapter-count">43 sezioni</span></a>
+<a class="chapter-card" href="diatribe/1-07.html"><span class="chapter-number">Diatriba 7</span><span class="chapter-title">Sull’uso degli argomenti mutevoli, ipotetici e simili</span><span class="chapter-count">32 sezioni</span></a>
+<a class="chapter-card" href="diatribe/1-08.html"><span class="chapter-number">Diatriba 8</span><span class="chapter-title">Che le capacità non sono sicure per chi è privo di educazione</span><span class="chapter-count">16 sezioni</span></a>
+<a class="chapter-card" href="diatribe/1-09.html"><span class="chapter-number">Diatriba 9</span><span class="chapter-title">Come procedere dalla nostra parentela con Dio alle conseguenze</span><span class="chapter-count">34 sezioni</span></a>
+<a class="chapter-card" href="diatribe/1-10.html"><span class="chapter-number">Diatriba 10</span><span class="chapter-title">Contro quelli che si affannano per gli avanzamenti a Roma</span><span class="chapter-count">13 sezioni</span></a>
+<a class="chapter-card" href="diatribe/1-11.html"><span class="chapter-number">Diatriba 11</span><span class="chapter-title">Sull&#x27;affetto familiare</span><span class="chapter-count">40 sezioni</span></a>
+<a class="chapter-card" href="diatribe/1-12.html"><span class="chapter-number">Diatriba 12</span><span class="chapter-title">Sull&#x27;accettare di buon grado</span><span class="chapter-count">35 sezioni</span></a>
+<a class="chapter-card" href="diatribe/1-13.html"><span class="chapter-number">Diatriba 13</span><span class="chapter-title">Come fare ogni cosa in modo gradito agli dèi</span><span class="chapter-count">5 sezioni</span></a>
+<a class="chapter-card" href="diatribe/1-14.html"><span class="chapter-number">Diatriba 14</span><span class="chapter-title">Che la divinità veglia su tutti</span><span class="chapter-count">17 sezioni</span></a>
+<a class="chapter-card" href="diatribe/1-15.html"><span class="chapter-number">Diatriba 15</span><span class="chapter-title">Che cosa promette la filosofia</span><span class="chapter-count">8 sezioni</span></a>
+<a class="chapter-card" href="diatribe/1-16.html"><span class="chapter-number">Diatriba 16</span><span class="chapter-title">Sulla Provvidenza</span><span class="chapter-count">21 sezioni</span></a>
+<a class="chapter-card" href="diatribe/1-17.html"><span class="chapter-number">Diatriba 17</span><span class="chapter-title">Che la logica è necessaria</span><span class="chapter-count">29 sezioni</span></a>
+<a class="chapter-card" href="diatribe/1-18.html"><span class="chapter-number">Diatriba 18</span><span class="chapter-title">Che non bisogna adirarsi con chi sbaglia</span><span class="chapter-count">23 sezioni</span></a>
+<a class="chapter-card" href="diatribe/1-19.html"><span class="chapter-number">Diatriba 19</span><span class="chapter-title">Come bisogna comportarsi verso i tiranni</span><span class="chapter-count">29 sezioni</span></a>
+<a class="chapter-card" href="diatribe/1-20.html"><span class="chapter-number">Diatriba 20</span><span class="chapter-title">Sulla ragione e su come contempla se stessa</span><span class="chapter-count">19 sezioni</span></a>
+<a class="chapter-card" href="diatribe/1-21.html"><span class="chapter-number">Diatriba 21</span><span class="chapter-title">Contro quelli che vogliono essere ammirati</span><span class="chapter-count">4 sezioni</span></a>
+<a class="chapter-card" href="diatribe/1-22.html"><span class="chapter-number">Diatriba 22</span><span class="chapter-title">Sulle preconcezioni</span><span class="chapter-count">21 sezioni</span></a>
+<a class="chapter-card" href="diatribe/1-23.html"><span class="chapter-number">Diatriba 23</span><span class="chapter-title">Contro Epicuro</span><span class="chapter-count">10 sezioni</span></a>
+<a class="chapter-card" href="diatribe/1-24.html"><span class="chapter-number">Diatriba 24</span><span class="chapter-title">Come bisogna lottare contro le circostanze</span><span class="chapter-count">20 sezioni</span></a>
+<a class="chapter-card" href="diatribe/1-25.html"><span class="chapter-number">Diatriba 25</span><span class="chapter-title">Sullo stesso argomento</span><span class="chapter-count">33 sezioni</span></a>
+<a class="chapter-card" href="diatribe/1-26.html"><span class="chapter-number">Diatriba 26</span><span class="chapter-title">Qual è la legge della vita</span><span class="chapter-count">18 sezioni</span></a>
+<a class="chapter-card" href="diatribe/1-27.html"><span class="chapter-number">Diatriba 27</span><span class="chapter-title">In quanti modi si presentano le rappresentazioni e quali aiuti bisogna preparare contro di esse</span><span class="chapter-count">21 sezioni</span></a>
+<a class="chapter-card" href="diatribe/1-28.html"><span class="chapter-number">Diatriba 28</span><span class="chapter-title">Che non bisogna adirarsi con gli uomini e quali sono le cose piccole e grandi fra gli uomini</span><span class="chapter-count">33 sezioni</span></a>
+<a class="chapter-card" href="diatribe/1-29.html"><span class="chapter-number">Diatriba 29</span><span class="chapter-title">Sulla fermezza</span><span class="chapter-count">66 sezioni</span></a>
+<a class="chapter-card" href="diatribe/1-30.html"><span class="chapter-number">Diatriba 30</span><span class="chapter-title">Che cosa bisogna avere pronto nelle circostanze difficili</span><span class="chapter-count">7 sezioni</span></a>
+</div>
+
+<h2 id="book-2">Libro II</h2>
+
+<div class="chapter-grid">
+<a class="chapter-card" href="diatribe/2-01.html"><span class="chapter-number">Diatriba 1</span><span class="chapter-title">Che la fiducia non è incompatibile con la cautela</span><span class="chapter-count">40 sezioni</span></a>
+<a class="chapter-card" href="diatribe/2-02.html"><span class="chapter-number">Diatriba 2</span><span class="chapter-title">Sulla tranquillità</span><span class="chapter-count">26 sezioni</span></a>
+<a class="chapter-card" href="diatribe/2-03.html"><span class="chapter-number">Diatriba 3</span><span class="chapter-title">A quelli che raccomandano qualcuno ai filosofi</span><span class="chapter-count">5 sezioni</span></a>
+<a class="chapter-card" href="diatribe/2-04.html"><span class="chapter-number">Diatriba 4</span><span class="chapter-title">Contro uno che una volta era stato sorpreso in adulterio</span><span class="chapter-count">11 sezioni</span></a>
+<a class="chapter-card" href="diatribe/2-05.html"><span class="chapter-number">Diatriba 5</span><span class="chapter-title">Come possono coesistere magnanimità e cura</span><span class="chapter-count">29 sezioni</span></a>
+<a class="chapter-card" href="diatribe/2-06.html"><span class="chapter-number">Diatriba 6</span><span class="chapter-title">Sull’indifferenza</span><span class="chapter-count">27 sezioni</span></a>
+<a class="chapter-card" href="diatribe/2-07.html"><span class="chapter-number">Diatriba 7</span><span class="chapter-title">Come si deve ricorrere alla divinazione</span><span class="chapter-count">14 sezioni</span></a>
+<a class="chapter-card" href="diatribe/2-08.html"><span class="chapter-number">Diatriba 8</span><span class="chapter-title">Qual è l’essenza del bene</span><span class="chapter-count">29 sezioni</span></a>
+<a class="chapter-card" href="diatribe/2-09.html"><span class="chapter-number">Diatriba 9</span><span class="chapter-title">Che, non riuscendo ad adempiere ciò che comporta essere uomo, assumiamo il ruolo del filosofo</span><span class="chapter-count">22 sezioni</span></a>
+<a class="chapter-card" href="diatribe/2-10.html"><span class="chapter-number">Diatriba 10</span><span class="chapter-title">Come si possono ricavare i doveri dai nomi</span><span class="chapter-count">30 sezioni</span></a>
+<a class="chapter-card" href="diatribe/2-11.html"><span class="chapter-number">Diatriba 11</span><span class="chapter-title">Qual è l’inizio della filosofia</span><span class="chapter-count">25 sezioni</span></a>
+<a class="chapter-card" href="diatribe/2-12.html"><span class="chapter-number">Diatriba 12</span><span class="chapter-title">Sul discutere</span><span class="chapter-count">25 sezioni</span></a>
+<a class="chapter-card" href="diatribe/2-13.html"><span class="chapter-number">Diatriba 13</span><span class="chapter-title">Sull’ansia</span><span class="chapter-count">26 sezioni</span></a>
+<a class="chapter-card" href="diatribe/2-14.html"><span class="chapter-number">Diatriba 14</span><span class="chapter-title">A Nasone</span><span class="chapter-count">29 sezioni</span></a>
+<a class="chapter-card" href="diatribe/2-15.html"><span class="chapter-number">Diatriba 15</span><span class="chapter-title">Contro quelli che persistono ostinatamente nelle proprie decisioni</span><span class="chapter-count">20 sezioni</span></a>
+<a class="chapter-card" href="diatribe/2-16.html"><span class="chapter-number">Diatriba 16</span><span class="chapter-title">Che non ci esercitiamo a usare i giudizi sul bene e sul male</span><span class="chapter-count">47 sezioni</span></a>
+<a class="chapter-card" href="diatribe/2-17.html"><span class="chapter-number">Diatriba 17</span><span class="chapter-title">Come applicare le preconcezioni ai casi particolari</span><span class="chapter-count">40 sezioni</span></a>
+<a class="chapter-card" href="diatribe/2-18.html"><span class="chapter-number">Diatriba 18</span><span class="chapter-title">Come lottare contro le rappresentazioni</span><span class="chapter-count">32 sezioni</span></a>
+<a class="chapter-card" href="diatribe/2-19.html"><span class="chapter-number">Diatriba 19</span><span class="chapter-title">Contro coloro che accolgono le dottrine dei filosofi soltanto a parole</span><span class="chapter-count">34 sezioni</span></a>
+<a class="chapter-card" href="diatribe/2-20.html"><span class="chapter-number">Diatriba 20</span><span class="chapter-title">Contro gli Epicurei e gli Accademici</span><span class="chapter-count">37 sezioni</span></a>
+<a class="chapter-card" href="diatribe/2-21.html"><span class="chapter-number">Diatriba 21</span><span class="chapter-title">Sull’incoerenza</span><span class="chapter-count">22 sezioni</span></a>
+<a class="chapter-card" href="diatribe/2-22.html"><span class="chapter-number">Diatriba 22</span><span class="chapter-title">Sull’amicizia</span><span class="chapter-count">37 sezioni</span></a>
+<a class="chapter-card" href="diatribe/2-23.html"><span class="chapter-number">Diatriba 23</span><span class="chapter-title">Sulla capacità di parlare</span><span class="chapter-count">47 sezioni</span></a>
+<a class="chapter-card" href="diatribe/2-24.html"><span class="chapter-number">Diatriba 24</span><span class="chapter-title">A uno di quelli che egli non riteneva degni</span><span class="chapter-count">29 sezioni</span></a>
+<a class="chapter-card" href="diatribe/2-25.html"><span class="chapter-number">Diatriba 25</span><span class="chapter-title">Perché la logica è necessaria</span><span class="chapter-count">3 sezioni</span></a>
+<a class="chapter-card" href="diatribe/2-26.html"><span class="chapter-number">Diatriba 26</span><span class="chapter-title">Che cosa è proprio dell’errore</span><span class="chapter-count">7 sezioni</span></a>
+</div>
+
+<h2 id="book-3">Libro III</h2>
+
+<div class="chapter-grid">
+<a class="chapter-card" href="diatribe/3-01.html"><span class="chapter-number">Diatriba 1</span><span class="chapter-title">Sull’ornamento personale</span><span class="chapter-count">45 sezioni</span></a>
+<a class="chapter-card" href="diatribe/3-02.html"><span class="chapter-number">Diatriba 2</span><span class="chapter-title">In che cosa deve esercitarsi chi vuole progredire e che trascuriamo le cose più importanti</span><span class="chapter-count">18 sezioni</span></a>
+<a class="chapter-card" href="diatribe/3-03.html"><span class="chapter-number">Diatriba 3</span><span class="chapter-title">Qual è la materia dell&#x27;uomo buono e in che cosa bisogna soprattutto esercitarsi</span><span class="chapter-count">22 sezioni</span></a>
+<a class="chapter-card" href="diatribe/3-04.html"><span class="chapter-number">Diatriba 4</span><span class="chapter-title">A uno che parteggiò in modo sconveniente a teatro</span><span class="chapter-count">12 sezioni</span></a>
+<a class="chapter-card" href="diatribe/3-05.html"><span class="chapter-number">Diatriba 5</span><span class="chapter-title">A quelli che tornano a casa a causa della malattia</span><span class="chapter-count">19 sezioni</span></a>
+<a class="chapter-card" href="diatribe/3-06.html"><span class="chapter-number">Diatriba 6</span><span class="chapter-title">Alcune osservazioni sparse</span><span class="chapter-count">10 sezioni</span></a>
+<a class="chapter-card" href="diatribe/3-07.html"><span class="chapter-number">Diatriba 7</span><span class="chapter-title">A un amministratore delle città libere, che era epicureo</span><span class="chapter-count">36 sezioni</span></a>
+<a class="chapter-card" href="diatribe/3-08.html"><span class="chapter-number">Diatriba 8</span><span class="chapter-title">Come esercitarsi di fronte alle rappresentazioni</span><span class="chapter-count">7 sezioni</span></a>
+<a class="chapter-card" href="diatribe/3-09.html"><span class="chapter-number">Diatriba 9</span><span class="chapter-title">A un retore che saliva a Roma per una causa</span><span class="chapter-count">22 sezioni</span></a>
+<a class="chapter-card" href="diatribe/3-10.html"><span class="chapter-number">Diatriba 10</span><span class="chapter-title">Come bisogna sopportare le malattie</span><span class="chapter-count">20 sezioni</span></a>
+<a class="chapter-card" href="diatribe/3-11.html"><span class="chapter-number">Diatriba 11</span><span class="chapter-title">Alcune osservazioni sparse</span><span class="chapter-count">6 sezioni</span></a>
+<a class="chapter-card" href="diatribe/3-12.html"><span class="chapter-number">Diatriba 12</span><span class="chapter-title">Sull&#x27;esercizio</span><span class="chapter-count">17 sezioni</span></a>
+<a class="chapter-card" href="diatribe/3-13.html"><span class="chapter-number">Diatriba 13</span><span class="chapter-title">Che cos&#x27;è la solitudine e chi è solo</span><span class="chapter-count">23 sezioni</span></a>
+<a class="chapter-card" href="diatribe/3-14.html"><span class="chapter-number">Diatriba 14</span><span class="chapter-title">Alcune osservazioni sparse</span><span class="chapter-count">14 sezioni</span></a>
+<a class="chapter-card" href="diatribe/3-15.html"><span class="chapter-number">Diatriba 15</span><span class="chapter-title">Che bisogna affrontare ogni cosa con circospezione</span><span class="chapter-count">14 sezioni</span></a>
+<a class="chapter-card" href="diatribe/3-16.html"><span class="chapter-number">Diatriba 16</span><span class="chapter-title">Che bisogna entrare con cautela nella familiarità con gli altri</span><span class="chapter-count">16 sezioni</span></a>
+<a class="chapter-card" href="diatribe/3-17.html"><span class="chapter-number">Diatriba 17</span><span class="chapter-title">Sulla provvidenza</span><span class="chapter-count">9 sezioni</span></a>
+<a class="chapter-card" href="diatribe/3-18.html"><span class="chapter-number">Diatriba 18</span><span class="chapter-title">Che non bisogna turbarsi per le notizie</span><span class="chapter-count">9 sezioni</span></a>
+<a class="chapter-card" href="diatribe/3-19.html"><span class="chapter-number">Diatriba 19</span><span class="chapter-title">Qual è l&#x27;atteggiamento dell&#x27;uomo comune e del filosofo</span><span class="chapter-count">6 sezioni</span></a>
+<a class="chapter-card" href="diatribe/3-20.html"><span class="chapter-number">Diatriba 20</span><span class="chapter-title">Che si può trarre vantaggio da tutte le cose esterne</span><span class="chapter-count">19 sezioni</span></a>
+<a class="chapter-card" href="diatribe/3-21.html"><span class="chapter-number">Diatriba 21</span><span class="chapter-title">Contro quelli che si accingono troppo facilmente a fare i sofisti</span><span class="chapter-count">24 sezioni</span></a>
+<a class="chapter-card" href="diatribe/3-22.html"><span class="chapter-number">Diatriba 22</span><span class="chapter-title">Sul cinismo</span><span class="chapter-count">109 sezioni</span></a>
+<a class="chapter-card" href="diatribe/3-23.html"><span class="chapter-number">Diatriba 23</span><span class="chapter-title">A quelli che leggono e discutono per ostentazione</span><span class="chapter-count">38 sezioni</span></a>
+<a class="chapter-card" href="diatribe/3-24.html"><span class="chapter-number">Diatriba 24</span><span class="chapter-title">Che non bisogna attaccarsi alle cose che non dipendono da noi</span><span class="chapter-count">118 sezioni</span></a>
+<a class="chapter-card" href="diatribe/3-25.html"><span class="chapter-number">Diatriba 25</span><span class="chapter-title">A quelli che abbandonano i propri propositi</span><span class="chapter-count">10 sezioni</span></a>
+<a class="chapter-card" href="diatribe/3-26.html"><span class="chapter-number">Diatriba 26</span><span class="chapter-title">A quelli che temono di restare senza il necessario</span><span class="chapter-count">39 sezioni</span></a>
+</div>
+
+<h2 id="book-4">Libro IV</h2>
+
+<div class="chapter-grid">
+<a class="chapter-card" href="diatribe/4-01.html"><span class="chapter-number">Diatriba 1</span><span class="chapter-title">Sulla libertà</span><span class="chapter-count">177 sezioni</span></a>
+<a class="chapter-card" href="diatribe/4-02.html"><span class="chapter-number">Diatriba 2</span><span class="chapter-title">Sulla frequentazione</span><span class="chapter-count">10 sezioni</span></a>
+<a class="chapter-card" href="diatribe/4-03.html"><span class="chapter-number">Diatriba 3</span><span class="chapter-title">Quali cose bisogna scambiare con quali altre</span><span class="chapter-count">12 sezioni</span></a>
+<a class="chapter-card" href="diatribe/4-04.html"><span class="chapter-number">Diatriba 4</span><span class="chapter-title">A quelli che desiderano vivere in tranquillità</span><span class="chapter-count">48 sezioni</span></a>
+<a class="chapter-card" href="diatribe/4-05.html"><span class="chapter-number">Diatriba 5</span><span class="chapter-title">Contro i litigiosi e feroci</span><span class="chapter-count">37 sezioni</span></a>
+<a class="chapter-card" href="diatribe/4-06.html"><span class="chapter-number">Diatriba 6</span><span class="chapter-title">A quelli che si affliggono perché vengono compatiti</span><span class="chapter-count">38 sezioni</span></a>
+<a class="chapter-card" href="diatribe/4-07.html"><span class="chapter-number">Diatriba 7</span><span class="chapter-title">Sulla libertà dalla paura</span><span class="chapter-count">41 sezioni</span></a>
+<a class="chapter-card" href="diatribe/4-08.html"><span class="chapter-number">Diatriba 8</span><span class="chapter-title">Contro quelli che si affrettano ad assumere l&#x27;aspetto dei filosofi</span><span class="chapter-count">43 sezioni</span></a>
+<a class="chapter-card" href="diatribe/4-09.html"><span class="chapter-number">Diatriba 9</span><span class="chapter-title">A uno che era passato alla spudoratezza</span><span class="chapter-count">18 sezioni</span></a>
+<a class="chapter-card" href="diatribe/4-10.html"><span class="chapter-number">Diatriba 10</span><span class="chapter-title">Quali cose bisogna disprezzare e a quali dare importanza</span><span class="chapter-count">36 sezioni</span></a>
+<a class="chapter-card" href="diatribe/4-11.html"><span class="chapter-number">Diatriba 11</span><span class="chapter-title">Sulla purezza</span><span class="chapter-count">36 sezioni</span></a>
+<a class="chapter-card" href="diatribe/4-12.html"><span class="chapter-number">Diatriba 12</span><span class="chapter-title">Sull&#x27;attenzione</span><span class="chapter-count">21 sezioni</span></a>
+<a class="chapter-card" href="diatribe/4-13.html"><span class="chapter-number">Diatriba 13</span><span class="chapter-title">A quelli che rivelano facilmente i fatti propri</span><span class="chapter-count">24 sezioni</span></a>
+</div>

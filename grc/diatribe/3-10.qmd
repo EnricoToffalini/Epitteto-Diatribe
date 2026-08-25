@@ -1,0 +1,51 @@
+---
+title: "Διατριβὴ Γʹ.ιʹ — πῶς φέρειν δεῖ τὰς νόσους"
+lang: grc
+pagetitle: "Διατριβὴ Γʹ.ιʹ — πῶς φέρειν δεῖ τὰς νόσους — Ἐπικτήτου Διατριβαί"
+title-prefix: ""
+description-meta: "Διατριβὴ Γʹ.ιʹ· «πῶς φέρειν δεῖ τὰς νόσους». Ἀρριανοῦ τῶν Ἐπικτήτου Διατριβῶν, τὸ ἑλληνικὸν κείμενον."
+sidebar: grc
+---
+
+<!--
+FILE GENERATO. NON MODIFICARE A MANO.
+
+Modificare invece:
+- translation/it/**.md      per il testo e i titoli italiani
+- data/intro.json           per le note introduttive delle home page
+- tools/site_config.py      per lingue, testi dell'interfaccia, URL
+- styles.css                per l'aspetto grafico
+
+Poi eseguire:
+    run.bat
+-->
+
+
+<div class="diatribe-meta">Βιβλίον Γʹ · 20 τμήματα · <span class="canonical" title="Παραπομπή">III 10</span></div>
+
+<nav class="chapter-nav"><a href="3-09.html">ἡ προτέρα διατριβή</a><a class="chapter-home" href="../index.html">Ἀρχή</a><a href="3-11.html">ἡ ἑπομένη διατριβή</a></nav>
+
+<div class="section-list">
+<article class="section" id="s-1"><a class="ref" href="#s-1">1</a><div class="section-text" lang="grc">ἑκάστου δόγματος ὅταν ἡ χρεία παρῇ, πρόχειρον αὐτὸ ἔχειν δεῖ· ἐπʼ ἀρίστῳ τὰ περὶ ἀρίστου, ἐν βαλανείῳ τὰ περὶ βαλανείου, ἐν κοίτῃ τὰ περὶ κοίτης.</div></article>
+<article class="section" id="s-2"><a class="ref" href="#s-2">2</a><div class="section-text" lang="grc"><q>μηδʼ ὕπνον μαλακοῖσιν ἐπʼ ὄμμασι προσδέξασθαι, πρὶν τῶν ἡμερινῶν ἔργων λογίσασθαι ἕκαστα· </q></div></article>
+<article class="section" id="s-3"><a class="ref" href="#s-3">3</a><div class="section-text" lang="grc"><q>πῇ παρέβην; τί δʼ ἔρεξα; τί μοι δέον οὐ τετέλεσται; ἀρξάμενος δʼ ἀπὸ <span class="ed-sic">τοῦδε</span> ἐπέξιθι· καὶ μετέπειτα δειλὰ μὲν <span class="ed-sic">ῥέξας</span> ἐπιπλήσσεο, χρηστὰ δὲ τέρπου.</q></div></article>
+<article class="section" id="s-4"><a class="ref" href="#s-4">4</a><div class="section-text" lang="grc">καὶ τούτους τοὺς στίχους κατέχειν χρηστικῶς, οὐχ ἵνα διʼ αὐτῶν ἀναφωνῶμεν, ὡς διὰ τοῦ Παιὰν Ἄπολλον. πάλιν ἐν πυρετῷ τὰ πρὸς τοῦτο·</div></article>
+<article class="section" id="s-5"><a class="ref" href="#s-5">5</a><div class="section-text" lang="grc">μή, ἂν πυρέξωμεν, ἀφιέναι πάντα καὶ ἐπιλανθάνεσθαι· <q>ἂν ἐγὼ ἔτι φιλοσοφήσω, ὃ θέλει γινέσθω. πού ποτʼ ἀπελθόντα τοῦ σωματίου ἐπιμελεῖσθαι </q></div></article>
+<article class="section" id="s-6"><a class="ref" href="#s-6">6</a><div class="section-text" lang="grc"><span class="ed-sic">εἴ</span> τε καὶ πυρετὸς οὐκ ἔρχεται. τὸ δὲ φιλοσοφῆσαι τί ἐστιν; οὐχὶ παρασκευάσασθαι πρὸς τὰ συμβαίνοντα; οὐ παρακολουθεῖς οὖν, ὅτι τοιοῦτόν τι λέγεις <q>ἂν ἔτι ἐγὼ παρασκευάσωμαι πρὸς τὸ πρᾴως φέρειν τὰ συμβαίνοντα, ὃ θέλει γινέσθω;</q> οἷον εἴ τις πληγὰς λαβὼν ἀποσταίη τοῦ παγκρατιάζειν.</div></article>
+<article class="section" id="s-7"><a class="ref" href="#s-7">7</a><div class="section-text" lang="grc">ἀλλʼ ἐκεῖ μὲν ἔξεστι καταλῦσαι καὶ μὴ δέρεσθαι, ἐνθάδε δʼ ἂν καταλύσωμεν φιλοσοφοῦντες, τί ὄφελος; τί οὖν δεῖ λέγειν αὐτὸν ἐφʼ ἑκάστου τῶν τραχέων; ὅτι <q>ἕνεκα τούτου ἐγυμναζόμην, ἐπὶ τοῦτο ἤσκουν.</q></div></article>
+<article class="section" id="s-8"><a class="ref" href="#s-8">8</a><div class="section-text" lang="grc">ὁ θεός σοι λέγει <q>δός μοι ἀπόδειξιν, εἰ νομίμως ἤθλησας, εἰ ἔφαγες ὅσα δεῖ, εἰ ἐγυμνάσθης, εἰ τοῦ ἀλείπτου ἤκουσας·</q> εἶτʼ ἐπʼ αὐτοῦ τοῦ ἔργου καταμαλακίζῃ; νῦν τοῦ πυρέττειν καιρός ἐστιν, τοῦτο καλῶς γινέσθω· τοῦ διψᾶν, δίψα καλῶς· τοῦ πεινᾶν, πείνα καλῶς.</div></article>
+<article class="section" id="s-9"><a class="ref" href="#s-9">9</a><div class="section-text" lang="grc">οὐκ <span class="ed-del">[ἐξ]</span>ἔστιν ἐπὶ σοί; τίς σε κωλύσει; ἀλλὰ πιεῖν μὲν κωλύσει ὁ ἰατρός, καλῶς δὲ διψᾶν οὐ δύναται· καὶ φαγεῖν μὲν κωλύσει, πεινᾶν δὲ καλῶς οὐ δύναται.</div></article>
+<article class="section" id="s-10"><a class="ref" href="#s-10">10</a><div class="section-text" lang="grc">ἀλλʼ οὐ φιλολογῶ;— τίνος δʼ ἕνεκα φιλολογεῖς; ἀνδράποδον, οὐχ ἵνα εὐροῇς; οὐχ ἵνα εὐσταθῇς; οὐχ ἵνα κατὰ φύσιν ἔχῃς καὶ διεξάγῃς;</div></article>
+<article class="section" id="s-11"><a class="ref" href="#s-11">11</a><div class="section-text" lang="grc">τί κωλύει πυρέσσοντα κατὰ φύσιν ἔχειν τὸ ἡγεμονικόν; ἐνθάδʼ ὁ ἔλεγχος τοῦ πράγματος, ἡ δοκιμασία τοῦ φιλοσοφοῦντος. μέρος γάρ ἐστι καὶ τοῦτο τοῦ βίου, ὡς περίπατος, ὡς πλοῦς, ὡς ὁδοιπορία, οὕτως καὶ πυρετός.</div></article>
+<article class="section" id="s-12"><a class="ref" href="#s-12">12</a><div class="section-text" lang="grc">μή τι περιπατῶν ἀναγιγνώσκεις; — οὔ. — οὕτως οὐδὲ πυρέσσων. ἀλλʼ ἂν καλῶς περιπατῇς, ἔχεις τὸ τοῦ περιπατοῦντος· ἂν καλῶς πυρέξῃς, ἔχεις τὰ τοῦ πυρέσσοντος.</div></article>
+<article class="section" id="s-13"><a class="ref" href="#s-13">13</a><div class="section-text" lang="grc">τί ἐστι καλῶς πυρέσσειν; μὴ θεὸν μέμψασθαι, μὴ ἄνθρωπον, μὴ θλιβῆναι ὑπὸ τῶν γινομένων, εὖ καὶ καλῶς προσδέχεσθαι τὸν θάνατον, ποιεῖν τὰ προστασσόμενα· ὅταν ὁ ἰατρὸς εἰσέρχηται, μὴ φοβεῖσθαι, τί εἴπῃ, μηδʼ ἂν εἴπῃ <q>κομψῶς ἔχεις,</q> ὑπερχαίρειν· τί γάρ σοι ἀγαθὸν εἶπεν; ὅτε γὰρ ὑγίαινες, τί σοι ἦν ἀγαθόν;</div></article>
+<article class="section" id="s-14"><a class="ref" href="#s-14">14</a><div class="section-text" lang="grc">μηδʼ ἂν εἴπῃ <q>κακῶς ἔχεις,</q> ἀθυμεῖν· τί γάρ ἐστι τὸ κακῶς ἔχειν; ἐγγίζειν τῷ διαλυθῆναι τὴν ψυχὴν ἀπὸ τοῦ σώματος. τί οὖν δεινόν ἐστιν; ἐὰν νῦν μὴ ἐγγίσῃς, ὕστερον οὐκ ἐγγιεῖς; ἀλλὰ ὁ κόσμος μέλλει ἀνατρέπεσθαι σοῦ ἀποθανόντος;</div></article>
+<article class="section" id="s-15"><a class="ref" href="#s-15">15</a><div class="section-text" lang="grc">τί οὖν κολακεύεις τὸν ἰατρόν; τί λέγεις <q>ἐὰν σὺ θέλῃς, κύριε, καλῶς ἕξω;</q> τί παρέχεις αὐτῷ ἀφορμὴν τοῦ ἐπᾶραι ὀφρῦν; οὐχὶ δὲ τὴν αὑτοῦ ἀξίαν αὐτῷ ἀποδίδως, ὡς σκυτεῖ περὶ τὸν πόδα, ὡς τέκτονι περὶ τὴν οἰκίαν, οὕτως καὶ τῷ ἰατρῷ περὶ τὸ σωμάτιον, τὸ οὐκ ἐμόν, τὸ φύσει νεκρόν; τούτων ὁ καιρός ἐστι τῷ πυρέσσοντι· ἂν ταῦτα ἐκπληρώσῃ, ἔχει τὰ αὑτοῦ.</div></article>
+<article class="section" id="s-16"><a class="ref" href="#s-16">16</a><div class="section-text" lang="grc">οὐ γάρ ἐστιν ἔργον τοῦ φιλοσόφου ταῦτα <span class="ed-add">&lang;τὰ&rang;</span> ἐκτὸς τηρεῖν, οὔτε <span class="ed-add">&lang;τὸ&rang;</span> οἰνάριον οὔτε τὸ ἐλάδιον οὔτε τὸ σωμάτιον, ἀλλὰ τί; τὸ ἴδιον ἡγεμονικόν. τὰ δʼ ἔξω πῶς; μέχρι τοῦ μὴ ἀλογίστως κατὰ ταῦτα ἀναστρέφεσθαι.</div></article>
+<article class="section" id="s-17"><a class="ref" href="#s-17">17</a><div class="section-text" lang="grc">ποῦ οὖν ἔτι καιρὸς τοῦ φοβεῖσθαι; ποῦ οὖν ἔτι καιρὸς ὀργῆς; ποῦ φόβου περὶ τῶν ἀλλοτρίων, περὶ τῶν μηδενὸς ἀξίων;</div></article>
+<article class="section" id="s-18"><a class="ref" href="#s-18">18</a><div class="section-text" lang="grc">δύο γὰρ ταῦτα πρόχειρα ἔχειν δεῖ· ὅτι ἔξω τῆς προαιρέσεως οὐδέν ἐστιν οὔτε ἀγαθὸν οὔτε κακὸν καὶ ὅτι οὐ δεῖ προηγεῖσθαι τῶν πραγμάτων, ἀλλʼ ἐπακολουθεῖν.</div></article>
+<article class="section" id="s-19"><a class="ref" href="#s-19">19</a><div class="section-text" lang="grc"><q>οὐκ ἔδει οὕτως μοι προσενεχθῆναι τὸν ἀδελφόν.</q> οὔ· ἀλλὰ τοῦτο μὲν ἐκεῖνος ὄψεται. ἐγὼ δʼ, ὡς ἂν προσενεχθῇ, αὐτὸς ὡς δεῖ χρήσομαι τοῖς πρὸς ἐκεῖνον.</div></article>
+<article class="section" id="s-20"><a class="ref" href="#s-20">20</a><div class="section-text" lang="grc">τοῦτο γὰρ ἐμόν ἐστιν, ἐκεῖνο δʼ ἀλλότριον· τοῦτο οὐδεὶς κωλῦσαι δύναται, ἐκεῖνο κωλύεται.</div></article>
+</div>
+
+<nav class="chapter-nav chapter-nav-bottom"><a href="3-09.html">ἡ προτέρα διατριβή</a><a class="chapter-home" href="../index.html">Ἀρχή</a><a href="3-11.html">ἡ ἑπομένη διατριβή</a></nav>

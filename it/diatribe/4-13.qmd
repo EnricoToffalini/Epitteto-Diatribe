@@ -1,0 +1,55 @@
+---
+title: "Diatriba IV.13 — A quelli che rivelano facilmente i fatti propri"
+lang: it
+pagetitle: "Diatriba IV.13 — A quelli che rivelano facilmente i fatti propri — Epitteto, Diatribe"
+title-prefix: ""
+description-meta: "Diatriba IV.13: «A quelli che rivelano facilmente i fatti propri». Le Diatribe di Epitteto raccolte da Arriano, in traduzione italiana."
+sidebar: it
+---
+
+<!--
+FILE GENERATO. NON MODIFICARE A MANO.
+
+Modificare invece:
+- translation/it/**.md      per il testo e i titoli italiani
+- data/intro.json           per le note introduttive delle home page
+- tools/site_config.py      per lingue, testi dell'interfaccia, URL
+- styles.css                per l'aspetto grafico
+
+Poi eseguire:
+    run.bat
+-->
+
+
+<div class="diatribe-meta">Libro IV · 24 sezioni · <span class="canonical" title="Riferimento canonico">IV 13</span></div>
+
+<nav class="chapter-nav"><a href="4-12.html">Diatriba precedente</a><a class="chapter-home" href="../index.html">Home</a><span></span></nav>
+
+<div class="section-list">
+<article class="section" id="s-1"><a class="ref" href="#s-1">1</a><div class="section-text">Quando qualcuno ci sembra aver parlato con franchezza dei propri affari, come mai finiamo anche noi per essere trascinati a rivelargli i nostri segreti e crediamo che questo sia essere franchi?</div></article>
+<article class="section" id="s-2"><a class="ref" href="#s-2">2</a><div class="section-text">Anzitutto perché ci sembra ingiusto che lui abbia ascoltato le cose del prossimo e noi, a nostra volta, non gli comunichiamo nulla delle nostre; poi perché pensiamo che, tacendo i fatti nostri, gli daremo l’impressione di non essere persone franche.</div></article>
+<article class="section" id="s-3"><a class="ref" href="#s-3">3</a><div class="section-text">Spesso infatti sono soliti dire: «Io ti ho raccontato tutto di me, e tu non vuoi dirmi nulla di te? Dove si è mai visto?»</div></article>
+<article class="section" id="s-4"><a class="ref" href="#s-4">4</a><div class="section-text">A questo si aggiunge il pensiero di poterci fidare senza pericolo di chi ci ha già affidato le proprie cose: ci si insinua infatti l’idea che costui non rivelerebbe mai le nostre, per timore che anche noi riveliamo le sue.</div></article>
+<article class="section" id="s-5"><a class="ref" href="#s-5">5</a><div class="section-text">È così che a Roma gli sconsiderati vengono presi dai soldati. Un soldato in abiti civili si siede accanto a te e comincia a parlare male di Cesare; allora tu, come se avessi ricevuto in pegno la sua lealtà dal fatto che è stato lui a cominciare a insultarlo, dici a tua volta ciò che pensi, e poi vieni condotto via in catene.</div></article>
+<article class="section" id="s-6"><a class="ref" href="#s-6">6</a><div class="section-text">Qualcosa del genere ci accade anche in generale. Il fatto che quello abbia affidato senza pericolo a me le proprie cose non significa che anch’io debba affidare le mie al primo che capita.</div></article>
+<article class="section" id="s-7"><a class="ref" href="#s-7">7</a><div class="section-text">Io, dopo aver ascoltato, taccio, se sono fatto così; quello invece esce e racconta tutto a tutti. Poi, quando vengo a sapere ciò che è accaduto, se sono anch’io simile a lui, volendo vendicarmi rivelo le sue cose e così infango lui e mi infango anch’io.</div></article>
+<article class="section" id="s-8"><a class="ref" href="#s-8">8</a><div class="section-text">Se invece ricordo che un uomo non danneggia un altro, ma che sono le proprie azioni a danneggiare e a giovare a ciascuno, riesco almeno a non fare qualcosa di simile a ciò che ha fatto lui; tuttavia, per la mia stessa loquacità, ho subito ciò che ho subito.</div></article>
+<article class="section" id="s-9"><a class="ref" href="#s-9">9</a><div class="section-text">«Sì, ma è ingiusto che uno, dopo aver ascoltato i segreti del prossimo, non gli comunichi a sua volta nulla.»</div></article>
+<article class="section" id="s-10"><a class="ref" href="#s-10">10</a><div class="section-text">— Ti avevo forse pregato di raccontarmeli, uomo? Hai forse rivelato le tue cose sulla base di un accordo, perché in cambio dovessi ascoltare anche le mie?</div></article>
+<article class="section" id="s-11"><a class="ref" href="#s-11">11</a><div class="section-text">Se tu sei un chiacchierone e credi che tutti quelli che incontri siano amici, vuoi che anch’io diventi simile a te? E se tu hai fatto bene ad affidarmi le tue cose, ma non è bene affidare a te le mie, vuoi che anch’io mi ci butti?</div></article>
+<article class="section" id="s-12"><a class="ref" href="#s-12">12</a><div class="section-text">È come se io avessi una botte ben chiusa e tu una bucata, e venissi ad affidarmi il tuo vino perché lo mettessi nella mia botte, per poi irritarti perché anch’io non affido a te il mio vino: la tua botte infatti è bucata.</div></article>
+<article class="section" id="s-13"><a class="ref" href="#s-13">13</a><div class="section-text">Come può dunque esservi uguaglianza? Tu hai affidato le tue cose a un uomo leale, rispettoso di sé, che ritiene che soltanto le proprie azioni possano danneggiarlo o giovargli e nessuna cosa esterna.</div></article>
+<article class="section" id="s-14"><a class="ref" href="#s-14">14</a><div class="section-text">E vuoi che io affidi le mie a te, uomo che ha disonorato la propria scelta morale e vuole ottenere qualche soldo, una carica o un avanzamento a corte, anche se per questo stessi per sgozzare i tuoi figli, come Medea?</div></article>
+<article class="section" id="s-15"><a class="ref" href="#s-15">15</a><div class="section-text">Dove sarebbe l’uguaglianza? Mostrami invece che sei leale, rispettoso di te, saldo; mostrami che possiedi giudizi improntati all’amicizia; mostrami che il tuo recipiente non è bucato, e vedrai che non aspetterò che tu mi affidi le tue cose, ma verrò io stesso a pregarti di ascoltare le mie.</div></article>
+<article class="section" id="s-16"><a class="ref" href="#s-16">16</a><div class="section-text">Chi infatti non vuole servirsi di un buon recipiente? Chi non apprezza un consigliere benevolo e leale? Chi non accoglierebbe volentieri qualcuno disposto a prendere su di sé, come un carico, una parte delle sue difficoltà e ad alleggerirlo proprio condividendole?</div></article>
+<article class="section" id="s-17"><a class="ref" href="#s-17">17</a><div class="section-text">«Sì, ma io mi fido di te, tu non ti fidi di me.» — Anzitutto, neppure tu ti fidi di me: sei un chiacchierone e per questo non riesci a trattenere nulla. Se davvero fosse fiducia, affida le tue cose soltanto a me.</div></article>
+<article class="section" id="s-18"><a class="ref" href="#s-18">18</a><div class="section-text">Ora invece, appena vedi qualcuno che ha tempo, ti siedi accanto a lui e dici: «Fratello, non ho nessuno più benevolo né più caro di te; ti prego, ascolta le mie cose». E fai così anche con persone che non conosci neppure un poco.</div></article>
+<article class="section" id="s-19"><a class="ref" href="#s-19">19</a><div class="section-text">Se poi ti fidi davvero di me, è chiaro che lo fai perché mi ritieni leale e rispettoso di me stesso, non perché io ti abbia rivelato le mie cose.</div></article>
+<article class="section" id="s-20"><a class="ref" href="#s-20">20</a><div class="section-text">Lascia dunque che anch’io pensi lo stesso di te. Mostrami che, se uno confida i fatti propri a qualcuno, per questo è leale e rispettoso di sé. Se fosse così, andrei in giro a raccontare le mie cose a tutti gli uomini, se questo bastasse a rendermi leale e rispettoso di me stesso. Ma non è così: occorrono giudizi di un certo genere, non i primi che capitano.</div></article>
+<article class="section" id="s-21"><a class="ref" href="#s-21">21</a><div class="section-text">Se dunque vedi qualcuno impegnato nelle cose che non dipendono dalla scelta morale e che ha assoggettato a esse la propria scelta morale, sappi che quest’uomo ha diecimila persone capaci di costringerlo e impedirlo.</div></article>
+<article class="section" id="s-22"><a class="ref" href="#s-22">22</a><div class="section-text">Non ha bisogno di pece o della ruota per rivelare ciò che sa: basta, se capita, un cenno di una ragazzina a smuoverlo, la benevolenza di un uomo di Cesare, il desiderio di una carica o di un’eredità e altre trentamila cose simili.</div></article>
+<article class="section" id="s-23"><a class="ref" href="#s-23">23</a><div class="section-text">Bisogna dunque ricordare, fra i principi generali, che i discorsi riservati richiedono lealtà e giudizi di questo genere. Ma dove è facile trovarli oggi?</div></article>
+<article class="section" id="s-24"><a class="ref" href="#s-24">24</a><div class="section-text">Oppure qualcuno mi mostri un uomo disposto in modo da poter dire: «Mi curo soltanto delle cose mie, di quelle che non possono essere impedite e sono libere per natura. In questo pongo l’essenza del bene; quanto al resto, accada come viene dato: non mi importa».</div></article>
+</div>
+
+<nav class="chapter-nav chapter-nav-bottom"><a href="4-12.html">Diatriba precedente</a><a class="chapter-home" href="../index.html">Home</a><span></span></nav>

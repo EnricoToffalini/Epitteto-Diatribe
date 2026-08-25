@@ -1,0 +1,60 @@
+---
+title: "Διατριβὴ Αʹ.ιζʹ — ὅτι ἀναγκαῖα τὰ λογικά"
+lang: grc
+pagetitle: "Διατριβὴ Αʹ.ιζʹ — ὅτι ἀναγκαῖα τὰ λογικά — Ἐπικτήτου Διατριβαί"
+title-prefix: ""
+description-meta: "Διατριβὴ Αʹ.ιζʹ· «ὅτι ἀναγκαῖα τὰ λογικά». Ἀρριανοῦ τῶν Ἐπικτήτου Διατριβῶν, τὸ ἑλληνικὸν κείμενον."
+sidebar: grc
+---
+
+<!--
+FILE GENERATO. NON MODIFICARE A MANO.
+
+Modificare invece:
+- translation/it/**.md      per il testo e i titoli italiani
+- data/intro.json           per le note introduttive delle home page
+- tools/site_config.py      per lingue, testi dell'interfaccia, URL
+- styles.css                per l'aspetto grafico
+
+Poi eseguire:
+    run.bat
+-->
+
+
+<div class="diatribe-meta">Βιβλίον Αʹ · 29 τμήματα · <span class="canonical" title="Παραπομπή">I 17</span></div>
+
+<nav class="chapter-nav"><a href="1-16.html">ἡ προτέρα διατριβή</a><a class="chapter-home" href="../index.html">Ἀρχή</a><a href="1-18.html">ἡ ἑπομένη διατριβή</a></nav>
+
+<div class="section-list">
+<article class="section" id="s-1"><a class="ref" href="#s-1">1</a><div class="section-text" lang="grc">ἐπειδὴ λόγος ἐστὶν ὁ διαρθρῶν καὶ ἐξεργαζόμενος τὰ λοιπά, ἔδει δʼ αὐτὸν μὴ ἀδιάρθρωτον εἶναι, ὑπὸ τίνος διαρθρωθῇ;</div></article>
+<article class="section" id="s-2"><a class="ref" href="#s-2">2</a><div class="section-text" lang="grc">δῆλον γὰρ ὅτι ἢ ὑφʼ αὑτοῦ ἢ ὑπʼ ἄλλου. ἤ τοι λόγος ἐστὶν ἐκεῖνος ἢ ἄλλο τι κρεῖσσον ἔσται τοῦ λόγου, ὅπερ ἀδύνατον.</div></article>
+<article class="section" id="s-3"><a class="ref" href="#s-3">3</a><div class="section-text" lang="grc">εἰ λόγος, ἐκεῖνον πάλιν τίς διαρθρώσει; εἰ γὰρ αὐτὸς ἑαυτόν, δύναται καὶ οὗτος. εἰ ἄλλου δεησόμεθα, ἄπειρον ἔσται τοῦτο καὶ ἀκατάληκτον.</div></article>
+<article class="section" id="s-4"><a class="ref" href="#s-4">4</a><div class="section-text" lang="grc"><q><span class="ed-del">[εἰ]</span>ναί, ἀλλʼ ἐπείγει μᾶλλον θεραπεύειν</q> καὶ τὰ ὅμοια. θέλεις οὖν περὶ ἐκείνων ἀκούειν; ἄκουε.</div></article>
+<article class="section" id="s-5"><a class="ref" href="#s-5">5</a><div class="section-text" lang="grc">ἀλλʼ ἄν μοι λέγῃς ὅτι <q>οὐκ οἶδα πότερον ἀληθῶς ἢ ψευδῶς διαλέγῃ,</q> κἄν τι κατʼ ἀμφίβολον φωνὴν εἴπω καὶ λέγῃς μοι <q>διάστιξον,</q> οὐκ ἔτι ἀνέξομαί σου, ἀλλʼ ἐρῶ σοι·</div></article>
+<article class="section" id="s-6"><a class="ref" href="#s-6">6</a><div class="section-text" lang="grc"><q>ἀλλʼ ἐπείγει μᾶλλον.</q> διὰ τοῦτο γὰρ οἶμαι προ<span class="ed-del">[σ]</span>τάσσουσιν τὰ λογικά, καθάπερ τῆς μετρήσεως τοῦ σίτου προτάσσομεν τὴν τοῦ μέτρου ἐπίσκεψιν.</div></article>
+<article class="section" id="s-7"><a class="ref" href="#s-7">7</a><div class="section-text" lang="grc">ἂν δὲ μὴ διαλάβωμεν πρῶτον τί ἐστι μόδιος μηδὲ διαλάβωμεν πρῶτον τί ἐστι ζυγός, πῶς ἔτι μετρῆσαί τι ἢ στῆσαι δυνησόμεθα;</div></article>
+<article class="section" id="s-8"><a class="ref" href="#s-8">8</a><div class="section-text" lang="grc">ἐνταῦθα οὖν τὸ τῶν ἄλλων κριτήριον καὶ διʼ οὗ τἆλλα καταμανθάνεται μὴ καταμεμαθηκότες μηδʼ ἠκριβωκότες δυνησόμεθά τι τῶν ἄλλων ἀκριβῶσαι καὶ καταμαθεῖν;</div></article>
+<article class="section" id="s-9"><a class="ref" href="#s-9">9</a><div class="section-text" lang="grc">καὶ πῶς οἷόν τε; <q>ναί· ἀλλʼ ὁ μόδιος ξύλον ἐστὶ καὶ ἄκαρπον.</q></div></article>
+<article class="section" id="s-10"><a class="ref" href="#s-10">10</a><div class="section-text" lang="grc">ἀλλὰ μετρητικὸν σίτου. <q>καὶ τὰ λογικὰ ἄκαρπά ἐστι.</q> καὶ περὶ τούτου μὲν ὀψόμεθα. εἰ δʼ οὖν καὶ τοῦτο δοίη τις, ἐκεῖνο ἀπαρκεῖ ὅτι τῶν ἄλλων ἐστὶ διακριτικὰ καὶ ἐπισκεπτικὰ καὶ ὡς ἄν τις εἴποι μετρητικὰ καὶ στατικά.</div></article>
+<article class="section" id="s-11"><a class="ref" href="#s-11">11</a><div class="section-text" lang="grc">τίς λέγει ταῦτα; μόνος Χρύσιππος καὶ Ζήνων καὶ Κλεάνθης;</div></article>
+<article class="section" id="s-12"><a class="ref" href="#s-12">12</a><div class="section-text" lang="grc">Ἀντισθένης δʼ οὐ λέγει; καὶ τίς ἐστιν ὁ γεγραφὼς ὅτι <q>ἀρχὴ παιδεύσεως ἡ τῶν ὀνομάτων ἐπίσκεψις;</q> Σωκράτης δʼ οὐ λέγει; καὶ περὶ τίνος γράφει Ξενοφῶν, ὅτι ἤρχετο ἀπὸ τῆς τῶν ὀνομάτων ἐπισκέψεως, τί σημαίνει ἕκαστον;</div></article>
+<article class="section" id="s-13"><a class="ref" href="#s-13">13</a><div class="section-text" lang="grc">ἆρʼ οὖν τοῦτό ἐστι τὸ μέγα καὶ τὸ θαυμαστὸν νοῆσαι Χρύσιππον ἢ ἐξηγήσασθαι; καὶ τίς λέγει τοῦτο; τί οὖν τὸ θαυμαστόν ἐστιν;</div></article>
+<article class="section" id="s-14"><a class="ref" href="#s-14">14</a><div class="section-text" lang="grc">νοῆσαι τὸ βούλημα τῆς φύσεως. τί οὖν; αὐτὸς διὰ σεαυτοῦ παρακολουθεῖς; καὶ τίνος ἔτι χρείαν ἔχεις; εἰ γὰρ ἀληθές ἐστι τὸ πάντας ἄκοντας ἁμαρτάνειν, σὺ δὲ καταμεμάθηκας τὴν ἀλήθειαν, ἀνάγκη σε ἤδη κατορθοῦν.</div></article>
+<article class="section" id="s-15"><a class="ref" href="#s-15">15</a><div class="section-text" lang="grc">ἀλλὰ νὴ Δία οὐ παρακολουθῶ τῷ βουλήματι τῆς φύσεως. τίς οὖν ἐξηγεῖται αὐτό; λέγουσιν ὅτι Χρύσιππος.</div></article>
+<article class="section" id="s-16"><a class="ref" href="#s-16">16</a><div class="section-text" lang="grc">ἔρχομαι καὶ ἐπιζητῶ τί λέγει οὗτος ὁ ἐξηγητὴς τῆς φύσεως. ἄρχομαι μὴ νοεῖν τί λέγει, ζητῶ τὸν ἐξηγούμενον. <q>ἴδε ἐπίσκεψαι, πῶς τοῦτο λέγεται, καθάπερ εἰ Ῥωμαϊστί.</q></div></article>
+<article class="section" id="s-17"><a class="ref" href="#s-17">17</a><div class="section-text" lang="grc">ποία οὖν ἐνθάδʼ ὀφρὺς τοῦ ἐξηγουμένου; οὐδʼ αὐτοῦ Χρυσίππου δικαίως, εἰ μόνον ἐξηγεῖται τὸ βούλημα τῆς φύσεως, αὐτὸς δʼ οὐκ ἀκολουθεῖ· πόσῳ πλέον τοῦ ἐκεῖνον ἐξηγουμένου;</div></article>
+<article class="section" id="s-18"><a class="ref" href="#s-18">18</a><div class="section-text" lang="grc">οὐδὲ γὰρ Χρυσίππου χρείαν ἔχομεν διʼ αὐτόν, ἀλλʼ ἵνα παρακολουθήσωμεν τῇ φύσει. οὐδὲ γὰρ τοῦ θύτου διʼ αὐτόν, ἀλλʼ ὅτι διʼ ἐκείνου κατανοήσειν οἰόμεθα τὰ μέλλοντα καὶ σημαινόμενα ὑπὸ τῶν θεῶν, οὐδὲ τῶν σπλάγχνων διʼ αὐτά,</div></article>
+<article class="section" id="s-19"><a class="ref" href="#s-19">19</a><div class="section-text" lang="grc">ἀλλʼ ὅτι διʼ ἐκείνων σημαίνεται, οὐδὲ τὸν κόρακα θαυμάζομεν ἢ τὴν κορώνην, ἀλλὰ τὸν θεὸν σημαίνοντα διὰ τούτων.</div></article>
+<article class="section" id="s-20"><a class="ref" href="#s-20">20</a><div class="section-text" lang="grc">ἔρχομαι τοίνυν ἐπὶ τὸν ἐξηγητὴν τοῦτον καὶ θύτην καὶ λέγω ὅτι <q>ἐπίσκεψαί μοι τὰ σπλάγχνα, τί μοι σημαίνεται.</q></div></article>
+<article class="section" id="s-21"><a class="ref" href="#s-21">21</a><div class="section-text" lang="grc">λαβὼν καὶ ἀναπτύξας ἐκεῖνος ἐξηγεῖται ὅτι <q>ἄνθρωπε, προαίρεσιν ἔχεις ἀκώλυτον φύσει καὶ ἀνανάγκαστον. τοῦτο ἐνταῦθα ἐν τοῖς σπλάγχνοις γέγραπται. </q></div></article>
+<article class="section" id="s-22"><a class="ref" href="#s-22">22</a><div class="section-text" lang="grc"><q>δείξω σοι αὐτὸ πρῶτον ἐπὶ τοῦ συγκαταθετικοῦ τόπου. μή τίς σε κωλῦσαι δύναται ἐπινεῦσαι ἀληθεῖ; οὐδὲ εἷς. μή τίς σε ἀναγκάσαι δύναται παραδέξασθαι τὸ ψεῦδος; </q></div></article>
+<article class="section" id="s-23"><a class="ref" href="#s-23">23</a><div class="section-text" lang="grc"><q>οὐδὲ εἷς. ὁρᾷς ὅτι ἐν τούτῳ τῷ τόπῳ τὸ προαιρετικὸν ἔχεις ἀκώλυτον ἀνανάγκαστον ἀπαραπόδιστον; </q></div></article>
+<article class="section" id="s-24"><a class="ref" href="#s-24">24</a><div class="section-text" lang="grc"><q> ἄγε ἐπὶ δὲ τοῦ ὀρεκτικοῦ καὶ ὁρμητικοῦ ἄλλως ἔχει; καὶ τίς ὁρμὴν νικῆσαι δύναται ἢ ἄλλη ὁρμή; τίς δʼ ὄρεξιν καὶ ἔκκλισιν ἢ ἄλλη ὄρεξις καὶ ἔκκλισις;</q></div></article>
+<article class="section" id="s-25"><a class="ref" href="#s-25">25</a><div class="section-text" lang="grc"><q> ἄν μοι,</q> φησί, <q>προσάγῃ θανάτου φόβον, ἀναγκάζει με.</q> <q>οὐ τὸ προσαγόμενον, ἀλλʼ ὅτι δοκεῖ σοι κρεῖττον εἶναι ποιῆσαί τι τούτων ἢ ἀποθανεῖν. </q></div></article>
+<article class="section" id="s-26"><a class="ref" href="#s-26">26</a><div class="section-text" lang="grc"><q>πάλιν οὖν τὸ σὸν δόγμα σε ἠνάγκασεν, τοῦτʼ ἔστι προαίρεσιν προαίρεσις. </q></div></article>
+<article class="section" id="s-27"><a class="ref" href="#s-27">27</a><div class="section-text" lang="grc"><q>εἰ γὰρ τὸ ἴδιον μέρος, ὃ ἡμῖν ἔδωκεν ἀποσπάσας ὁ θεός, ὑπʼ αὐτοῦ ἢ ὑπʼ ἄλλου τινὸς κωλυτὸν ἢ ἀναγκαστὸν κατεσκευάκει, οὐκέτι ἂν ἦν θεὸς οὐδʼ ἐπεμελεῖτο ἡμῶν ὃν δεῖ τρόπον.</q></div></article>
+<article class="section" id="s-28"><a class="ref" href="#s-28">28</a><div class="section-text" lang="grc"><q> ταῦτα εὑρίσκω,</q> φησίν, <q>ἐν τοῖς ἱεροῖς. ταῦτά σοι σημαίνεται. ἐὰν θέλῃς, ἐλεύθερος εἶ· ἐὰν θέλῃς, μέμψῃ οὐδένα, ἐγκαλέσεις οὐδενί, πάντα κατὰ γνώμην ἔσται ἅμα τὴν σὴν καὶ τὴν τοῦ θεοῦ.</q></div></article>
+<article class="section" id="s-29"><a class="ref" href="#s-29">29</a><div class="section-text" lang="grc">διὰ ταύτην τὴν μαντείαν ἔρχομαι ἐπὶ τὸν θύτην τοῦτον καὶ τὸν φιλόσοφον, οὐκ αὐτὸν θαυμάσας ἕνεκά γε τῆς ἐξηγήσεως, ἀλλὰ ἐκεῖνα ἃ ἐξηγεῖται.</div></article>
+</div>
+
+<nav class="chapter-nav chapter-nav-bottom"><a href="1-16.html">ἡ προτέρα διατριβή</a><a class="chapter-home" href="../index.html">Ἀρχή</a><a href="1-18.html">ἡ ἑπομένη διατριβή</a></nav>

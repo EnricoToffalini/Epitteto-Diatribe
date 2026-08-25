@@ -1,0 +1,35 @@
+---
+title: "Διατριβὴ Αʹ.καʹ — πρὸς τοὺς θαυμάζεσθαι θέλοντας"
+lang: grc
+pagetitle: "Διατριβὴ Αʹ.καʹ — πρὸς τοὺς θαυμάζεσθαι θέλοντας — Ἐπικτήτου Διατριβαί"
+title-prefix: ""
+description-meta: "Διατριβὴ Αʹ.καʹ· «πρὸς τοὺς θαυμάζεσθαι θέλοντας». Ἀρριανοῦ τῶν Ἐπικτήτου Διατριβῶν, τὸ ἑλληνικὸν κείμενον."
+sidebar: grc
+---
+
+<!--
+FILE GENERATO. NON MODIFICARE A MANO.
+
+Modificare invece:
+- translation/it/**.md      per il testo e i titoli italiani
+- data/intro.json           per le note introduttive delle home page
+- tools/site_config.py      per lingue, testi dell'interfaccia, URL
+- styles.css                per l'aspetto grafico
+
+Poi eseguire:
+    run.bat
+-->
+
+
+<div class="diatribe-meta">Βιβλίον Αʹ · 4 τμήματα · <span class="canonical" title="Παραπομπή">I 21</span></div>
+
+<nav class="chapter-nav"><a href="1-20.html">ἡ προτέρα διατριβή</a><a class="chapter-home" href="../index.html">Ἀρχή</a><a href="1-22.html">ἡ ἑπομένη διατριβή</a></nav>
+
+<div class="section-list">
+<article class="section" id="s-1"><a class="ref" href="#s-1">1</a><div class="section-text" lang="grc">ὅταν τις ἣν δεῖ στάσιν ἔχῃ ἐν τῷ βίῳ, ἔξω οὐ κέχηνεν.</div></article>
+<article class="section" id="s-2"><a class="ref" href="#s-2">2</a><div class="section-text" lang="grc"><q>ἄνθρωπε, τί θέλεις σοι γενέσθαι; ἐγὼ μὲν ἀρκοῦμαι, ἂν ὀρέγωμαι καὶ ἐκκλίνω κατὰ φύσιν, ἂν ὁρμῇ καὶ ἀφορμῇ χρῶμαι ὡς πέφυκα, ἂν προ<span class="ed-del">[σ]</span>θέσει, ἂν ἐπιβολῇ, ἂν συγκαταθέσει. τί οὖν ἡμῖν ὀβελίσκον καταπιὼν περιπατεῖς; </q></div></article>
+<article class="section" id="s-3"><a class="ref" href="#s-3">3</a><div class="section-text" lang="grc"><q>ἤθελον, ἵνα με καὶ οἱ ἀπαντῶντες θαυμάζωσιν καὶ ἐπακολουθοῦντες ἐπικραυγάζωσιν· ὦ μεγάλου φιλοσόφου.</q></div></article>
+<article class="section" id="s-4"><a class="ref" href="#s-4">4</a><div class="section-text" lang="grc">τίνες εἰσὶν οὗτοι, ὑφʼ ὧν θαυμάζεσθαι θέλεις; οὐχ οὗτοί εἰσι, περὶ ὧν εἴωθας λέγειν ὅτι μαίνονται; τί οὖν; ὑπὸ τῶν μαινομένων θαυμάζεσθαι θέλεις;</div></article>
+</div>
+
+<nav class="chapter-nav chapter-nav-bottom"><a href="1-20.html">ἡ προτέρα διατριβή</a><a class="chapter-home" href="../index.html">Ἀρχή</a><a href="1-22.html">ἡ ἑπομένη διατριβή</a></nav>

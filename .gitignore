@@ -1,0 +1,9 @@
+.quarto/
+/.quarto/
+__pycache__/
+*.pyc
+*.Rproj
+
+# Lasciati indietro da un render PDF non riuscito.
+/pdf_book_it.tex
+/pdf_book_it.log

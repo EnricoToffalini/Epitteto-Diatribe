@@ -1,0 +1,41 @@
+---
+title: "Διατριβὴ Αʹ.κγʹ — πρὸς Ἐπίκουρον"
+lang: grc
+pagetitle: "Διατριβὴ Αʹ.κγʹ — πρὸς Ἐπίκουρον — Ἐπικτήτου Διατριβαί"
+title-prefix: ""
+description-meta: "Διατριβὴ Αʹ.κγʹ· «πρὸς Ἐπίκουρον». Ἀρριανοῦ τῶν Ἐπικτήτου Διατριβῶν, τὸ ἑλληνικὸν κείμενον."
+sidebar: grc
+---
+
+<!--
+FILE GENERATO. NON MODIFICARE A MANO.
+
+Modificare invece:
+- translation/it/**.md      per il testo e i titoli italiani
+- data/intro.json           per le note introduttive delle home page
+- tools/site_config.py      per lingue, testi dell'interfaccia, URL
+- styles.css                per l'aspetto grafico
+
+Poi eseguire:
+    run.bat
+-->
+
+
+<div class="diatribe-meta">Βιβλίον Αʹ · 10 τμήματα · <span class="canonical" title="Παραπομπή">I 23</span></div>
+
+<nav class="chapter-nav"><a href="1-22.html">ἡ προτέρα διατριβή</a><a class="chapter-home" href="../index.html">Ἀρχή</a><a href="1-24.html">ἡ ἑπομένη διατριβή</a></nav>
+
+<div class="section-list">
+<article class="section" id="s-1"><a class="ref" href="#s-1">1</a><div class="section-text" lang="grc">ἐπινοεῖ καὶ Ἐπίκουρος ὅτι φύσει ἐσμὲν κοινωνικοί, ἀλλʼ ἅπαξ ἐν τῷ κελύφει θεὶς τὸ ἀγαθὸν ἡμῶν οὐκέτι δύναται ἄλλο οὐδὲν εἰπεῖν.</div></article>
+<article class="section" id="s-2"><a class="ref" href="#s-2">2</a><div class="section-text" lang="grc">πάλιν γὰρ ἐκείνου λίαν κρατεῖ, ὅτι οὐ δεῖ ἀπεσπασμένον οὐδὲν τῆς τοῦ ἀγαθοῦ οὐσίας οὔτε θαυμάζειν οὔτʼ ἀποδέχεσθαι· καὶ καλῶς αὐτοῦ κρατεῖ.</div></article>
+<article class="section" id="s-3"><a class="ref" href="#s-3">3</a><div class="section-text" lang="grc">πῶς οὖν ὑπονοητικοί ἐσμεν, οἷς μὴ φυσικὴ ἔστι πρὸς τὰ ἔγγονα φιλοστοργία; διὰ τί ἀποσυμβουλεύεις τῷ σοφῷ τεκνοτροφεῖν; τί φοβῇ μὴ διὰ ταῦτα εἰς λύπας ἐμπέσῃ;</div></article>
+<article class="section" id="s-4"><a class="ref" href="#s-4">4</a><div class="section-text" lang="grc">διὰ γὰρ τὸν μῦν τὸν ἔσω τρεφόμενον ἐμπίπτει; τί οὖν αὐτῷ μέλει, ἂν μυίδιον μικρὸν ἔσω κατακλαίῃ αὐτοῦ;</div></article>
+<article class="section" id="s-5"><a class="ref" href="#s-5">5</a><div class="section-text" lang="grc">ἀλλʼ οἶδεν, ὅτι, ἂν ἅπαξ γένηται παιδίον, οὐκέτι ἐφʼ ἡμῖν ἐστι μὴ στέργειν μηδὲ φροντίζειν ἐπʼ αὐτῷ.</div></article>
+<article class="section" id="s-6"><a class="ref" href="#s-6">6</a><div class="section-text" lang="grc">διὰ τοῦτο φησὶν οὐδὲ πολιτεύσεσθαι τὸν νοῦν ἔχοντα· οἶδεν γὰρ τίνα δεῖ ποιεῖν τὸν πολιτευόμενον· ἐπείτοι εἰ ὡς ἐν μυίαις μέλλεις ἀναστρέφεσθαι, τί κωλύει;</div></article>
+<article class="section" id="s-7"><a class="ref" href="#s-7">7</a><div class="section-text" lang="grc">ἀλλʼ ὅμως εἰδὼς ταῦτα τολμᾷ λέγειν ὅτι <q>μὴ ἀναιρώμεθα τέκνα.</q> ἀλλὰ πρόβατον μὲν οὐκ ἀπολείπει τὸ αὑτοῦ ἔγγονον οὐδὲ λύκος, ἄνθρωπος δʼ ἀπολείπει;</div></article>
+<article class="section" id="s-8"><a class="ref" href="#s-8">8</a><div class="section-text" lang="grc">τί θέλεις; μωροὺς ἡμᾶς εἶναι ὡς τὰ πρόβατα; οὐδʼ ἐκεῖνα ἀπολείπει. θηριώδεις ὡς τοὺς λύκους; οὐδʼ ἐκεῖνοι ἀπολείπουσιν.</div></article>
+<article class="section" id="s-9"><a class="ref" href="#s-9">9</a><div class="section-text" lang="grc">ἄγε, τίς δέ σοι πείθεται ἰδὼν παιδίον αὐτοῦ κλαῖον ἐπὶ τὴν γῆν πεπτωκός;</div></article>
+<article class="section" id="s-10"><a class="ref" href="#s-10">10</a><div class="section-text" lang="grc">ἐγὼ μὲν οἶμαι ὅτι εἰ καὶ ἐμαντεύσατο ἡ μήτηρ σου καὶ ὁ πατήρ, ὅτι μέλλεις ταῦτα λέγειν, οὐκ ἄν σε ἔρριψαν.</div></article>
+</div>
+
+<nav class="chapter-nav chapter-nav-bottom"><a href="1-22.html">ἡ προτέρα διατριβή</a><a class="chapter-home" href="../index.html">Ἀρχή</a><a href="1-24.html">ἡ ἑπομένη διατριβή</a></nav>

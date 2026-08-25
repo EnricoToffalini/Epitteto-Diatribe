@@ -1,0 +1,50 @@
+---
+title: "Diatriba III.20 — Che si può trarre vantaggio da tutte le cose esterne"
+lang: it
+pagetitle: "Diatriba III.20 — Che si può trarre vantaggio da tutte le cose esterne — Epitteto, Diatribe"
+title-prefix: ""
+description-meta: "Diatriba III.20: «Che si può trarre vantaggio da tutte le cose esterne». Le Diatribe di Epitteto raccolte da Arriano, in traduzione italiana."
+sidebar: it
+---
+
+<!--
+FILE GENERATO. NON MODIFICARE A MANO.
+
+Modificare invece:
+- translation/it/**.md      per il testo e i titoli italiani
+- data/intro.json           per le note introduttive delle home page
+- tools/site_config.py      per lingue, testi dell'interfaccia, URL
+- styles.css                per l'aspetto grafico
+
+Poi eseguire:
+    run.bat
+-->
+
+
+<div class="diatribe-meta">Libro III · 19 sezioni · <span class="canonical" title="Riferimento canonico">III 20</span></div>
+
+<nav class="chapter-nav"><a href="3-19.html">Diatriba precedente</a><a class="chapter-home" href="../index.html">Home</a><a href="3-21.html">Diatriba successiva</a></nav>
+
+<div class="section-list">
+<article class="section" id="s-1"><a class="ref" href="#s-1">1</a><div class="section-text">Per quanto riguarda le rappresentazioni di carattere teorico, quasi tutti riconoscono che il bene e il male stanno in noi, non nelle cose esterne.</div></article>
+<article class="section" id="s-2"><a class="ref" href="#s-2">2</a><div class="section-text">Nessuno dice che sia un bene che sia giorno, un male che sia notte, e il più grande dei mali che tre siano quattro. Che cosa diciamo, invece?</div></article>
+<article class="section" id="s-3"><a class="ref" href="#s-3">3</a><div class="section-text">Che la conoscenza è un bene e l’errore un male, cosicché perfino riguardo al falso nasce un bene: sapere che è falso.</div></article>
+<article class="section" id="s-4"><a class="ref" href="#s-4">4</a><div class="section-text">Così dovrebbe essere anche nella vita. La salute è un bene e la malattia un male? No, uomo. E allora? Essere sani nel modo giusto è un bene, esserlo nel modo sbagliato un male. — Dunque si può trarre vantaggio anche dalla malattia? — Per dio, non si può forse trarlo anche dalla morte? E dalla menomazione?</div></article>
+<article class="section" id="s-5"><a class="ref" href="#s-5">5</a><div class="section-text">Ti sembra che Meneceo abbia tratto poco vantaggio morendo? — Potrebbe forse chi dice cose simili trarne tanto quanto ne trasse lui? — Suvvia, uomo: non conservò forse il patriota, l’uomo magnanimo, leale, nobile? E se fosse sopravvissuto, non avrebbe perduto tutte queste qualità?</div></article>
+<article class="section" id="s-6"><a class="ref" href="#s-6">6</a><div class="section-text">Non avrebbe acquistato quelle opposte? Non sarebbe diventato vile, ignobile, nemico della patria, attaccato alla vita? Suvvia, ti sembra che morendo abbia tratto poco vantaggio?</div></article>
+<article class="section" id="s-7"><a class="ref" href="#s-7">7</a><div class="section-text">No: fu forse il padre di Admeto a trarre un grande vantaggio dal vivere in modo tanto ignobile e miserabile?</div></article>
+<article class="section" id="s-8"><a class="ref" href="#s-8">8</a><div class="section-text">Non morì forse anche lui più tardi? Smettete, per gli dèi, di ammirare le cose che costituiscono soltanto la materia su cui agire; smettete di rendervi schiavi, prima delle cose e poi, a causa loro, anche degli uomini capaci di procurarvele o di togliervеле.</div></article>
+<article class="section" id="s-9"><a class="ref" href="#s-9">9</a><div class="section-text">Si può dunque trarre vantaggio da queste cose? — Da tutte. — Anche da chi ti insulta? — E quale vantaggio trae l’atleta dal compagno con cui si allena? Grandissimo. Anche costui diventa il mio compagno d’allenamento: esercita la mia capacità di sopportare, di non adirarmi, di essere mite.</div></article>
+<article class="section" id="s-10"><a class="ref" href="#s-10">10</a><div class="section-text">No: chi mi afferra per il collo e mi allena i lombi e le spalle mi giova; l’allenatore fa bene a dirmi: «Solleva un pestello con entrambe le mani», e quanto più è pesante, tanto più ne traggo vantaggio. Ma se uno mi esercita a non adirarmi, non mi giova?</div></article>
+<article class="section" id="s-11"><a class="ref" href="#s-11">11</a><div class="section-text">Questo significa non sapere trarre vantaggio dagli uomini. Un cattivo vicino? Cattivo per sé; per me, invece, buono: esercita la mia equità, la mia mitezza.</div></article>
+<article class="section" id="s-12"><a class="ref" href="#s-12">12</a><div class="section-text">Un cattivo padre? Cattivo per sé; per me, invece, buono. Questa è la verga di Ermes: «Tocca ciò che vuoi», si dice, «e diventerà d’oro». No: porta ciò che vuoi e io lo renderò un bene. Porta malattia, porta morte, porta povertà, porta insulti, porta un processo capitale: grazie alla verga di Ermes, tutto questo diventerà utile.</div></article>
+<article class="section" id="s-13"><a class="ref" href="#s-13">13</a><div class="section-text">Che cosa farai della morte? Che altro, se non far sì che ti dia lustro o mostrare nei fatti, per mezzo suo, che cosa sia un uomo che segue la volontà della natura?</div></article>
+<article class="section" id="s-14"><a class="ref" href="#s-14">14</a><div class="section-text">Che cosa farai della malattia? Ne mostrerò la natura, mi distinguerò in essa, resterò saldo, vivrò serenamente, non adulerò il medico, non pregherò di morire.</div></article>
+<article class="section" id="s-15"><a class="ref" href="#s-15">15</a><div class="section-text">Che altro cerchi? Qualunque cosa tu mi dia, io ne farò qualcosa di felice, propizio, nobile, degno d’emulazione.</div></article>
+<article class="section" id="s-16"><a class="ref" href="#s-16">16</a><div class="section-text">No: «Bada di non ammalarti: è un male». È come se uno dicesse: «Bada di non avere mai la rappresentazione che tre siano quattro: è un male». Uomo, in che modo sarebbe un male? Se la giudico come devo, come potrà ancora danneggiarmi? Non mi gioverà, piuttosto?</div></article>
+<article class="section" id="s-17"><a class="ref" href="#s-17">17</a><div class="section-text">Se dunque giudico come devo la povertà, la malattia, il non avere una carica, non mi basta? Non diventeranno cose utili? Come potrei allora cercare ancora il bene e il male nelle cose esterne?</div></article>
+<article class="section" id="s-18"><a class="ref" href="#s-18">18</a><div class="section-text">Ma che cosa accade? Queste cose valgono finché siamo qui, e nessuno se le porta a casa; appena usciti, subito guerra con il ragazzetto, con i vicini, con chi ci prende in giro, con chi ride di noi.</div></article>
+<article class="section" id="s-19"><a class="ref" href="#s-19">19</a><div class="section-text">Che Lesbio stia bene: ogni giorno mi dimostra che non so nulla.</div></article>
+</div>
+
+<nav class="chapter-nav chapter-nav-bottom"><a href="3-19.html">Diatriba precedente</a><a class="chapter-home" href="../index.html">Home</a><a href="3-21.html">Diatriba successiva</a></nav>

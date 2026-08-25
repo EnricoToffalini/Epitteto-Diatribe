@@ -1,0 +1,49 @@
+---
+title: "Διατριβὴ Αʹ.κϛʹ — τίς ὁ βιωτικὸς νόμος"
+lang: grc
+pagetitle: "Διατριβὴ Αʹ.κϛʹ — τίς ὁ βιωτικὸς νόμος — Ἐπικτήτου Διατριβαί"
+title-prefix: ""
+description-meta: "Διατριβὴ Αʹ.κϛʹ· «τίς ὁ βιωτικὸς νόμος». Ἀρριανοῦ τῶν Ἐπικτήτου Διατριβῶν, τὸ ἑλληνικὸν κείμενον."
+sidebar: grc
+---
+
+<!--
+FILE GENERATO. NON MODIFICARE A MANO.
+
+Modificare invece:
+- translation/it/**.md      per il testo e i titoli italiani
+- data/intro.json           per le note introduttive delle home page
+- tools/site_config.py      per lingue, testi dell'interfaccia, URL
+- styles.css                per l'aspetto grafico
+
+Poi eseguire:
+    run.bat
+-->
+
+
+<div class="diatribe-meta">Βιβλίον Αʹ · 18 τμήματα · <span class="canonical" title="Παραπομπή">I 26</span></div>
+
+<nav class="chapter-nav"><a href="1-25.html">ἡ προτέρα διατριβή</a><a class="chapter-home" href="../index.html">Ἀρχή</a><a href="1-27.html">ἡ ἑπομένη διατριβή</a></nav>
+
+<div class="section-list">
+<article class="section" id="s-1"><a class="ref" href="#s-1">1</a><div class="section-text" lang="grc">ἀναγιγνώσκοντος δὲ τοὺς ὑποθετικοὺς ἔφη Νόμος ὑποθετικός ἐστι καὶ οὗτος τὸ ἀκόλουθον τῇ ὑποθέσει παραδέχεσθαι. πολὺ πρότερον δὲ νόμος βιωτικός ἐστιν οὗτος τὸ ἀκόλουθον τῇ φύσει πράττειν.</div></article>
+<article class="section" id="s-2"><a class="ref" href="#s-2">2</a><div class="section-text" lang="grc">εἰ γὰρ ἐπὶ πάσης ὕλης καὶ περιστάσεως βουλόμεθα τηρῆσαι τὸ κατὰ φύσιν, δῆλον ὅτι ἐν παντὶ στοχαστέον τοῦ μήτε τὸ ἀκόλουθον ἡμᾶς ἐκφυγεῖν μήτε παραδέξασθαι τὸ μαχόμενον.</div></article>
+<article class="section" id="s-3"><a class="ref" href="#s-3">3</a><div class="section-text" lang="grc">πρῶτον οὖν ἐπὶ τῆς θεωρίας γυμνάζουσιν ἡμᾶς οἱ φιλόσοφοι ὅπου ῥᾷον, εἶτα οὕτως ἐπὶ τὰ χαλεπώτερα ἄγουσιν· ἐνταῦθα γὰρ οὐδέν ἐστι τὸ ἀνθέλκον ὡς πρὸς τὸ ἀκολουθῆσαι τοῖς διδασκομένοις, ἐπὶ δὲ τῶν βιωτικῶν πολλὰ τὰ περισπῶντα. γελοῖος οὖν ὁ λέγων πρῶτον βούλεσθαι ἐπʼ ἐκείνων·</div></article>
+<article class="section" id="s-4"><a class="ref" href="#s-4">4</a><div class="section-text" lang="grc">οὐ γὰρ ῥᾴδιον ἄρχεσθαι ἀπὸ τῶν χαλεπωτέρων.</div></article>
+<article class="section" id="s-5"><a class="ref" href="#s-5">5</a><div class="section-text" lang="grc">καὶ τοῦτον ἀπολογισμὸν ἔδει φέρειν πρὸς τοὺς γονεῖς τοὺς ἀγανακτοῦντας ἐπὶ τῷ φιλοσοφεῖν τὰ τέκνα. <q>οὐκοῦν ἁμαρτάνω, πάτερ, καὶ οὐκ οἶδα τὸ ἐπιβάλλον ἐμαυτῷ καὶ προσῆκον· εἰ μὲν οὐδὲ μαθητόν ἐστιν οὐδὲ διδακτόν, τί μοι ἐγκαλεῖς; εἰ δὲ διδακτόν, δίδασκε· εἰ δὲ σὺ μὴ δύνασαι, ἄφες με μαθεῖν παρὰ τῶν λεγόντων εἰδέναι. </q></div></article>
+<article class="section" id="s-6"><a class="ref" href="#s-6">6</a><div class="section-text" lang="grc"><q>ἐπεὶ τί δοκεῖς; ὅτι θέλων περιπίπτω κακῷ καὶ ἀποτυγχάνω τοῦ ἀγαθοῦ; μὴ γένοιτο. τί οὖν ἐστι τὸ αἴτιον τοῦ ἁμαρτάνειν με;</q></div></article>
+<article class="section" id="s-7"><a class="ref" href="#s-7">7</a><div class="section-text" lang="grc"><q> ἡ ἄγνοια. οὐ θέλεις οὖν ἀποθῶμαι τὴν ἄγνοιαν; τίνα πώποτε ὀργὴ<span class="ed-del">[ν]</span> ἐδίδαξε τὰ κυβερνητικά, τὰ μουσικά; τὰ βιωτικὰ οὖν διὰ τὴν ὀργήν σου δοκεῖς ὅτι μαθήσομαι;</q></div></article>
+<article class="section" id="s-8"><a class="ref" href="#s-8">8</a><div class="section-text" lang="grc">ταῦτα ἐκείνῳ μόνῳ λέγειν ἔξεστι τῷ τοιαύτην ἐπιβολὴν ἐνηνοχότι.</div></article>
+<article class="section" id="s-9"><a class="ref" href="#s-9">9</a><div class="section-text" lang="grc">εἰ δέ τις μόνον ἐπιδείκνυσθαι θέλων ἐν συμποσίῳ ὅτι οἶδεν τοὺς ὑποθετικοὺς ἀναγιγνώσκει ταῦτα καὶ προσέρχεται τοῖς φιλοσόφοις, οὗτος ἄλλο τι πράσσει <span class="ed-sic">ἵνα</span> αὐτὸν συγκλητικὸς παρακατακείμενος θαυμάσει;</div></article>
+<article class="section" id="s-10"><a class="ref" href="#s-10">10</a><div class="section-text" lang="grc">ἐκεῖ γὰρ τῷ ὄντι αἱ μεγάλαι ὗλαί εἰσι καὶ οἱ ἐνθάδε πλοῦτοι ἐκεῖ παίγνια δοκοῦσιν. διὰ τοῦτο ἐκεῖ δύσκολον κρατῆσαι τῶν αὑτοῦ φαντασιῶν, ὅπου τὰ ἐκ σείοντα μεγάλα.</div></article>
+<article class="section" id="s-11"><a class="ref" href="#s-11">11</a><div class="section-text" lang="grc">ἐγώ τινα οἶδα κλαίοντα Ἐπαφροδίτου τῶν γονάτων ἁπτόμενον καὶ λέγοντα ταλαιπωρεῖν· ἀπολελεῖφθαι γὰρ αὐτῷ μηδέν, εἰ μὴ ἑκατὸν πεντήκοντα μυριάδας.</div></article>
+<article class="section" id="s-12"><a class="ref" href="#s-12">12</a><div class="section-text" lang="grc">τί οὖν ὁ Ἐπαφρόδιτος; κατεγέλασεν ὡς ὑμεῖς; οὔ· ἀλλʼ ἐπιθαυμάσας λέγει <q>τάλας, πῶς οὖν ἐσιώπας, πῶς ἐκαρτέρεις;</q></div></article>
+<article class="section" id="s-13"><a class="ref" href="#s-13">13</a><div class="section-text" lang="grc">ταράξας δὲ τὸν ἀναγιγνώσκοντα τοὺς ὑποθετικοὺς καὶ γελάσαντος τοῦ ὑποθεμένου αὐτῷ τὴν ἀνάγνωσιν Σεαυτοῦ, ἔφη, καταγελᾷς· οὐ προεγύμνασας τὸν νεανίσκον οὐδʼ ἔγνως εἰ δύναται τούτοις παρακολουθεῖν, ἀλλʼ ὡς ἀναγνώστῃ αὐτῷ χρῇ.</div></article>
+<article class="section" id="s-14"><a class="ref" href="#s-14">14</a><div class="section-text" lang="grc">τί οὖν, ἔφη, μὴ δυναμένῃ διανοίᾳ συμπεπλεγμένου ἐπικρίσει παρακολουθεῖν ἔπαινον πιστεύομεν, ψόγον πιστεύομεν, ἐπίκρισιν περὶ τῶν καλῶς ἢ κακῶς γινομένων; κἄν τινα κακῶς λέγῃ, οὗτος ἐπιστρέφεται, κἂν ἐπαινῇ τινα, ἐπαίρεται; ἐν τοῖς οὕτως μικροῖς μὴ εὑρίσκων τὸ ἑξῆς;</div></article>
+<article class="section" id="s-15"><a class="ref" href="#s-15">15</a><div class="section-text" lang="grc">αὕτη οὖν ἀρχὴ τοῦ φιλοσοφεῖν, αἴσθησις τοῦ ἰδίου ἡγεμονικοῦ πῶς ἔχει· μετὰ γὰρ τὸ γνῶναι ὅτι ἀσθενῶς οὐκ ἔτι θελήσει χρῆσθαι αὐτῷ πρὸς τὰ μεγάλα.</div></article>
+<article class="section" id="s-16"><a class="ref" href="#s-16">16</a><div class="section-text" lang="grc">νῦν δὲ μὴ δυνάμενοί τινες τὸν ψωμὸν καταπίνειν σύνταξιν ἀγοράσαντες ἐπιβάλλονται ἐσθίειν. διὰ τοῦτο ἐμοῦσιν ἢ ἀπεπτοῦσιν· εἶτα στρόφοι καὶ κατάρροιαι καὶ πυρετοί. ἔδει δʼ ἐφιστάνειν, εἰ δύνανται.</div></article>
+<article class="section" id="s-17"><a class="ref" href="#s-17">17</a><div class="section-text" lang="grc">ἀλλʼ ἐν μὲν θεωρίᾳ ῥᾴδιον ἐξελέγξαι τὸν οὐκ εἰδότα, ἐν δὲ τοῖς κατὰ τὸν βίον οὔτε παρέχει ἑαυτόν τις ἐλέγχῳ τόν τʼ ἐξελέγξαντα μισοῦμεν.</div></article>
+<article class="section" id="s-18"><a class="ref" href="#s-18">18</a><div class="section-text" lang="grc">ὁ δὲ Σωκράτης ἔλεγεν ἀνεξέταστον βίον μὴ ζῆν.</div></article>
+</div>
+
+<nav class="chapter-nav chapter-nav-bottom"><a href="1-25.html">ἡ προτέρα διατριβή</a><a class="chapter-home" href="../index.html">Ἀρχή</a><a href="1-27.html">ἡ ἑπομένη διατριβή</a></nav>

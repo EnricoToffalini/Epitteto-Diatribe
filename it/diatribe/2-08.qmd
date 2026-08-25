@@ -1,0 +1,60 @@
+---
+title: "Diatriba II.8 — Qual è l’essenza del bene"
+lang: it
+pagetitle: "Diatriba II.8 — Qual è l’essenza del bene — Epitteto, Diatribe"
+title-prefix: ""
+description-meta: "Diatriba II.8: «Qual è l’essenza del bene». Le Diatribe di Epitteto raccolte da Arriano, in traduzione italiana."
+sidebar: it
+---
+
+<!--
+FILE GENERATO. NON MODIFICARE A MANO.
+
+Modificare invece:
+- translation/it/**.md      per il testo e i titoli italiani
+- data/intro.json           per le note introduttive delle home page
+- tools/site_config.py      per lingue, testi dell'interfaccia, URL
+- styles.css                per l'aspetto grafico
+
+Poi eseguire:
+    run.bat
+-->
+
+
+<div class="diatribe-meta">Libro II · 29 sezioni · <span class="canonical" title="Riferimento canonico">II 8</span></div>
+
+<nav class="chapter-nav"><a href="2-07.html">Diatriba precedente</a><a class="chapter-home" href="../index.html">Home</a><a href="2-09.html">Diatriba successiva</a></nav>
+
+<div class="section-list">
+<article class="section" id="s-1"><a class="ref" href="#s-1">1</a><div class="section-text">Dio è benefico; ma anche il bene è benefico. È dunque naturale che là dove si trova l’essenza di Dio si trovi anche quella del bene.</div></article>
+<article class="section" id="s-2"><a class="ref" href="#s-2">2</a><div class="section-text">Qual è dunque l’essenza di Dio? Carne? No davvero. Un campo? No davvero. Fama? No davvero. Intelletto, conoscenza, retta ragione.</div></article>
+<article class="section" id="s-3"><a class="ref" href="#s-3">3</a><div class="section-text">È dunque qui che devi cercare, in generale, l’essenza del bene. Non la cerchi certo in una pianta, vero? No. E neppure in un essere irrazionale? No. Se dunque la cerchi nell’essere razionale, perché cercarla altrove che nella differenza rispetto agli esseri irrazionali?</div></article>
+<article class="section" id="s-4"><a class="ref" href="#s-4">4</a><div class="section-text">Le piante non sono neppure capaci di usare le rappresentazioni; per questo non parli, nel loro caso, di bene. Il bene richiede dunque l’uso delle rappresentazioni.</div></article>
+<article class="section" id="s-5"><a class="ref" href="#s-5">5</a><div class="section-text">Soltanto questo? Se bastasse questo, di’ pure che anche negli altri animali vi sono il bene, la felicità e l’infelicità.</div></article>
+<article class="section" id="s-6"><a class="ref" href="#s-6">6</a><div class="section-text">Ma non lo dici, e fai bene: infatti, anche se possiedono in massimo grado l’uso delle rappresentazioni, non hanno però consapevolezza di questo uso. Ed è naturale: sono nati per servire altri, non sono essi stessi fini principali.</div></article>
+<article class="section" id="s-7"><a class="ref" href="#s-7">7</a><div class="section-text">L’asino è forse nato principalmente per se stesso? No; è nato perché avevamo bisogno di un dorso capace di portare dei pesi. Ma, per Zeus, avevamo bisogno anche che camminasse; per questo ha ricevuto inoltre la capacità di usare le rappresentazioni, altrimenti non avrebbe potuto camminare.</div></article>
+<article class="section" id="s-8"><a class="ref" href="#s-8">8</a><div class="section-text">E lì, più o meno, finisce. Se però avesse ricevuto anche la consapevolezza dell’uso delle rappresentazioni, è evidente che, secondo ragione, non sarebbe più stato sottomesso a noi né ci avrebbe prestato questi servizi, ma sarebbe stato uguale e simile a noi.</div></article>
+<article class="section" id="s-9"><a class="ref" href="#s-9">9</a><div class="section-text">Non vuoi dunque cercare l’essenza del bene là dove, se questa facoltà non è presente, non vuoi parlare di bene in nessun altro essere?</div></article>
+<article class="section" id="s-10"><a class="ref" href="#s-10">10</a><div class="section-text">E allora? Anche quelli non sono opere degli dèi? Lo sono, ma non opere principali né parti degli dèi.</div></article>
+<article class="section" id="s-11"><a class="ref" href="#s-11">11</a><div class="section-text">Tu invece sei un’opera principale, sei una parte staccata di Dio; hai in te qualcosa che è parte di lui. Perché dunque ignori la tua parentela? Perché non sai da dove sei venuto?</div></article>
+<article class="section" id="s-12"><a class="ref" href="#s-12">12</a><div class="section-text">Non vuoi ricordarti, quando mangi, chi sei tu che mangi e chi stai nutrendo? Quando hai rapporti sessuali, chi sei tu che ne fai uso? Quando conversi? Quando ti eserciti, quando discuti, non sai che nutri un dio, alleni un dio? Porti in giro un dio, disgraziato, e non lo sai.</div></article>
+<article class="section" id="s-13"><a class="ref" href="#s-13">13</a><div class="section-text">Pensi che io parli di qualcosa d’argento o d’oro, fuori di te? Lo porti dentro di te e non ti accorgi di contaminarlo con pensieri impuri e azioni sudice.</div></article>
+<article class="section" id="s-14"><a class="ref" href="#s-14">14</a><div class="section-text">Se fosse presente una statua del dio, non oseresti fare nulla di ciò che fai. Ma con Dio stesso presente dentro di te, che vede e ascolta ogni cosa, non ti vergogni di pensare e fare queste cose, tu che sei insensibile alla tua stessa natura e provochi l’ira di Dio?</div></article>
+<article class="section" id="s-15"><a class="ref" href="#s-15">15</a><div class="section-text">Che cosa temiamo dunque, quando mandiamo un giovane dalla scuola ad affrontare qualche situazione? Che si comporti male, che mangi male, che abbia rapporti sessuali in modo sconveniente, che si umili se indossa degli stracci, che si insuperbisca se indossa abiti eleganti?</div></article>
+<article class="section" id="s-16"><a class="ref" href="#s-16">16</a><div class="section-text">Costui non conosce il dio che è in lui, non sa con chi se ne va. Eppure sopportiamo che dica: «Vorrei avere te con me»?</div></article>
+<article class="section" id="s-17"><a class="ref" href="#s-17">17</a><div class="section-text">Non hai lì Dio? E, pur avendo lui, cerchi qualcun altro?</div></article>
+<article class="section" id="s-18"><a class="ref" href="#s-18">18</a><div class="section-text">Forse ti direbbe cose diverse da queste? Se tu fossi una statua di Fidia, Atena o Zeus, ti ricorderesti di te stesso e dell’artefice e, se avessi qualche sensibilità, cercheresti di non fare nulla di indegno di chi ti ha fatto né di te stesso, e di non mostrarti a chi ti guarda in un atteggiamento sconveniente.</div></article>
+<article class="section" id="s-19"><a class="ref" href="#s-19">19</a><div class="section-text">Ora invece, poiché ti ha fatto Zeus, trascuri quale persona mostrerai di essere? E che somiglianza c’è fra artefice e artefice, o fra opera e opera?</div></article>
+<article class="section" id="s-20"><a class="ref" href="#s-20">20</a><div class="section-text">E quale opera di un artefice possiede fin dall’inizio in se stessa le facoltà che manifesta attraverso la propria struttura? Non è forse pietra, bronzo, oro o avorio? E l’Atena di Fidia, una volta distesa la mano e ricevuta su di essa la Vittoria, resta così per sempre; le opere di Dio invece si muovono, respirano, usano le rappresentazioni e sono capaci di giudicare.</div></article>
+<article class="section" id="s-21"><a class="ref" href="#s-21">21</a><div class="section-text">Essendo opera di questo artefice, lo disonori? E che dire del fatto che non soltanto ti ha fatto, ma ti ha anche affidato e consegnato a te stesso:</div></article>
+<article class="section" id="s-22"><a class="ref" href="#s-22">22</a><div class="section-text">non ti ricorderai neppure di questo, ma disonorerai anche la fiducia che ti è stata concessa? Se Dio ti avesse affidato un orfano, lo trascureresti così?</div></article>
+<article class="section" id="s-23"><a class="ref" href="#s-23">23</a><div class="section-text">Ti ha consegnato te stesso e dice: «Non avevo nessuno più degno di fiducia di te. Custodiscimi quest’uomo così come è per natura: rispettoso, fedele, elevato, impavido, libero dalle passioni, imperturbabile». E tu non lo custodisci?</div></article>
+<article class="section" id="s-24"><a class="ref" href="#s-24">24</a><div class="section-text">«Ma diranno: da dove viene a costui quest’aria altezzosa e questo volto solenne?» Non ancora come dovrei. Infatti non ho ancora piena fiducia in ciò che ho imparato e a cui ho dato il mio assenso; temo ancora la mia debolezza.</div></article>
+<article class="section" id="s-25"><a class="ref" href="#s-25">25</a><div class="section-text">Lasciate però che acquisti fiducia, e allora vedrete uno sguardo come deve essere e un portamento come deve essere; allora vi mostrerò la statua, quando sarà compiuta, quando sarà levigata.</div></article>
+<article class="section" id="s-26"><a class="ref" href="#s-26">26</a><div class="section-text">Che cosa pensate? Un sopracciglio alzato? No davvero. Forse Zeus a Olimpia tiene il sopracciglio alzato? Il suo sguardo è invece fermo, come dev’essere quello di chi dirà: «La mia parola non può essere revocata né risultare ingannevole».</div></article>
+<article class="section" id="s-27"><a class="ref" href="#s-27">27</a><div class="section-text">Così vi mostrerò me stesso: fedele, rispettoso, nobile, imperturbabile.</div></article>
+<article class="section" id="s-28"><a class="ref" href="#s-28">28</a><div class="section-text">Forse immortale, senza vecchiaia, senza malattie? No: ma morendo in modo divino, ammalandomi in modo divino. Questo possiedo, questo posso fare; il resto non lo possiedo né posso farlo.</div></article>
+<article class="section" id="s-29"><a class="ref" href="#s-29">29</a><div class="section-text">Vi mostrerò i nervi di un filosofo. Quali nervi? Un desiderio che non fallisce, un’avversione che non incorre in ciò che vuole evitare, un impulso conforme al dovere, un proposito attento, un assenso non precipitoso. Questo vedrete.</div></article>
+</div>
+
+<nav class="chapter-nav chapter-nav-bottom"><a href="2-07.html">Diatriba precedente</a><a class="chapter-home" href="../index.html">Home</a><a href="2-09.html">Diatriba successiva</a></nav>

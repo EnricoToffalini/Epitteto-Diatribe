@@ -1,0 +1,35 @@
+---
+title: "Diatriba I.21 — Contro quelli che vogliono essere ammirati"
+lang: it
+pagetitle: "Diatriba I.21 — Contro quelli che vogliono essere ammirati — Epitteto, Diatribe"
+title-prefix: ""
+description-meta: "Diatriba I.21: «Contro quelli che vogliono essere ammirati». Le Diatribe di Epitteto raccolte da Arriano, in traduzione italiana."
+sidebar: it
+---
+
+<!--
+FILE GENERATO. NON MODIFICARE A MANO.
+
+Modificare invece:
+- translation/it/**.md      per il testo e i titoli italiani
+- data/intro.json           per le note introduttive delle home page
+- tools/site_config.py      per lingue, testi dell'interfaccia, URL
+- styles.css                per l'aspetto grafico
+
+Poi eseguire:
+    run.bat
+-->
+
+
+<div class="diatribe-meta">Libro I · 4 sezioni · <span class="canonical" title="Riferimento canonico">I 21</span></div>
+
+<nav class="chapter-nav"><a href="1-20.html">Diatriba precedente</a><a class="chapter-home" href="../index.html">Home</a><a href="1-22.html">Diatriba successiva</a></nav>
+
+<div class="section-list">
+<article class="section" id="s-1"><a class="ref" href="#s-1">1</a><div class="section-text">Quando uno mantiene nella vita la posizione che deve, non resta a bocca aperta davanti alle cose esterne.</div></article>
+<article class="section" id="s-2"><a class="ref" href="#s-2">2</a><div class="section-text">Uomo, che cosa vuoi che ti accada? Io mi accontento se desidero e provo avversione secondo natura, se mi muovo ad agire e a non agire come sono fatto per fare, se uso come si deve il proposito, l’applicazione e l’assenso. Perché dunque vai in giro davanti a noi come se avessi ingoiato uno spiedo?</div></article>
+<article class="section" id="s-3"><a class="ref" href="#s-3">3</a><div class="section-text">«Volevo che anche quelli che incontro mi ammirassero e che quelli che mi seguono gridassero: “Oh, che grande filosofo!”»</div></article>
+<article class="section" id="s-4"><a class="ref" href="#s-4">4</a><div class="section-text">Chi sono costoro, dai quali vuoi essere ammirato? Non sono proprio quelli di cui sei solito dire che sono pazzi? E allora? Vuoi essere ammirato dai pazzi?</div></article>
+</div>
+
+<nav class="chapter-nav chapter-nav-bottom"><a href="1-20.html">Diatriba precedente</a><a class="chapter-home" href="../index.html">Home</a><a href="1-22.html">Diatriba successiva</a></nav>

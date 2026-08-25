@@ -1,0 +1,48 @@
+---
+title: "Διατριβὴ Αʹ.ιδʹ — ὅτι πάντας ἐφορᾷ τὸ θεῖον"
+lang: grc
+pagetitle: "Διατριβὴ Αʹ.ιδʹ — ὅτι πάντας ἐφορᾷ τὸ θεῖον — Ἐπικτήτου Διατριβαί"
+title-prefix: ""
+description-meta: "Διατριβὴ Αʹ.ιδʹ· «ὅτι πάντας ἐφορᾷ τὸ θεῖον». Ἀρριανοῦ τῶν Ἐπικτήτου Διατριβῶν, τὸ ἑλληνικὸν κείμενον."
+sidebar: grc
+---
+
+<!--
+FILE GENERATO. NON MODIFICARE A MANO.
+
+Modificare invece:
+- translation/it/**.md      per il testo e i titoli italiani
+- data/intro.json           per le note introduttive delle home page
+- tools/site_config.py      per lingue, testi dell'interfaccia, URL
+- styles.css                per l'aspetto grafico
+
+Poi eseguire:
+    run.bat
+-->
+
+
+<div class="diatribe-meta">Βιβλίον Αʹ · 17 τμήματα · <span class="canonical" title="Παραπομπή">I 14</span></div>
+
+<nav class="chapter-nav"><a href="1-13.html">ἡ προτέρα διατριβή</a><a class="chapter-home" href="../index.html">Ἀρχή</a><a href="1-15.html">ἡ ἑπομένη διατριβή</a></nav>
+
+<div class="section-list">
+<article class="section" id="s-1"><a class="ref" href="#s-1">1</a><div class="section-text" lang="grc">πυθομένου δέ τινος, πῶς ἄν τις πεισθείη, ὅτι ἕκαστον τῶν ὑπʼ αὐτοῦ πραττομένων ἐφορᾶται ὑπὸ τοῦ θεοῦ, Οὐ δοκεῖ σοι, ἔφη, ἡνῶσθαι τὰ πάντα;</div></article>
+<article class="section" id="s-2"><a class="ref" href="#s-2">2</a><div class="section-text" lang="grc">— δοκεῖ, ἔφη. — τί δέ; συμπαθεῖν τὰ ἐπίγεια τοῖς οὐρανίοις οὐ δοκεῖ σοι;</div></article>
+<article class="section" id="s-3"><a class="ref" href="#s-3">3</a><div class="section-text" lang="grc">— δοκεῖ, ἔφη. — πόθεν γὰρ οὕτω τεταγμένως καθάπερ ἐκ προστάγματος τοῦ θεοῦ, ὅταν ἐκεῖνος εἴπῃ τοῖς φυτοῖς ἀνθεῖν, ἀνθεῖ, ὅταν εἴπῃ βλαστάνειν, βλαστάνει, ὅταν ἐκφέρειν τὸν καρπόν, ἐκφέρει, ὅταν πεπαίνειν, πεπαίνει, ὅταν πάλιν ἀποβάλλειν καὶ φυλλορροεῖν καὶ αὐτὰ εἰς αὑτὰ συνειλούμενα ἐφʼ ἡσυχίας μένειν καὶ ἀναπαύεσθαι, μένει καὶ ἀναπαύεται;</div></article>
+<article class="section" id="s-4"><a class="ref" href="#s-4">4</a><div class="section-text" lang="grc">πόθεν δὲ πρὸς τὴν αὔξησιν καὶ μείωσιν τῆς σελήνης καὶ τὴν τοῦ ἡλίου πρόσοδον καὶ ἄφοδον τοσαύτη παραλλαγὴ καὶ ἐπὶ τὰ ἐναντία μεταβολὴ τῶν ἐπιγείων θεωρεῖται;</div></article>
+<article class="section" id="s-5"><a class="ref" href="#s-5">5</a><div class="section-text" lang="grc">ἀλλὰ τὰ φυτὰ μὲν καὶ τὰ ἡμέτερα σώματα οὕτως ἐνδέδεται τοῖς ὅλοις καὶ συμπέπονθεν, αἱ ψυχαὶ δʼ αἱ ἡμέτεραι οὐ πολὺ πλέον;</div></article>
+<article class="section" id="s-6"><a class="ref" href="#s-6">6</a><div class="section-text" lang="grc">ἀλλʼ αἱ ψυχαὶ μὲν οὕτως εἰσὶν ἐνδεδεμέναι καὶ συναφεῖς τῷ θεῷ ἅτε αὐτοῦ μόρια οὖσαι καὶ ἀποσπάσματα, οὐ παντὸς δʼ αὐτῶν κινήματος ἅτε οἰκείου καὶ συμφυοῦς ὁ θεὸς αἰσθάνεται;</div></article>
+<article class="section" id="s-7"><a class="ref" href="#s-7">7</a><div class="section-text" lang="grc">ἀλλὰ σὺ μὲν περὶ τῆς θείας διοικήσεως καὶ περὶ ἑκάστου τῶν θείων, ὁμοῦ δὲ καὶ περὶ τῶν ἀνθρωπίνων πραγμάτων ἐνθυμεῖσθαι δύνασαι καὶ ἅμα μὲν αἰσθητικῶς ἀπὸ μυρίων πραγμάτων κινεῖσθαι, ἅμα δὲ διανοητικῶς, ἅμα δὲ συγκαταθετικῶς, τοῖς δʼ ἀνανευστικῶς ἢ ἐφεκτικῶς,</div></article>
+<article class="section" id="s-8"><a class="ref" href="#s-8">8</a><div class="section-text" lang="grc">τύπους δὲ τοσούτους ἀφʼ οὕτω πολλῶν καὶ ποικίλων πραγμάτων ἐν τῇ σαυτοῦ ψυχῇ φυλάττεις καὶ ἀπʼ αὐτῶν κινούμενος εἰς ἐπινοίας ὁμοειδεῖς ἐμπίπτεις τοῖς πρώτως τετυπωκόσι τέχνας τʼ ἄλλην ἐπʼ ἄλλῃ καὶ μνήμας ἀπὸ μυρίων πραγμάτων διασῴζεις·</div></article>
+<article class="section" id="s-9"><a class="ref" href="#s-9">9</a><div class="section-text" lang="grc">ὁ δὲ θεὸς οὐχ οἷός τʼ ἐστὶ πάντα ἐφορᾶν καὶ πᾶσιν συμπαρεῖναι καὶ ἀπὸ πάντων τινὰ ἴσχειν διάδοσιν;</div></article>
+<article class="section" id="s-10"><a class="ref" href="#s-10">10</a><div class="section-text" lang="grc">ἀλλὰ φωτίζειν οἷός τʼ ἐστὶν ὁ ἥλιος τηλικοῦτον μέρος τοῦ παντός, ὀλίγον δὲ τὸ ἀφώτιστον ἀπολιπεῖν ὅσον οἷόν τʼ ἐπέχεσθαι ὑπὸ σκιᾶς, ἣν ἡ γῆ ποιεῖ· ὁ δὲ καὶ τὸν ἥλιον αὐτὸν πεποιηκὼς καὶ περιάγων μέρος ὄντʼ αὐτοῦ μικρὸν ὡς πρὸς τὸ ὅλον, οὗτος δʼ οὐ δύναται πάντων αἰσθάνεσθαι;</div></article>
+<article class="section" id="s-11"><a class="ref" href="#s-11">11</a><div class="section-text" lang="grc">ἀλλʼ ἐγώ, φησίν, οὐ δύναμαι πᾶσιν ἅμα τούτοις παρακολουθεῖν. — τοῦτο δέ σοι καὶ λέγει τις, ὅτι ἴσην ἔχεις δύναμιν τῷ Διί;</div></article>
+<article class="section" id="s-12"><a class="ref" href="#s-12">12</a><div class="section-text" lang="grc">ἀλλʼ οὖν οὐδὲν ἧττον καὶ ἐπίτροπον ἑκάστῳ παρέστησεν τὸν ἑκάστου δαίμονα καὶ παρέδωκεν φυλάσσειν αὐτὸν αὐτῷ καὶ τοῦτον ἀκοίμητον καὶ ἀπαραλόγιστον.</div></article>
+<article class="section" id="s-13"><a class="ref" href="#s-13">13</a><div class="section-text" lang="grc">τίνι γὰρ ἄλλῳ κρείττονι καὶ ἐπιμελεστέρῳ φύλακι παρέδωκεν ἡμῶν ἕκαστον; ὥσθʼ, ὅταν κλείσητε τὰς θύρας καὶ σκότος ἔνδον ποιήσητε, μέμνησθε μηδέποτε λέγειν ὅτι μόνοι ἐστέ·</div></article>
+<article class="section" id="s-14"><a class="ref" href="#s-14">14</a><div class="section-text" lang="grc">οὐ γὰρ ἐστέ, ἀλλʼ ὁ θεὸς ἔνδον ἐστὶ καὶ ὁ ὑμέτερος δαίμων ἐστίν. καὶ τίς τούτοις χρεία φωτὸς εἰς τὸ βλέπειν τί ποιεῖτε;</div></article>
+<article class="section" id="s-15"><a class="ref" href="#s-15">15</a><div class="section-text" lang="grc">τούτῳ τῷ θεῷ ἔδει καὶ ὑμᾶς ὀμνύειν ὅρκον, οἷον οἱ στρατιῶται τῷ Καίσαρι. ἀλλʼ ἐκεῖνοι μὲν τὴν μισθοφορίαν λαμβάνοντες ὀμνύουσιν πάντων προτιμήσειν τὴν τοῦ Καίσαρος σωτηρίαν, ὑμεῖς δὲ <span class="ed-sic">δε</span> τοσούτων καὶ τηλικούτων ἠξιωμένοι οὐκ ὀμόσετε ἢ ὀμόσαντες οὐκ ἐμμενεῖτε;</div></article>
+<article class="section" id="s-16"><a class="ref" href="#s-16">16</a><div class="section-text" lang="grc">καὶ τί ὀμόσετε; μὴ ἀπειθήσειν μηδέποτε μηδʼ ἐγκαλέσειν μηδὲ μέμψεσθαί τινι τῶν ὑπʼ ἐκείνου δεδομένων μηδʼ ἄκοντες ποιήσειν τι ἢ πείσεσθαι τῶν ἀναγκαίων.</div></article>
+<article class="section" id="s-17"><a class="ref" href="#s-17">17</a><div class="section-text" lang="grc">ὅμοιός γε ὅρκος οὗτος ἐκείνῳ; ἐκεῖ μὲν ὀμνύουσιν αὐτοῦ μὴ προτιμήσειν ἕτερον, ἐνταῦθα δʼ αὑτοὺς ἁπάντων.</div></article>
+</div>
+
+<nav class="chapter-nav chapter-nav-bottom"><a href="1-13.html">ἡ προτέρα διατριβή</a><a class="chapter-home" href="../index.html">Ἀρχή</a><a href="1-15.html">ἡ ἑπομένη διατριβή</a></nav>

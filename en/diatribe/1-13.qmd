@@ -1,0 +1,40 @@
+---
+title: "Discourse I.13 — How everything may be done acceptably to the gods"
+lang: en
+pagetitle: "Discourse I.13 — How everything may be done acceptably to the gods — Epictetus, Discourses"
+title-prefix: ""
+description-meta: "Discourse I.13: “How everything may be done acceptably to the gods”. The Discourses of Epictetus, in George Long’s English translation, with his notes."
+sidebar: en
+---
+
+<!--
+FILE GENERATO. NON MODIFICARE A MANO.
+
+Modificare invece:
+- translation/it/**.md      per il testo e i titoli italiani
+- data/intro.json           per le note introduttive delle home page
+- tools/site_config.py      per lingue, testi dell'interfaccia, URL
+- styles.css                per l'aspetto grafico
+
+Poi eseguire:
+    run.bat
+-->
+
+
+<div class="diatribe-meta">Book I · 1 paragraph · <span class="canonical" title="Canonical reference">I 13</span></div>
+
+<nav class="chapter-nav"><a href="1-12.html">Previous discourse</a><a class="chapter-home" href="../index.html">Home</a><a href="1-14.html">Next discourse</a></nav>
+
+<div class="paragraph-list">
+<p>WHEN some one asked, how may a man eat acceptably to the gods, he answered: If he can eat justly and contentedly, and with equanimity, and temperately and orderly, will it not be also acceptably to the gods? But when you have asked for warm water and the slave has not heard, or if he did hear has brought only tepid water, or he is not even found to be in the house, then not to be vexed or to burst with passion, is not this acceptable to the gods?—How then shall a man endure such persons as this slave? Slave yourself, will you not bear with your own brother, who has Zeus for his progenitor, and is like a son from the same seeds and of the same descent from above? But if you have been put in any such higher place, will you immediately make yourself a tyrant? Will you not remember who you are, and whom you rule? that they are kinsmen, that they are brethren by nature, that they are the offspring of Zeus?<a class="note-ref" id="noteref-1" href="#note-1" role="doc-noteref" aria-label="note 1"><sup>1</sup></a>—But I have purchased them, and they have not purchased me. Do you see in what direction you are looking, that it is towards the earth, towards the pit, that it is towards these wretched laws of dead men?<a class="note-ref" id="noteref-2" href="#note-2" role="doc-noteref" aria-label="note 2"><sup>2</sup></a> but towards the laws of the gods you are not looking.</p>
+</div>
+
+<section class="notes">
+<h2>Notes</h2>
+<ol class="note-list">
+<li class="note" id="note-1" role="doc-endnote"><p>Mrs. Carter compares Job xxxi. 15: <q>Did not he that made me in the womb make him (my man-servant)? And did not one fashion us in the womb?</q></p><a class="note-back" href="#noteref-1" aria-label="back to the text">&#8617;</a></li>
+<li class="note" id="note-2" role="doc-endnote"><p>I suppose he means human laws, which have made one man a slave to another; and when he says <q>dead men,</q> he may mean mortal men, as contrasted with the gods or God, who has made all men brothers.</p><a class="note-back" href="#noteref-2" aria-label="back to the text">&#8617;</a></li>
+</ol>
+</section>
+
+<nav class="chapter-nav chapter-nav-bottom"><a href="1-12.html">Previous discourse</a><a class="chapter-home" href="../index.html">Home</a><a href="1-14.html">Next discourse</a></nav>
