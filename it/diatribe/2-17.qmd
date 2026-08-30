@@ -1,9 +1,9 @@
 ---
-title: "Diatriba II.17 — Come applicare le preconcezioni ai casi particolari"
+title: "Diatriba II.17 — Come applicare le prenozioni ai casi particolari"
 lang: it
-pagetitle: "Diatriba II.17 — Come applicare le preconcezioni ai casi particolari — Epitteto, Diatribe"
+pagetitle: "Diatriba II.17 — Come applicare le prenozioni ai casi particolari — Epitteto, Diatribe"
 title-prefix: ""
-description-meta: "Diatriba II.17: «Come applicare le preconcezioni ai casi particolari». Le Diatribe di Epitteto raccolte da Arriano, in traduzione italiana."
+description-meta: "Diatriba II.17: «Come applicare le prenozioni ai casi particolari». Le Diatribe di Epitteto raccolte da Arriano, in traduzione italiana."
 sidebar: it
 ---
 

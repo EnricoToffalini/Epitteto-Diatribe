@@ -1,9 +1,9 @@
 ---
-title: "Diatriba I.22 — Sulle preconcezioni"
+title: "Diatriba I.22 — Sulle prenozioni"
 lang: it
-pagetitle: "Diatriba I.22 — Sulle preconcezioni — Epitteto, Diatribe"
+pagetitle: "Diatriba I.22 — Sulle prenozioni — Epitteto, Diatribe"
 title-prefix: ""
-description-meta: "Diatriba I.22: «Sulle preconcezioni». Le Diatribe di Epitteto raccolte da Arriano, in traduzione italiana."
+description-meta: "Diatriba I.22: «Sulle prenozioni». Le Diatribe di Epitteto raccolte da Arriano, in traduzione italiana."
 sidebar: it
 ---
 
