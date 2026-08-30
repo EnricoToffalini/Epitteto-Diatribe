@@ -6,7 +6,15 @@ George Long e il **testo greco** di Schenkl. Le tre edizioni hanno le stesse
 pagine e le bandierine in alto passano dall'una all'altra restando sulla stessa
 diatriba.
 
-La build completa del sito e del PDF si esegue con `run.bat`.
+La build del sito e del PDF si esegue con `run.bat`.
+
+`run.bat` è **incrementale**: renderizza solo le pagine toccate da un
+cambiamento (una correzione a una diatriba già tradotta ⇒ una sola pagina). Gli
+hash dei file generati stanno in `.render-cache.json` (non versionato). Forzano
+un render completo: `run.bat --full`, la cancellazione di `.render-cache.json`, un
+cambio di `styles.css` / `assets/` / `_quarto.yml` / titoli, o un aggiornamento di
+Quarto. Prima di pubblicare conviene un `run.bat --full` e un controllo di
+`git diff docs/`.
 
 ## Com'è fatto il libro
 
@@ -81,6 +89,8 @@ tools/1_validate_...    verifica che testo e titoli italiani siano completi
 tools/2_generate_site.py  scrive _quarto.yml, index.qmd, it/, en/, grc/
 tools/3_generate_pdf_book.py  scrive pdf_book_it.qmd
 tools/4_finalize_seo.py   controlli e sitemap dopo il render
+tools/5_render.py         render incrementale (sostituisce "quarto render")
+tools/_io.py              scrittura idempotente e hashing per i generatori
 styles.css              tutto l'aspetto grafico (palette teal)
 docs/                   il sito costruito, quello che GitHub Pages pubblica
 ```

@@ -16,6 +16,7 @@ from pathlib import Path
 sys.path.insert(0, str(Path(__file__).resolve().parent))
 
 import translation_store
+from io_utils import write_if_changed
 from site_config import LANGS, PDF_FILENAME, ROMAN, ROOT
 
 LANG = 'it'
@@ -75,19 +76,21 @@ def render_front_matter(intro):
 
 
 def render_section(number, text):
-    # A plain space after the number, not a tilde: Pandoc would print the tilde.
+    # L'ambiente `versetto` (pdf/pdf-preamble.tex) tiene il numero in un margine
+    # a sinistra e allinea tutto il testo a un rientro fisso.  Pandoc lo passa a
+    # LaTeX così com'è, capoversi multipli compresi.
     body = paragraphs_of(text)
-    lines = [f'\\textbf{{{number}}} {markup(body[0])}']
+    lines = [f'\\begin{{versetto}}{{{number}}}', markup(body[0])]
     for extra in body[1:]:
         lines += [r'\par', markup(extra)]
-    lines.append('')
+    lines += [r'\end{versetto}', '']
     return lines
 
 
 def render_gap(numbers):
     """One line standing for a run of sections still to be translated."""
     label = str(numbers[0]) if len(numbers) == 1 else f'{numbers[0]}--{numbers[-1]}'
-    return [f'\\textbf{{{label}}} […]', '']
+    return [f'\\begin{{versetto}}{{{label}}}', '[…]', r'\end{versetto}', '']
 
 
 def render_diatribe(diatribe, entry):
@@ -209,7 +212,7 @@ def main():
         print('PDF: nessuna diatriba ancora tradotta, il libro italiano non viene generato.')
         return 1
 
-    OUTPUT_QMD.write_text(text, encoding='utf-8')
+    write_if_changed(OUTPUT_QMD, text)
     print(f'Scritto {OUTPUT_QMD.name}: {included} diatribe, '
           f'{done}/{total} sezioni tradotte.')
     return 0

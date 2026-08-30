@@ -7,3 +7,6 @@ __pycache__/
 # Lasciati indietro da un render PDF non riuscito.
 /pdf_book_it.tex
 /pdf_book_it.log
+
+# Stato locale del render incrementale (hash + versione di Quarto della macchina).
+/.render-cache.json

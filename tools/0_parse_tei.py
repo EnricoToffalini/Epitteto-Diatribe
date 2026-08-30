@@ -22,11 +22,16 @@ Inline TEI markup is converted to a small, fixed set of HTML tags here, once,
 so that the site generator and the PDF generator never have to look at XML.
 """
 
+import sys
 from pathlib import Path
 import html
 import json
 import re
 import xml.etree.ElementTree as ET
+
+sys.path.insert(0, str(Path(__file__).resolve().parent))
+
+from io_utils import write_if_changed
 
 ROOT = Path(__file__).resolve().parents[1]
 SOURCES = ROOT / 'sources'
@@ -347,10 +352,7 @@ def main():
         'books': BOOK_NUMBERS,
         'diatribes': diatribes,
     }
-    OUT_JSON.parent.mkdir(parents=True, exist_ok=True)
-    OUT_JSON.write_text(
-        json.dumps(data, ensure_ascii=False, indent=1), encoding='utf-8'
-    )
+    write_if_changed(OUT_JSON, json.dumps(data, ensure_ascii=False, indent=1))
 
     sections = sum(len(d['sections']) for d in diatribes)
     paragraphs = sum(len(d['en_paragraphs']) for d in diatribes)

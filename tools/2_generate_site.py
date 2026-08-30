@@ -24,13 +24,13 @@ from collections import defaultdict
 import html
 import json
 import re
-import shutil
 import sys
 from pathlib import Path
 
 sys.path.insert(0, str(Path(__file__).resolve().parent))
 
 import translation_store
+from io_utils import copy_if_changed, write_if_changed
 from site_config import (
     DEFAULT_LANG, DIATRIBE_DIR, GENERATED_FILE_NOTE, GOATCOUNTER,
     GOOGLE_SITE_VERIFICATION, IT_PENDING_ALL, IT_PENDING_SOME, IT_PENDING_TITLE, LANGS,
@@ -260,7 +260,7 @@ format:
     link-external-newwindow: true
     canonical-url: true
 '''
-    (ROOT / '_quarto.yml').write_text(quarto_yml, encoding='utf-8')
+    write_if_changed(ROOT / '_quarto.yml', quarto_yml)
 
 
 # ---------------------------------------------------------------------------
@@ -289,7 +289,7 @@ def write_site_head():
     if GOOGLE_SITE_VERIFICATION.strip():
         parts.append('<meta name="google-site-verification" '
                      f'content="{esc(GOOGLE_SITE_VERIFICATION.strip())}">')
-    (ROOT / 'site-head.html').write_text('\n'.join(parts) + '\n', encoding='utf-8')
+    write_if_changed(ROOT / 'site-head.html', '\n'.join(parts) + '\n')
 
 
 def write_seo_head(lang):
@@ -312,8 +312,9 @@ def write_seo_head(lang):
     elif lang == 'en':
         data['translator'] = {'@type': 'Person', 'name': 'George Long'}
     body = json.dumps(data, ensure_ascii=False, indent=2)
-    (ROOT / lang / 'seo-head.html').write_text(
-        f'<script type="application/ld+json">\n{body}\n</script>\n', encoding='utf-8'
+    write_if_changed(
+        ROOT / lang / 'seo-head.html',
+        f'<script type="application/ld+json">\n{body}\n</script>\n',
     )
 
 
@@ -345,10 +346,10 @@ def write_lang_config(diatribes, translations):
             for lang in LANG_ORDER
         },
     }
-    (ROOT / 'lang-config.html').write_text(
+    write_if_changed(
+        ROOT / 'lang-config.html',
         '<!-- FILE GENERATO. Modificare tools/site_config.py. -->\n'
         f'<script>\nwindow.EPICTETUS = {json.dumps(config, ensure_ascii=False, indent=1)};\n</script>\n',
-        encoding='utf-8',
     )
 
 
@@ -463,7 +464,7 @@ def write_root_index(diatribes, translations, intro):
         prose(intro, lang, 'site-note'), '',
     ]
     parts += book_grids(lang, diatribes, translations, prefix=f'{lang}/')
-    (ROOT / 'index.qmd').write_text('\n'.join(parts), encoding='utf-8')
+    write_if_changed(ROOT / 'index.qmd', '\n'.join(parts))
 
 
 def write_index(lang, diatribes, translations, intro, pdf_ready):
@@ -483,7 +484,7 @@ def write_index(lang, diatribes, translations, intro, pdf_ready):
     if lang == PDF_LANG and pdf_ready:
         parts += [pdf_download(f'../{PDF_FILENAME}', ui['download']), '']
     parts += book_grids(lang, diatribes, translations)
-    (ROOT / lang / 'index.qmd').write_text('\n'.join(parts), encoding='utf-8')
+    write_if_changed(ROOT / lang / 'index.qmd', '\n'.join(parts))
 
 
 def write_credits(lang, credits):
@@ -496,7 +497,7 @@ def write_credits(lang, credits):
         description=cfg['seo']['credits_description'],
     )
     parts += [prose(credits, lang, 'site-note credits-note'), '']
-    (ROOT / lang / 'credits.qmd').write_text('\n'.join(parts), encoding='utf-8')
+    write_if_changed(ROOT / lang / 'credits.qmd', '\n'.join(parts))
 
 
 def italian_html(text):
@@ -576,8 +577,6 @@ def english_notes(lang, diatribe):
 def write_diatribes(lang, diatribes, translations):
     directory = ROOT / lang / DIATRIBE_DIR
     directory.mkdir(parents=True, exist_ok=True)
-    for old in directory.glob('*.qmd'):
-        old.unlink()
 
     cfg = LANGS[lang]
     ui = cfg['ui']
@@ -637,7 +636,13 @@ def write_diatribes(lang, diatribes, translations):
             parts += [section_articles(lang, diatribe, italian), '']
 
         parts += [navigation(lang, previous, following, bottom=True), '']
-        (directory / f'{diatribe["slug"]}.qmd').write_text('\n'.join(parts), encoding='utf-8')
+        write_if_changed(directory / f'{diatribe["slug"]}.qmd', '\n'.join(parts))
+
+    # Drop any page left over from a diatribe that no longer exists.
+    current = {f'{diatribe["slug"]}.qmd' for diatribe in diatribes}
+    for old in directory.glob('*.qmd'):
+        if old.name not in current:
+            old.unlink()
 
 
 def navigation(lang, previous, following, bottom=False):
@@ -662,7 +667,7 @@ def copy_assets():
         source = DATA / 'flags' / name
         if not source.exists():
             raise SystemExit(f'Missing flag image: {source}')
-        shutil.copyfile(source, ASSETS / 'flags' / name)
+        copy_if_changed(source, ASSETS / 'flags' / name)
     # The site uses the compressed cover (113 KB against 2.1 MB); the full-size
     # PNG is for the PDF only.  If data/cover.png is ever replaced, remake it:
     #   python -c "from PIL import Image; im=Image.open('data/cover.png');
@@ -671,7 +676,7 @@ def copy_assets():
     cover = DATA / 'cover-web.jpg'
     if not cover.exists():
         raise SystemExit(f'Missing cover image: {cover}')
-    shutil.copyfile(cover, ASSETS / 'cover.jpg')
+    copy_if_changed(cover, ASSETS / 'cover.jpg')
 
 
 # ---------------------------------------------------------------------------

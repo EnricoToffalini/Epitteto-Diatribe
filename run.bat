@@ -26,7 +26,7 @@ if errorlevel 1 (
     )
 )
 
-echo [1/6] Lettura delle fonti TEI...
+echo [1/5] Lettura delle fonti TEI...
 python tools\0_parse_tei.py
 if errorlevel 1 (
     echo ERRORE in tools\0_parse_tei.py
@@ -35,7 +35,7 @@ if errorlevel 1 (
 )
 
 echo.
-echo [2/6] Verifica del testo italiano...
+echo [2/5] Verifica del testo italiano...
 python tools\1_validate_translation.py
 if errorlevel 1 (
     echo ERRORE: il testo italiano non e' completo o non e' valido.
@@ -44,7 +44,7 @@ if errorlevel 1 (
 )
 
 echo.
-echo [3/6] Generazione delle pagine del sito...
+echo [3/5] Generazione delle pagine del sito...
 python tools\2_generate_site.py
 if errorlevel 1 (
     echo ERRORE in tools\2_generate_site.py
@@ -53,7 +53,7 @@ if errorlevel 1 (
 )
 
 echo.
-echo [4/6] Generazione del sorgente del PDF italiano...
+echo [4/5] Generazione del sorgente del PDF italiano...
 python tools\3_generate_pdf_book.py
 if errorlevel 1 (
     echo ERRORE in tools\3_generate_pdf_book.py
@@ -62,36 +62,17 @@ if errorlevel 1 (
 )
 
 echo.
-echo [5/6] Render del sito...
-"%QUARTO%" render
+echo [5/5] Render incrementale del sito e del PDF...
+rem Renderizza solo le pagine toccate da un cambiamento. "run.bat --full" forza
+rem il render completo; cancellare .render-cache.json ha lo stesso effetto.
+set "QUARTO_BIN=%QUARTO%"
+python tools\5_render.py %*
 if errorlevel 1 (
-    echo ERRORE durante quarto render
-    pause
-    exit /b 1
-)
-
-echo.
-echo [6/6] Render del PDF italiano...
-"%QUARTO%" render pdf_book_it.qmd --to pdf
-if errorlevel 1 (
-    echo ERRORE durante il render del PDF.
+    echo ERRORE durante il render.
     echo.
     echo Se e' la prima volta che si genera un PDF con Quarto, eseguire:
     echo quarto install tinytex
     echo.
-    pause
-    exit /b 1
-)
-
-rem Quando si renderizza un singolo file non incluso nel progetto web, alcune
-rem versioni di Quarto ignorano project.output-dir e scrivono accanto al QMD.
-rem In quel caso spostiamo esplicitamente il PDF nella cartella pubblicata.
-if exist epitteto-diatribe-it.pdf (
-    move /Y epitteto-diatribe-it.pdf docs\epitteto-diatribe-it.pdf >nul
-)
-
-if not exist docs\epitteto-diatribe-it.pdf (
-    echo ERRORE: il PDF non e' stato scritto in docs.
     pause
     exit /b 1
 )

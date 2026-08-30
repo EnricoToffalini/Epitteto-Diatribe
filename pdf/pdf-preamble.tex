@@ -63,6 +63,26 @@
 \setlength{\parindent}{0pt}
 \setlength{\parskip}{0.34em}
 
+% Sezioni numerate: il numero del versetto vive in un margine a sinistra (più
+% piccolo del testo, come nel gutter della versione HTML) e tutto il testo della
+% sezione — righe a capo e capoversi successivi inclusi — si allinea a un
+% rientro fisso.
+\newlength{\verseindent}
+\setlength{\verseindent}{2.4em}
+\newcommand{\verselabel}[1]{{\footnotesize\bfseries #1}}
+\newenvironment{versetto}[1]{%
+  \par
+  \begingroup
+  \setlength{\parindent}{0pt}%
+  \leftskip=\verseindent
+  \noindent
+  \llap{\makebox[\verseindent][l]{\verselabel{#1}}}%
+  \ignorespaces
+}{%
+  \par
+  \endgroup
+}
+
 % L'indice sta subito dopo la copertina; la pagina successiva è riservata alla
 % nota introduttiva.
 \let\epstandardtableofcontents\tableofcontents
