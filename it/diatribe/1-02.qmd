@@ -62,7 +62,7 @@ Poi eseguire:
 <article class="section" id="s-34"><a class="ref" href="#s-34">34</a><div class="section-text">— Ma allora, se siamo fatti per questo, perché non diventano così tutti, o almeno molti? — Forse tutti i cavalli diventano veloci? Tutti i cani diventano bravi a seguire le tracce?</div></article>
 <article class="section" id="s-35"><a class="ref" href="#s-35">35</a><div class="section-text">E allora? Poiché sono poco dotato, per questo rinuncerò a prendermene cura?</div></article>
 <article class="section" id="s-36"><a class="ref" href="#s-36">36</a><div class="section-text">Niente affatto. Epitteto non sarà migliore di Socrate; ma se non sarà peggiore, questo mi basta.</div></article>
-<article class="section" id="s-37"><a class="ref" href="#s-37">37</a><div class="section-text">Infatti non sarò neppure Milone, e tuttavia non trascuro il corpo; né sarò Creso, e tuttavia non trascuro i beni; né, in generale, smettiamo di prenderci cura di qualcosa solo perché disperiamo di raggiungere il grado più alto.</div></article>
+<article class="section" id="s-37"><a class="ref" href="#s-37">37</a><div class="section-text">Infatti non sarò neppure Milone, e tuttavia non trascuro il corpo; né sarò Creso, e tuttavia non trascuro i possedimenti; né, in generale, smettiamo di prenderci cura di qualcosa solo perché disperiamo di raggiungere il grado più alto.</div></article>
 </div>
 
 <nav class="chapter-nav chapter-nav-bottom"><a href="1-01.html">Diatriba precedente</a><a class="chapter-home" href="../index.html">Home</a><a href="1-03.html">Diatriba successiva</a></nav>

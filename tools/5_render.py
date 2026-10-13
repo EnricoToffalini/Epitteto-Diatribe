@@ -12,7 +12,8 @@ hashes in `.render-cache.json` and, on the next run, renders
   * the whole site         if a *global* input changed (theme, navbar/sidebar,
                            shared includes, assets, Quarto version) or the set of
                            pages changed or `--full` was passed;
-  * only the changed pages  otherwise (one `quarto render a.qmd b.qmd ...` call);
+  * only the changed pages  otherwise (one `quarto render page.qmd` call each,
+                           falling back to a full render if any of them fails);
   * nothing                 if no page changed.
 
 The Italian PDF is rendered only when one of its inputs changed.
@@ -176,8 +177,17 @@ def main(argv):
         print(f'Render incrementale: {len(changed_pages)} pagina/e')
         for p in changed_pages:
             print(f'  - {p}')
-        quarto('render', *changed_pages)
-        finalize_seo()
+        # One file per call: with several files Quarto renders only the first
+        # and hands the others to pandoc as extra inputs.
+        try:
+            for p in changed_pages:
+                quarto('render', p)
+            finalize_seo()
+        except subprocess.CalledProcessError:
+            # A failed partial render can leave docs/ inconsistent: rebuild it all.
+            print('Render incrementale fallito: passo al render completo...')
+            prune_orphan_html(pages_now)
+            quarto('render')
     else:
         print('Nessuna pagina modificata: render del sito saltato.')
 

@@ -41,7 +41,7 @@ Questa traduzione italiana è stata realizzata da GPT-5.6 Sol, con l'ausilio di 
 
 \vspace{0.2em}
 
-Le \textit{Diatribe} sono le lezioni che Epitteto, schiavo liberato e maestro stoico, teneva a Nicopoli. Il suo allievo Arriano le ha messe per iscritto. Ne restano quattro libri sugli otto antichi. Il tema è sempre lo stesso, ripreso da ogni lato: che cosa dipende da noi e che cosa no, e cosa sia la libertà. Dipendono da noi il giudizio, l'impulso, il desiderio e l'avversione; non dipendono da noi il corpo, i beni, la reputazione e le cariche. Su questa distinzione Epitteto costruisce un'idea esigente, ma squisitamente umana, di libertà.
+Le \textit{Diatribe} sono le lezioni che Epitteto, schiavo liberato e maestro stoico, teneva a Nicopoli. Il suo allievo Arriano le ha messe per iscritto. Ne restano quattro libri sugli otto antichi. Il tema è sempre lo stesso, ripreso da ogni lato: che cosa dipende da noi e che cosa no, e cosa sia la libertà. Dipendono da noi il giudizio, l'impulso, il desiderio e l'avversione; non dipendono da noi il corpo, i possedimenti, la reputazione e le cariche. Su questa distinzione Epitteto costruisce un'idea esigente, ma squisitamente umana, di libertà.
 
 \vspace{0.2em}
 
@@ -89,7 +89,7 @@ Poiché siamo sulla terra, legati a un corpo come questo e a compagni come quest
 \end{versetto}
 
 \begin{versetto}{10}
-«Epitteto, se fosse stato possibile, avrei reso libero e non soggetto a impedimenti anche il tuo corpicino e i tuoi piccoli beni.
+«Epitteto, se fosse stato possibile, avrei reso libero e non soggetto a impedimenti anche il tuo corpicino e i tuoi piccoli possedimenti.
 \end{versetto}
 
 \begin{versetto}{11}
@@ -105,7 +105,7 @@ E poiché non potevo fare questo, ti abbiamo dato una parte di noi: questa facol
 \end{versetto}
 
 \begin{versetto}{14}
-Ora invece, pur potendo aver cura di una cosa sola e legarci a una sola, preferiamo aver cura di molte e legarci a molte: al corpo, ai beni, al fratello, all’amico, al figlio, allo schiavo.
+Ora invece, pur potendo aver cura di una cosa sola e legarci a una sola, preferiamo aver cura di molte e legarci a molte: al corpo, ai possedimenti, al fratello, all’amico, al figlio, allo schiavo.
 \end{versetto}
 
 \begin{versetto}{15}
@@ -169,7 +169,7 @@ Per questo Agrippino che cosa diceva? «Io non divento un ostacolo a me stesso.�
 \end{versetto}
 
 \begin{versetto}{30}
-«Andiamo dunque ad allenarci.» Dopo che si fu allenato, qualcuno venne a dirgli: «Sei stato condannato.» «All’esilio», disse, «o a morte?» «All’esilio.» «E i beni?» «Non sono stati confiscati.» «Andiamo allora ad Aricia e pranziamo.»
+«Andiamo dunque ad allenarci.» Dopo che si fu allenato, qualcuno venne a dirgli: «Sei stato condannato.» «All’esilio», disse, «o a morte?» «All’esilio.» «E il patrimonio?» «Non è stato confiscato.» «Andiamo allora ad Aricia e pranziamo.»
 \end{versetto}
 
 \begin{versetto}{31}
@@ -327,7 +327,7 @@ Niente affatto. Epitteto non sarà migliore di Socrate; ma se non sarà peggiore
 \end{versetto}
 
 \begin{versetto}{37}
-Infatti non sarò neppure Milone, e tuttavia non trascuro il corpo; né sarò Creso, e tuttavia non trascuro i beni; né, in generale, smettiamo di prenderci cura di qualcosa solo perché disperiamo di raggiungere il grado più alto.
+Infatti non sarò neppure Milone, e tuttavia non trascuro il corpo; né sarò Creso, e tuttavia non trascuro i possedimenti; né, in generale, smettiamo di prenderci cura di qualcosa solo perché disperiamo di raggiungere il grado più alto.
 \end{versetto}
 
 ## Diatriba I.3 — Come procedere dal principio che Dio è padre degli uomini alle conseguenze
@@ -953,7 +953,7 @@ Io credo invece che il vecchio dovrebbe starsene qui non per escogitare il modo 
 \end{versetto}
 
 \begin{versetto}{11}
-ma per evitare che sorgano giovani tali che, riconosciuta la loro parentela con gli dèi e compreso che questi legami cui siamo attaccati — il corpo, i suoi beni e tutto ciò che per causa loro ci è necessario per l’amministrazione e la vita quotidiana — siano pesi dolorosi e inutili, vogliano gettarli via e andarsene dai loro parenti.
+ma per evitare che sorgano giovani tali che, riconosciuta la loro parentela con gli dèi e compreso che questi legami cui siamo attaccati — il corpo, i suoi possedimenti e tutto ciò che per causa loro ci è necessario per l’amministrazione e la vita quotidiana — siano pesi dolorosi e inutili, vogliano gettarli via e andarsene dai loro parenti.
 \end{versetto}
 
 \begin{versetto}{12}
@@ -969,7 +969,7 @@ Lasciaci andare là da dove siamo venuti; lasciaci finalmente liberarci da quest
 \end{versetto}
 
 \begin{versetto}{15}
-Qui ci sono briganti, ladri, tribunali e quelli che si chiamano tiranni, convinti di avere qualche potere su di noi attraverso il corpicino e i suoi beni. Lasciaci mostrare loro che non hanno potere su nessuno.»
+Qui ci sono briganti, ladri, tribunali e quelli che si chiamano tiranni, convinti di avere qualche potere su di noi attraverso il corpicino e i suoi possedimenti. Lasciaci mostrare loro che non hanno potere su nessuno.»
 \end{versetto}
 
 \begin{versetto}{16}
@@ -977,7 +977,7 @@ E io, da parte mia, direi: «Uomini, aspettate Dio. Quando egli darà il segnale
 \end{versetto}
 
 \begin{versetto}{17}
-Breve è davvero il tempo di questa dimora, e facile da sopportare per chi è disposto così. Quale tiranno, quale ladro, quali tribunali sono ancora temibili per chi ha ridotto a nulla il corpo e i suoi beni? Restate, non andatevene senza ragione.»
+Breve è davvero il tempo di questa dimora, e facile da sopportare per chi è disposto così. Quale tiranno, quale ladro, quali tribunali sono ancora temibili per chi ha ridotto a nulla il corpo e i suoi possedimenti? Restate, non andatevene senza ragione.»
 \end{versetto}
 
 \begin{versetto}{18}
@@ -1037,7 +1037,7 @@ Infatti, ciò che uno possiede da se stesso, è superfluo e vano riceverlo da un
 \end{versetto}
 
 \begin{versetto}{32}
-Io dunque, potendo ricavare da me stesso grandezza d’animo e nobiltà, dovrei ricevere da te un campo, denaro o qualche carica? Niente affatto. Non sarò tanto insensibile ai miei veri beni.
+Io dunque, potendo ricavare da me stesso grandezza d’animo e nobiltà, dovrei ricevere da te un campo, denaro o qualche carica? Niente affatto. Non sarò tanto insensibile ai miei veri possedimenti.
 \end{versetto}
 
 \begin{versetto}{33}
@@ -1327,7 +1327,7 @@ Dunque proprio qui soltanto, nella cosa più grande e sovrana, la libertà, mi �
 \end{versetto}
 
 \begin{versetto}{16}
-Egli ha disposto che vi siano estate e inverno, fecondità e sterilità, virtù e vizio e tutte le opposizioni di questo genere per l’armonia dell’universo; e a ciascuno di noi ha dato un corpo, le parti del corpo, dei beni e dei compagni.
+Egli ha disposto che vi siano estate e inverno, fecondità e sterilità, virtù e vizio e tutte le opposizioni di questo genere per l’armonia dell’universo; e a ciascuno di noi ha dato un corpo, le parti del corpo, dei possedimenti e dei compagni.
 \end{versetto}
 
 \begin{versetto}{17}
@@ -1395,7 +1395,7 @@ Non ringrazi piuttosto gli dèi perché ti hanno lasciato al di sopra di quelle 
 \end{versetto}
 
 \begin{versetto}{33}
-così quanto ai fratelli, al corpo, ai beni, alla morte, alla vita.
+così quanto ai fratelli, al corpo, ai possedimenti, alla morte, alla vita.
 \end{versetto}
 
 \begin{versetto}{34}
@@ -2083,7 +2083,7 @@ Che cos’è dunque educarsi? Imparare ad applicare le prenozioni naturali ai ca
 \end{versetto}
 
 \begin{versetto}{10}
-che, tra le cose esistenti, alcune dipendono da noi e altre non dipendono da noi: dipendono da noi la scelta morale e tutte le azioni che dipendono dalla scelta morale; non dipendono da noi il corpo, le parti del corpo, i beni, i genitori, i fratelli, i figli, la patria, in generale le persone con cui viviamo.
+che, tra le cose esistenti, alcune dipendono da noi e altre non dipendono da noi: dipendono da noi la scelta morale e tutte le azioni che dipendono dalla scelta morale; non dipendono da noi il corpo, le parti del corpo, i possedimenti, i genitori, i fratelli, i figli, la patria, in generale le persone con cui viviamo.
 \end{versetto}
 
 \begin{versetto}{11}
@@ -2345,7 +2345,7 @@ Per questo Demetrio disse a Nerone: «Tu minacci me di morte, ma la natura minac
 \end{versetto}
 
 \begin{versetto}{23}
-Se invece ammiro il mio piccolo corpo, mi sono consegnato schiavo; se ammiro i miei piccoli beni, schiavo anche in questo caso.
+Se invece ammiro il mio piccolo corpo, mi sono consegnato schiavo; se ammiro i miei piccoli possedimenti, schiavo anche in questo caso.
 \end{versetto}
 
 \begin{versetto}{24}
@@ -2721,7 +2721,7 @@ Di chi dunque ho paura? Di chi è padrone? Delle cose che dipendono da me? Non c
 \end{versetto}
 
 \begin{versetto}{10}
-Prendi il mio corpo, prendi i miei beni, prendi la mia reputazione, prendi quelli che mi stanno intorno. Se persuado qualcuno a contendere per una di queste cose, allora sì, mi accusi pure.
+Prendi il mio corpo, prendi i miei possedimenti, prendi la mia reputazione, prendi quelli che mi stanno intorno. Se persuado qualcuno a contendere per una di queste cose, allora sì, mi accusi pure.
 \end{versetto}
 
 \begin{versetto}{11}
@@ -2737,7 +2737,7 @@ Per questo anche la legge di Dio è potentissima e giustissima: il più forte pr
 \end{versetto}
 
 \begin{versetto}{14}
-Dieci sono più forti di uno. In che cosa? Nel legarlo, nell’ucciderlo, nel trascinarlo dove vogliono, nel portargli via i beni. I dieci dunque vincono l’uno in ciò in cui sono più forti.
+Dieci sono più forti di uno. In che cosa? Nel legarlo, nell’ucciderlo, nel trascinarlo dove vogliono, nel portargli via ciò che possiede. I dieci dunque vincono l’uno in ciò in cui sono più forti.
 \end{versetto}
 
 \begin{versetto}{15}
@@ -3404,7 +3404,7 @@ Bisogna infatti esercitare la propria abilità su qualche materia esterna, ma se
 \end{versetto}
 
 \begin{versetto}{22}
-Un altro ti dà il cibo, i beni e può toglierti anche queste cose e il corpo stesso. Tu, ricevuta la materia, lavorala. E poi, se ne esci senza aver subito nulla,
+Un altro ti dà il cibo, i possedimenti e può toglierti anche queste cose e il corpo stesso. Tu, ricevuta la materia, lavorala. E poi, se ne esci senza aver subito nulla,
 \end{versetto}
 
 \begin{versetto}{23}
@@ -3918,7 +3918,7 @@ Poiché quello ha danneggiato se stesso commettendo un’ingiustizia contro di m
 \end{versetto}
 
 \begin{versetto}{27}
-Perché dunque non ce la rappresentiamo così, ma dove c’è una menomazione del corpo o dei beni, lì vediamo il danno, mentre dove riguarda la scelta morale non vediamo alcun danno?
+Perché dunque non ce la rappresentiamo così, ma dove c’è una menomazione del corpo o dei possedimenti, lì vediamo il danno, mentre dove riguarda la scelta morale non vediamo alcun danno?
 \end{versetto}
 
 \begin{versetto}{28}
@@ -4338,7 +4338,7 @@ Le cose umane sono così, come in una fiera: vi si conducono animali, anche buoi
 \end{versetto}
 
 \begin{versetto}{24}
-Così anche qui, in questa fiera: alcuni, come gli animali, non si interessano di nulla più che dell’erba. Tutti voi che vi affaccendate intorno a beni, campi, servi e cariche, infatti, non avete davanti altro che erba.
+Così anche qui, in questa fiera: alcuni, come gli animali, non si interessano di nulla più che dell’erba. Tutti voi che vi affaccendate intorno a possedimenti, campi, servi e cariche, infatti, non avete davanti altro che erba.
 \end{versetto}
 
 \begin{versetto}{25}
@@ -4752,7 +4752,7 @@ Datemi un solo giovane che sia venuto a scuola con questo proposito, che si sia 
 \end{versetto}
 
 \begin{versetto}{30}
-«Vieni, giovane, a ciò che è tuo: a te è destinato adornare la filosofia; tuoi sono questi beni, tuoi questi libri, tuoi questi discorsi.»
+«Vieni, giovane, a ciò che è tuo: a te è destinato adornare la filosofia; tuoi sono questi possedimenti, tuoi questi libri, tuoi questi discorsi.»
 \end{versetto}
 
 \begin{versetto}{31}
@@ -7093,7 +7093,7 @@ Può forse qualcuno riferirti che hai giudicato male o desiderato male? — Nien
 \end{versetto}
 
 \begin{versetto}{3}
-Che tuo padre sta preparando certe cose. Contro chi? Forse contro la tua scelta morale? Come potrebbe? Contro il corpicino, contro i tuoi piccoli beni. Sei salvo: non contro di te.
+Che tuo padre sta preparando certe cose. Contro chi? Forse contro la tua scelta morale? Come potrebbe? Contro il corpicino, contro i tuoi piccoli possedimenti. Sei salvo: non contro di te.
 \end{versetto}
 
 \begin{versetto}{4}
@@ -7509,7 +7509,7 @@ Ecco: Dio vi ha mandato chi deve mostrarvi con i fatti che è possibile.
 \end{versetto}
 
 \begin{versetto}{47}
-«Guardate me: non ho casa, non ho patria, non ho beni, non ho schiavi; dormo per terra; non ho moglie né figli né una piccola dimora, ma soltanto la terra, il cielo e un solo mantello.»
+«Guardate me: non ho casa, non ho patria, non ho possedimenti, non ho schiavi; dormo per terra; non ho moglie né figli né una piccola dimora, ma soltanto la terra, il cielo e un solo mantello.»
 \end{versetto}
 
 \begin{versetto}{48}
@@ -7745,7 +7745,7 @@ Qui stanno tutta la sua attenzione e la sua disciplina; quanto alle altre cose, 
 \end{versetto}
 
 \begin{versetto}{106}
-Del corpicino? Sì. Dei piccoli beni? Sì. E delle cariche e degli onori. Ma che gliene importa? Quando dunque qualcuno cerca di spaventarlo con queste cose, gli dice: «Va’, cerca i bambini: per loro le maschere fanno paura. Io so invece che sono di terracotta e che dentro non hanno nulla».
+Del corpicino? Sì. Dei piccoli possedimenti? Sì. E delle cariche e degli onori. Ma che gliene importa? Quando dunque qualcuno cerca di spaventarlo con queste cose, gli dice: «Va’, cerca i bambini: per loro le maschere fanno paura. Io so invece che sono di terracotta e che dentro non hanno nulla».
 \end{versetto}
 
 \begin{versetto}{107}
@@ -7887,7 +7887,7 @@ E io dovrei sedermi e dirvi pensierini e frasi ad effetto, perché voi mi lodiat
 \end{versetto}
 
 \begin{versetto}{32}
-È dunque per questo che dei giovani devono lasciare la propria casa, i genitori, gli amici, i parenti e i piccoli beni, per dirti «Bravo!» mentre pronunci frasi ad effetto? Faceva questo Socrate? Questo Zenone? Questo Cleante?
+È dunque per questo che dei giovani devono lasciare la propria casa, i genitori, gli amici, i parenti e i piccoli possedimenti, per dirti «Bravo!» mentre pronunci frasi ad effetto? Faceva questo Socrate? Questo Zenone? Questo Cleante?
 \end{versetto}
 
 \begin{versetto}{33}
@@ -8185,7 +8185,7 @@ Così nasce la libertà. Per questo diceva: «Da quando Antistene mi ha liberato
 \end{versetto}
 
 \begin{versetto}{68}
-Come lo liberò? Ascolta che cosa dice: «Mi insegnò quali cose sono mie e quali non lo sono. I beni non sono miei; i parenti, i familiari, gli amici, la reputazione, i luoghi abituali, il modo di vivere: tutto questo appartiene ad altri.»
+Come lo liberò? Ascolta che cosa dice: «Mi insegnò quali cose sono mie e quali non lo sono. I possedimenti non sono miei; i parenti, i familiari, gli amici, la reputazione, i luoghi abituali, il modo di vivere: tutto questo appartiene ad altri.»
 \end{versetto}
 
 \begin{versetto}{69}
@@ -8830,7 +8830,7 @@ E se non fa nessuna di queste cose, non chiamarlo ancora libero: esamina i suoi 
 \end{versetto}
 
 \begin{versetto}{60}
-Nessuno infatti teme Cesare in quanto tale, ma la morte, l’esilio, la confisca dei beni, la prigione, il disonore. E nessuno ama Cesare, a meno che non sia persona di grande valore; amiamo invece la ricchezza, il tribunato, il comando militare, il consolato. Quando amiamo, odiamo e temiamo queste cose, è inevitabile che chi ne ha il potere sia nostro padrone. Per questo ci prostriamo davanti a loro come davanti a dèi.
+Nessuno infatti teme Cesare in quanto tale, ma la morte, l’esilio, la confisca del patrimonio, la prigione, il disonore. E nessuno ama Cesare, a meno che non sia persona di grande valore; amiamo invece la ricchezza, il tribunato, il comando militare, il consolato. Quando amiamo, odiamo e temiamo queste cose, è inevitabile che chi ne ha il potere sia nostro padrone. Per questo ci prostriamo davanti a loro come davanti a dèi.
 \end{versetto}
 
 \begin{versetto}{61}
@@ -8922,7 +8922,7 @@ Una volta preparato così e dopo esserti esercitato a distinguere ciò che appar
 \end{versetto}
 
 \begin{versetto}{83}
-Avrai invece paura per il corpo e i beni? Per le cose altrui? Per ciò che non ti riguarda? E che altro hai studiato fin dall’inizio se non distinguere le cose tue da quelle non tue, ciò che dipende da te da ciò che non dipende da te, ciò che può essere impedito da ciò che non può esserlo? Perché sei andato dai filosofi? Per essere ugualmente sfortunato e infelice?
+Avrai invece paura per il corpo e i possedimenti? Per le cose altrui? Per ciò che non ti riguarda? E che altro hai studiato fin dall’inizio se non distinguere le cose tue da quelle non tue, ciò che dipende da te da ciò che non dipende da te, ciò che può essere impedito da ciò che non può esserlo? Perché sei andato dai filosofi? Per essere ugualmente sfortunato e infelice?
 \end{versetto}
 
 \begin{versetto}{84}
@@ -8938,7 +8938,7 @@ Come si abbatte dunque l’acropoli? Non con il ferro né con il fuoco, ma con i
 \end{versetto}
 
 \begin{versetto}{87}
-È da qui che bisogna cominciare e da qui abbattere l’acropoli, scacciare i tiranni: lasciare andare il corpicino, le sue parti, le sue capacità, i beni, la reputazione, le cariche, gli onori, i figli, i fratelli, gli amici, e considerare tutte queste cose come altrui.
+È da qui che bisogna cominciare e da qui abbattere l’acropoli, scacciare i tiranni: lasciare andare il corpicino, le sue parti, le sue capacità, i possedimenti, la reputazione, le cariche, gli onori, i figli, i fratelli, gli amici, e considerare tutte queste cose come altrui.
 \end{versetto}
 
 \begin{versetto}{88}
@@ -8990,7 +8990,7 @@ Riflettendo così, comprende che, se si unisce a Dio, attraverserà la vita in s
 \end{versetto}
 
 \begin{versetto}{100}
-— «E come può accadere questo?» — In quale altro modo, se non esaminando gli impulsi di Dio e il suo governo? Che cosa mi ha dato come mia e in mio potere, e che cosa ha riservato a sé? Mi ha dato le cose che dipendono dalla scelta morale, le ha poste in mio potere, non impedite, non ostacolate. Come avrebbe potuto rendere non impedito il corpo, che è fatto di argilla? Ha dunque sottoposto al ciclo dell’universo il corpo, i beni, gli oggetti, la casa, i figli, la moglie.
+— «E come può accadere questo?» — In quale altro modo, se non esaminando gli impulsi di Dio e il suo governo? Che cosa mi ha dato come mia e in mio potere, e che cosa ha riservato a sé? Mi ha dato le cose che dipendono dalla scelta morale, le ha poste in mio potere, non impedite, non ostacolate. Come avrebbe potuto rendere non impedito il corpo, che è fatto di argilla? Ha dunque sottoposto al ciclo dell’universo il corpo, i possedimenti, gli oggetti, la casa, i figli, la moglie.
 \end{versetto}
 
 \begin{versetto}{101}
@@ -9026,7 +9026,7 @@ Non vuoi dunque, finché ti è concesso, contemplare la processione e la festa e
 \end{versetto}
 
 \begin{versetto}{109}
-Quanto a quelli che non sanno sopportare e ai vili, non gli dispiacerà vederli esclusi dalla festa: neppure quando erano presenti vivevano come a una festa né occupavano il posto che si addiceva loro, ma soffrivano, biasimavano la divinità, la sorte, i compagni, insensibili sia ai beni ottenuti sia alle proprie capacità, ricevute proprio per affrontare il contrario: magnanimità, nobiltà, coraggio, e quella stessa libertà che ora stiamo cercando.
+Quanto a quelli che non sanno sopportare e ai vili, non gli dispiacerà vederli esclusi dalla festa: neppure quando erano presenti vivevano come a una festa né occupavano il posto che si addiceva loro, ma soffrivano, biasimavano la divinità, la sorte, i compagni, insensibili sia a ciò che avevano ricevuto sia alle proprie capacità, ricevute proprio per affrontare il contrario: magnanimità, nobiltà, coraggio, e quella stessa libertà che ora stiamo cercando.
 \end{versetto}
 
 \begin{versetto}{110}
@@ -9110,7 +9110,7 @@ Chi è non impedito? Chi non desidera nessuna delle cose altrui. E quali sono al
 \end{versetto}
 
 \begin{versetto}{130}
-Dunque il corpo è cosa altrui, le sue parti sono cose altrui, i beni sono cosa altrui. Se dunque ti attacchi a una di queste cose come se fosse tua, pagherai la pena che merita chi desidera le cose altrui.
+Dunque il corpo è cosa altrui, le sue parti sono cose altrui, i possedimenti sono cosa altrui. Se dunque ti attacchi a una di queste cose come se fosse tua, pagherai la pena che merita chi desidera le cose altrui.
 \end{versetto}
 
 \begin{versetto}{131}
@@ -9202,7 +9202,7 @@ Ma posso mostrarti un uomo libero, perché tu non debba più cercare un esempio.
 \end{versetto}
 
 \begin{versetto}{153}
-Ogni cosa era per lui facile da sciogliere, ogni cosa soltanto appoggiata. Se ti fossi impadronito dei suoi beni, te li avrebbe lasciati piuttosto che seguirti per essi; se della gamba, avrebbe lasciato la gamba; se dell’intero corpicino, l’intero corpo; e lo stesso per parenti, amici, patria. Sapeva da dove li aveva, da chi e a quali condizioni li aveva ricevuti.
+Ogni cosa era per lui facile da sciogliere, ogni cosa soltanto appoggiata. Se ti fossi impadronito dei suoi possedimenti, te li avrebbe lasciati piuttosto che seguirti per essi; se della gamba, avrebbe lasciato la gamba; se dell’intero corpicino, l’intero corpo; e lo stesso per parenti, amici, patria. Sapeva da dove li aveva, da chi e a quali condizioni li aveva ricevuti.
 \end{versetto}
 
 \begin{versetto}{154}
@@ -9382,7 +9382,7 @@ Io ottengo compostezza, lui il tribunato; lui il comando militare, io il rispett
 \end{versetto}
 
 \begin{versetto}{10}
-Di nessun’altra cosa devo rivendicare il possesso: né del corpo, né dei beni, né di una carica, né della reputazione; in una parola, di nulla. Neppure Dio infatti vuole che io le rivendichi come mie. Se avesse voluto, le avrebbe fatte beni per me; ma non lo ha fatto. Perciò non posso trasgredire nessuno dei suoi comandi.
+Di nessun’altra cosa devo rivendicare il possesso: né del corpo, né dei possedimenti, né di una carica, né della reputazione; in una parola, di nulla. Neppure Dio infatti vuole che io le rivendichi come mie. Se avesse voluto, le avrebbe fatte beni per me; ma non lo ha fatto. Perciò non posso trasgredire nessuno dei suoi comandi.
 \end{versetto}
 
 \begin{versetto}{11}
@@ -9524,7 +9524,7 @@ Perché dunque ti irriti? Nessuna gara si svolge senza rumore. Devono esserci mo
 \end{versetto}
 
 \begin{versetto}{33}
-— Non hai sentito tante volte che devi eliminare del tutto il desiderio, rivolgere l’avversione soltanto a ciò che dipende dalla scelta morale e lasciare andare tutto: il corpo, i beni, la reputazione, i libri, il frastuono, le cariche, il non averne? Da qualunque parte tu inclini, sei diventato schiavo, sottomesso, soggetto a impedimenti e costrizioni, interamente dipendente dagli altri.
+— Non hai sentito tante volte che devi eliminare del tutto il desiderio, rivolgere l’avversione soltanto a ciò che dipende dalla scelta morale e lasciare andare tutto: il corpo, i possedimenti, la reputazione, i libri, il frastuono, le cariche, il non averne? Da qualunque parte tu inclini, sei diventato schiavo, sottomesso, soggetto a impedimenti e costrizioni, interamente dipendente dagli altri.
 \end{versetto}
 
 \begin{versetto}{34}
@@ -9646,7 +9646,7 @@ No, quando non sa seguire una traccia. Non sarà dunque infelice allo stesso mod
 \end{versetto}
 
 \begin{versetto}{15}
-È per quest’uomo che bisognerebbe riunirsi a piangere, per vedere in quali mali è caduto: per Zeus, non per chi è nato o per chi è morto, ma per chi, mentre è vivo, ha perduto ciò che gli è proprio; non i beni paterni, il campicello, la casetta, la locanda e gli schiavi — nulla di questo è infatti propriamente dell’uomo, ma tutto è altrui, servile, soggetto ad altri, dato ora a uno ora a un altro dai padroni —,
+È per quest’uomo che bisognerebbe riunirsi a piangere, per vedere in quali mali è caduto: per Zeus, non per chi è nato o per chi è morto, ma per chi, mentre è vivo, ha perduto ciò che gli è proprio; non il patrimonio paterno, il campicello, la casetta, la locanda e gli schiavi — nulla di questo è infatti propriamente dell’uomo, ma tutto è altrui, servile, soggetto ad altri, dato ora a uno ora a un altro dai padroni —,
 \end{versetto}
 
 \begin{versetto}{16}
@@ -9872,7 +9872,7 @@ Quando prega, prega per queste cose; quando sacrifica, sacrifica per queste cose
 \end{versetto}
 
 \begin{versetto}{34}
-Tu invece, se davvero non ti curi d’altro che del retto uso delle rappresentazioni, appena ti alzi al mattino considera: «Che cosa mi manca per la libertà dalle passioni? Che cosa per l’imperturbabilità? Chi sono? Forse un corpicino, forse dei beni, forse reputazione? Nulla di tutto questo. Che cosa dunque? Sono un essere razionale.»
+Tu invece, se davvero non ti curi d’altro che del retto uso delle rappresentazioni, appena ti alzi al mattino considera: «Che cosa mi manca per la libertà dalle passioni? Che cosa per l’imperturbabilità? Chi sono? Forse un corpicino, forse dei possedimenti, forse reputazione? Nulla di tutto questo. Che cosa dunque? Sono un essere razionale.»
 \end{versetto}
 
 \begin{versetto}{35}
@@ -9910,7 +9910,7 @@ Se dunque uno, senza volere a ogni costo né morire né vivere, ma accettando ci
 \end{versetto}
 
 \begin{versetto}{5}
-— Nulla. — Se dunque uno avesse verso i beni lo stesso atteggiamento che costui ha verso il corpo, e così verso i figli e la moglie, e, per una qualche follia e temerarietà, fosse disposto in modo tale da non attribuire alcun valore all’avere o non avere queste cose; se, come i bambini che giocano con i cocci si interessano al gioco ma non ai cocci, così anche lui non attribuisse alcun valore alle materie del gioco, ma amasse il gioco stesso e il modo di comportarsi in esso, quale tiranno potrebbe ancora essergli temibile, quali guardie, quali loro spade?
+— Nulla. — Se dunque uno avesse verso i possedimenti lo stesso atteggiamento che costui ha verso il corpo, e così verso i figli e la moglie, e, per una qualche follia e temerarietà, fosse disposto in modo tale da non attribuire alcun valore all’avere o non avere queste cose; se, come i bambini che giocano con i cocci si interessano al gioco ma non ai cocci, così anche lui non attribuisse alcun valore alle materie del gioco, ma amasse il gioco stesso e il modo di comportarsi in esso, quale tiranno potrebbe ancora essergli temibile, quali guardie, quali loro spade?
 \end{versetto}
 
 \begin{versetto}{6}
@@ -9962,7 +9962,7 @@ Sono stato liberato da Dio, ho conosciuto i suoi comandi; nessuno può più ridu
 \end{versetto}
 
 \begin{versetto}{18}
-«Non sono forse padrone del tuo corpo?» Che cosa importa a me? «Non lo sono dei tuoi beni?» Che cosa importa a me? «Non lo sono dell’esilio e delle catene?» Ancora una volta rinuncio in tuo favore a tutte queste cose e allo stesso intero corpicino, quando vuoi. Metti alla prova il tuo potere su di me e saprai fin dove arriva.
+«Non sono forse padrone del tuo corpo?» Che cosa importa a me? «Non lo sono dei tuoi possedimenti?» Che cosa importa a me? «Non lo sono dell’esilio e delle catene?» Ancora una volta rinuncio in tuo favore a tutte queste cose e allo stesso intero corpicino, quando vuoi. Metti alla prova il tuo potere su di me e saprai fin dove arriva.
 \end{versetto}
 
 \begin{versetto}{19}
@@ -10030,7 +10030,7 @@ E tuttavia guarda come questi discorsi ci preparano a comportarci come si deve a
 \end{versetto}
 
 \begin{versetto}{35}
-Ci insegnano a cedere quanto al corpicino, a cedere quanto ai beni, ai figli, ai genitori, ai fratelli; a lasciare tutto, a rinunciare a tutto. Fanno eccezione soltanto per i giudizi, che anche Zeus ha voluto fossero proprietà esclusiva di ciascuno.
+Ci insegnano a cedere quanto al corpicino, a cedere quanto ai possedimenti, ai figli, ai genitori, ai fratelli; a lasciare tutto, a rinunciare a tutto. Fanno eccezione soltanto per i giudizi, che anche Zeus ha voluto fossero proprietà esclusiva di ciascuno.
 \end{versetto}
 
 \begin{versetto}{36}
@@ -10176,7 +10176,7 @@ Questo è vuoto e fastidioso, a meno che tu non sappia, come Asclepio, mostrare 
 \end{versetto}
 
 \begin{versetto}{30}
-Di questo genere è infatti il Cinico che Zeus ha ritenuto degno dello scettro e del diadema e che dice: «Perché vediate, uomini, che cercate la felicità e l’imperturbabilità non dove sono, ma dove non sono, ecco: io vi sono stato mandato da Dio come esempio, senza beni, senza casa, senza moglie, senza figli, senza neppure un giaciglio, una tunica o un utensile;
+Di questo genere è infatti il Cinico che Zeus ha ritenuto degno dello scettro e del diadema e che dice: «Perché vediate, uomini, che cercate la felicità e l’imperturbabilità non dove sono, ma dove non sono, ecco: io vi sono stato mandato da Dio come esempio, senza possedimenti, senza casa, senza moglie, senza figli, senza neppure un giaciglio, una tunica o un utensile;
 \end{versetto}
 
 \begin{versetto}{31}
